@@ -1010,6 +1010,24 @@ summary:focus-visible {
   display: grid;
 }
 
+.group-more-btn {
+  display: block;
+  width: 100%;
+  padding: 9px 12px;
+  border: 0;
+  border-top: 1px dashed var(--line);
+  background: var(--surface-soft);
+  color: var(--muted);
+  font-size: 12.5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.group-more-btn:hover {
+  color: var(--ink);
+  background: var(--surface);
+}
+
 .site-group {
   min-width: 0;
   border-top: 1px solid rgba(23, 23, 23, 0.08);
@@ -1424,10 +1442,29 @@ summary:focus-visible {
     align-items: flex-start;
   }
 
+  /* Keep two columns on phones: a single column turns ten stat cards into
+     three screens of dashboard before the first piece of content. */
   .stats,
   .coverage-strip,
   .health-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 6px;
+  }
+
+  .stat {
+    padding: 8px 10px;
+  }
+
+  .stat .v {
+    font-size: 18px;
+  }
+
+  .coverage-card {
+    padding: 8px 9px;
+  }
+
+  .coverage-card strong {
+    font-size: 14px;
   }
 
   .waytoagi-tools {

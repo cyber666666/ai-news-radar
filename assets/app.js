@@ -783,6 +783,8 @@ function renderItemNode(item) {
   return node;
 }
 
+const GROUP_RENDER_CAP = 15;
+
 function buildSourceGroupNode(source, items) {
   const section = document.createElement("section");
   section.className = "source-group";
@@ -796,7 +798,21 @@ function buildSourceGroupNode(source, items) {
   listEl.className = "source-group-list";
   header.append(title, count);
   section.append(header, listEl);
-  items.forEach((item) => listEl.appendChild(renderItemNode(item)));
+  // Render a capped slice up front; the rest of the nodes are only created
+  // on demand so an 800-item day cannot stall first paint.
+  items.slice(0, GROUP_RENDER_CAP).forEach((item) => listEl.appendChild(renderItemNode(item)));
+  const rest = items.slice(GROUP_RENDER_CAP);
+  if (rest.length) {
+    const moreBtn = document.createElement("button");
+    moreBtn.type = "button";
+    moreBtn.className = "group-more-btn";
+    moreBtn.textContent = `展开剩余 ${fmtNumber(rest.length)} 条`;
+    moreBtn.addEventListener("click", () => {
+      rest.forEach((item) => listEl.appendChild(renderItemNode(item)));
+      moreBtn.remove();
+    });
+    section.append(moreBtn);
+  }
   return section;
 }
 
