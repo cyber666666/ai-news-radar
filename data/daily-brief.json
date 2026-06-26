@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-26T07:52:52.355645Z",
+  "generated_at": "2026-06-26T10:51:21.158421Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1753-2271-a3e3-be5cc25754cb&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-1753-2271-a3e3-be5cc25754cb&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2051-52f0-b397-2717dcda1ca3&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-2051-52f0-b397-2717dcda1ca3&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "ba64d9ad7cbe15ec2254d7b66155bee096b8dd21",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2051-52f0-b397-2717dcda1ca3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "273e0853b2b2dbeb6c8a5e9de856a0b9e4528058",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "63af65e942faa74efaa2ff875212695942464762",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260625-2115-3865-88c2-c6c80efd9a2e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "0ceef0fcb77528003a0ed4afd11724c522cc421e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-1823-04fb-a68d-3ea389befd24&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "ba64d9ad7cbe15ec2254d7b66155bee096b8dd21",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2051-52f0-b397-2717dcda1ca3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "273e0853b2b2dbeb6c8a5e9de856a0b9e4528058",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1753-2271-a3e3-be5cc25754cb&fp=-3",
@@ -183,15 +192,6 @@
           "id": "63af65e942faa74efaa2ff875212695942464762",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260625-2115-3865-88c2-c6c80efd9a2e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "0ceef0fcb77528003a0ed4afd11724c522cc421e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-1823-04fb-a68d-3ea389befd24&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,12 +216,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T08:22:38.104733Z",
-      "latest_at": "2026-06-26T07:52:52.355645Z",
+      "earliest_at": "2026-06-25T11:15:09.235532Z",
+      "latest_at": "2026-06-26T10:51:21.158421Z",
       "primary_item": {
-        "id": "273e0853b2b2dbeb6c8a5e9de856a0b9e4528058",
+        "id": "ba64d9ad7cbe15ec2254d7b66155bee096b8dd21",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1753-2271-a3e3-be5cc25754cb&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2051-52f0-b397-2717dcda1ca3&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -280,14 +280,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8761,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -302,6 +302,66 @@
         "id": "d6fcf852e50cfabe5377e3985ee152eaf3dc08aa",
         "title": "OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子",
         "url": "https://www.aibase.com/news/29198",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_91989e2294aa",
+      "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
+      "url": "https://www.aibase.com/news/29200",
+      "primary_url": "https://www.aibase.com/news/29200",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "adb67ea2917ecdaca9e2cfee90d831832bc025e2",
+          "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
+          "url": "https://www.aibase.com/news/29200",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T10:51:21.158421Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "adb67ea2917ecdaca9e2cfee90d831832bc025e2",
+          "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
+          "url": "https://www.aibase.com/news/29200",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T10:51:21.158421Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T10:51:21.158421Z",
+      "latest_at": "2026-06-26T10:51:21.158421Z",
+      "primary_item": {
+        "id": "adb67ea2917ecdaca9e2cfee90d831832bc025e2",
+        "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
+        "url": "https://www.aibase.com/news/29200",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -341,14 +401,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6298,
+        "recency": 0.5058,
         "story_heat": 0.0
       },
       "category": "official",
@@ -402,14 +462,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9083,
+        "recency": 0.7844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -462,14 +522,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5753,
+        "recency": 0.4514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -489,21 +549,21 @@
       }
     },
     {
-      "story_id": "story_f50c009bf1f4",
-      "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
-      "url": "https://www.aibase.com/news/29192",
-      "primary_url": "https://www.aibase.com/news/29192",
+      "story_id": "story_7d1c29d1345d",
+      "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
+      "url": "https://www.aibase.com/news/29203",
+      "primary_url": "https://www.aibase.com/news/29203",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
-          "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
-          "url": "https://www.aibase.com/news/29192",
+          "id": "adaa5a493b87d0ceef08f2ff151dad7cd3521727",
+          "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
+          "url": "https://www.aibase.com/news/29203",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T07:52:52.355645Z"
+          "published_at": "2026-06-26T10:51:21.158421Z"
         }
       ],
       "source_count": 1,
@@ -512,13 +572,13 @@
       ],
       "items": [
         {
-          "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
-          "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
-          "url": "https://www.aibase.com/news/29192",
+          "id": "adaa5a493b87d0ceef08f2ff151dad7cd3521727",
+          "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
+          "url": "https://www.aibase.com/news/29203",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T07:52:52.355645Z"
+          "published_at": "2026-06-26T10:51:21.158421Z"
         }
       ],
       "item_count": 1,
@@ -538,12 +598,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T07:52:52.355645Z",
-      "latest_at": "2026-06-26T07:52:52.355645Z",
+      "earliest_at": "2026-06-26T10:51:21.158421Z",
+      "latest_at": "2026-06-26T10:51:21.158421Z",
       "primary_item": {
-        "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
-        "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
-        "url": "https://www.aibase.com/news/29192",
+        "id": "adaa5a493b87d0ceef08f2ff151dad7cd3521727",
+        "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
+        "url": "https://www.aibase.com/news/29203",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -583,20 +643,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7563,
+        "recency": 0.6324,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T02:02:00Z",
       "latest_at": "2026-06-26T02:02:00Z",
@@ -643,20 +702,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7316,
+        "recency": 0.6077,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T01:26:23Z",
       "latest_at": "2026-06-26T01:26:23Z",
@@ -703,14 +761,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7866,
-      "importance": 0.7866,
-      "importance_score": 0.7866,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5679,
+        "recency": 0.444,
         "story_heat": 0.0
       },
       "category": "official",
@@ -764,14 +822,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7849,
-      "importance": 0.7849,
-      "importance_score": 0.7849,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8646,
+        "recency": 0.7407,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -790,21 +848,21 @@
       }
     },
     {
-      "story_id": "story_ea75d6f61369",
-      "title": "国产大模型再进化：Kimi 瞄准全球顶尖梯队，下一代 K3 蓄势待发",
-      "url": "https://www.aibase.com/news/29195",
-      "primary_url": "https://www.aibase.com/news/29195",
+      "story_id": "story_5159b27d61b8",
+      "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
+      "url": "https://www.aibase.com/news/29199",
+      "primary_url": "https://www.aibase.com/news/29199",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "41986884a8cdcddad3fa7ad2b51d4d6976144bb6",
-          "title": "国产大模型再进化：Kimi 瞄准全球顶尖梯队，下一代 K3 蓄势待发",
-          "url": "https://www.aibase.com/news/29195",
+          "id": "e2e19254ce2674c90aa628a15beb40d8a9948774",
+          "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
+          "url": "https://www.aibase.com/news/29199",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T07:52:52.355645Z"
+          "published_at": "2026-06-26T10:51:21.158421Z"
         }
       ],
       "source_count": 1,
@@ -813,13 +871,13 @@
       ],
       "items": [
         {
-          "id": "41986884a8cdcddad3fa7ad2b51d4d6976144bb6",
-          "title": "国产大模型再进化：Kimi 瞄准全球顶尖梯队，下一代 K3 蓄势待发",
-          "url": "https://www.aibase.com/news/29195",
+          "id": "e2e19254ce2674c90aa628a15beb40d8a9948774",
+          "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
+          "url": "https://www.aibase.com/news/29199",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T07:52:52.355645Z"
+          "published_at": "2026-06-26T10:51:21.158421Z"
         }
       ],
       "item_count": 1,
@@ -839,269 +897,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T07:52:52.355645Z",
-      "latest_at": "2026-06-26T07:52:52.355645Z",
+      "earliest_at": "2026-06-26T10:51:21.158421Z",
+      "latest_at": "2026-06-26T10:51:21.158421Z",
       "primary_item": {
-        "id": "41986884a8cdcddad3fa7ad2b51d4d6976144bb6",
-        "title": "国产大模型再进化：Kimi 瞄准全球顶尖梯队，下一代 K3 蓄势待发",
-        "url": "https://www.aibase.com/news/29195",
+        "id": "e2e19254ce2674c90aa628a15beb40d8a9948774",
+        "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
+        "url": "https://www.aibase.com/news/29199",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_81aa61a2cba5",
-      "title": "@exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元",
-      "url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
-      "primary_url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "edbd2b685fa19902e9d684ce2381b3e22559165c",
-          "title": "@exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元",
-          "url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-25T23:29:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "edbd2b685fa19902e9d684ce2381b3e22559165c",
-          "title": "@exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元",
-          "url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-25T23:29:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6507,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-25T23:29:52Z",
-      "latest_at": "2026-06-25T23:29:52Z",
-      "primary_item": {
-        "id": "edbd2b685fa19902e9d684ce2381b3e22559165c",
-        "title": "@exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元",
-        "url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dd1b8c72044f",
-      "title": "我们最新的 Google 财经升级，包括新应用 / Our latest Google Finance upgrades, including a new app",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "494cd60b4f663c8c05e47ebeee0297f9797f8d6e",
-          "title": "我们最新的 Google 财经升级，包括新应用 / Our latest Google Finance upgrades, including a new app",
-          "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "494cd60b4f663c8c05e47ebeee0297f9797f8d6e",
-          "title": "我们最新的 Google 财经升级，包括新应用 / Our latest Google Finance upgrades, including a new app",
-          "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3383,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-25T16:00:00Z",
-      "latest_at": "2026-06-25T16:00:00Z",
-      "primary_item": {
-        "id": "494cd60b4f663c8c05e47ebeee0297f9797f8d6e",
-        "title": "我们最新的 Google 财经升级，包括新应用 / Our latest Google Finance upgrades, including a new app",
-        "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4bd28bbdd1b8",
-      "title": "Claude Code v2.1.193 发布",
-      "url": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
-      "primary_url": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f7bb1a9bf009746fbd6a6262698bde11320f50f",
-          "title": "Claude Code v2.1.193 发布",
-          "url": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-25T21:45:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude Code：GitHub Releases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1f7bb1a9bf009746fbd6a6262698bde11320f50f",
-          "title": "Claude Code v2.1.193 发布",
-          "url": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-25T21:45:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5785,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-25T21:45:57Z",
-      "latest_at": "2026-06-25T21:45:57Z",
-      "primary_item": {
-        "id": "1f7bb1a9bf009746fbd6a6262698bde11320f50f",
-        "title": "Claude Code v2.1.193 发布",
-        "url": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_957dd233b432",
-      "title": "Codex 在 ChatGPT 移动 App 正式可用",
-      "url": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
-      "primary_url": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "273190afa59012ed7ce946e41f39475335b63056",
-          "title": "Codex 在 ChatGPT 移动 App 正式可用",
-          "url": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-25T21:15:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
-      ],
-      "items": [
-        {
-          "id": "273190afa59012ed7ce946e41f39475335b63056",
-          "title": "Codex 在 ChatGPT 移动 App 正式可用",
-          "url": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-25T21:15:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5572,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-25T21:15:18Z",
-      "latest_at": "2026-06-25T21:15:18Z",
-      "primary_item": {
-        "id": "273190afa59012ed7ce946e41f39475335b63056",
-        "title": "Codex 在 ChatGPT 移动 App 正式可用",
-        "url": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4d6aeef85d21",
-      "title": "小鹏机器人架构迎来重大调整，何小鹏亲自下场直管促量产",
-      "url": "https://www.aibase.com/news/29194",
-      "primary_url": "https://www.aibase.com/news/29194",
+      "story_id": "story_b5de8a57ec0d",
+      "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
+      "url": "https://www.aibase.com/news/29205",
+      "primary_url": "https://www.aibase.com/news/29205",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e42048fd86f4ca927ca2dca61525164de1e7fb70",
-          "title": "小鹏机器人架构迎来重大调整，何小鹏亲自下场直管促量产",
-          "url": "https://www.aibase.com/news/29194",
+          "id": "5c26f4020a2e647bb8dec5c8bee3d7351f71fefd",
+          "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
+          "url": "https://www.aibase.com/news/29205",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T07:52:52.355645Z"
+          "published_at": "2026-06-26T10:51:21.158421Z"
         }
       ],
       "source_count": 1,
@@ -1110,13 +931,13 @@
       ],
       "items": [
         {
-          "id": "e42048fd86f4ca927ca2dca61525164de1e7fb70",
-          "title": "小鹏机器人架构迎来重大调整，何小鹏亲自下场直管促量产",
-          "url": "https://www.aibase.com/news/29194",
+          "id": "5c26f4020a2e647bb8dec5c8bee3d7351f71fefd",
+          "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
+          "url": "https://www.aibase.com/news/29205",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T07:52:52.355645Z"
+          "published_at": "2026-06-26T10:51:21.158421Z"
         }
       ],
       "item_count": 1,
@@ -1136,131 +957,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T07:52:52.355645Z",
-      "latest_at": "2026-06-26T07:52:52.355645Z",
+      "earliest_at": "2026-06-26T10:51:21.158421Z",
+      "latest_at": "2026-06-26T10:51:21.158421Z",
       "primary_item": {
-        "id": "e42048fd86f4ca927ca2dca61525164de1e7fb70",
-        "title": "小鹏机器人架构迎来重大调整，何小鹏亲自下场直管促量产",
-        "url": "https://www.aibase.com/news/29194",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5a8b089c1f0e",
-      "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
-      "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
-      "primary_url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e980e1beb95c845381e4dfcbb76694f62cae5353",
-          "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
-          "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-25T21:06:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "e980e1beb95c845381e4dfcbb76694f62cae5353",
-          "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
-          "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-25T21:06:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5515,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-25T21:06:58Z",
-      "latest_at": "2026-06-25T21:06:58Z",
-      "primary_item": {
-        "id": "e980e1beb95c845381e4dfcbb76694f62cae5353",
-        "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
-        "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c9552d91ad9e",
-      "title": "拖更三年万字长文，前OpenAI安全VP翁荔拆解Scaling Laws：你的模型可能喂错了数据",
-      "url": "https://www.aibase.com/news/29196",
-      "primary_url": "https://www.aibase.com/news/29196",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d30a4fbcc9a530300be4ff93348193339b6d2b3a",
-          "title": "拖更三年万字长文，前OpenAI安全VP翁荔拆解Scaling Laws：你的模型可能喂错了数据",
-          "url": "https://www.aibase.com/news/29196",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T07:52:52.355645Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d30a4fbcc9a530300be4ff93348193339b6d2b3a",
-          "title": "拖更三年万字长文，前OpenAI安全VP翁荔拆解Scaling Laws：你的模型可能喂错了数据",
-          "url": "https://www.aibase.com/news/29196",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T07:52:52.355645Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T07:52:52.355645Z",
-      "latest_at": "2026-06-26T07:52:52.355645Z",
-      "primary_item": {
-        "id": "d30a4fbcc9a530300be4ff93348193339b6d2b3a",
-        "title": "拖更三年万字长文，前OpenAI安全VP翁荔拆解Scaling Laws：你的模型可能喂错了数据",
-        "url": "https://www.aibase.com/news/29196",
+        "id": "5c26f4020a2e647bb8dec5c8bee3d7351f71fefd",
+        "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
+        "url": "https://www.aibase.com/news/29205",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1300,14 +1002,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7246,
+      "importance": 0.7246,
+      "importance_score": 0.7246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.4418,
+        "recency": 0.3178,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1326,21 +1028,21 @@
       }
     },
     {
-      "story_id": "story_fd1d0ddc02c3",
-      "title": "法国 AI 初创企业 Mistral AI 发布 OCR4模型:覆盖170种语言，交互体验更人性化",
-      "url": "https://www.aibase.com/news/29193",
-      "primary_url": "https://www.aibase.com/news/29193",
+      "story_id": "story_962d2fa57291",
+      "title": "美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力",
+      "url": "https://www.aibase.com/news/29201",
+      "primary_url": "https://www.aibase.com/news/29201",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b538c5414b6a3e938c6fd0d76e97ea05b9be110c",
-          "title": "法国 AI 初创企业 Mistral AI 发布 OCR4模型:覆盖170种语言，交互体验更人性化",
-          "url": "https://www.aibase.com/news/29193",
+          "id": "8e2effa7917eef498839e9b5341724efd971ea68",
+          "title": "美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力",
+          "url": "https://www.aibase.com/news/29201",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T07:52:52.355645Z"
+          "published_at": "2026-06-26T10:51:21.158421Z"
         }
       ],
       "source_count": 1,
@@ -1349,13 +1051,13 @@
       ],
       "items": [
         {
-          "id": "b538c5414b6a3e938c6fd0d76e97ea05b9be110c",
-          "title": "法国 AI 初创企业 Mistral AI 发布 OCR4模型:覆盖170种语言，交互体验更人性化",
-          "url": "https://www.aibase.com/news/29193",
+          "id": "8e2effa7917eef498839e9b5341724efd971ea68",
+          "title": "美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力",
+          "url": "https://www.aibase.com/news/29201",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T07:52:52.355645Z"
+          "published_at": "2026-06-26T10:51:21.158421Z"
         }
       ],
       "item_count": 1,
@@ -1375,14 +1077,349 @@
         "high_ai_relevance",
         "high_importance"
       ],
+      "earliest_at": "2026-06-26T10:51:21.158421Z",
+      "latest_at": "2026-06-26T10:51:21.158421Z",
+      "primary_item": {
+        "id": "8e2effa7917eef498839e9b5341724efd971ea68",
+        "title": "美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力",
+        "url": "https://www.aibase.com/news/29201",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_43bc8b14a9a3",
+      "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
+      "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+      "primary_url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
+          "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
+          "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T18:16:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
+          "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
+          "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T18:16:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.3093,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-25T18:16:46Z",
+      "latest_at": "2026-06-25T18:16:46Z",
+      "primary_item": {
+        "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
+        "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
+        "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6000d1f20189",
+      "title": "钉钉“悟空”获全球首个AI管理体系国际认证，AI治理迈入标准化新阶段",
+      "url": "https://www.aibase.com/news/29204",
+      "primary_url": "https://www.aibase.com/news/29204",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b1934cdfb3e87ca63113a1cde52aaffc6af8930a",
+          "title": "钉钉“悟空”获全球首个AI管理体系国际认证，AI治理迈入标准化新阶段",
+          "url": "https://www.aibase.com/news/29204",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T10:51:21.158421Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b1934cdfb3e87ca63113a1cde52aaffc6af8930a",
+          "title": "钉钉“悟空”获全球首个AI管理体系国际认证，AI治理迈入标准化新阶段",
+          "url": "https://www.aibase.com/news/29204",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T10:51:21.158421Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T10:51:21.158421Z",
+      "latest_at": "2026-06-26T10:51:21.158421Z",
+      "primary_item": {
+        "id": "b1934cdfb3e87ca63113a1cde52aaffc6af8930a",
+        "title": "钉钉“悟空”获全球首个AI管理体系国际认证，AI治理迈入标准化新阶段",
+        "url": "https://www.aibase.com/news/29204",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_99d213ebfa6b",
+      "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
+      "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
+      "primary_url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
+      "source": "InfoQ CN",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "56c8d5ce4930b0d985abcf0ef6e41de433c48c10",
+          "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
+          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-06-26T18:18:18Z"
+        },
+        {
+          "id": "b865665fe4c83d38b572600ab501eb9fbc9fde26",
+          "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
+          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-06-25T12:12:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "InfoQ CN"
+      ],
+      "items": [
+        {
+          "id": "56c8d5ce4930b0d985abcf0ef6e41de433c48c10",
+          "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
+          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-06-26T18:18:18Z"
+        },
+        {
+          "id": "b865665fe4c83d38b572600ab501eb9fbc9fde26",
+          "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
+          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-06-25T12:12:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.626,
+      "importance": 0.626,
+      "importance_score": 0.626,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-25T12:12:13Z",
+      "latest_at": "2026-06-26T18:18:18Z",
+      "primary_item": {
+        "id": "56c8d5ce4930b0d985abcf0ef6e41de433c48c10",
+        "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
+        "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
+        "source": "InfoQ CN",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_f50c009bf1f4",
+      "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
+      "url": "https://www.aibase.com/news/29192",
+      "primary_url": "https://www.aibase.com/news/29192",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
+          "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
+          "url": "https://www.aibase.com/news/29192",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T07:52:52.355645Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
+          "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
+          "url": "https://www.aibase.com/news/29192",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T07:52:52.355645Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8761,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
       "earliest_at": "2026-06-26T07:52:52.355645Z",
       "latest_at": "2026-06-26T07:52:52.355645Z",
       "primary_item": {
-        "id": "b538c5414b6a3e938c6fd0d76e97ea05b9be110c",
-        "title": "法国 AI 初创企业 Mistral AI 发布 OCR4模型:覆盖170种语言，交互体验更人性化",
-        "url": "https://www.aibase.com/news/29193",
+        "id": "3822ce37c4ab530ccdd8af806d6618d6370961f3",
+        "title": "Mistral AI发布OCR4 模型：支持 170 种语言，输出质量超越GPT与Gemini",
+        "url": "https://www.aibase.com/news/29192",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fabf2f7ee1ee",
+      "title": "字节与 Anthropic 打响 AI 制药暗战",
+      "url": "https://www.tmtpost.com/8042870.html",
+      "primary_url": "https://www.tmtpost.com/8042870.html",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "1f4dd6c0b4a5211d232dde0b7a00cbe4d5664e81",
+          "title": "字节与 Anthropic 打响 AI 制药暗战",
+          "url": "https://www.tmtpost.com/8042870.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "934768e32a6156983900ec4c66c8dc22705d0dab",
+          "title": "字节与Anthropic打响AI制药暗战",
+          "url": "https://www.huxiu.com/article/4870664.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T09:45:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "1f4dd6c0b4a5211d232dde0b7a00cbe4d5664e81",
+          "title": "字节与 Anthropic 打响 AI 制药暗战",
+          "url": "https://www.tmtpost.com/8042870.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "934768e32a6156983900ec4c66c8dc22705d0dab",
+          "title": "字节与Anthropic打响AI制药暗战",
+          "url": "https://www.huxiu.com/article/4870664.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T09:45:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T09:45:20Z",
+      "latest_at": "2026-06-26T10:51:21.158421Z",
+      "primary_item": {
+        "id": "1f4dd6c0b4a5211d232dde0b7a00cbe4d5664e81",
+        "title": "字节与 Anthropic 打响 AI 制药暗战",
+        "url": "https://www.tmtpost.com/8042870.html",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
