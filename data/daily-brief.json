@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-26T22:45:04.813758Z",
+  "generated_at": "2026-06-27T00:07:29.469364Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0845-287d-855a-fcbc9073278a&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-0845-287d-855a-fcbc9073278a&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "1a3728283570a1e29361ad760b6a6db12750e731",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "16719028a5059e2241b825bc64e62635a507448a",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "f8db62861f33bf825d45a09ed4efc526fd1900a5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1342-5878-8d6d-7ba87530db66&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "daa95868987864e4d5c3c893ef7714d86fbe50af",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0952-3947-a148-22942d3b2145&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "1a3728283570a1e29361ad760b6a6db12750e731",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "16719028a5059e2241b825bc64e62635a507448a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0845-287d-855a-fcbc9073278a&fp=-3",
@@ -183,15 +192,6 @@
           "id": "f8db62861f33bf825d45a09ed4efc526fd1900a5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1342-5878-8d6d-7ba87530db66&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "daa95868987864e4d5c3c893ef7714d86fbe50af",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0952-3947-a148-22942d3b2145&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,12 +216,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T23:52:17.500799Z",
-      "latest_at": "2026-06-26T22:45:04.813758Z",
+      "earliest_at": "2026-06-26T03:42:34.190985Z",
+      "latest_at": "2026-06-27T00:07:29.469364Z",
       "primary_item": {
-        "id": "16719028a5059e2241b825bc64e62635a507448a",
+        "id": "1a3728283570a1e29361ad760b6a6db12750e731",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0845-287d-855a-fcbc9073278a&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -261,14 +261,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
+      "score": 0.8343,
+      "importance": 0.8343,
+      "importance_score": 0.8343,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9236,
+        "recency": 0.8664,
         "story_heat": 0.0
       },
       "category": "official",
@@ -360,14 +360,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.4687,
+        "recency": 0.4115,
         "story_heat": 0.5
       },
       "category": "official",
@@ -385,6 +385,66 @@
         "url": "https://openai.com/index/previewing-gpt-5-6-sol",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_85f3f6a5eb71",
+      "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+      "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+      "primary_url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+          "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T23:31:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+          "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T23:31:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.975,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T23:31:29Z",
+      "latest_at": "2026-06-26T23:31:29Z",
+      "primary_item": {
+        "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+        "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+        "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -422,14 +482,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7431,
+        "recency": 0.6858,
         "story_heat": 0.0
       },
       "category": "official",
@@ -483,14 +543,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8888,
+        "recency": 0.8315,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -543,14 +603,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7543,
+        "recency": 0.6971,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -603,20 +663,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7032,
+        "recency": 0.646,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T15:37:43Z",
       "latest_at": "2026-06-26T15:37:43Z",
@@ -663,20 +722,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6902,
+        "recency": 0.6329,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T15:18:56Z",
       "latest_at": "2026-06-26T15:18:56Z",
@@ -742,14 +800,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7131,
-      "importance": 0.7131,
-      "importance_score": 0.7131,
+      "score": 0.7016,
+      "importance": 0.7016,
+      "importance_score": 0.7016,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3804,
+        "recency": 0.3232,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -802,14 +860,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4916,
+        "recency": 0.4344,
         "story_heat": 0.0
       },
       "category": "official",
@@ -826,6 +884,181 @@
         "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5a8665b1ad52",
+      "title": "美国允许 Anthropic 将 Mythos 发布给“值得信赖的合作伙伴” / US allows Anthropic to release Mythos to 'trusted partners'",
+      "url": "https://news.ycombinator.com/item?id=48692995",
+      "primary_url": "https://news.ycombinator.com/item?id=48692995",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ae34e7a043b078cc7a561ff50d3ed17b617b23e5",
+          "title": "美国允许 Anthropic 将 Mythos 发布给“值得信赖的合作伙伴” / US allows Anthropic to release Mythos to 'trusted partners'",
+          "url": "https://news.ycombinator.com/item?id=48692995",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T00:08:02.534000Z"
+        },
+        {
+          "id": "6a701187d56861ab5100c26279c3f03d91efb511",
+          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T23:55:57.851000Z"
+        },
+        {
+          "id": "6ad9d670f82c65c86803c2f739b65613e1a5245c",
+          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos / US allows Anthropic to release Mythos to 'trusted partners'",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T22:48:28Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "ae34e7a043b078cc7a561ff50d3ed17b617b23e5",
+          "title": "美国允许 Anthropic 将 Mythos 发布给“值得信赖的合作伙伴” / US allows Anthropic to release Mythos to 'trusted partners'",
+          "url": "https://news.ycombinator.com/item?id=48692995",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T00:08:02.534000Z"
+        },
+        {
+          "id": "6a701187d56861ab5100c26279c3f03d91efb511",
+          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T23:55:57.851000Z"
+        },
+        {
+          "id": "6ad9d670f82c65c86803c2f739b65613e1a5245c",
+          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos / US allows Anthropic to release Mythos to 'trusted partners'",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T22:48:28Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T22:48:28Z",
+      "latest_at": "2026-06-27T00:08:02.534000Z",
+      "primary_item": {
+        "id": "ae34e7a043b078cc7a561ff50d3ed17b617b23e5",
+        "title": "美国允许 Anthropic 将 Mythos 发布给“值得信赖的合作伙伴” / US allows Anthropic to release Mythos to 'trusted partners'",
+        "url": "https://news.ycombinator.com/item?id=48692995",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_05e6063b590f",
+      "title": "40 万次 Claude Code 真实对话分析：在 AI 面前，你的「专家」资历归零了",
+      "url": "https://www.huxiu.com/article/4870793.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870793.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "d10946e1ca0950aeb48d136e5dfd686127d3cff2",
+          "title": "40 万次 Claude Code 真实对话分析：在 AI 面前，你的「专家」资历归零了",
+          "url": "https://www.huxiu.com/article/4870793.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0c166191953b5d23eeb1d0b1c1e7729e38113c9f",
+          "title": "40万次Claude Code真实对话分析：在AI面前，你的“专家”资历归零了",
+          "url": "https://www.huxiu.com/article/4870793.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T23:11:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "d10946e1ca0950aeb48d136e5dfd686127d3cff2",
+          "title": "40 万次 Claude Code 真实对话分析：在 AI 面前，你的「专家」资历归零了",
+          "url": "https://www.huxiu.com/article/4870793.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0c166191953b5d23eeb1d0b1c1e7729e38113c9f",
+          "title": "40万次Claude Code真实对话分析：在AI面前，你的“专家”资历归零了",
+          "url": "https://www.huxiu.com/article/4870793.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T23:11:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T23:11:08Z",
+      "latest_at": "2026-06-27T00:07:29.469364Z",
+      "primary_item": {
+        "id": "d10946e1ca0950aeb48d136e5dfd686127d3cff2",
+        "title": "40 万次 Claude Code 真实对话分析：在 AI 面前，你的「专家」资历归零了",
+        "url": "https://www.huxiu.com/article/4870793.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -901,14 +1134,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5562,
-      "importance": 0.5562,
-      "importance_score": 0.5562,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9158,
+        "recency": 0.8585,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -923,84 +1156,6 @@
         "url": "https://github.com/workweave/router",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7bd447334a41",
-      "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
-      "url": "https://news.ycombinator.com/item?id=48692058",
-      "primary_url": "https://news.ycombinator.com/item?id=48692058",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "de5f49ef44e5d186d8d35e7331728e0c607fc613",
-          "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
-          "url": "https://news.ycombinator.com/item?id=48692058",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T22:32:40.959000Z"
-        },
-        {
-          "id": "e50f09f9cfe7b2f6f88e7caaf16e3072b4817a11",
-          "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
-          "url": "https://blog.doubleword.ai/frontier-os-llm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T21:14:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "de5f49ef44e5d186d8d35e7331728e0c607fc613",
-          "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
-          "url": "https://news.ycombinator.com/item?id=48692058",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T22:32:40.959000Z"
-        },
-        {
-          "id": "e50f09f9cfe7b2f6f88e7caaf16e3072b4817a11",
-          "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
-          "url": "https://blog.doubleword.ai/frontier-os-llm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T21:14:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5463,
-      "importance": 0.5463,
-      "importance_score": 0.5463,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9914,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T21:14:47Z",
-      "latest_at": "2026-06-26T22:32:40.959000Z",
-      "primary_item": {
-        "id": "de5f49ef44e5d186d8d35e7331728e0c607fc613",
-        "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
-        "url": "https://news.ycombinator.com/item?id=48692058",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1076,14 +1231,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8602,
+        "recency": 0.803,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1173,14 +1328,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.827,
+        "recency": 0.7697,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1251,14 +1406,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.938,
+        "recency": 0.8808,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1273,6 +1428,162 @@
         "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
         "source": "arstechnica.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d910f8dce0d2",
+      "title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
+      "url": "https://www.huxiu.com/article/4870791.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870791.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ae371b5ad0db043053064129599cf50d784d515e",
+          "title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
+          "url": "https://www.huxiu.com/article/4870791.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": "2026-06-27T00:07:29.469364Z"
+        },
+        {
+          "id": "a6dbfb36f0cb1c59478c70b399dec0f4b3e9dfcf",
+          "title": "刚刚，GPT-5.6正式发布，史上最强但被自己坑惨了",
+          "url": "https://www.huxiu.com/article/4870791.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T23:09:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "ae371b5ad0db043053064129599cf50d784d515e",
+          "title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
+          "url": "https://www.huxiu.com/article/4870791.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": "2026-06-27T00:07:29.469364Z"
+        },
+        {
+          "id": "a6dbfb36f0cb1c59478c70b399dec0f4b3e9dfcf",
+          "title": "刚刚，GPT-5.6正式发布，史上最强但被自己坑惨了",
+          "url": "https://www.huxiu.com/article/4870791.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T23:09:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T23:09:09Z",
+      "latest_at": "2026-06-27T00:07:29.469364Z",
+      "primary_item": {
+        "id": "ae371b5ad0db043053064129599cf50d784d515e",
+        "title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
+        "url": "https://www.huxiu.com/article/4870791.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_2f3830581c59",
+      "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
+      "url": "https://news.ycombinator.com/item?id=48692883",
+      "primary_url": "https://news.ycombinator.com/item?id=48692883",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "812158c826547bb11f3c1a4f6e3e6825270b50a7",
+          "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
+          "url": "https://news.ycombinator.com/item?id=48692883",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T00:08:02.534000Z"
+        },
+        {
+          "id": "6f50a2e5d4fbfa689d4bd6cba82cb8fc60791aa1",
+          "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T22:36:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "812158c826547bb11f3c1a4f6e3e6825270b50a7",
+          "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
+          "url": "https://news.ycombinator.com/item?id=48692883",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T00:08:02.534000Z"
+        },
+        {
+          "id": "6f50a2e5d4fbfa689d4bd6cba82cb8fc60791aa1",
+          "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T22:36:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T22:36:51Z",
+      "latest_at": "2026-06-27T00:08:02.534000Z",
+      "primary_item": {
+        "id": "812158c826547bb11f3c1a4f6e3e6825270b50a7",
+        "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
+        "url": "https://news.ycombinator.com/item?id=48692883",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1329,14 +1640,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5112,
-      "importance": 0.5112,
-      "importance_score": 0.5112,
+      "score": 0.4997,
+      "importance": 0.4997,
+      "importance_score": 0.4997,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8159,
+        "recency": 0.7586,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1350,336 +1661,6 @@
         "title": "OpenAI表示，应美国政府要求，其新推出的GPT-5.6模型的访问权限受到限制",
         "url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_97cd865b7971",
-      "title": "数据中心引发选民强烈反对 / 'Cost Me the Election': Data Centers Trigger Voter Backlash",
-      "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-      "primary_url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "8039e1c921617aa6f773bf8a3b2253e5064aee51",
-          "title": "数据中心引发选民强烈反对 / 'Cost Me the Election': Data Centers Trigger Voter Backlash",
-          "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T17:24:21Z"
-        },
-        {
-          "id": "c6e602d768e577b77a3ac835795dafc86e8dd8dc",
-          "title": "数据中心引发选民强烈反对 / Data centers trigger voter backlash",
-          "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T17:24:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "8039e1c921617aa6f773bf8a3b2253e5064aee51",
-          "title": "数据中心引发选民强烈反对 / 'Cost Me the Election': Data Centers Trigger Voter Backlash",
-          "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T17:24:21Z"
-        },
-        {
-          "id": "c6e602d768e577b77a3ac835795dafc86e8dd8dc",
-          "title": "数据中心引发选民强烈反对 / Data centers trigger voter backlash",
-          "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T17:24:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5035,
-      "importance": 0.5035,
-      "importance_score": 0.5035,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7773,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T17:24:21Z",
-      "latest_at": "2026-06-26T17:24:21Z",
-      "primary_item": {
-        "id": "8039e1c921617aa6f773bf8a3b2253e5064aee51",
-        "title": "数据中心引发选民强烈反对 / 'Cost Me the Election': Data Centers Trigger Voter Backlash",
-        "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_cef5fdea064c",
-      "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
-      "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
-      "primary_url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
-      "source": "iankduncan.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9c31cf0b5536001c1bd6f0e0a4af9ec0e33c25b0",
-          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
-          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
-          "source": "iankduncan.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T17:16:00.813000Z"
-        },
-        {
-          "id": "d6cfacf92fafea582caaf0fc2089ecfd8bf0fe89",
-          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择 / The New Blub Paradox, or: Why TypeScript Is a Poor Choice for the AI Era",
-          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T16:48:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "iankduncan.com"
-      ],
-      "items": [
-        {
-          "id": "9c31cf0b5536001c1bd6f0e0a4af9ec0e33c25b0",
-          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
-          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
-          "source": "iankduncan.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T17:16:00.813000Z"
-        },
-        {
-          "id": "d6cfacf92fafea582caaf0fc2089ecfd8bf0fe89",
-          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择 / The New Blub Paradox, or: Why TypeScript Is a Poor Choice for the AI Era",
-          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T16:48:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5023,
-      "importance": 0.5023,
-      "importance_score": 0.5023,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7715,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T16:48:35Z",
-      "latest_at": "2026-06-26T17:16:00.813000Z",
-      "primary_item": {
-        "id": "9c31cf0b5536001c1bd6f0e0a4af9ec0e33c25b0",
-        "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
-        "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
-        "source": "iankduncan.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c4eb50b4a72d",
-      "title": "AI 时代的智慧：不在于懂得更多，而是不被世界牵着走",
-      "url": "https://www.huxiu.com/article/4870775.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870775.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f6dec132d5bbf8a9acde1e3e967adbf70fef1fa2",
-          "title": "AI 时代的智慧：不在于懂得更多，而是不被世界牵着走",
-          "url": "https://www.huxiu.com/article/4870775.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "17f99668dbede3e7a6644354c07bedf0440ec370",
-          "title": "AI时代的智慧：不在于懂得更多，而是不被世界牵着走",
-          "url": "https://www.huxiu.com/article/4870775.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T14:58:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "f6dec132d5bbf8a9acde1e3e967adbf70fef1fa2",
-          "title": "AI 时代的智慧：不在于懂得更多，而是不被世界牵着走",
-          "url": "https://www.huxiu.com/article/4870775.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "17f99668dbede3e7a6644354c07bedf0440ec370",
-          "title": "AI时代的智慧：不在于懂得更多，而是不被世界牵着走",
-          "url": "https://www.huxiu.com/article/4870775.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T14:58:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4888,
-      "importance": 0.4888,
-      "importance_score": 0.4888,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7039,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T14:58:27Z",
-      "latest_at": "2026-06-26T15:38:40.006875Z",
-      "primary_item": {
-        "id": "f6dec132d5bbf8a9acde1e3e967adbf70fef1fa2",
-        "title": "AI 时代的智慧：不在于懂得更多，而是不被世界牵着走",
-        "url": "https://www.huxiu.com/article/4870775.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_1f3c1784acfd",
-      "title": "美国政府将逐一审批谁能获得GPT 5.6",
-      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
-      "primary_url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
-      "source": "old.reddit.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0997d8eeaebcd9214e2621d12be825f3d02d67ee",
-          "title": "美国政府将逐一审批谁能获得GPT 5.6",
-          "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
-          "source": "old.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T12:27:53.292000Z"
-        },
-        {
-          "id": "6cbff037779b9186c6eedd09321aa57ecf165842",
-          "title": "美国政府将单独批准谁获得 GPT 5.6 / US Govt to individually approve who gets GPT 5.6",
-          "url": "https://news.ycombinator.com/item?id=48683021",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T07:40:11.996000Z"
-        },
-        {
-          "id": "52c63cf73c7b38e8794b7da7672443984b8567fc",
-          "title": "美国政府将逐一审批谁能获得GPT 5.6 / US Govt to individually approve who gets GPT 5.6",
-          "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-26T06:24:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "old.reddit.com"
-      ],
-      "items": [
-        {
-          "id": "0997d8eeaebcd9214e2621d12be825f3d02d67ee",
-          "title": "美国政府将逐一审批谁能获得GPT 5.6",
-          "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
-          "source": "old.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T12:27:53.292000Z"
-        },
-        {
-          "id": "6cbff037779b9186c6eedd09321aa57ecf165842",
-          "title": "美国政府将单独批准谁获得 GPT 5.6 / US Govt to individually approve who gets GPT 5.6",
-          "url": "https://news.ycombinator.com/item?id=48683021",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T07:40:11.996000Z"
-        },
-        {
-          "id": "52c63cf73c7b38e8794b7da7672443984b8567fc",
-          "title": "美国政府将逐一审批谁能获得GPT 5.6 / US Govt to individually approve who gets GPT 5.6",
-          "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-26T06:24:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4873,
-      "importance": 0.4873,
-      "importance_score": 0.4873,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5714,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T06:24:39Z",
-      "latest_at": "2026-06-26T12:27:53.292000Z",
-      "primary_item": {
-        "id": "0997d8eeaebcd9214e2621d12be825f3d02d67ee",
-        "title": "美国政府将逐一审批谁能获得GPT 5.6",
-        "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
-        "source": "old.reddit.com",
         "source_name": "Buzzing"
       }
     }
