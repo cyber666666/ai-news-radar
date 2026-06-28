@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T17:43:53.592161Z",
+  "generated_at": "2026-06-28T19:19:46.160115Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -39,18 +39,18 @@
           "published_at": "2026-06-28T04:41:58.861000Z"
         },
         {
-          "id": "452f43f175b4b75d85a50cb17ede168ebc4fb519",
+          "id": "096d359ec2dac303342b010a83b07c8997d33852",
           "title": "Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由 / Wayfinder Router: deterministic routing of queries between local and hosted LLM",
           "url": "https://github.com/itsthelore/wayfinder-router",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-06-28T04:31:18Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "github.com",
         "hackernews"
@@ -84,26 +84,26 @@
           "published_at": "2026-06-28T04:41:58.861000Z"
         },
         {
-          "id": "452f43f175b4b75d85a50cb17ede168ebc4fb519",
+          "id": "096d359ec2dac303342b010a83b07c8997d33852",
           "title": "Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由 / Wayfinder Router: deterministic routing of queries between local and hosted LLM",
           "url": "https://github.com/itsthelore/wayfinder-router",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-06-28T04:31:18Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8497,
-      "importance": 0.8497,
-      "importance_score": 0.8497,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9892,
+        "recency": 0.9667,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8055,
+        "recency": 0.7871,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8979,
+        "recency": 0.8774,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9052,
+        "recency": 0.8846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -379,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7328,
-      "importance": 0.7328,
-      "importance_score": 0.7328,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7397,
+        "recency": 0.7229,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -458,15 +458,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8657,
+        "recency": 0.846,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -539,15 +539,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8192,
+        "recency": 0.8005,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -601,15 +601,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9902,
+        "recency": 0.9676,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -687,47 +687,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-06-28T17:43:53.592161Z"
-        },
-        {
-          "id": "03782fa7e35e0a7f45520d1cc94dabe5ab5c0773",
-          "title": "Clay AI 负责人Jeff Barg 讲了一件增长团队很难绕开的事：当 AI 已经能写出像人写的邮件，主动触达的胜负就不再押在一句文案上。增长已经从文案工作转向系统工程。让我们来一起看看他们在真实业务中积累了哪些实践经验！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-06-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-06-27T18:03:15.828116Z"
-        },
-        {
-          "id": "ebe078369768f42268ed8f87ed2410bd6ea4c357",
-          "title": "不少创作者在用GPT做中国传统画风插画时会遇到工具短板：GPT擅长搭建完整分镜与精美构图，产出却自带浓重日系动漫质感；仅有即梦3.0能还原水墨戏曲中式画风，但画面却粗糙杂乱。作者分享了一套互补流水线，先用大模型拆解抽象文案生成画面、提取纯画面描述，再导入即梦3.0绘制国风底图，辅以骨骼参考优化群像，最后回传GPT打磨画面瑕疵。做国风短片、插画的创作者可以直接复用。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-06-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-06-27T18:03:15.828116Z"
-        },
-        {
-          "id": "d45ce5382baf5a14f9c22f1e3047e22a3c715ca0",
-          "title": "这篇万字复盘是作者投入AI创业一年的一线实战沉淀，或许会推翻不少人对AI开发的片面幻想。AI可以快速搭建各类Demo，但随之而来的数据、文档、权限、协作等海量技术债务极易拖垮项目。文中拆解了分层Agent工程优化思路，厘清了简易工作流与长期可治理系统的核心差距。总结的一些避坑参考不容错过。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-06-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-06-27T18:03:15.828116Z"
-        },
-        {
-          "id": "b2e4c6cecf3f6fc44e0ada14883ab5b872576121",
-          "title": "邮件排版、撰写报告、制作PPT、调研等等重复性的工作，会耗掉职场人六成的工作时间。Claude Cowork可以把你从这些任务里彻底解放出来。作者分享了自己在使用Claude Cowork运行一人公司的完整系统：生产工作交给 Cowork，他只负责做决策。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-06-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-06-27T18:03:15.828116Z"
         }
       ],
-      "source_count": 10,
+      "source_count": 6,
       "source_names": [
-        "社区更新 · 2026-06-27",
         "社区更新 · 2026-06-28"
       ],
       "items": [
@@ -784,62 +747,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-06-28T17:43:53.592161Z"
-        },
-        {
-          "id": "03782fa7e35e0a7f45520d1cc94dabe5ab5c0773",
-          "title": "Clay AI 负责人Jeff Barg 讲了一件增长团队很难绕开的事：当 AI 已经能写出像人写的邮件，主动触达的胜负就不再押在一句文案上。增长已经从文案工作转向系统工程。让我们来一起看看他们在真实业务中积累了哪些实践经验！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-06-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-06-27T18:03:15.828116Z"
-        },
-        {
-          "id": "ebe078369768f42268ed8f87ed2410bd6ea4c357",
-          "title": "不少创作者在用GPT做中国传统画风插画时会遇到工具短板：GPT擅长搭建完整分镜与精美构图，产出却自带浓重日系动漫质感；仅有即梦3.0能还原水墨戏曲中式画风，但画面却粗糙杂乱。作者分享了一套互补流水线，先用大模型拆解抽象文案生成画面、提取纯画面描述，再导入即梦3.0绘制国风底图，辅以骨骼参考优化群像，最后回传GPT打磨画面瑕疵。做国风短片、插画的创作者可以直接复用。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-06-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-06-27T18:03:15.828116Z"
-        },
-        {
-          "id": "d45ce5382baf5a14f9c22f1e3047e22a3c715ca0",
-          "title": "这篇万字复盘是作者投入AI创业一年的一线实战沉淀，或许会推翻不少人对AI开发的片面幻想。AI可以快速搭建各类Demo，但随之而来的数据、文档、权限、协作等海量技术债务极易拖垮项目。文中拆解了分层Agent工程优化思路，厘清了简易工作流与长期可治理系统的核心差距。总结的一些避坑参考不容错过。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-06-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-06-27T18:03:15.828116Z"
-        },
-        {
-          "id": "b2e4c6cecf3f6fc44e0ada14883ab5b872576121",
-          "title": "邮件排版、撰写报告、制作PPT、调研等等重复性的工作，会耗掉职场人六成的工作时间。Claude Cowork可以把你从这些任务里彻底解放出来。作者分享了自己在使用Claude Cowork运行一人公司的完整系统：生产工作交给 Cowork，他只负责做决策。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-06-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-06-27T18:03:15.828116Z"
         }
       ],
-      "item_count": 10,
-      "duplicate_count": 10,
-      "score": 0.6942,
-      "importance": 0.6942,
-      "importance_score": 0.6942,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6901,
+      "importance": 0.6901,
+      "importance_score": 0.6901,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 1.0,
+        "recency": 0.9772,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-27T18:03:15.828116Z",
+      "earliest_at": "2026-06-28T17:43:53.592161Z",
       "latest_at": "2026-06-28T17:43:53.592161Z",
       "primary_item": {
         "id": "b450b13b8982ad63d237e6c76f60641b20c9489a",
@@ -959,15 +886,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5982,
-      "importance": 0.5982,
-      "importance_score": 0.5982,
+      "score": 0.5946,
+      "importance": 0.5946,
+      "importance_score": 0.5946,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8746,
+        "recency": 0.8546,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1057,15 +984,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
+      "score": 0.5655,
+      "importance": 0.5655,
+      "importance_score": 0.5655,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.993,
+        "recency": 0.9704,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1155,15 +1082,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5675,
-      "importance": 0.5675,
-      "importance_score": 0.5675,
+      "score": 0.5635,
+      "importance": 0.5635,
+      "importance_score": 0.5635,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9816,
+        "recency": 0.9593,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1234,15 +1161,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9772,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1313,15 +1240,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9969,
+        "recency": 0.9741,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1411,15 +1338,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8481,
+        "recency": 0.8287,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1434,6 +1361,182 @@
         "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
         "source": "www.the-independent.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_064435cfcb3b",
+      "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
+      "url": "https://news.ycombinator.com/item?id=48708941",
+      "primary_url": "https://news.ycombinator.com/item?id=48708941",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "212d4783eb75c89dc5f79084b2a19a336220b7f1",
+          "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
+          "url": "https://news.ycombinator.com/item?id=48708941",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T18:58:56.497000Z"
+        },
+        {
+          "id": "eaede1cf4eee0f8cd6196307e703903afe4953f8",
+          "title": "我使用Claude Code对我的MRI结果进行了二次诊断",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "source": "antoine.fi",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T18:35:07.707000Z"
+        },
+        {
+          "id": "7de4229193c2b44ffceac811ee36feede5fb20cb",
+          "title": "我使用Claude Code对我的MRI结果进行了二次诊断 / I used Claude Code to get a second opinion on my MRI",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T16:35:19Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "antoine.fi",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "212d4783eb75c89dc5f79084b2a19a336220b7f1",
+          "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
+          "url": "https://news.ycombinator.com/item?id=48708941",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T18:58:56.497000Z"
+        },
+        {
+          "id": "eaede1cf4eee0f8cd6196307e703903afe4953f8",
+          "title": "我使用Claude Code对我的MRI结果进行了二次诊断",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "source": "antoine.fi",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T18:35:07.707000Z"
+        },
+        {
+          "id": "7de4229193c2b44ffceac811ee36feede5fb20cb",
+          "title": "我使用Claude Code对我的MRI结果进行了二次诊断 / I used Claude Code to get a second opinion on my MRI",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T16:35:19Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.995,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T16:35:19Z",
+      "latest_at": "2026-06-28T18:58:56.497000Z",
+      "primary_item": {
+        "id": "212d4783eb75c89dc5f79084b2a19a336220b7f1",
+        "title": "我使用 Claude Code 来获得有关 MRI 的第二意见 / I used Claude Code to get a second opinion on my MRI",
+        "url": "https://news.ycombinator.com/item?id=48708941",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_6853c0e314d8",
+      "title": "Daisugi 日本从树中取树的技术，制作精确的直木 (2020) / Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
+      "url": "https://www.openculture.com/2020/10/daisugi.html",
+      "primary_url": "https://www.openculture.com/2020/10/daisugi.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "58629797a8328369e3ce0310f32ebad0a6616542",
+          "title": "Daisugi 日本从树中取树的技术，制作精确的直木 (2020) / Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
+          "url": "https://www.openculture.com/2020/10/daisugi.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-28T16:28:50Z"
+        },
+        {
+          "id": "261463c870660719a161e49d88688bf7ed9f22ad",
+          "title": "Daisugi，日本用其他树种树的技术 (2020) / Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+          "url": "https://www.openculture.com/2020/10/daisugi.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-28T16:28:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "58629797a8328369e3ce0310f32ebad0a6616542",
+          "title": "Daisugi 日本从树中取树的技术，制作精确的直木 (2020) / Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
+          "url": "https://www.openculture.com/2020/10/daisugi.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-28T16:28:50Z"
+        },
+        {
+          "id": "261463c870660719a161e49d88688bf7ed9f22ad",
+          "title": "Daisugi，日本用其他树种树的技术 (2020) / Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+          "url": "https://www.openculture.com/2020/10/daisugi.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-28T16:28:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9597,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T16:28:50Z",
+      "latest_at": "2026-06-28T16:28:50Z",
+      "primary_item": {
+        "id": "58629797a8328369e3ce0310f32ebad0a6616542",
+        "title": "Daisugi 日本从树中取树的技术，制作精确的直木 (2020) / Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
+        "url": "https://www.openculture.com/2020/10/daisugi.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1490,15 +1593,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.963,
+        "recency": 0.9411,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1568,15 +1671,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.953,
+        "recency": 0.9313,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1647,15 +1750,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9518,
+        "recency": 0.9301,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1669,164 +1772,6 @@
         "title": "人工智能编写了大量软件。如今，人工代码审查正逐渐消失。",
         "url": "https://www.businessinsider.com/ai-coding-agents-cursor-human-review-2026-6",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7be0be9f8f64",
-      "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户 / Austria Lobbies EU to Host Anthropic After US Access Curbs",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "f3de1d652d10c6c4fe2eee4cc6ba39d4ead4f106",
-          "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户 / Austria Lobbies EU to Host Anthropic After US Access Curbs",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T13:34:14Z"
-        },
-        {
-          "id": "a66b5d911ef0092f2dd0c3c3e6b00b7a3a06b2eb",
-          "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T12:43:02.818000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "f3de1d652d10c6c4fe2eee4cc6ba39d4ead4f106",
-          "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户 / Austria Lobbies EU to Host Anthropic After US Access Curbs",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T13:34:14Z"
-        },
-        {
-          "id": "a66b5d911ef0092f2dd0c3c3e6b00b7a3a06b2eb",
-          "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T12:43:02.818000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9417,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T12:43:02.818000Z",
-      "latest_at": "2026-06-28T13:34:14Z",
-      "primary_item": {
-        "id": "f3de1d652d10c6c4fe2eee4cc6ba39d4ead4f106",
-        "title": "美国限制准入后，奥地利游说欧盟接纳Anthropic落户 / Austria Lobbies EU to Host Anthropic After US Access Curbs",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_7b7cd8725902",
-      "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团",
-      "url": "https://claudete.co",
-      "primary_url": "https://claudete.co",
-      "source": "claudete.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "de91e956b67723aa6d2f2dcdb6db227c2b64d121",
-          "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团",
-          "url": "https://claudete.co",
-          "source": "claudete.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T10:02:50.746000Z"
-        },
-        {
-          "id": "9da74b3ce11abfde1e8fbd76728ac530a9bfca33",
-          "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团 / Show HN: Claudete – Command a legion of Claude Code instances and shells",
-          "url": "https://claudete.co",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-06-28T09:46:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "claudete.co"
-      ],
-      "items": [
-        {
-          "id": "de91e956b67723aa6d2f2dcdb6db227c2b64d121",
-          "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团",
-          "url": "https://claudete.co",
-          "source": "claudete.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T10:02:50.746000Z"
-        },
-        {
-          "id": "9da74b3ce11abfde1e8fbd76728ac530a9bfca33",
-          "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团 / Show HN: Claudete – Command a legion of Claude Code instances and shells",
-          "url": "https://claudete.co",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-06-28T09:46:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.895,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T09:46:53Z",
-      "latest_at": "2026-06-28T10:02:50.746000Z",
-      "primary_item": {
-        "id": "de91e956b67723aa6d2f2dcdb6db227c2b64d121",
-        "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团",
-        "url": "https://claudete.co",
-        "source": "claudete.co",
         "source_name": "Buzzing"
       }
     }
