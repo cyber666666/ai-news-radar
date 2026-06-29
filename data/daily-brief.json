@@ -1,68 +1,311 @@
 {
-  "generated_at": "2026-06-29T09:01:44.281285Z",
+  "generated_at": "2026-06-29T13:50:17.338142Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_1ae317c00ced",
-      "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "primary_url": "https://openai.com/index/hp-frontier-partnership",
+      "story_id": "story_5b79476b1142",
+      "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图 / Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "primary_url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fb7e1d972c19ee4878f34f4f5168a717d3418da8",
-          "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
-          "url": "https://openai.com/index/hp-frontier-partnership",
+          "id": "a2886a962753efcd0d22d08c86f1b9e0317089f4",
+          "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图 / Mapping Europe’s AI Workforce Opportunity",
+          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-28T17:00:00Z"
+          "published_at": "2026-06-29T07:00:00Z"
+        },
+        {
+          "id": "1cec7bfb925ec6364fc9a4e80340eae94fdd38f8",
+          "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图",
+          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T07:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
-          "id": "fb7e1d972c19ee4878f34f4f5168a717d3418da8",
-          "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
-          "url": "https://openai.com/index/hp-frontier-partnership",
+          "id": "a2886a962753efcd0d22d08c86f1b9e0317089f4",
+          "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图 / Mapping Europe’s AI Workforce Opportunity",
+          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-28T17:00:00Z"
+          "published_at": "2026-06-29T07:00:00Z"
+        },
+        {
+          "id": "1cec7bfb925ec6364fc9a4e80340eae94fdd38f8",
+          "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图",
+          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T07:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8601,
+      "importance": 0.8601,
+      "importance_score": 0.8601,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7934,
-        "story_heat": 0.0
+        "recency": 0.906,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-28T17:00:00Z",
-      "latest_at": "2026-06-28T17:00:00Z",
+      "earliest_at": "2026-06-29T07:00:00Z",
+      "latest_at": "2026-06-29T07:00:00Z",
       "primary_item": {
-        "id": "fb7e1d972c19ee4878f34f4f5168a717d3418da8",
-        "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
-        "url": "https://openai.com/index/hp-frontier-partnership",
+        "id": "a2886a962753efcd0d22d08c86f1b9e0317089f4",
+        "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图 / Mapping Europe’s AI Workforce Opportunity",
+        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_019c2801688e",
+      "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
+      "url": "https://www.ithome.com/0/970/097.htm",
+      "primary_url": "https://www.ithome.com/0/970/097.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "60bdb0a4411ba06d55d1a3ffd8f7d933deca5f2c",
+          "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
+          "url": "https://www.ithome.com/0/970/097.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T09:27:36Z"
+        },
+        {
+          "id": "b98f2b4b17fe7289f2fc6b61429b8dfdf155be47",
+          "title": "国务院：推进人工智能全学段教育，提升学生人工智能素养",
+          "url": "https://www.ithome.com/0/970/097.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-29T09:27:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "60bdb0a4411ba06d55d1a3ffd8f7d933deca5f2c",
+          "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
+          "url": "https://www.ithome.com/0/970/097.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T09:27:36Z"
+        },
+        {
+          "id": "b98f2b4b17fe7289f2fc6b61429b8dfdf155be47",
+          "title": "国务院：推进人工智能全学段教育，提升学生人工智能素养",
+          "url": "https://www.ithome.com/0/970/097.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-29T09:27:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9387,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T09:27:36Z",
+      "latest_at": "2026-06-29T09:27:36Z",
+      "primary_item": {
+        "id": "60bdb0a4411ba06d55d1a3ffd8f7d933deca5f2c",
+        "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
+        "url": "https://www.ithome.com/0/970/097.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d42ae9023142",
+      "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
+      "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
+      "primary_url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fad7c538efec2c1703451e6dd99da76b621cb2ef",
+          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
+          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T12:30:21Z"
+        },
+        {
+          "id": "c02f35f588baf81cbaa1e47dc362b61ff44b7e94",
+          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标 / The US military used AI to pick thousands of targets but missed a note saying one was a school",
+          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-29T12:30:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fad7c538efec2c1703451e6dd99da76b621cb2ef",
+          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
+          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T12:30:21Z"
+        },
+        {
+          "id": "c02f35f588baf81cbaa1e47dc362b61ff44b7e94",
+          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标 / The US military used AI to pick thousands of targets but missed a note saying one was a school",
+          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-29T12:30:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9809,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T12:30:21Z",
+      "latest_at": "2026-06-29T12:30:21Z",
+      "primary_item": {
+        "id": "fad7c538efec2c1703451e6dd99da76b621cb2ef",
+        "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
+        "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_35b256e2c054",
+      "title": "Meta发布Brain2Qwerty v2：非侵入式实时句子解码",
+      "url": "https://x.com/AIatMeta/status/2071566924803395741",
+      "primary_url": "https://x.com/AIatMeta/status/2071566924803395741",
+      "source": "X：AI at Meta (@AIatMeta)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0977ad593b87c42372d7b59625097aadbd15d4e2",
+          "title": "Meta发布Brain2Qwerty v2：非侵入式实时句子解码",
+          "url": "https://x.com/AIatMeta/status/2071566924803395741",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T12:10:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：AI at Meta (@AIatMeta)"
+      ],
+      "items": [
+        {
+          "id": "0977ad593b87c42372d7b59625097aadbd15d4e2",
+          "title": "Meta发布Brain2Qwerty v2：非侵入式实时句子解码",
+          "url": "https://x.com/AIatMeta/status/2071566924803395741",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T12:10:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9762,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T12:10:17Z",
+      "latest_at": "2026-06-29T12:10:17Z",
+      "primary_item": {
+        "id": "0977ad593b87c42372d7b59625097aadbd15d4e2",
+        "title": "Meta发布Brain2Qwerty v2：非侵入式实时句子解码",
+        "url": "https://x.com/AIatMeta/status/2071566924803395741",
+        "source": "X：AI at Meta (@AIatMeta)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -119,15 +362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9329,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -147,30 +390,214 @@
       }
     },
     {
-      "story_id": "story_91a757f04ddf",
-      "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格",
-      "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
-      "primary_url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
+      "story_id": "story_1ae317c00ced",
+      "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "primary_url": "https://openai.com/index/hp-frontier-partnership",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fb7e1d972c19ee4878f34f4f5168a717d3418da8",
+          "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
+          "url": "https://openai.com/index/hp-frontier-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-28T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "fb7e1d972c19ee4878f34f4f5168a717d3418da8",
+          "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
+          "url": "https://openai.com/index/hp-frontier-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-28T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7401,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-28T17:00:00Z",
+      "latest_at": "2026-06-28T17:00:00Z",
+      "primary_item": {
+        "id": "fb7e1d972c19ee4878f34f4f5168a717d3418da8",
+        "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
+        "url": "https://openai.com/index/hp-frontier-partnership",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_31e36f083719",
+      "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
+      "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
+      "primary_url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d3c83a4831420c41d61abbcbe200297c8a15a7d3",
+          "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
+          "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T10:42:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d3c83a4831420c41d61abbcbe200297c8a15a7d3",
+          "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
+          "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T10:42:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9559,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T10:42:47Z",
+      "latest_at": "2026-06-29T10:42:47Z",
+      "primary_item": {
+        "id": "d3c83a4831420c41d61abbcbe200297c8a15a7d3",
+        "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
+        "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_536c8d21b8b4",
+      "title": "小红书 RedKnot 推理引擎：将 KV Cache 按注意力头拆解实现长文本加速",
+      "url": "https://mp.weixin.qq.com/s/qRrZvL0aZzYI82djFSrLug",
+      "primary_url": "https://mp.weixin.qq.com/s/qRrZvL0aZzYI82djFSrLug",
+      "source": "公众号：小红书技术（dots.llm）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "74ef87dccf5618cffa206520cbd15eb65f113531",
+          "title": "小红书 RedKnot 推理引擎：将 KV Cache 按注意力头拆解实现长文本加速",
+          "url": "https://mp.weixin.qq.com/s/qRrZvL0aZzYI82djFSrLug",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T11:00:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：小红书技术（dots.llm）"
+      ],
+      "items": [
+        {
+          "id": "74ef87dccf5618cffa206520cbd15eb65f113531",
+          "title": "小红书 RedKnot 推理引擎：将 KV Cache 按注意力头拆解实现长文本加速",
+          "url": "https://mp.weixin.qq.com/s/qRrZvL0aZzYI82djFSrLug",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T11:00:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9599,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T11:00:07Z",
+      "latest_at": "2026-06-29T11:00:07Z",
+      "primary_item": {
+        "id": "74ef87dccf5618cffa206520cbd15eb65f113531",
+        "title": "小红书 RedKnot 推理引擎：将 KV Cache 按注意力头拆解实现长文本加速",
+        "url": "https://mp.weixin.qq.com/s/qRrZvL0aZzYI82djFSrLug",
+        "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_27d3d0b89ae6",
+      "title": "Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制",
+      "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control",
+      "primary_url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9d292c8695e1f4b7f7bd5a910a7c1bd407a0c8b1",
-          "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格",
-          "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
+          "id": "3d1b487eea15f3a0b45012e65e5d972fc10ab844",
+          "title": "Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制",
+          "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-29T08:17:41Z"
+          "published_at": "2026-06-29T10:04:32Z"
         },
         {
-          "id": "1d2f30bc3856ed351e1394333068b8e7c12cfaf3",
-          "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格 / Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring",
-          "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
+          "id": "4ef892ac00d5afcdc59e723f217aa80e941f1c04",
+          "title": "Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制 / Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control",
+          "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-06-29T08:17:41Z"
+          "published_at": "2026-06-29T10:04:32Z"
         }
       ],
       "source_count": 2,
@@ -180,35 +607,35 @@
       ],
       "items": [
         {
-          "id": "9d292c8695e1f4b7f7bd5a910a7c1bd407a0c8b1",
-          "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格",
-          "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
+          "id": "3d1b487eea15f3a0b45012e65e5d972fc10ab844",
+          "title": "Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制",
+          "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-29T08:17:41Z"
+          "published_at": "2026-06-29T10:04:32Z"
         },
         {
-          "id": "1d2f30bc3856ed351e1394333068b8e7c12cfaf3",
-          "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格 / Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring",
-          "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
+          "id": "4ef892ac00d5afcdc59e723f217aa80e941f1c04",
+          "title": "Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制 / Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control",
+          "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-06-29T08:17:41Z"
+          "published_at": "2026-06-29T10:04:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7907,
-      "importance": 0.7907,
-      "importance_score": 0.7907,
+      "score": 0.7861,
+      "importance": 0.7861,
+      "importance_score": 0.7861,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9895,
+        "recency": 0.9471,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -217,12 +644,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T08:17:41Z",
-      "latest_at": "2026-06-29T08:17:41Z",
+      "earliest_at": "2026-06-29T10:04:32Z",
+      "latest_at": "2026-06-29T10:04:32Z",
       "primary_item": {
-        "id": "9d292c8695e1f4b7f7bd5a910a7c1bd407a0c8b1",
-        "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格",
-        "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
+        "id": "3d1b487eea15f3a0b45012e65e5d972fc10ab844",
+        "title": "Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制",
+        "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
@@ -281,15 +708,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7932,
+        "recency": 0.74,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -305,67 +732,6 @@
         "title": "Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由",
         "url": "https://github.com/itsthelore/wayfinder-router",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_61716f2e68b4",
-      "title": "SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元",
-      "url": "https://www.ithome.com/0/969/953.htm",
-      "primary_url": "https://www.ithome.com/0/969/953.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1dbe80014df3ce72571a1fe3e07ebc12ea3475d2",
-          "title": "SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元",
-          "url": "https://www.ithome.com/0/969/953.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T06:44:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1dbe80014df3ce72571a1fe3e07ebc12ea3475d2",
-          "title": "SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元",
-          "url": "https://www.ithome.com/0/969/953.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T06:44:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9675,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T06:44:15Z",
-      "latest_at": "2026-06-29T06:44:15Z",
-      "primary_item": {
-        "id": "1dbe80014df3ce72571a1fe3e07ebc12ea3475d2",
-        "title": "SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元",
-        "url": "https://www.ithome.com/0/969/953.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -404,21 +770,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9456,
+        "recency": 0.8822,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-29T05:09:31Z",
       "latest_at": "2026-06-29T05:09:31Z",
@@ -484,15 +849,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9293,
+        "recency": 0.867,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -546,15 +911,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9052,
+        "recency": 0.8445,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -568,6 +933,147 @@
         "title": "分享两个Vibe Coding必备的实用Prompt：第一性原理与对抗式审查",
         "url": "https://mp.weixin.qq.com/s/umPqTD_-IubbhXIgiS47eQ",
         "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_91a757f04ddf",
+      "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格",
+      "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
+      "primary_url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9d292c8695e1f4b7f7bd5a910a7c1bd407a0c8b1",
+          "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格",
+          "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T08:17:41Z"
+        },
+        {
+          "id": "1d2f30bc3856ed351e1394333068b8e7c12cfaf3",
+          "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格 / Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring",
+          "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-29T08:17:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9d292c8695e1f4b7f7bd5a910a7c1bd407a0c8b1",
+          "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格",
+          "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T08:17:41Z"
+        },
+        {
+          "id": "1d2f30bc3856ed351e1394333068b8e7c12cfaf3",
+          "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格 / Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring",
+          "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-29T08:17:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9231,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T08:17:41Z",
+      "latest_at": "2026-06-29T08:17:41Z",
+      "primary_item": {
+        "id": "9d292c8695e1f4b7f7bd5a910a7c1bd407a0c8b1",
+        "title": "三星和SK海力士计划投资5900亿美元扩产芯片，AI需求推高内存价格",
+        "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_61716f2e68b4",
+      "title": "SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元",
+      "url": "https://www.ithome.com/0/969/953.htm",
+      "primary_url": "https://www.ithome.com/0/969/953.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1dbe80014df3ce72571a1fe3e07ebc12ea3475d2",
+          "title": "SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元",
+          "url": "https://www.ithome.com/0/969/953.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T06:44:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1dbe80014df3ce72571a1fe3e07ebc12ea3475d2",
+          "title": "SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元",
+          "url": "https://www.ithome.com/0/969/953.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T06:44:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9025,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-29T06:44:15Z",
+      "latest_at": "2026-06-29T06:44:15Z",
+      "primary_item": {
+        "id": "1dbe80014df3ce72571a1fe3e07ebc12ea3475d2",
+        "title": "SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元",
+        "url": "https://www.ithome.com/0/969/953.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -606,21 +1112,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9442,
+        "recency": 0.8808,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-29T05:03:03Z",
       "latest_at": "2026-06-29T05:03:03Z",
@@ -686,15 +1191,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9293,
+        "recency": 0.867,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -714,101 +1219,21 @@
       }
     },
     {
-      "story_id": "story_b0474715455b",
-      "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
-      "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test",
-      "primary_url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d77f094d423100fbc549a393a846b0f9f74929a5",
-          "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
-          "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T10:16:13Z"
-        },
-        {
-          "id": "2203a966c4d47eebfd00d3bdbf4aca91f7fe0ff8",
-          "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本 / Only three AI models finished above starting capital in a 500-day startup survival test",
-          "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-28T10:16:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d77f094d423100fbc549a393a846b0f9f74929a5",
-          "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
-          "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T10:16:13Z"
-        },
-        {
-          "id": "2203a966c4d47eebfd00d3bdbf4aca91f7fe0ff8",
-          "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本 / Only three AI models finished above starting capital in a 500-day startup survival test",
-          "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-28T10:16:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7199,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-28T10:16:13Z",
-      "latest_at": "2026-06-28T10:16:13Z",
-      "primary_item": {
-        "id": "d77f094d423100fbc549a393a846b0f9f74929a5",
-        "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
-        "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1596e07f9a4f",
-      "title": "AI急先锋：产能告急，三星拟在韩国光州扩建先进半导体封装厂",
-      "url": "https://www.aibase.com/news/29232",
-      "primary_url": "https://www.aibase.com/news/29232",
+      "story_id": "story_3c929d7451ac",
+      "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
+      "url": "https://www.aibase.com/news/29238",
+      "primary_url": "https://www.aibase.com/news/29238",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "61a9d92761a3f72424da4abacbac9d5cc2def948",
-          "title": "AI急先锋：产能告急，三星拟在韩国光州扩建先进半导体封装厂",
-          "url": "https://www.aibase.com/news/29232",
+          "id": "b8f99068327c4484e45da31786bd0464a2de8b49",
+          "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
+          "url": "https://www.aibase.com/news/29238",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-29T09:01:44.281285Z"
+          "published_at": "2026-06-29T13:50:17.338142Z"
         }
       ],
       "source_count": 1,
@@ -817,13 +1242,13 @@
       ],
       "items": [
         {
-          "id": "61a9d92761a3f72424da4abacbac9d5cc2def948",
-          "title": "AI急先锋：产能告急，三星拟在韩国光州扩建先进半导体封装厂",
-          "url": "https://www.aibase.com/news/29232",
+          "id": "b8f99068327c4484e45da31786bd0464a2de8b49",
+          "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
+          "url": "https://www.aibase.com/news/29238",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-29T09:01:44.281285Z"
+          "published_at": "2026-06-29T13:50:17.338142Z"
         }
       ],
       "item_count": 1,
@@ -844,12 +1269,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T09:01:44.281285Z",
-      "latest_at": "2026-06-29T09:01:44.281285Z",
+      "earliest_at": "2026-06-29T13:50:17.338142Z",
+      "latest_at": "2026-06-29T13:50:17.338142Z",
       "primary_item": {
-        "id": "61a9d92761a3f72424da4abacbac9d5cc2def948",
-        "title": "AI急先锋：产能告急，三星拟在韩国光州扩建先进半导体封装厂",
-        "url": "https://www.aibase.com/news/29232",
+        "id": "b8f99068327c4484e45da31786bd0464a2de8b49",
+        "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
+        "url": "https://www.aibase.com/news/29238",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -979,15 +1404,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6585,
-      "importance": 0.6585,
-      "importance_score": 0.6585,
+      "score": 0.6488,
+      "importance": 0.6488,
+      "importance_score": 0.6488,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.8018,
+        "recency": 0.748,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1005,21 +1430,21 @@
       }
     },
     {
-      "story_id": "story_5a44f079565a",
-      "title": "OceanBase发布湖库一体AI数据库:让Agent真正“读懂”企业",
-      "url": "https://www.aibase.com/news/29235",
-      "primary_url": "https://www.aibase.com/news/29235",
+      "story_id": "story_e36b72ba54ad",
+      "title": "太空算力新地标：北京太空算力创新中心揭牌，开启“星载 AI”协同新时代",
+      "url": "https://www.aibase.com/news/29239",
+      "primary_url": "https://www.aibase.com/news/29239",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a85c5083686cfa8db817f59fd38a9329fcdc3240",
-          "title": "OceanBase发布湖库一体AI数据库:让Agent真正“读懂”企业",
-          "url": "https://www.aibase.com/news/29235",
+          "id": "656413e9b98619297b9ae5bafbca6186282b6ad3",
+          "title": "太空算力新地标：北京太空算力创新中心揭牌，开启“星载 AI”协同新时代",
+          "url": "https://www.aibase.com/news/29239",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-29T09:01:44.281285Z"
+          "published_at": "2026-06-29T13:50:17.338142Z"
         }
       ],
       "source_count": 1,
@@ -1028,13 +1453,13 @@
       ],
       "items": [
         {
-          "id": "a85c5083686cfa8db817f59fd38a9329fcdc3240",
-          "title": "OceanBase发布湖库一体AI数据库:让Agent真正“读懂”企业",
-          "url": "https://www.aibase.com/news/29235",
+          "id": "656413e9b98619297b9ae5bafbca6186282b6ad3",
+          "title": "太空算力新地标：北京太空算力创新中心揭牌，开启“星载 AI”协同新时代",
+          "url": "https://www.aibase.com/news/29239",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-29T09:01:44.281285Z"
+          "published_at": "2026-06-29T13:50:17.338142Z"
         }
       ],
       "item_count": 1,
@@ -1055,584 +1480,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T09:01:44.281285Z",
-      "latest_at": "2026-06-29T09:01:44.281285Z",
+      "earliest_at": "2026-06-29T13:50:17.338142Z",
+      "latest_at": "2026-06-29T13:50:17.338142Z",
       "primary_item": {
-        "id": "a85c5083686cfa8db817f59fd38a9329fcdc3240",
-        "title": "OceanBase发布湖库一体AI数据库:让Agent真正“读懂”企业",
-        "url": "https://www.aibase.com/news/29235",
+        "id": "656413e9b98619297b9ae5bafbca6186282b6ad3",
+        "title": "太空算力新地标：北京太空算力创新中心揭牌，开启“星载 AI”协同新时代",
+        "url": "https://www.aibase.com/news/29239",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b7e39861955b",
-      "title": "由于人工智能表现未达预期，福特重新聘请“老牌”工程师 / Ford rehires ‘gray beard’ engineers after AI falls short",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-      "primary_url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "3568337582fa744cd3c7d9ddda957c9767086d62",
-          "title": "由于人工智能表现未达预期，福特重新聘请“老牌”工程师 / Ford rehires ‘gray beard’ engineers after AI falls short",
-          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-28T19:05:39Z"
-        },
-        {
-          "id": "0b1df109e507e3c5fab7403812a66679023bbd23",
-          "title": "人工智能技术不足后，福特重新雇用“灰胡子”工程师 / Ford rehires 'gray beard' engineers after AI falls short",
-          "url": "https://news.ycombinator.com/item?id=48710749",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T20:29:11.580000Z"
-        },
-        {
-          "id": "6174e77c6aab754323b45db70dea7bea034abd98",
-          "title": "由于人工智能表现未达预期，福特重新聘请“老牌”工程师 / Ford rehires 'gray beard' engineers after AI falls short",
-          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T19:35:57Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "TechCrunch AI",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3568337582fa744cd3c7d9ddda957c9767086d62",
-          "title": "由于人工智能表现未达预期，福特重新聘请“老牌”工程师 / Ford rehires ‘gray beard’ engineers after AI falls short",
-          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-28T19:05:39Z"
-        },
-        {
-          "id": "0b1df109e507e3c5fab7403812a66679023bbd23",
-          "title": "人工智能技术不足后，福特重新雇用“灰胡子”工程师 / Ford rehires 'gray beard' engineers after AI falls short",
-          "url": "https://news.ycombinator.com/item?id=48710749",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T20:29:11.580000Z"
-        },
-        {
-          "id": "6174e77c6aab754323b45db70dea7bea034abd98",
-          "title": "由于人工智能表现未达预期，福特重新聘请“老牌”工程师 / Ford rehires 'gray beard' engineers after AI falls short",
-          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T19:35:57Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.641,
-      "importance": 0.641,
-      "importance_score": 0.641,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.8177,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T19:05:39Z",
-      "latest_at": "2026-06-28T20:29:11.580000Z",
-      "primary_item": {
-        "id": "3568337582fa744cd3c7d9ddda957c9767086d62",
-        "title": "由于人工智能表现未达预期，福特重新聘请“老牌”工程师 / Ford rehires ‘gray beard’ engineers after AI falls short",
-        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_a265e64e883e",
-      "title": "传记片《人工智能》再生变数：亚马逊影业宣布放弃发行",
-      "url": "https://www.aibase.com/news/29233",
-      "primary_url": "https://www.aibase.com/news/29233",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5044f7e7041f64bced8977605cd3eb8d721f0d72",
-          "title": "传记片《人工智能》再生变数：亚马逊影业宣布放弃发行",
-          "url": "https://www.aibase.com/news/29233",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T09:01:44.281285Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5044f7e7041f64bced8977605cd3eb8d721f0d72",
-          "title": "传记片《人工智能》再生变数：亚马逊影业宣布放弃发行",
-          "url": "https://www.aibase.com/news/29233",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T09:01:44.281285Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T09:01:44.281285Z",
-      "latest_at": "2026-06-29T09:01:44.281285Z",
-      "primary_item": {
-        "id": "5044f7e7041f64bced8977605cd3eb8d721f0d72",
-        "title": "传记片《人工智能》再生变数：亚马逊影业宣布放弃发行",
-        "url": "https://www.aibase.com/news/29233",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6c80d7901ac0",
-      "title": "在我们的基准测试中，GLM 5.2 表现优于 Claude",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-      "primary_url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-      "source": "semgrep.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "04d9d5dfe9129c14a54972c31196e76d23815382",
-          "title": "在我们的基准测试中，GLM 5.2 表现优于 Claude",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "semgrep.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T21:30:51.737000Z"
-        },
-        {
-          "id": "4a75083f797e14bfb79975bbd61c33b0d0936789",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / GLM 5.2 beats Claude in our benchmarks",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T17:50:47Z"
-        },
-        {
-          "id": "8b06ad3d980d9567824acc744d8584b202e8af1b",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T17:50:47Z"
-        },
-        {
-          "id": "10b408b9d23b67552e36b9eb2dd8507003fd91da",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "semgrep.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T15:07:19.647000Z"
-        },
-        {
-          "id": "8e34319ef1eb74791116166a162cab9c4b661141",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T14:58:01Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "Lobsters (技术社区)",
-        "semgrep.dev"
-      ],
-      "items": [
-        {
-          "id": "04d9d5dfe9129c14a54972c31196e76d23815382",
-          "title": "在我们的基准测试中，GLM 5.2 表现优于 Claude",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "semgrep.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T21:30:51.737000Z"
-        },
-        {
-          "id": "4a75083f797e14bfb79975bbd61c33b0d0936789",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / GLM 5.2 beats Claude in our benchmarks",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T17:50:47Z"
-        },
-        {
-          "id": "8b06ad3d980d9567824acc744d8584b202e8af1b",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T17:50:47Z"
-        },
-        {
-          "id": "10b408b9d23b67552e36b9eb2dd8507003fd91da",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "semgrep.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T15:07:19.647000Z"
-        },
-        {
-          "id": "8e34319ef1eb74791116166a162cab9c4b661141",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T14:58:01Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5932,
-      "importance": 0.5932,
-      "importance_score": 0.5932,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8468,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T14:58:01Z",
-      "latest_at": "2026-06-28T21:30:51.737000Z",
-      "primary_item": {
-        "id": "04d9d5dfe9129c14a54972c31196e76d23815382",
-        "title": "在我们的基准测试中，GLM 5.2 表现优于 Claude",
-        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-        "source": "semgrep.dev",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_96c50ae2d0df",
-      "title": "北京太空算力创新中心揭牌，全面发力星载AI与太空大模型",
-      "url": "https://www.aibase.com/news/29225",
-      "primary_url": "https://www.aibase.com/news/29225",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "56a506e0b80f3ed6861df5f03237fd318b375e35",
-          "title": "北京太空算力创新中心揭牌，全面发力星载AI与太空大模型",
-          "url": "https://www.aibase.com/news/29225",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T09:01:44.281285Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "56a506e0b80f3ed6861df5f03237fd318b375e35",
-          "title": "北京太空算力创新中心揭牌，全面发力星载AI与太空大模型",
-          "url": "https://www.aibase.com/news/29225",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T09:01:44.281285Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T09:01:44.281285Z",
-      "latest_at": "2026-06-29T09:01:44.281285Z",
-      "primary_item": {
-        "id": "56a506e0b80f3ed6861df5f03237fd318b375e35",
-        "title": "北京太空算力创新中心揭牌，全面发力星载AI与太空大模型",
-        "url": "https://www.aibase.com/news/29225",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_acc0f3def671",
-      "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件",
-      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-      "primary_url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-      "source": "english.elpais.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "856e729c926dd4817551c31ca1cdff62575b5c65",
-          "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件",
-          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-          "source": "english.elpais.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T22:50:52.752000Z"
-        },
-        {
-          "id": "eaa244fb73fda7e73e8404129f3938dc23a9c3d0",
-          "title": "布朗大学教授谴责大规模人工智能考试作弊 / Professor denounces mass AI fraud on an exam at Brown",
-          "url": "https://news.ycombinator.com/item?id=48708991",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T22:02:39.132000Z"
-        },
-        {
-          "id": "ca56d0c3abd7c6621794c5e92c4e3f39daadab98",
-          "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件 / Professor denounces mass AI fraud on an exam at Brown",
-          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T16:41:12Z"
-        },
-        {
-          "id": "f7e4cc92d3931c7013fbd3994e70e1c0032399ea",
-          "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件 / Professor denounces mass AI fraud on an exam at Brown University",
-          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-28T16:41:12Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "english.elpais.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "856e729c926dd4817551c31ca1cdff62575b5c65",
-          "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件",
-          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-          "source": "english.elpais.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T22:50:52.752000Z"
-        },
-        {
-          "id": "eaa244fb73fda7e73e8404129f3938dc23a9c3d0",
-          "title": "布朗大学教授谴责大规模人工智能考试作弊 / Professor denounces mass AI fraud on an exam at Brown",
-          "url": "https://news.ycombinator.com/item?id=48708991",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T22:02:39.132000Z"
-        },
-        {
-          "id": "ca56d0c3abd7c6621794c5e92c4e3f39daadab98",
-          "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件 / Professor denounces mass AI fraud on an exam at Brown",
-          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T16:41:12Z"
-        },
-        {
-          "id": "f7e4cc92d3931c7013fbd3994e70e1c0032399ea",
-          "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件 / Professor denounces mass AI fraud on an exam at Brown University",
-          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-28T16:41:12Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5712,
-      "importance": 0.5712,
-      "importance_score": 0.5712,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8633,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T16:41:12Z",
-      "latest_at": "2026-06-28T22:50:52.752000Z",
-      "primary_item": {
-        "id": "856e729c926dd4817551c31ca1cdff62575b5c65",
-        "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件",
-        "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-        "source": "english.elpais.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f466a3a4da74",
-      "title": "央行行长们警告称，人工智能热潮可能引发全球金融危机",
-      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn",
-      "primary_url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn",
-      "source": "www.telegraph.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f7654839cebdb3ec380377a8f0a147e4dfc5154e",
-          "title": "央行行长们警告称，人工智能热潮可能引发全球金融危机",
-          "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn",
-          "source": "www.telegraph.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-29T04:58:49.352000Z"
-        },
-        {
-          "id": "c855d47ccd2ccfcf1cd9f4e66337f0df4c59dea2",
-          "title": "央行官员警告人工智能繁荣可能导致全球金融崩溃 / AI boom risks global financial crash, warn central bankers",
-          "url": "https://news.ycombinator.com/item?id=48713697",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-29T03:57:53.633000Z"
-        },
-        {
-          "id": "a4b8e4fb58958394baacccff5e409a7297509dd3",
-          "title": "央行行长们警告称，人工智能热潮可能引发全球金融危机 / AI boom risks global financial crash, warn central bankers",
-          "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-29T01:25:04Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.telegraph.co.uk"
-      ],
-      "items": [
-        {
-          "id": "f7654839cebdb3ec380377a8f0a147e4dfc5154e",
-          "title": "央行行长们警告称，人工智能热潮可能引发全球金融危机",
-          "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn",
-          "source": "www.telegraph.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-29T04:58:49.352000Z"
-        },
-        {
-          "id": "c855d47ccd2ccfcf1cd9f4e66337f0df4c59dea2",
-          "title": "央行官员警告人工智能繁荣可能导致全球金融崩溃 / AI boom risks global financial crash, warn central bankers",
-          "url": "https://news.ycombinator.com/item?id=48713697",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-29T03:57:53.633000Z"
-        },
-        {
-          "id": "a4b8e4fb58958394baacccff5e409a7297509dd3",
-          "title": "央行行长们警告称，人工智能热潮可能引发全球金融危机 / AI boom risks global financial crash, warn central bankers",
-          "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-29T01:25:04Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5606,
-      "importance": 0.5606,
-      "importance_score": 0.5606,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9432,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-29T01:25:04Z",
-      "latest_at": "2026-06-29T04:58:49.352000Z",
-      "primary_item": {
-        "id": "f7654839cebdb3ec380377a8f0a147e4dfc5154e",
-        "title": "央行行长们警告称，人工智能热潮可能引发全球金融危机",
-        "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn",
-        "source": "www.telegraph.co.uk",
-        "source_name": "Buzzing"
       }
     }
   ]
