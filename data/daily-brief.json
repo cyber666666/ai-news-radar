@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T15:59:45.204846Z",
+  "generated_at": "2026-07-06T18:17:22.440900Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8588,
-      "importance": 0.8588,
-      "importance_score": 0.8588,
+      "score": 0.8529,
+      "importance": 0.8529,
+      "importance_score": 0.8529,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9931,
+        "recency": 0.9607,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,6 +125,87 @@
         "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_524024212bc7",
+      "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+      "primary_url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
+          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
+          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T17:04:58Z"
+        },
+        {
+          "id": "27d51a192e4620558df37cfecdee76c65102ae48",
+          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出 / If you use Google, you’re training its AI. Here’s how to opt out.",
+          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-06T17:04:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
+          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
+          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T17:04:58Z"
+        },
+        {
+          "id": "27d51a192e4620558df37cfecdee76c65102ae48",
+          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出 / If you use Google, you’re training its AI. Here’s how to opt out.",
+          "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-06T17:04:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9827,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T17:04:58Z",
+      "latest_at": "2026-07-06T17:04:58Z",
+      "primary_item": {
+        "id": "487c399476c700d7d25f0bc6e58f871db6a7a2b1",
+        "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
+        "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -181,15 +262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7972,
-      "importance": 0.7972,
-      "importance_score": 0.7972,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.942,
+        "recency": 0.9114,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -243,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9711,
+        "recency": 0.9394,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -266,6 +347,67 @@
         "title": "免费开源API中转站监测网站tokhub.me上线",
         "url": "https://x.com/vista8/status/2074130700421456089",
         "source": "X：Vista (@vista8)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b25a47366a60",
+      "title": "Claude Fable实地指南：发现你的未知",
+      "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+      "primary_url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
+          "title": "Claude Fable实地指南：发现你的未知",
+          "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T18:20:11.364000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
+          "title": "Claude Fable实地指南：发现你的未知",
+          "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T18:20:11.364000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T18:20:11.364000Z",
+      "latest_at": "2026-07-06T18:20:11.364000Z",
+      "primary_item": {
+        "id": "50fb66c456ff8c0d2528f0733783fe9511449e58",
+        "title": "Claude Fable实地指南：发现你的未知",
+        "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -323,15 +465,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8547,
+        "recency": 0.8268,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -348,6 +490,68 @@
         "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c57690ad336e",
+      "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "primary_url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+          "url": "https://huggingface.co/blog/revamped-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-06T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+          "url": "https://huggingface.co/blog/revamped-kernels",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-06T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7679,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T00:00:00Z",
+      "latest_at": "2026-07-06T00:00:00Z",
+      "primary_item": {
+        "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
+        "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
+        "url": "https://huggingface.co/blog/revamped-kernels",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -404,15 +608,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8356,
+        "recency": 0.8084,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -429,68 +633,6 @@
         "url": "https://www.aibase.com/news/29391",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c57690ad336e",
-      "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "primary_url": "https://huggingface.co/blog/revamped-kernels",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
-          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
-          "url": "https://huggingface.co/blog/revamped-kernels",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-06T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
-          "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
-          "url": "https://huggingface.co/blog/revamped-kernels",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-06T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7937,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T00:00:00Z",
-      "latest_at": "2026-07-06T00:00:00Z",
-      "primary_item": {
-        "id": "aba4c5168fe116bd37b2128797e04180fb67b267",
-        "title": "🤗 内核：主要更新 / 🤗 Kernels: Major Updates",
-        "url": "https://huggingface.co/blog/revamped-kernels",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -528,15 +670,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7313,
+        "recency": 0.7075,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -589,21 +731,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.909,
+        "recency": 0.8794,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-06T09:23:28Z",
       "latest_at": "2026-07-06T09:23:28Z",
@@ -669,15 +810,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7841,
-      "importance": 0.7841,
-      "importance_score": 0.7841,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.903,
+        "recency": 0.8736,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -693,6 +834,66 @@
         "title": "AT&T 1956年专利法令：公共天才的私有化",
         "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_de6778c5c1da",
+      "title": "OpenClaw 登陆 HuggingFace 本地应用",
+      "url": "https://x.com/openclaw/status/2074187998602871212",
+      "primary_url": "https://x.com/openclaw/status/2074187998602871212",
+      "source": "X：OpenClaw (@openclaw)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5ebe89bc4bc8977fba9d98f97d9ad09e46a73dd1",
+          "title": "OpenClaw 登陆 HuggingFace 本地应用",
+          "url": "https://x.com/openclaw/status/2074187998602871212",
+          "source": "X：OpenClaw (@openclaw)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T17:45:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenClaw (@openclaw)"
+      ],
+      "items": [
+        {
+          "id": "5ebe89bc4bc8977fba9d98f97d9ad09e46a73dd1",
+          "title": "OpenClaw 登陆 HuggingFace 本地应用",
+          "url": "https://x.com/openclaw/status/2074187998602871212",
+          "source": "X：OpenClaw (@openclaw)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T17:45:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9924,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T17:45:30Z",
+      "latest_at": "2026-07-06T17:45:30Z",
+      "primary_item": {
+        "id": "5ebe89bc4bc8977fba9d98f97d9ad09e46a73dd1",
+        "title": "OpenClaw 登陆 HuggingFace 本地应用",
+        "url": "https://x.com/openclaw/status/2074187998602871212",
+        "source": "X：OpenClaw (@openclaw)",
         "source_name": "AI HOT"
       }
     },
@@ -731,15 +932,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8676,
+        "recency": 0.8393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -753,6 +954,66 @@
         "title": "Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先",
         "url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA",
         "source": "公众号：通义实验室（千问）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5edeeba22428",
+      "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
+      "url": "https://www.lmsys.org/blog/2026-07-06-dspark-sglang",
+      "primary_url": "https://www.lmsys.org/blog/2026-07-06-dspark-sglang",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "49628e1e03f12687cb430a39a9271d1a22f1c3de",
+          "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
+          "url": "https://www.lmsys.org/blog/2026-07-06-dspark-sglang",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T17:11:47.280000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "49628e1e03f12687cb430a39a9271d1a22f1c3de",
+          "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
+          "url": "https://www.lmsys.org/blog/2026-07-06-dspark-sglang",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T17:11:47.280000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9843,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T17:11:47.280000Z",
+      "latest_at": "2026-07-06T17:11:47.280000Z",
+      "primary_item": {
+        "id": "49628e1e03f12687cb430a39a9271d1a22f1c3de",
+        "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
+        "url": "https://www.lmsys.org/blog/2026-07-06-dspark-sglang",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
@@ -791,15 +1052,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7602,
+        "recency": 0.7354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -851,15 +1112,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.809,
+        "recency": 0.7827,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -873,6 +1134,66 @@
         "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
         "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
         "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_60bdc3118a12",
+      "title": "Runway 宣布设立巴黎办公室",
+      "url": "https://runwayml.com/news/announcing-our-paris-office",
+      "primary_url": "https://runwayml.com/news/announcing-our-paris-office",
+      "source": "Runway：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8fdee97c9c4caa844f4811fc26dccc86696228f1",
+          "title": "Runway 宣布设立巴黎办公室",
+          "url": "https://runwayml.com/news/announcing-our-paris-office",
+          "source": "Runway：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T08:33:02.716000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Runway：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "8fdee97c9c4caa844f4811fc26dccc86696228f1",
+          "title": "Runway 宣布设立巴黎办公室",
+          "url": "https://runwayml.com/news/announcing-our-paris-office",
+          "source": "Runway：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T08:33:02.716000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8688,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T08:33:02.716000Z",
+      "latest_at": "2026-07-06T08:33:02.716000Z",
+      "primary_item": {
+        "id": "8fdee97c9c4caa844f4811fc26dccc86696228f1",
+        "title": "Runway 宣布设立巴黎办公室",
+        "url": "https://runwayml.com/news/announcing-our-paris-office",
+        "source": "Runway：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -911,15 +1232,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9493,
+        "recency": 0.9183,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,66 +1256,6 @@
         "url": "https://www.aibase.com/news/29405",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_60bdc3118a12",
-      "title": "Runway 宣布设立巴黎办公室",
-      "url": "https://runwayml.com/news/announcing-our-paris-office",
-      "primary_url": "https://runwayml.com/news/announcing-our-paris-office",
-      "source": "Runway：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8fdee97c9c4caa844f4811fc26dccc86696228f1",
-          "title": "Runway 宣布设立巴黎办公室",
-          "url": "https://runwayml.com/news/announcing-our-paris-office",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T08:33:02.716000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Runway：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "8fdee97c9c4caa844f4811fc26dccc86696228f1",
-          "title": "Runway 宣布设立巴黎办公室",
-          "url": "https://runwayml.com/news/announcing-our-paris-office",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T08:33:02.716000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8981,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T08:33:02.716000Z",
-      "latest_at": "2026-07-06T08:33:02.716000Z",
-      "primary_item": {
-        "id": "8fdee97c9c4caa844f4811fc26dccc86696228f1",
-        "title": "Runway 宣布设立巴黎办公室",
-        "url": "https://runwayml.com/news/announcing-our-paris-office",
-        "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1032,15 +1293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
+      "score": 0.7252,
+      "importance": 0.7252,
+      "importance_score": 0.7252,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8071,
+        "recency": 0.7808,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1055,303 +1316,6 @@
         "url": "https://www.ithome.com/0/972/896.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a2d65654a136",
-      "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-      "url": "https://www.aibase.com/news/29403",
-      "primary_url": "https://www.aibase.com/news/29403",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-          "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-          "url": "https://www.aibase.com/news/29403",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T12:23:26.287237Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-          "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-          "url": "https://www.aibase.com/news/29403",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T12:23:26.287237Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9493,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T12:23:26.287237Z",
-      "latest_at": "2026-07-06T12:23:26.287237Z",
-      "primary_item": {
-        "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-        "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-        "url": "https://www.aibase.com/news/29403",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_07dd471aa88d",
-      "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
-      "url": "https://www.aibase.com/news/29404",
-      "primary_url": "https://www.aibase.com/news/29404",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
-          "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
-          "url": "https://www.aibase.com/news/29404",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T12:23:26.287237Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
-          "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
-          "url": "https://www.aibase.com/news/29404",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T12:23:26.287237Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9493,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T12:23:26.287237Z",
-      "latest_at": "2026-07-06T12:23:26.287237Z",
-      "primary_item": {
-        "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
-        "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
-        "url": "https://www.aibase.com/news/29404",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "不少朋友或许也有类似感受： 概念听了很多，但还没真正从0到1搭过一个智能体，哪怕只是个 demo。所以这篇文章不先追求一个完美定义，先把Agent和工作流的边界讲清楚，再用一个案例实际跑一遍。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-06",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "a75ec76121431530d46b241d5ff8ff03700b7d56",
-          "title": "不少朋友或许也有类似感受： 概念听了很多，但还没真正从0到1搭过一个智能体，哪怕只是个 demo。所以这篇文章不先追求一个完美定义，先把Agent和工作流的边界讲清楚，再用一个案例实际跑一遍。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-06T15:59:45.204846Z"
-        },
-        {
-          "id": "b35c47498086229d6d5bf67aae4ac1b7dcf28ab7",
-          "title": "本周热门AI论文合集覆盖自我迭代、MCP 架构、记忆管理、机器人与硬件设计全赛道前沿突破。多篇研究破解了固定评测机制造成的性能增长停滞、技能检索冗余、模型幻觉置信度失调、长时序记忆难管控等普遍难题，给出评估器协同演化、元记忆自主学习、技能联合生成等创新解法，给Agent 开发、模型优化提供了完整新思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-06T15:59:45.204846Z"
-        },
-        {
-          "id": "3a5920148152ebbc651d634969fe3012dbb461fb",
-          "title": "如果你在使用Codex搭载GPT5.5 Pro模型处理复杂推理过程中频繁遭遇AI降智，梦飞这篇实操指南可以帮你快速解决。文中附带检测脚本，还给出了完整配置修改流程，快来一起检测下。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-05T16:33:29.815104Z"
-        },
-        {
-          "id": "5a0eea87bd6fc7842136e4dc0c778b08d603ef42",
-          "title": "正在做前端开发、依赖AI编程工具的开发者，不容错过这款开源工具。Meta 把自家用了整整8年的设计系统Astryx 给开源了。它支撑过 Facebook、Instagram、Threads 等超过13000个应用的界面开发，见过各种复杂场景，踩过无数坑，然后被一点点打磨到现在这个状态。快来试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-05T16:33:29.815104Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "社区更新 · 2026-07-05",
-        "社区更新 · 2026-07-06"
-      ],
-      "items": [
-        {
-          "id": "a75ec76121431530d46b241d5ff8ff03700b7d56",
-          "title": "不少朋友或许也有类似感受： 概念听了很多，但还没真正从0到1搭过一个智能体，哪怕只是个 demo。所以这篇文章不先追求一个完美定义，先把Agent和工作流的边界讲清楚，再用一个案例实际跑一遍。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-06T15:59:45.204846Z"
-        },
-        {
-          "id": "b35c47498086229d6d5bf67aae4ac1b7dcf28ab7",
-          "title": "本周热门AI论文合集覆盖自我迭代、MCP 架构、记忆管理、机器人与硬件设计全赛道前沿突破。多篇研究破解了固定评测机制造成的性能增长停滞、技能检索冗余、模型幻觉置信度失调、长时序记忆难管控等普遍难题，给出评估器协同演化、元记忆自主学习、技能联合生成等创新解法，给Agent 开发、模型优化提供了完整新思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-06T15:59:45.204846Z"
-        },
-        {
-          "id": "3a5920148152ebbc651d634969fe3012dbb461fb",
-          "title": "如果你在使用Codex搭载GPT5.5 Pro模型处理复杂推理过程中频繁遭遇AI降智，梦飞这篇实操指南可以帮你快速解决。文中附带检测脚本，还给出了完整配置修改流程，快来一起检测下。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-05T16:33:29.815104Z"
-        },
-        {
-          "id": "5a0eea87bd6fc7842136e4dc0c778b08d603ef42",
-          "title": "正在做前端开发、依赖AI编程工具的开发者，不容错过这款开源工具。Meta 把自家用了整整8年的设计系统Astryx 给开源了。它支撑过 Facebook、Instagram、Threads 等超过13000个应用的界面开发，见过各种复杂场景，踩过无数坑，然后被一点点打磨到现在这个状态。快来试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-05T16:33:29.815104Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T16:33:29.815104Z",
-      "latest_at": "2026-07-06T15:59:45.204846Z",
-      "primary_item": {
-        "id": "a75ec76121431530d46b241d5ff8ff03700b7d56",
-        "title": "不少朋友或许也有类似感受： 概念听了很多，但还没真正从0到1搭过一个智能体，哪怕只是个 demo。所以这篇文章不先追求一个完美定义，先把Agent和工作流的边界讲清楚，再用一个案例实际跑一遍。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-06",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_aaeb755b7c2e",
-      "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-      "url": "https://www.aibase.com/news/29397",
-      "primary_url": "https://www.aibase.com/news/29397",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
-          "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-          "url": "https://www.aibase.com/news/29397",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T08:20:17.305839Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
-          "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-          "url": "https://www.aibase.com/news/29397",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T08:20:17.305839Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8953,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T08:20:17.305839Z",
-      "latest_at": "2026-07-06T08:20:17.305839Z",
-      "primary_item": {
-        "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
-        "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-        "url": "https://www.aibase.com/news/29397",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
