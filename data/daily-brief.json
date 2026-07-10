@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T05:34:44.228097Z",
+  "generated_at": "2026-07-10T09:35:00.128733Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8657,
-      "importance": 0.8657,
-      "importance_score": 0.8657,
+      "score": 0.858,
+      "importance": 0.858,
+      "importance_score": 0.858,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7537,
+        "recency": 0.7114,
         "story_heat": 0.5
       },
       "category": "official",
@@ -101,6 +101,68 @@
         "title": "OpenAI 推出 ChatGPT Work：可跨应用自主工作的 AI 智能体 / ChatGPT is now a partner for your most ambitious work",
         "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_145fbd552c75",
+      "title": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析 / Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "primary_url": "https://huggingface.co/blog/torch-attention-profile",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9f23b0d59c5cf6c4fd344774b61ac122dee0bd83",
+          "title": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析 / Profiling in PyTorch (Part 3): Attention is all you profile",
+          "url": "https://huggingface.co/blog/torch-attention-profile",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9f23b0d59c5cf6c4fd344774b61ac122dee0bd83",
+          "title": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析 / Profiling in PyTorch (Part 3): Attention is all you profile",
+          "url": "https://huggingface.co/blog/torch-attention-profile",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8708,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T00:00:00Z",
+      "latest_at": "2026-07-10T00:00:00Z",
+      "primary_item": {
+        "id": "9f23b0d59c5cf6c4fd344774b61ac122dee0bd83",
+        "title": "PyTorch 中的分析（第 3 部分）：注意力就是您的分析 / Profiling in PyTorch (Part 3): Attention is all you profile",
+        "url": "https://huggingface.co/blog/torch-attention-profile",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -139,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8302,
+        "recency": 0.7835,
         "story_heat": 0.0
       },
       "category": "official",
@@ -163,6 +225,68 @@
         "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_027b05f9d0fa",
+      "title": "德国电信如何利用人工智能重新布线电信 / How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "primary_url": "https://openai.com/index/deutsche-telekom",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ef2b525c778abd1dde9acdee80e51b3b1c2720b7",
+          "title": "德国电信如何利用人工智能重新布线电信 / How Deutsche Telekom is rewiring telecommunications with AI",
+          "url": "https://openai.com/index/deutsche-telekom",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "ef2b525c778abd1dde9acdee80e51b3b1c2720b7",
+          "title": "德国电信如何利用人工智能重新布线电信 / How Deutsche Telekom is rewiring telecommunications with AI",
+          "url": "https://openai.com/index/deutsche-telekom",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8454,
+      "importance": 0.8454,
+      "importance_score": 0.8454,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9634,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T07:00:00Z",
+      "latest_at": "2026-07-10T07:00:00Z",
+      "primary_item": {
+        "id": "ef2b525c778abd1dde9acdee80e51b3b1c2720b7",
+        "title": "德国电信如何利用人工智能重新布线电信 / How Deutsche Telekom is rewiring telecommunications with AI",
+        "url": "https://openai.com/index/deutsche-telekom",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -258,15 +382,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8934,
+        "recency": 0.8432,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -283,6 +407,149 @@
         "url": "https://www.pangram.com/blog/ai-in-your-feed",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c3ab093dbe41",
+      "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
+      "url": "https://www.ithome.com/0/975/078.htm",
+      "primary_url": "https://www.ithome.com/0/975/078.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bf79a15b6298ca280c41076e65f02137385eea5c",
+          "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
+          "url": "https://www.ithome.com/0/975/078.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T07:26:10Z"
+        },
+        {
+          "id": "a27cd8c18b7359149d81583486c91663f5b1e80a",
+          "title": "扎克伯格首度回应 Meta“算力过剩”：没人会嫌算力太多，但租出去更赚钱",
+          "url": "https://www.ithome.com/0/975/078.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-10T07:26:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bf79a15b6298ca280c41076e65f02137385eea5c",
+          "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
+          "url": "https://www.ithome.com/0/975/078.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T07:26:10Z"
+        },
+        {
+          "id": "a27cd8c18b7359149d81583486c91663f5b1e80a",
+          "title": "扎克伯格首度回应 Meta“算力过剩”：没人会嫌算力太多，但租出去更赚钱",
+          "url": "https://www.ithome.com/0/975/078.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-10T07:26:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9695,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T07:26:10Z",
+      "latest_at": "2026-07-10T07:26:10Z",
+      "primary_item": {
+        "id": "bf79a15b6298ca280c41076e65f02137385eea5c",
+        "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
+        "url": "https://www.ithome.com/0/975/078.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3f5c6212602a",
+      "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
+      "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+      "primary_url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "602db55ea0f01347e40139da035e5d4e57b78000",
+          "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
+          "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T14:25:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "602db55ea0f01347e40139da035e5d4e57b78000",
+          "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
+          "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T14:25:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7583,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T14:25:33Z",
+      "latest_at": "2026-07-09T14:25:33Z",
+      "primary_item": {
+        "id": "602db55ea0f01347e40139da035e5d4e57b78000",
+        "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
+        "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -339,15 +606,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.833,
+      "importance": 0.833,
+      "importance_score": 0.833,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7537,
+        "recency": 0.7114,
         "story_heat": 0.25
       },
       "category": "official",
@@ -368,65 +635,64 @@
       }
     },
     {
-      "story_id": "story_3f5c6212602a",
-      "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
-      "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
-      "primary_url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_499734c731df",
+      "title": "马斯克承认Anthropic是当前AI领导者",
+      "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "602db55ea0f01347e40139da035e5d4e57b78000",
-          "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
-          "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T14:25:33Z"
+          "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
+          "title": "马斯克承认Anthropic是当前AI领导者",
+          "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T07:20:46Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "602db55ea0f01347e40139da035e5d4e57b78000",
-          "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
-          "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T14:25:33Z"
+          "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
+          "title": "马斯克承认Anthropic是当前AI领导者",
+          "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T07:20:46Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
-      "importance_label": "官方更新",
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8035,
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9682,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-09T14:25:33Z",
-      "latest_at": "2026-07-09T14:25:33Z",
+      "earliest_at": "2026-07-10T07:20:46Z",
+      "latest_at": "2026-07-10T07:20:46Z",
       "primary_item": {
-        "id": "602db55ea0f01347e40139da035e5d4e57b78000",
-        "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
-        "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "992fca95b26fd842bf8cd8a87c02f03574fbcd3b",
+        "title": "马斯克承认Anthropic是当前AI领导者",
+        "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -483,15 +749,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7769,
-      "importance": 0.7769,
-      "importance_score": 0.7769,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8958,
+        "recency": 0.8455,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -511,83 +777,21 @@
       }
     },
     {
-      "story_id": "story_e799563c0958",
-      "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "primary_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
-          "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
-          "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7871,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T13:00:00Z",
-      "latest_at": "2026-07-09T13:00:00Z",
-      "primary_item": {
-        "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
-        "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9372e21fb1cc",
-      "title": "Meta携手博通与台积电，自研AI芯片“Iris”将于9月正式量产",
-      "url": "https://www.aibase.com/news/29511",
-      "primary_url": "https://www.aibase.com/news/29511",
+      "story_id": "story_9169c1ad9868",
+      "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
+      "url": "https://www.aibase.com/news/29529",
+      "primary_url": "https://www.aibase.com/news/29529",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e73bbc81540aab47bcf9043871ce93ca29df3342",
-          "title": "Meta携手博通与台积电，自研AI芯片“Iris”将于9月正式量产",
-          "url": "https://www.aibase.com/news/29511",
+          "id": "e2ddb5d6730b79cfcabde0a9a37e084654e7d1b0",
+          "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
+          "url": "https://www.aibase.com/news/29529",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-10T05:34:44.228097Z"
+          "published_at": "2026-07-10T09:35:00.128733Z"
         }
       ],
       "source_count": 1,
@@ -596,13 +800,13 @@
       ],
       "items": [
         {
-          "id": "e73bbc81540aab47bcf9043871ce93ca29df3342",
-          "title": "Meta携手博通与台积电，自研AI芯片“Iris”将于9月正式量产",
-          "url": "https://www.aibase.com/news/29511",
+          "id": "e2ddb5d6730b79cfcabde0a9a37e084654e7d1b0",
+          "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
+          "url": "https://www.aibase.com/news/29529",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-10T05:34:44.228097Z"
+          "published_at": "2026-07-10T09:35:00.128733Z"
         }
       ],
       "item_count": 1,
@@ -623,12 +827,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-10T05:34:44.228097Z",
-      "latest_at": "2026-07-10T05:34:44.228097Z",
+      "earliest_at": "2026-07-10T09:35:00.128733Z",
+      "latest_at": "2026-07-10T09:35:00.128733Z",
       "primary_item": {
-        "id": "e73bbc81540aab47bcf9043871ce93ca29df3342",
-        "title": "Meta携手博通与台积电，自研AI芯片“Iris”将于9月正式量产",
-        "url": "https://www.aibase.com/news/29511",
+        "id": "e2ddb5d6730b79cfcabde0a9a37e084654e7d1b0",
+        "title": "AI日报：GPT5.6系列模型发布 Codex消失;腾讯拟接盘Manus成最大股东；MiniMax创始人宣布零薪酬直至实现AGI",
+        "url": "https://www.aibase.com/news/29529",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -687,15 +891,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8459,
+        "recency": 0.7984,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -768,15 +972,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7948,
+        "recency": 0.7501,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -793,6 +997,128 @@
         "url": "https://www.anthropic.com/news/reflect-with-claude",
         "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_46606c79e2c4",
+      "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+      "url": "https://x.com/elonmusk/status/2075478792273842370",
+      "primary_url": "https://x.com/elonmusk/status/2075478792273842370",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f765b7f5dd2f5564d45c96336c273153549df809",
+          "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+          "url": "https://x.com/elonmusk/status/2075478792273842370",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T07:14:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "f765b7f5dd2f5564d45c96336c273153549df809",
+          "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+          "url": "https://x.com/elonmusk/status/2075478792273842370",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T07:14:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9668,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-10T07:14:39Z",
+      "latest_at": "2026-07-10T07:14:39Z",
+      "primary_item": {
+        "id": "f765b7f5dd2f5564d45c96336c273153549df809",
+        "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+        "url": "https://x.com/elonmusk/status/2075478792273842370",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_76bc3afbe01a",
+      "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
+      "primary_url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
+          "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T15:54:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
+          "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T15:54:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7746,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T15:54:01Z",
+      "latest_at": "2026-07-09T15:54:01Z",
+      "primary_item": {
+        "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
+        "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
+        "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -849,22 +1175,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9463,
+        "recency": 0.8931,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T01:45:26Z",
       "latest_at": "2026-07-10T01:45:26Z",
@@ -874,68 +1199,6 @@
         "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
         "source": "Claude Code：GitHub Releases（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_76bc3afbe01a",
-      "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
-      "primary_url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
-          "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T15:54:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
-          "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T15:54:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8208,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T15:54:01Z",
-      "latest_at": "2026-07-09T15:54:01Z",
-      "primary_item": {
-        "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
-        "title": "GitHub 代码质量的组织级目标 / Organization-level targeting for GitHub Code Quality",
-        "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -973,15 +1236,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9271,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -996,6 +1259,67 @@
         "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
         "source": "Google Research：Blog（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b1be13fe5108",
+      "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+      "url": "https://www.aibase.com/news/29526",
+      "primary_url": "https://www.aibase.com/news/29526",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
+          "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+          "url": "https://www.aibase.com/news/29526",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T09:35:00.128733Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
+          "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+          "url": "https://www.aibase.com/news/29526",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T09:35:00.128733Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T09:35:00.128733Z",
+      "latest_at": "2026-07-10T09:35:00.128733Z",
+      "primary_item": {
+        "id": "4a39cb680452f4ea48c05a1d6b973a19efe1cc93",
+        "title": "Kimi联合美国运通与农业银行正式发行首张AI原生信用卡",
+        "url": "https://www.aibase.com/news/29526",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1052,15 +1376,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8937,
+        "recency": 0.8435,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1076,86 +1400,6 @@
         "title": "AI 能否回答 3 万亿美元的问题？",
         "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
         "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9c73846f1249",
-      "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
-      "url": "https://www.ithome.com/0/974/508.htm",
-      "primary_url": "https://www.ithome.com/0/974/508.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a2f501cf21cb01f411ad10144d46d76a09ca70e1",
-          "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
-          "url": "https://www.ithome.com/0/974/508.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T06:53:40Z"
-        },
-        {
-          "id": "564709296f1eb6f1ac908fd769b43f3b9d1c9815",
-          "title": "无限世界、实时交互，蚂蚁灵波开源 LingBot-World 2.0 世界模型",
-          "url": "https://www.ithome.com/0/974/508.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-09T06:53:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a2f501cf21cb01f411ad10144d46d76a09ca70e1",
-          "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
-          "url": "https://www.ithome.com/0/974/508.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T06:53:40Z"
-        },
-        {
-          "id": "564709296f1eb6f1ac908fd769b43f3b9d1c9815",
-          "title": "无限世界、实时交互，蚂蚁灵波开源 LingBot-World 2.0 世界模型",
-          "url": "https://www.ithome.com/0/974/508.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-09T06:53:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7207,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-09T06:53:40Z",
-      "latest_at": "2026-07-09T06:53:40Z",
-      "primary_item": {
-        "id": "a2f501cf21cb01f411ad10144d46d76a09ca70e1",
-        "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
-        "url": "https://www.ithome.com/0/974/508.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1194,15 +1438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8424,
+        "recency": 0.795,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1217,287 +1461,6 @@
         "url": "https://x.com/OpenAI/status/2075274271845404744",
         "source": "X：OpenAI (@OpenAI)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1c2e0b9ec777",
-      "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-      "url": "https://cognition.com/blog/swe-1-7",
-      "primary_url": "https://cognition.com/blog/swe-1-7",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "60521aa071bdc891ec43640ed49f03791c17803a",
-          "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-          "url": "https://cognition.com/blog/swe-1-7",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17.901000Z"
-        },
-        {
-          "id": "29675c47433ebe96c44d819c56cf2e1043cbe5a2",
-          "title": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
-          "url": "https://cognition.com/blog/swe-1-7",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17.901000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "60521aa071bdc891ec43640ed49f03791c17803a",
-          "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-          "url": "https://cognition.com/blog/swe-1-7",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17.901000Z"
-        },
-        {
-          "id": "29675c47433ebe96c44d819c56cf2e1043cbe5a2",
-          "title": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
-          "url": "https://cognition.com/blog/swe-1-7",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17.901000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8934,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T21:46:17.901000Z",
-      "latest_at": "2026-07-09T21:46:17.901000Z",
-      "primary_item": {
-        "id": "60521aa071bdc891ec43640ed49f03791c17803a",
-        "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-        "url": "https://cognition.com/blog/swe-1-7",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b1da07b1e47d",
-      "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍",
-      "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
-      "primary_url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ae5727862d8df5235b90365ad06ee86f9f9b86c1",
-          "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍",
-          "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T08:47:37Z"
-        },
-        {
-          "id": "0012264c227029a32f0dbe7b21de53a7d631c69b",
-          "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍 / NVIDIA Releases Nemotron-Labs-3-Puzzle-75B-A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput at Matched User Throughput",
-          "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-09T08:47:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ae5727862d8df5235b90365ad06ee86f9f9b86c1",
-          "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍",
-          "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T08:47:37Z"
-        },
-        {
-          "id": "0012264c227029a32f0dbe7b21de53a7d631c69b",
-          "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍 / NVIDIA Releases Nemotron-Labs-3-Puzzle-75B-A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput at Matched User Throughput",
-          "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-09T08:47:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7407,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-09T08:47:37Z",
-      "latest_at": "2026-07-09T08:47:37Z",
-      "primary_item": {
-        "id": "ae5727862d8df5235b90365ad06ee86f9f9b86c1",
-        "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍",
-        "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9baa133cc339",
-      "title": "OpenAI 发布最强模型与最佳博文",
-      "url": "https://x.com/sama/status/2075266471316615436",
-      "primary_url": "https://x.com/sama/status/2075266471316615436",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "25f0fc9766ee6d9cf5aba2d2f27d81e4b747bcb9",
-          "title": "OpenAI 发布最强模型与最佳博文",
-          "url": "https://x.com/sama/status/2075266471316615436",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T17:10:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "25f0fc9766ee6d9cf5aba2d2f27d81e4b747bcb9",
-          "title": "OpenAI 发布最强模型与最佳博文",
-          "url": "https://x.com/sama/status/2075266471316615436",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T17:10:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8361,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-09T17:10:58Z",
-      "latest_at": "2026-07-09T17:10:58Z",
-      "primary_item": {
-        "id": "25f0fc9766ee6d9cf5aba2d2f27d81e4b747bcb9",
-        "title": "OpenAI 发布最强模型与最佳博文",
-        "url": "https://x.com/sama/status/2075266471316615436",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9b3d587a8278",
-      "title": "MiniMax完成160亿港元新一轮融资，创始人闫俊杰宣布零薪酬直至实现AGI",
-      "url": "https://www.aibase.com/news/29519",
-      "primary_url": "https://www.aibase.com/news/29519",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "42bc7188ee463bf4dccb1d0ad515befaa25ee6b8",
-          "title": "MiniMax完成160亿港元新一轮融资，创始人闫俊杰宣布零薪酬直至实现AGI",
-          "url": "https://www.aibase.com/news/29519",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T05:34:44.228097Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "42bc7188ee463bf4dccb1d0ad515befaa25ee6b8",
-          "title": "MiniMax完成160亿港元新一轮融资，创始人闫俊杰宣布零薪酬直至实现AGI",
-          "url": "https://www.aibase.com/news/29519",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T05:34:44.228097Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T05:34:44.228097Z",
-      "latest_at": "2026-07-10T05:34:44.228097Z",
-      "primary_item": {
-        "id": "42bc7188ee463bf4dccb1d0ad515befaa25ee6b8",
-        "title": "MiniMax完成160亿港元新一轮融资，创始人闫俊杰宣布零薪酬直至实现AGI",
-        "url": "https://www.aibase.com/news/29519",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
