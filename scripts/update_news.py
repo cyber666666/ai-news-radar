@@ -4493,6 +4493,59 @@ def translate_to_zh_cn(session: requests.Session, text: str) -> str | None:
 
 ZH_CACHE_DS_PREFIX = "ds1|"
 
+TRANSLATION_GLOSSARY_FILENAME = "translation-glossary.txt"
+
+# 进程级词表缓存：None 表示尚未加载，加载后为 (protected_terms, repairs)。
+_GLOSSARY_CACHE: tuple[list[str], list[tuple[str, str, str | None]]] | None = None
+
+
+def load_translation_glossary(
+    path: str | Path = TRANSLATION_GLOSSARY_FILENAME,
+) -> tuple[list[str], list[tuple[str, str, str | None]]]:
+    """解析根目录翻译词表，返回 (protected_terms, repairs)。
+
+    词表格式（fork 用户直接编辑 translation-glossary.txt）：
+    - 普通行 = 保护术语（翻译时保留原文）
+    - ``bad => good [@guard]`` = 修正规则；guard 表示只有英文原标题
+      包含该关键词（大小写不敏感）才执行替换，可省略。
+    文件缺失或解析异常时静默返回空表，fork 删掉文件也不影响管线。
+    """
+    protected_terms: list[str] = []
+    repairs: list[tuple[str, str, str | None]] = []
+    try:
+        p = Path(path)
+        if not p.is_absolute():
+            p = Path(__file__).resolve().parent.parent / p
+        for raw_line in p.read_text(encoding="utf-8").splitlines():
+            line = raw_line.strip()
+            if not line or line.startswith("#"):
+                continue
+            if "=>" in line:
+                bad, _, rest = line.partition("=>")
+                bad = bad.strip()
+                rest = rest.strip()
+                guard: str | None = None
+                if "@" in rest:
+                    good_part, _, guard_part = rest.rpartition("@")
+                    good = good_part.strip()
+                    guard = guard_part.strip() or None
+                else:
+                    good = rest
+                if bad and good:
+                    repairs.append((bad, good, guard))
+            else:
+                protected_terms.append(line)
+    except Exception:
+        return [], []
+    return protected_terms, repairs
+
+
+def _get_translation_glossary() -> tuple[list[str], list[tuple[str, str, str | None]]]:
+    global _GLOSSARY_CACHE
+    if _GLOSSARY_CACHE is None:
+        _GLOSSARY_CACHE = load_translation_glossary()
+    return _GLOSSARY_CACHE
+
 
 def translate_to_zh_deepseek(text: str, timeout: int = 20) -> str | None:
     s = (text or "").strip()
@@ -4503,10 +4556,15 @@ def translate_to_zh_deepseek(text: str, timeout: int = 20) -> str | None:
         return None
     base_url = str(os.environ.get("DEEPSEEK_API_BASE_URL") or "https://api.deepseek.com").strip().rstrip("/")
     model = str(os.environ.get("DEEPSEEK_MODEL") or "deepseek-chat").strip()
+    protected_terms, _ = _get_translation_glossary()
+    if protected_terms:
+        term_list = "、".join(protected_terms)
+    else:
+        term_list = "Codex、Claude、OpenAI、Anthropic、Hugging Face、The Information"
     system_prompt = (
         "你是科技新闻编辑，把英文 AI/科技新闻标题翻译成地道的简体中文。"
         "产品名、公司名、模型名、媒体名、人名一律保留英文原文不翻译"
-        "（如 Codex、Claude、OpenAI、Anthropic、Hugging Face、The Information）。"
+        f"（如 {term_list}）。"
         "用自然的中文表达，说人话，避免翻译腔。"
         "只返回译文本身，不加引号，不加解释，长度贴近原标题的信息量。"
     )
@@ -4587,6 +4645,18 @@ def repair_zh_title_translation(original: str, translated: str) -> str:
     # 公司名 Perplexity 被译成"困惑"；大小写敏感匹配，避免误伤指标含义的 perplexity。
     if re.search(r"\bPerplexity\b", source):
         result = result.replace("困惑", "Perplexity")
+    # 词表修正规则（translation-glossary.txt）：guard 语义与上面硬编码规则一致——
+    # 只有英文原标题包含 guard 关键词才替换，防误伤。
+    _, glossary_repairs = _get_translation_glossary()
+    for bad, good, guard in glossary_repairs:
+        if bad not in result:
+            continue
+        if guard and not re.search(re.escape(guard), source, re.I):
+            continue
+        result = result.replace(bad, good)
+        # 替换目标为纯 ASCII 术语时，清理机翻残留的紧贴书名号，如《Fable 5》→ Fable 5。
+        if good.isascii():
+            result = re.sub(r"《(" + re.escape(good) + r"[^《》]*)》", r"\1", result)
     return result
 
 

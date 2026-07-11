@@ -183,7 +183,7 @@ If `daily-brief.json` is not available yet, the page falls back to candidate Sco
 4. **Enable GitHub Pages**: Settings → Pages, serve the master branch root. Your radar is live minutes later.
 5. **Change one line in the skill**: point the `BASE_URL` at the top of `skills/radar/SKILL.md` to `https://<your-username>.github.io/ai-news-radar/data`, and your agent reads your data from now on.
 
-To change sources: put your subscriptions into `feeds/follow.opml` (see `feeds/follow.example.opml`), or let the in-repo [Scout Skill](skills/ai-news-radar/README.md) judge and ingest them. To change tastes: edit the markdown files under `personas/`. Want your own domain: (optional) import the repo into Vercel — the included `vercel.json` is ready, zero build.
+To change sources: put your subscriptions into `feeds/follow.opml` (see `feeds/follow.example.opml`), or let the in-repo [Scout Skill](skills/ai-news-radar/README.md) judge and ingest them. To change tastes: edit the markdown files under `personas/`. Unhappy with a translation: edit `translation-glossary.txt` in the repo root (protected terms + repair rules, format documented in the file) and the next pipeline run picks it up. Want your own domain: (optional) import the repo into Vercel — the included `vercel.json` is ready, zero build.
 
 ## Quick start (run locally)
 
