@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T17:58:59.524998Z",
+  "generated_at": "2026-07-11T19:17:32.702005Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -127,15 +127,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
+      "score": 0.8445,
+      "importance": 0.8445,
+      "importance_score": 0.8445,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9791,
+        "recency": 0.9607,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -201,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7352,
+        "recency": 0.7214,
         "story_heat": 0.0
       },
       "category": "official",
@@ -230,161 +230,6 @@
         "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a02db43ccd2c",
-      "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "primary_url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
-          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "title_zh": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "title_en": null,
-          "title_original": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "summary": "OpenAI 发布论文，称 GPT-5.6 Sol Ultra 证明了图论中悬而未决的\"循环双覆盖猜想\"。该猜想断言每个无桥无向图都存在一组环，每条边恰好被覆盖两次。论文利用 GPT-5.6 Sol Ultra 完成证明，并借助 Codex 撰写。证明过程首先将问题简化为三次图，利用 8-流定理和 Tutte 的结果将边标记为 F32 的非零元，再转化为每个顶点处每个元素出现零次或两次的二元集标记，最终归结为线性代数论证。",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        },
-        {
-          "id": "46540be3e8a57ebb17b11711d6a724691bc29d93",
-          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\" / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "title_zh": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "title_en": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "title_original": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48863490",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T20:49:31.280000Z"
-        },
-        {
-          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
-          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
-          "title_zh": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
-          "title_en": null,
-          "title_original": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
-          "summary": null,
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "cdn.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        },
-        {
-          "id": "1c869bdabef92e2c1ad32dcb465253b2d0da7ce0",
-          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf] / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "title_zh": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
-          "title_en": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "title_original": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "summary": null,
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-10T18:29:19Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "cdn.openai.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
-          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "title_zh": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "title_en": null,
-          "title_original": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "summary": "OpenAI 发布论文，称 GPT-5.6 Sol Ultra 证明了图论中悬而未决的\"循环双覆盖猜想\"。该猜想断言每个无桥无向图都存在一组环，每条边恰好被覆盖两次。论文利用 GPT-5.6 Sol Ultra 完成证明，并借助 Codex 撰写。证明过程首先将问题简化为三次图，利用 8-流定理和 Tutte 的结果将边标记为 F32 的非零元，再转化为每个顶点处每个元素出现零次或两次的二元集标记，最终归结为线性代数论证。",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        },
-        {
-          "id": "46540be3e8a57ebb17b11711d6a724691bc29d93",
-          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\" / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "title_zh": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-          "title_en": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "title_original": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48863490",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T20:49:31.280000Z"
-        },
-        {
-          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
-          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
-          "title_zh": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
-          "title_en": null,
-          "title_original": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
-          "summary": null,
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "cdn.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T19:59:11.362000Z"
-        },
-        {
-          "id": "1c869bdabef92e2c1ad32dcb465253b2d0da7ce0",
-          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf] / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "title_zh": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
-          "title_en": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "title_original": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "summary": null,
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-10T18:29:19Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7279,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T18:29:19Z",
-      "latest_at": "2026-07-10T20:49:31.280000Z",
-      "primary_item": {
-        "id": "feafedc0669c405607e613d397ecd9560defc7b4",
-        "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-        "title_zh": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-        "title_en": null,
-        "title_original": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-        "summary": "OpenAI 发布论文，称 GPT-5.6 Sol Ultra 证明了图论中悬而未决的\"循环双覆盖猜想\"。该猜想断言每个无桥无向图都存在一组环，每条边恰好被覆盖两次。论文利用 GPT-5.6 Sol Ultra 完成证明，并借助 Codex 撰写。证明过程首先将问题简化为三次图，利用 8-流定理和 Tutte 的结果将边标记为 F32 的非零元，再转化为每个顶点处每个元素出现零次或两次的二元集标记，最终归结为线性代数论证。",
-        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -457,15 +302,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.865,
+        "recency": 0.8488,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -531,15 +376,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.987,
+        "recency": 0.9685,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -604,15 +449,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7291,
+        "recency": 0.7154,
         "story_heat": 0.0
       },
       "category": "official",
@@ -705,15 +550,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8602,
+        "recency": 0.8441,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -779,15 +624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7573,
+        "recency": 0.7431,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -806,161 +651,6 @@
         "summary": "苹果公司今日在加州北区联邦地方法院对OpenAI提起诉讼，指控其系统性窃取苹果商业机密，用于开发AI硬件设备。被告包括OpenAI、其硬件负责人Tang Tan（前苹果iPhone和Apple Watch产品设计副总裁，在苹果任职24年）、前苹果高级系统电气工程师Chang Liu，以及Jony Ive联合创立的io Products。Jony Ive本人未被列为被告。",
         "url": "https://x.com/dotey/status/2075712647723397452",
         "source": "X：宝玉 (@dotey)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_04c3e5477225",
-      "title": "博科圣地如何利用前沿AI技术",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "primary_url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0fcfafa4d0147d526e038448d575a139d54ae99",
-          "title": "博科圣地如何利用前沿AI技术",
-          "title_zh": "博科圣地如何利用前沿AI技术",
-          "title_en": null,
-          "title_original": "博科圣地如何利用前沿AI技术",
-          "summary": "2025至2026年间对尼日利亚东北部27名前\"博科圣地\"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将AI用于袭击策划、武器故障排查及爆炸装置设计。相关技术通过跨国圣战网络传播，伊斯兰国特工提供了面对面培训。受访者对AI表现出强烈热情，部分人对大规模杀伤性武器持开放态度，但记录在案的使用仍限于常规手段。",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T22:07:19.177000Z"
-        },
-        {
-          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-          "title_zh": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-          "title_en": null,
-          "title_original": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-          "summary": null,
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "casp.ac",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T22:07:19.177000Z"
-        },
-        {
-          "id": "45cfc2d272a9cca3a071eed8914214dc54508623",
-          "title": "博科圣地如何利用前沿AI技术 / How the terrorist group Boko Haram uses frontier AI",
-          "title_zh": "博科圣地如何利用前沿AI技术",
-          "title_en": "How the terrorist group Boko Haram uses frontier AI",
-          "title_original": "How the terrorist group Boko Haram uses frontier AI",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48863707",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T20:49:31.280000Z"
-        },
-        {
-          "id": "78fdf7c9ed27afcfbbee4adfcdea6ffd4666d818",
-          "title": "博科圣地如何利用前沿AI技术 / How the Terrorist Group Boko Haram Uses Frontier AI",
-          "title_zh": "博科圣地如何利用前沿AI技术",
-          "title_en": "How the Terrorist Group Boko Haram Uses Frontier AI",
-          "title_original": "How the Terrorist Group Boko Haram Uses Frontier AI",
-          "summary": null,
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T18:49:26Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "casp.ac",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f0fcfafa4d0147d526e038448d575a139d54ae99",
-          "title": "博科圣地如何利用前沿AI技术",
-          "title_zh": "博科圣地如何利用前沿AI技术",
-          "title_en": null,
-          "title_original": "博科圣地如何利用前沿AI技术",
-          "summary": "2025至2026年间对尼日利亚东北部27名前\"博科圣地\"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将AI用于袭击策划、武器故障排查及爆炸装置设计。相关技术通过跨国圣战网络传播，伊斯兰国特工提供了面对面培训。受访者对AI表现出强烈热情，部分人对大规模杀伤性武器持开放态度，但记录在案的使用仍限于常规手段。",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T22:07:19.177000Z"
-        },
-        {
-          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-          "title_zh": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-          "title_en": null,
-          "title_original": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-          "summary": null,
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "casp.ac",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T22:07:19.177000Z"
-        },
-        {
-          "id": "45cfc2d272a9cca3a071eed8914214dc54508623",
-          "title": "博科圣地如何利用前沿AI技术 / How the terrorist group Boko Haram uses frontier AI",
-          "title_zh": "博科圣地如何利用前沿AI技术",
-          "title_en": "How the terrorist group Boko Haram uses frontier AI",
-          "title_original": "How the terrorist group Boko Haram uses frontier AI",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48863707",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T20:49:31.280000Z"
-        },
-        {
-          "id": "78fdf7c9ed27afcfbbee4adfcdea6ffd4666d818",
-          "title": "博科圣地如何利用前沿AI技术 / How the Terrorist Group Boko Haram Uses Frontier AI",
-          "title_zh": "博科圣地如何利用前沿AI技术",
-          "title_en": "How the Terrorist Group Boko Haram Uses Frontier AI",
-          "title_original": "How the Terrorist Group Boko Haram Uses Frontier AI",
-          "summary": null,
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T18:49:26Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8127,
-      "importance": 0.8127,
-      "importance_score": 0.8127,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7507,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T18:49:26Z",
-      "latest_at": "2026-07-10T22:07:19.177000Z",
-      "primary_item": {
-        "id": "f0fcfafa4d0147d526e038448d575a139d54ae99",
-        "title": "博科圣地如何利用前沿AI技术",
-        "title_zh": "博科圣地如何利用前沿AI技术",
-        "title_en": null,
-        "title_original": "博科圣地如何利用前沿AI技术",
-        "summary": "2025至2026年间对尼日利亚东北部27名前\"博科圣地\"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将AI用于袭击策划、武器故障排查及爆炸装置设计。相关技术通过跨国圣战网络传播，伊斯兰国特工提供了面对面培训。受访者对AI表现出强烈热情，部分人对大规模杀伤性武器持开放态度，但记录在案的使用仍限于常规手段。",
-        "url": "https://casp.ac/reports/ai-enabled-terrorism",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1007,21 +697,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9827,
+        "recency": 0.9643,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-11T16:46:22Z",
       "latest_at": "2026-07-11T16:46:22Z",
@@ -1034,6 +723,107 @@
         "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
         "url": "https://x.com/sama/status/2075985056846451123",
         "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a02db43ccd2c",
+      "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "primary_url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
+          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "title_zh": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "title_en": null,
+          "title_original": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "summary": "OpenAI 发布论文，称 GPT-5.6 Sol Ultra 证明了图论中悬而未决的\"循环双覆盖猜想\"。该猜想断言每个无桥无向图都存在一组环，每条边恰好被覆盖两次。论文利用 GPT-5.6 Sol Ultra 完成证明，并借助 Codex 撰写。证明过程首先将问题简化为三次图，利用 8-流定理和 Tutte 的结果将边标记为 F32 的非零元，再转化为每个顶点处每个元素出现零次或两次的二元集标记，最终归结为线性代数论证。",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        },
+        {
+          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
+          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
+          "title_zh": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
+          "title_en": null,
+          "title_original": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
+          "summary": null,
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "cdn.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cdn.openai.com"
+      ],
+      "items": [
+        {
+          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
+          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "title_zh": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "title_en": null,
+          "title_original": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "summary": "OpenAI 发布论文，称 GPT-5.6 Sol Ultra 证明了图论中悬而未决的\"循环双覆盖猜想\"。该猜想断言每个无桥无向图都存在一组环，每条边恰好被覆盖两次。论文利用 GPT-5.6 Sol Ultra 完成证明，并借助 Codex 撰写。证明过程首先将问题简化为三次图，利用 8-流定理和 Tutte 的结果将边标记为 F32 的非零元，再转化为每个顶点处每个元素出现零次或两次的二元集标记，最终归结为线性代数论证。",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        },
+        {
+          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
+          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
+          "title_zh": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
+          "title_en": null,
+          "title_original": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
+          "summary": null,
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "cdn.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7142,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T19:59:11.362000Z",
+      "latest_at": "2026-07-10T19:59:11.362000Z",
+      "primary_item": {
+        "id": "feafedc0669c405607e613d397ecd9560defc7b4",
+        "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+        "title_zh": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+        "title_en": null,
+        "title_original": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+        "summary": "OpenAI 发布论文，称 GPT-5.6 Sol Ultra 证明了图论中悬而未决的\"循环双覆盖猜想\"。该猜想断言每个无桥无向图都存在一组环，每条边恰好被覆盖两次。论文利用 GPT-5.6 Sol Ultra 完成证明，并借助 Codex 撰写。证明过程首先将问题简化为三次图，利用 8-流定理和 Tutte 的结果将边标记为 F32 的非零元，再转化为每个顶点处每个元素出现零次或两次的二元集标记，最终归结为线性代数论证。",
+        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1080,15 +870,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7336,
+        "recency": 0.7199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1152,15 +942,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7933,
+        "recency": 0.7784,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1224,15 +1014,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7694,
+        "recency": 0.755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1296,15 +1086,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7322,
+        "recency": 0.7185,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1326,219 +1116,103 @@
       }
     },
     {
-      "story_id": "story_ca148adb8845",
-      "title": "GPT-5.6 Sol Ultra 用 64 子智能体一小时破解 50 年数学难题 / More test-time compute leads to greater intelligence. But as we push ttc from seconds to weeks， late…",
-      "url": "https://x.com/polynoamial/status/2075647948906533297",
-      "primary_url": "https://x.com/polynoamial/status/2075647948906533297",
-      "source": "X：Noam Brown (@polynoamial)",
+      "story_id": "story_04c3e5477225",
+      "title": "博科圣地如何利用前沿AI技术",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "primary_url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "cd95db0445813d0e651de60d96b8248915704123",
-          "title": "GPT-5.6 Sol Ultra 用 64 子智能体一小时破解 50 年数学难题 / More test-time compute leads to greater intelligence. But as we push ttc from seconds to weeks， late…",
-          "title_zh": "GPT-5.6 Sol Ultra 用 64 子智能体一小时破解 50 年数学难题",
-          "title_en": "More test-time compute leads to greater intelligence. But as we push ttc from seconds to weeks， late…",
-          "title_original": "More test-time compute leads to greater intelligence. But as we push ttc from seconds to weeks， late…",
-          "summary": "Noam Brown 指出，更多测试时计算带来更强智能，但将计算时间从秒级推至周级时，延迟成为瓶颈。GPT-5.6 Sol Ultra 通过并行测试时计算，将解决一个 50 年难题的时间从一整天缩短至一小时。引用推文显示，该模型已正式可用，并成功使用 64 个子智能体在一小时内证明了存在 50 年的 Cycle Double Cover Conjecture，同时公开了提示词和证明过程。",
-          "url": "https://x.com/polynoamial/status/2075647948906533297",
-          "source": "X：Noam Brown (@polynoamial)",
+          "id": "f0fcfafa4d0147d526e038448d575a139d54ae99",
+          "title": "博科圣地如何利用前沿AI技术",
+          "title_zh": "博科圣地如何利用前沿AI技术",
+          "title_en": null,
+          "title_original": "博科圣地如何利用前沿AI技术",
+          "summary": "2025至2026年间对尼日利亚东北部27名前\"博科圣地\"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将AI用于袭击策划、武器故障排查及爆炸装置设计。相关技术通过跨国圣战网络传播，伊斯兰国特工提供了面对面培训。受访者对AI表现出强烈热情，部分人对大规模杀伤性武器持开放态度，但记录在案的使用仍限于常规手段。",
+          "url": "https://casp.ac/reports/ai-enabled-terrorism",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-10T18:26:49Z"
+          "published_at": "2026-07-10T22:07:19.177000Z"
+        },
+        {
+          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
+          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
+          "title_zh": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
+          "title_en": null,
+          "title_original": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
+          "summary": null,
+          "url": "https://casp.ac/reports/ai-enabled-terrorism",
+          "source": "casp.ac",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T22:07:19.177000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Noam Brown (@polynoamial)"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "casp.ac"
       ],
       "items": [
         {
-          "id": "cd95db0445813d0e651de60d96b8248915704123",
-          "title": "GPT-5.6 Sol Ultra 用 64 子智能体一小时破解 50 年数学难题 / More test-time compute leads to greater intelligence. But as we push ttc from seconds to weeks， late…",
-          "title_zh": "GPT-5.6 Sol Ultra 用 64 子智能体一小时破解 50 年数学难题",
-          "title_en": "More test-time compute leads to greater intelligence. But as we push ttc from seconds to weeks， late…",
-          "title_original": "More test-time compute leads to greater intelligence. But as we push ttc from seconds to weeks， late…",
-          "summary": "Noam Brown 指出，更多测试时计算带来更强智能，但将计算时间从秒级推至周级时，延迟成为瓶颈。GPT-5.6 Sol Ultra 通过并行测试时计算，将解决一个 50 年难题的时间从一整天缩短至一小时。引用推文显示，该模型已正式可用，并成功使用 64 个子智能体在一小时内证明了存在 50 年的 Cycle Double Cover Conjecture，同时公开了提示词和证明过程。",
-          "url": "https://x.com/polynoamial/status/2075647948906533297",
-          "source": "X：Noam Brown (@polynoamial)",
+          "id": "f0fcfafa4d0147d526e038448d575a139d54ae99",
+          "title": "博科圣地如何利用前沿AI技术",
+          "title_zh": "博科圣地如何利用前沿AI技术",
+          "title_en": null,
+          "title_original": "博科圣地如何利用前沿AI技术",
+          "summary": "2025至2026年间对尼日利亚东北部27名前\"博科圣地\"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将AI用于袭击策划、武器故障排查及爆炸装置设计。相关技术通过跨国圣战网络传播，伊斯兰国特工提供了面对面培训。受访者对AI表现出强烈热情，部分人对大规模杀伤性武器持开放态度，但记录在案的使用仍限于常规手段。",
+          "url": "https://casp.ac/reports/ai-enabled-terrorism",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-10T18:26:49Z"
+          "published_at": "2026-07-10T22:07:19.177000Z"
+        },
+        {
+          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
+          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
+          "title_zh": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
+          "title_en": null,
+          "title_original": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
+          "summary": null,
+          "url": "https://casp.ac/reports/ai-enabled-terrorism",
+          "source": "casp.ac",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T22:07:19.177000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7119,
-        "story_heat": 0.0
+        "recency": 0.7366,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T18:26:49Z",
-      "latest_at": "2026-07-10T18:26:49Z",
-      "primary_item": {
-        "id": "cd95db0445813d0e651de60d96b8248915704123",
-        "title": "GPT-5.6 Sol Ultra 用 64 子智能体一小时破解 50 年数学难题 / More test-time compute leads to greater intelligence. But as we push ttc from seconds to weeks， late…",
-        "title_zh": "GPT-5.6 Sol Ultra 用 64 子智能体一小时破解 50 年数学难题",
-        "title_en": "More test-time compute leads to greater intelligence. But as we push ttc from seconds to weeks， late…",
-        "title_original": "More test-time compute leads to greater intelligence. But as we push ttc from seconds to weeks， late…",
-        "summary": "Noam Brown 指出，更多测试时计算带来更强智能，但将计算时间从秒级推至周级时，延迟成为瓶颈。GPT-5.6 Sol Ultra 通过并行测试时计算，将解决一个 50 年难题的时间从一整天缩短至一小时。引用推文显示，该模型已正式可用，并成功使用 64 个子智能体在一小时内证明了存在 50 年的 Cycle Double Cover Conjecture，同时公开了提示词和证明过程。",
-        "url": "https://x.com/polynoamial/status/2075647948906533297",
-        "source": "X：Noam Brown (@polynoamial)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_26dcf316ac73",
-      "title": "OpenAI 推出 ChatGPT Work 与 Codex 两款智能体",
-      "url": "https://x.com/dotey/status/2075652538058109385",
-      "primary_url": "https://x.com/dotey/status/2075652538058109385",
-      "source": "X：宝玉 (@dotey)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fd2e8280134004f1cf77a1babe3d97c3bd1423ee",
-          "title": "OpenAI 推出 ChatGPT Work 与 Codex 两款智能体",
-          "title_zh": "OpenAI 推出 ChatGPT Work 与 Codex 两款智能体",
-          "title_en": null,
-          "title_original": "OpenAI 推出 ChatGPT Work 与 Codex 两款智能体",
-          "summary": "OpenAI 推出 ChatGPT Work 与 Codex 两款智能体。Chat 负责问答，Work 跨应用收集信息并交付文档/表格等成品，Codex 操作代码仓库、改代码、提 PR。Work 支持定时任务，可连接 Slack、Gmail 等插件。Work 与 Codex 共享\"智能体用量\"额度池，与 Chat 对话额度独立。定价包含在 ChatGPT 订阅中：Free 试用、Go（$8/月）、Plus（$20/月）、Pro（$100-200/月）、Business（$20/月/人起）、Enterprise（定制）。额度自 4 月起按 Token 消耗计算。Work 在网页/手机/桌面端可用，Codex 仅桌面端。",
-          "url": "https://x.com/dotey/status/2075652538058109385",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T18:45:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：宝玉 (@dotey)"
-      ],
-      "items": [
-        {
-          "id": "fd2e8280134004f1cf77a1babe3d97c3bd1423ee",
-          "title": "OpenAI 推出 ChatGPT Work 与 Codex 两款智能体",
-          "title_zh": "OpenAI 推出 ChatGPT Work 与 Codex 两款智能体",
-          "title_en": null,
-          "title_original": "OpenAI 推出 ChatGPT Work 与 Codex 两款智能体",
-          "summary": "OpenAI 推出 ChatGPT Work 与 Codex 两款智能体。Chat 负责问答，Work 跨应用收集信息并交付文档/表格等成品，Codex 操作代码仓库、改代码、提 PR。Work 支持定时任务，可连接 Slack、Gmail 等插件。Work 与 Codex 共享\"智能体用量\"额度池，与 Chat 对话额度独立。定价包含在 ChatGPT 订阅中：Free 试用、Go（$8/月）、Plus（$20/月）、Pro（$100-200/月）、Business（$20/月/人起）、Enterprise（定制）。额度自 4 月起按 Token 消耗计算。Work 在网页/手机/桌面端可用，Codex 仅桌面端。",
-          "url": "https://x.com/dotey/status/2075652538058109385",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T18:45:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-10T18:45:03Z",
-      "latest_at": "2026-07-10T18:45:03Z",
+      "earliest_at": "2026-07-10T22:07:19.177000Z",
+      "latest_at": "2026-07-10T22:07:19.177000Z",
       "primary_item": {
-        "id": "fd2e8280134004f1cf77a1babe3d97c3bd1423ee",
-        "title": "OpenAI 推出 ChatGPT Work 与 Codex 两款智能体",
-        "title_zh": "OpenAI 推出 ChatGPT Work 与 Codex 两款智能体",
+        "id": "f0fcfafa4d0147d526e038448d575a139d54ae99",
+        "title": "博科圣地如何利用前沿AI技术",
+        "title_zh": "博科圣地如何利用前沿AI技术",
         "title_en": null,
-        "title_original": "OpenAI 推出 ChatGPT Work 与 Codex 两款智能体",
-        "summary": "OpenAI 推出 ChatGPT Work 与 Codex 两款智能体。Chat 负责问答，Work 跨应用收集信息并交付文档/表格等成品，Codex 操作代码仓库、改代码、提 PR。Work 支持定时任务，可连接 Slack、Gmail 等插件。Work 与 Codex 共享\"智能体用量\"额度池，与 Chat 对话额度独立。定价包含在 ChatGPT 订阅中：Free 试用、Go（$8/月）、Plus（$20/月）、Pro（$100-200/月）、Business（$20/月/人起）、Enterprise（定制）。额度自 4 月起按 Token 消耗计算。Work 在网页/手机/桌面端可用，Codex 仅桌面端。",
-        "url": "https://x.com/dotey/status/2075652538058109385",
-        "source": "X：宝玉 (@dotey)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f94505a7aa2e",
-      "title": "OpenAI GPT-5.6 Sol 自主后训练较小模型 Luna / OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-      "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt",
-      "primary_url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "201a8c3f65a11258d55e501a43026018616c509d",
-          "title": "OpenAI GPT-5.6 Sol 自主后训练较小模型 Luna / OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-          "title_zh": "OpenAI GPT-5.6 Sol 自主后训练较小模型 Luna",
-          "title_en": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-          "title_original": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-          "summary": "OpenAI 新旗舰模型 GPT-5.6 Sol 能独立优化较小模型。研究人员通过 Codex 平台给出\"相当模糊的提示词\"后，Sol 自主识别训练配置、选择 GPU 并执行了 Luna 模型的后训练脚本。在衡量递归自我改进（RSI）能力的内部基准上，GPT-5.6 Sol 得分比前代 GPT-5.5 高 16.2 分。OpenAI 表示，内部测试期间每位活跃研究员的日均 token 输出量较 GPT-5.5 峰值翻倍以上，过去六个月分配给内部编码推理的计算份额增长了 100 倍，基于智能体的 token 使用量增长约 22 倍。",
-          "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T18:43:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "201a8c3f65a11258d55e501a43026018616c509d",
-          "title": "OpenAI GPT-5.6 Sol 自主后训练较小模型 Luna / OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-          "title_zh": "OpenAI GPT-5.6 Sol 自主后训练较小模型 Luna",
-          "title_en": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-          "title_original": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-          "summary": "OpenAI 新旗舰模型 GPT-5.6 Sol 能独立优化较小模型。研究人员通过 Codex 平台给出\"相当模糊的提示词\"后，Sol 自主识别训练配置、选择 GPU 并执行了 Luna 模型的后训练脚本。在衡量递归自我改进（RSI）能力的内部基准上，GPT-5.6 Sol 得分比前代 GPT-5.5 高 16.2 分。OpenAI 表示，内部测试期间每位活跃研究员的日均 token 输出量较 GPT-5.5 峰值翻倍以上，过去六个月分配给内部编码推理的计算份额增长了 100 倍，基于智能体的 token 使用量增长约 22 倍。",
-          "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T18:43:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7148,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T18:43:47Z",
-      "latest_at": "2026-07-10T18:43:47Z",
-      "primary_item": {
-        "id": "201a8c3f65a11258d55e501a43026018616c509d",
-        "title": "OpenAI GPT-5.6 Sol 自主后训练较小模型 Luna / OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-        "title_zh": "OpenAI GPT-5.6 Sol 自主后训练较小模型 Luna",
-        "title_en": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-        "title_original": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-        "summary": "OpenAI 新旗舰模型 GPT-5.6 Sol 能独立优化较小模型。研究人员通过 Codex 平台给出\"相当模糊的提示词\"后，Sol 自主识别训练配置、选择 GPU 并执行了 Luna 模型的后训练脚本。在衡量递归自我改进（RSI）能力的内部基准上，GPT-5.6 Sol 得分比前代 GPT-5.5 高 16.2 分。OpenAI 表示，内部测试期间每位活跃研究员的日均 token 输出量较 GPT-5.5 峰值翻倍以上，过去六个月分配给内部编码推理的计算份额增长了 100 倍，基于智能体的 token 使用量增长约 22 倍。",
-        "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt",
-        "source": "The Decoder：AI News（RSS）",
+        "title_original": "博科圣地如何利用前沿AI技术",
+        "summary": "2025至2026年间对尼日利亚东北部27名前\"博科圣地\"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将AI用于袭击策划、武器故障排查及爆炸装置设计。相关技术通过跨国圣战网络传播，伊斯兰国特工提供了面对面培训。受访者对AI表现出强烈热情，部分人对大规模杀伤性武器持开放态度，但记录在案的使用仍限于常规手段。",
+        "url": "https://casp.ac/reports/ai-enabled-terrorism",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1663,15 +1337,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6541,
-      "importance": 0.6541,
-      "importance_score": 0.6541,
+      "score": 0.6507,
+      "importance": 0.6507,
+      "importance_score": 0.6507,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9855,
+        "recency": 0.967,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1762,15 +1436,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5821,
-      "importance": 0.5821,
-      "importance_score": 0.5821,
+      "score": 0.5796,
+      "importance": 0.5796,
+      "importance_score": 0.5796,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7452,
+        "recency": 0.7312,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1915,15 +1589,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5541,
-      "importance": 0.5541,
-      "importance_score": 0.5541,
+      "score": 0.5515,
+      "importance": 0.5515,
+      "importance_score": 0.5515,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7682,
+        "recency": 0.7539,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1941,6 +1615,302 @@
         "summary": null,
         "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
         "source": "discuss.ai.google.dev",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b5d19d55b601",
+      "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
+      "url": "https://news.ycombinator.com/item?id=48874200",
+      "primary_url": "https://news.ycombinator.com/item?id=48874200",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ea752aa4339116e78188023c4f921b0461860969",
+          "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
+          "title_zh": "AI 2040 和对智能的崇拜",
+          "title_en": "AI 2040 and the cult of intelligence",
+          "title_original": "AI 2040 and the cult of intelligence",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48874200",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T19:18:08.299000Z"
+        },
+        {
+          "id": "6579203a9fff0effe145a0585623f2bb23a45051",
+          "title": "AI 2040 和智能崇拜 / AI 2040 and the Cult of Intelligence",
+          "title_zh": "AI 2040 和智能崇拜",
+          "title_en": "AI 2040 and the Cult of Intelligence",
+          "title_original": "AI 2040 and the Cult of Intelligence",
+          "summary": null,
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T18:04:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ea752aa4339116e78188023c4f921b0461860969",
+          "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
+          "title_zh": "AI 2040 和对智能的崇拜",
+          "title_en": "AI 2040 and the cult of intelligence",
+          "title_original": "AI 2040 and the cult of intelligence",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48874200",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T19:18:08.299000Z"
+        },
+        {
+          "id": "6579203a9fff0effe145a0585623f2bb23a45051",
+          "title": "AI 2040 和智能崇拜 / AI 2040 and the Cult of Intelligence",
+          "title_zh": "AI 2040 和智能崇拜",
+          "title_en": "AI 2040 and the Cult of Intelligence",
+          "title_original": "AI 2040 and the Cult of Intelligence",
+          "summary": null,
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T18:04:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T18:04:01Z",
+      "latest_at": "2026-07-11T19:18:08.299000Z",
+      "primary_item": {
+        "id": "ea752aa4339116e78188023c4f921b0461860969",
+        "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
+        "title_zh": "AI 2040 和对智能的崇拜",
+        "title_en": "AI 2040 and the cult of intelligence",
+        "title_original": "AI 2040 and the cult of intelligence",
+        "summary": null,
+        "url": "https://news.ycombinator.com/item?id=48874200",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_eda80e4879bc",
+      "title": "Instagram的最新AI工具没能撑过这一周",
+      "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+      "primary_url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
+          "title": "Instagram的最新AI工具没能撑过这一周",
+          "title_zh": "Instagram的最新AI工具没能撑过这一周",
+          "title_en": null,
+          "title_original": "Instagram的最新AI工具没能撑过这一周",
+          "summary": null,
+          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T17:03:15.813000Z"
+        },
+        {
+          "id": "058f2ad6e2527fe610c3ccbd11b581c061e4c765",
+          "title": "Instagram的最新AI工具没能撑过这一周 / Instagram's newest AI tool didn't survive the week",
+          "title_zh": "Instagram的最新AI工具没能撑过这一周",
+          "title_en": "Instagram's newest AI tool didn't survive the week",
+          "title_original": "Instagram's newest AI tool didn't survive the week",
+          "summary": null,
+          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T16:40:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
+          "title": "Instagram的最新AI工具没能撑过这一周",
+          "title_zh": "Instagram的最新AI工具没能撑过这一周",
+          "title_en": null,
+          "title_original": "Instagram的最新AI工具没能撑过这一周",
+          "summary": null,
+          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T17:03:15.813000Z"
+        },
+        {
+          "id": "058f2ad6e2527fe610c3ccbd11b581c061e4c765",
+          "title": "Instagram的最新AI工具没能撑过这一周 / Instagram's newest AI tool didn't survive the week",
+          "title_zh": "Instagram的最新AI工具没能撑过这一周",
+          "title_en": "Instagram's newest AI tool didn't survive the week",
+          "title_original": "Instagram's newest AI tool didn't survive the week",
+          "summary": null,
+          "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T16:40:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9682,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T16:40:51Z",
+      "latest_at": "2026-07-11T17:03:15.813000Z",
+      "primary_item": {
+        "id": "38570fc3d4170219008a83d6b1e0796094ae1fee",
+        "title": "Instagram的最新AI工具没能撑过这一周",
+        "title_zh": "Instagram的最新AI工具没能撑过这一周",
+        "title_en": null,
+        "title_original": "Instagram的最新AI工具没能撑过这一周",
+        "summary": null,
+        "url": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_11aee9868a58",
+      "title": "恐怖组织如何利用人工智能在战场上获得优势",
+      "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+      "primary_url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+      "source": "www.nytimes.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+          "title": "恐怖组织如何利用人工智能在战场上获得优势",
+          "title_zh": "恐怖组织如何利用人工智能在战场上获得优势",
+          "title_en": null,
+          "title_original": "恐怖组织如何利用人工智能在战场上获得优势",
+          "summary": null,
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:15:25.572000Z"
+        },
+        {
+          "id": "a2040695558392388b00a287a81225749694df3f",
+          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
+          "title_zh": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
+          "title_en": null,
+          "title_original": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
+          "summary": null,
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T01:03:10.067000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.nytimes.com"
+      ],
+      "items": [
+        {
+          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+          "title": "恐怖组织如何利用人工智能在战场上获得优势",
+          "title_zh": "恐怖组织如何利用人工智能在战场上获得优势",
+          "title_en": null,
+          "title_original": "恐怖组织如何利用人工智能在战场上获得优势",
+          "summary": null,
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:15:25.572000Z"
+        },
+        {
+          "id": "a2040695558392388b00a287a81225749694df3f",
+          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
+          "title_zh": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
+          "title_en": null,
+          "title_original": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
+          "summary": null,
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T01:03:10.067000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9571,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T01:03:10.067000Z",
+      "latest_at": "2026-07-11T16:15:25.572000Z",
+      "primary_item": {
+        "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+        "title": "恐怖组织如何利用人工智能在战场上获得优势",
+        "title_zh": "恐怖组织如何利用人工智能在战场上获得优势",
+        "title_en": null,
+        "title_original": "恐怖组织如何利用人工智能在战场上获得优势",
+        "summary": null,
+        "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+        "source": "www.nytimes.com",
         "source_name": "Buzzing"
       }
     }
