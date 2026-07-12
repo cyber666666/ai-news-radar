@@ -1,8 +1,136 @@
 {
-  "generated_at": "2026-07-12T01:05:32.191158Z",
+  "generated_at": "2026-07-12T04:52:33.550356Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_3822e0e0e383",
+      "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "primary_url": "https://www.iroh.computer/blog/mesh-llm",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
+          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "title_en": null,
+          "title_original": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "summary": "Mesh LLM 是一个开源项目，能将用户多台机器上的 GPU 和内存池化，对外暴露兼容 OpenAI 的 API。它通过 iroh 网络库实现点对点连接，无需中央服务器。请求可在本地 GPU 运行、路由到已加载模型的节点，或将大模型按层分区（内部称\"Skippy\"）流水线式拆分到多台机器。系统内置 40 多个模型，从 5 亿参数到 235B MoE 巨模型均可支持。软件体积约 18 MB，启动后以 `localhost：9337/v1` 提供服务。",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T02:23:05.249000Z"
+        },
+        {
+          "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
+          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+          "title_zh": "Mesh LLM：iroh 上的分布式 AI 计算",
+          "title_en": "Mesh LLM: distributed AI computing on iroh",
+          "title_original": "Mesh LLM: distributed AI computing on iroh",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48876505",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T23:11:32.847000Z"
+        },
+        {
+          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
+          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算 / Mesh LLM: distributed AI computing on iroh",
+          "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "title_en": "Mesh LLM: distributed AI computing on iroh",
+          "title_original": "Mesh LLM: distributed AI computing on iroh",
+          "summary": null,
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T22:38:57Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
+          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "title_en": null,
+          "title_original": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "summary": "Mesh LLM 是一个开源项目，能将用户多台机器上的 GPU 和内存池化，对外暴露兼容 OpenAI 的 API。它通过 iroh 网络库实现点对点连接，无需中央服务器。请求可在本地 GPU 运行、路由到已加载模型的节点，或将大模型按层分区（内部称\"Skippy\"）流水线式拆分到多台机器。系统内置 40 多个模型，从 5 亿参数到 235B MoE 巨模型均可支持。软件体积约 18 MB，启动后以 `localhost：9337/v1` 提供服务。",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T02:23:05.249000Z"
+        },
+        {
+          "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
+          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+          "title_zh": "Mesh LLM：iroh 上的分布式 AI 计算",
+          "title_en": "Mesh LLM: distributed AI computing on iroh",
+          "title_original": "Mesh LLM: distributed AI computing on iroh",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48876505",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T23:11:32.847000Z"
+        },
+        {
+          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
+          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算 / Mesh LLM: distributed AI computing on iroh",
+          "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+          "title_en": "Mesh LLM: distributed AI computing on iroh",
+          "title_original": "Mesh LLM: distributed AI computing on iroh",
+          "summary": null,
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T22:38:57Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9647,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T22:38:57Z",
+      "latest_at": "2026-07-12T02:23:05.249000Z",
+      "primary_item": {
+        "id": "80af71b9ad42cde062dd6da8388bc14d09584db2",
+        "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+        "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+        "title_en": null,
+        "title_original": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+        "summary": "Mesh LLM 是一个开源项目，能将用户多台机器上的 GPU 和内存池化，对外暴露兼容 OpenAI 的 API。它通过 iroh 网络库实现点对点连接，无需中央服务器。请求可在本地 GPU 运行、路由到已加载模型的节点，或将大模型按层分区（内部称\"Skippy\"）流水线式拆分到多台机器。系统内置 40 多个模型，从 5 亿参数到 235B MoE 巨模型均可支持。软件体积约 18 MB，启动后以 `localhost：9337/v1` 提供服务。",
+        "url": "https://www.iroh.computer/blog/mesh-llm",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_9c885636aaf2",
       "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
@@ -127,15 +255,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8836,
+        "recency": 0.8366,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -154,6 +282,729 @@
         "title_original": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
         "summary": "Ghost Font 是一种利用运动、视频、噪点和诱饵来隐藏文字的反AI字体。用户输入文字后可生成并下载视频片段，视频中的字母由与背景完全相同的点组成，单帧截图无法显示任何信息。该字体生成的视频被传递给Claude Fable和GPT Sol 5.6 Ultra等前沿模型时，这些模型即使具备编程能力也无法解码移动信息，直到被提示具体技术。视频中还包含一条诱饵信息，使模型误以为找到真实内容。项目灵感来自2013年Sang Mun设计的ZXX字体，但现代AI已能轻松读取ZXX。Ghost Font目前为本地原型，数据不发送至任何服务器。作者计划未来将视频生成代码开源，并探索将其用于CAPTCHA系统或AI视觉感知基准测试。",
         "url": "https://www.mixfont.com/ghost-font",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_65908dd1ce5d",
+      "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+      "url": "https://www.ithome.com/0/975/646.htm",
+      "primary_url": "https://www.ithome.com/0/975/646.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f7aa691be04d98c336bfee4cd02928e714bfbd05",
+          "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+          "title_zh": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+          "title_en": null,
+          "title_original": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+          "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
+          "url": "https://www.ithome.com/0/975/646.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T00:44:43Z"
+        },
+        {
+          "id": "7e66bb9a1270fbda2159e09b1ac2282091fa3c0c",
+          "title": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+          "title_zh": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+          "title_en": null,
+          "title_original": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+          "summary": null,
+          "url": "https://www.ithome.com/0/975/646.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T00:44:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f7aa691be04d98c336bfee4cd02928e714bfbd05",
+          "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+          "title_zh": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+          "title_en": null,
+          "title_original": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+          "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
+          "url": "https://www.ithome.com/0/975/646.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T00:44:43Z"
+        },
+        {
+          "id": "7e66bb9a1270fbda2159e09b1ac2282091fa3c0c",
+          "title": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+          "title_zh": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+          "title_en": null,
+          "title_original": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+          "summary": null,
+          "url": "https://www.ithome.com/0/975/646.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T00:44:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9421,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T00:44:43Z",
+      "latest_at": "2026-07-12T00:44:43Z",
+      "primary_item": {
+        "id": "f7aa691be04d98c336bfee4cd02928e714bfbd05",
+        "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+        "title_zh": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+        "title_en": null,
+        "title_original": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+        "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
+        "url": "https://www.ithome.com/0/975/646.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ed5bc085d889",
+      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+      "url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "primary_url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9547,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T01:40:04Z",
+      "latest_at": "2026-07-12T01:40:04Z",
+      "primary_item": {
+        "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+        "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+        "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+        "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+        "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
+        "url": "https://x.com/thsottiaux/status/2076119366647894371",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8d5a4110e827",
+      "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "summary": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-07-12T03:09:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "summary": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-07-12T03:09:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9756,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T03:09:47Z",
+      "latest_at": "2026-07-12T03:09:47Z",
+      "primary_item": {
+        "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
+        "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+        "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+        "summary": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_57583f5b9bca",
+      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+      "url": "https://x.com/sama/status/2075985056846451123",
+      "primary_url": "https://x.com/sama/status/2075985056846451123",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:46:22Z"
+        },
+        {
+          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "summary": null,
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "Follow Builders · X · Sam Altman",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-11T16:46:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Sam Altman",
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:46:22Z"
+        },
+        {
+          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "summary": null,
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "Follow Builders · X · Sam Altman",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-11T16:46:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8396,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T16:46:22Z",
+      "latest_at": "2026-07-11T16:46:22Z",
+      "primary_item": {
+        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+        "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+        "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+        "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+        "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
+        "url": "https://x.com/sama/status/2075985056846451123",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8eeb4fee86b5",
+      "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
+      "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+      "primary_url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
+          "title_zh": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+          "title_en": "Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
+          "title_original": "Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
+          "summary": "蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。该模型采用因果 DiT 架构，视频专家约 13.0B 参数（约 1.9B 激活），训练规模约 15.3B 参数，推理时每 token 约 2.5B 激活。模型引入多块预测（MCP）实现 2.3 倍训练加速，并通过前瞻推理将推理延迟降至 142 ms/chunk。在 RoboTwin 2.0 的 50 个任务上，干净与随机演示数据平均成功率分别达 93.8% 和 93.4%。",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:56:11Z"
+        },
+        {
+          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+          "title_zh": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+          "title_en": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+          "title_original": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+          "summary": null,
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-11T07:56:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
+          "title_zh": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+          "title_en": "Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
+          "title_original": "Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
+          "summary": "蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。该模型采用因果 DiT 架构，视频专家约 13.0B 参数（约 1.9B 激活），训练规模约 15.3B 参数，推理时每 token 约 2.5B 激活。模型引入多块预测（MCP）实现 2.3 倍训练加速，并通过前瞻推理将推理延迟降至 142 ms/chunk。在 RoboTwin 2.0 的 50 个任务上，干净与随机演示数据平均成功率分别达 93.8% 和 93.4%。",
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:56:11Z"
+        },
+        {
+          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+          "title_zh": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+          "title_en": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+          "title_original": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+          "summary": null,
+          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-11T07:56:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7391,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T07:56:11Z",
+      "latest_at": "2026-07-11T07:56:11Z",
+      "primary_item": {
+        "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
+        "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
+        "title_zh": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+        "title_en": "Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
+        "title_original": "Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
+        "summary": "蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。该模型采用因果 DiT 架构，视频专家约 13.0B 参数（约 1.9B 激活），训练规模约 15.3B 参数，推理时每 token 约 2.5B 激活。模型引入多块预测（MCP）实现 2.3 倍训练加速，并通过前瞻推理将推理延迟降至 142 ms/chunk。在 RoboTwin 2.0 的 50 个任务上，干净与随机演示数据平均成功率分别达 93.8% 和 93.4%。",
+        "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0645b0249ea0",
+      "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+      "url": "https://www.ithome.com/0/975/666.htm",
+      "primary_url": "https://www.ithome.com/0/975/666.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1be77e6169d26ad99cfb40f8f65ee037d2656452",
+          "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+          "title_zh": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+          "title_en": null,
+          "title_original": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+          "summary": "苹果在美国起诉OpenAI，指控其挖角400名员工、窃取工程机和机密文件。分析师Paolo Pescatore认为，即使指控最终无法证实，OpenAI的硬件计划仍可能受拖累，双方本就脆弱的合作关系将进一步削弱。斯坦福大学教授Mark Lemley指出，若前苹果员工确实带走机密文件并在OpenAI使用，问题将变得严重。该案涉及消费级硬件产品，预计未来将有更多信息曝光。",
+          "url": "https://www.ithome.com/0/975/666.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T02:37:22Z"
+        },
+        {
+          "id": "43e20cd2d30981054fcb8c10330c7ba6c653d0b9",
+          "title": "分析师：即使窃密指控未获证实，苹果诉讼仍可能重创 OpenAI 硬件计划",
+          "title_zh": "分析师：即使窃密指控未获证实，苹果诉讼仍可能重创 OpenAI 硬件计划",
+          "title_en": null,
+          "title_original": "分析师：即使窃密指控未获证实，苹果诉讼仍可能重创 OpenAI 硬件计划",
+          "summary": null,
+          "url": "https://www.ithome.com/0/975/666.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T02:37:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1be77e6169d26ad99cfb40f8f65ee037d2656452",
+          "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+          "title_zh": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+          "title_en": null,
+          "title_original": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+          "summary": "苹果在美国起诉OpenAI，指控其挖角400名员工、窃取工程机和机密文件。分析师Paolo Pescatore认为，即使指控最终无法证实，OpenAI的硬件计划仍可能受拖累，双方本就脆弱的合作关系将进一步削弱。斯坦福大学教授Mark Lemley指出，若前苹果员工确实带走机密文件并在OpenAI使用，问题将变得严重。该案涉及消费级硬件产品，预计未来将有更多信息曝光。",
+          "url": "https://www.ithome.com/0/975/666.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T02:37:22Z"
+        },
+        {
+          "id": "43e20cd2d30981054fcb8c10330c7ba6c653d0b9",
+          "title": "分析师：即使窃密指控未获证实，苹果诉讼仍可能重创 OpenAI 硬件计划",
+          "title_zh": "分析师：即使窃密指控未获证实，苹果诉讼仍可能重创 OpenAI 硬件计划",
+          "title_en": null,
+          "title_original": "分析师：即使窃密指控未获证实，苹果诉讼仍可能重创 OpenAI 硬件计划",
+          "summary": null,
+          "url": "https://www.ithome.com/0/975/666.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T02:37:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.968,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T02:37:22Z",
+      "latest_at": "2026-07-12T02:37:22Z",
+      "primary_item": {
+        "id": "1be77e6169d26ad99cfb40f8f65ee037d2656452",
+        "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+        "title_zh": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+        "title_en": null,
+        "title_original": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+        "summary": "苹果在美国起诉OpenAI，指控其挖角400名员工、窃取工程机和机密文件。分析师Paolo Pescatore认为，即使指控最终无法证实，OpenAI的硬件计划仍可能受拖累，双方本就脆弱的合作关系将进一步削弱。斯坦福大学教授Mark Lemley指出，若前苹果员工确实带走机密文件并在OpenAI使用，问题将变得严重。该案涉及消费级硬件产品，预计未来将有更多信息曝光。",
+        "url": "https://www.ithome.com/0/975/666.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3ff8ee43af6c",
+      "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+      "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+      "primary_url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
+          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "title_zh": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+          "title_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "title_original": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
+          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T17:04:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
+          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "title_zh": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+          "title_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "title_original": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
+          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T17:04:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8433,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-11T17:04:28Z",
+      "latest_at": "2026-07-11T17:04:28Z",
+      "primary_item": {
+        "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
+        "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+        "title_zh": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+        "title_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+        "title_original": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+        "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
+        "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b21c70de14cb",
+      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "primary_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_en": null,
+          "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T03:59:09.632000Z"
+        },
+        {
+          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
+          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_en": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "title_original": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "summary": null,
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T01:09:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_en": null,
+          "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T03:59:09.632000Z"
+        },
+        {
+          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
+          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_en": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "title_original": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "summary": null,
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T01:09:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9872,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T01:09:50Z",
+      "latest_at": "2026-07-12T03:59:09.632000Z",
+      "primary_item": {
+        "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "title_en": null,
+        "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
+        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -228,15 +1079,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9754,
+        "recency": 0.9235,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -256,324 +1107,6 @@
         "summary": "苹果起诉 OpenAI，指控前工程师 Chang Liu 离职时带走未归还的 MacBook、一名可分享内情的员工，并利用软件漏洞持续访问苹果内网。他发现漏洞后向同事分享\"哈哈，我发现我还能访问网络存储\"，后者协助其获取更多机密。苹果称 OpenAI 试图复制 iPhone 产品研发体系，核心从非法窃取的商业机密腐烂。目前已有超 400 名苹果员工跳槽至 OpenAI，包括前苹果高管、现任 OpenAI 首席硬件官 Tang Tan。苹果曾于今年 2 月尝试私了，但 OpenAI 未回应。",
         "url": "https://www.ithome.com/0/975/634.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8eeb4fee86b5",
-      "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
-      "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-      "primary_url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
-          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
-          "title_zh": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-          "title_en": "Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
-          "title_original": "Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
-          "summary": "蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。该模型采用因果 DiT 架构，视频专家约 13.0B 参数（约 1.9B 激活），训练规模约 15.3B 参数，推理时每 token 约 2.5B 激活。模型引入多块预测（MCP）实现 2.3 倍训练加速，并通过前瞻推理将推理延迟降至 142 ms/chunk。在 RoboTwin 2.0 的 50 个任务上，干净与随机演示数据平均成功率分别达 93.8% 和 93.4%。",
-          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:56:11Z"
-        },
-        {
-          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
-          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
-          "title_zh": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-          "title_en": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
-          "title_original": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
-          "summary": null,
-          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-11T07:56:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
-          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
-          "title_zh": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-          "title_en": "Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
-          "title_original": "Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
-          "summary": "蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。该模型采用因果 DiT 架构，视频专家约 13.0B 参数（约 1.9B 激活），训练规模约 15.3B 参数，推理时每 token 约 2.5B 激活。模型引入多块预测（MCP）实现 2.3 倍训练加速，并通过前瞻推理将推理延迟降至 142 ms/chunk。在 RoboTwin 2.0 的 50 个任务上，干净与随机演示数据平均成功率分别达 93.8% 和 93.4%。",
-          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T07:56:11Z"
-        },
-        {
-          "id": "dbf509acc7aa394d320e8dd9e3e3ca213ff65843",
-          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
-          "title_zh": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-          "title_en": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
-          "title_original": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
-          "summary": null,
-          "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-11T07:56:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7806,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-11T07:56:11Z",
-      "latest_at": "2026-07-11T07:56:11Z",
-      "primary_item": {
-        "id": "e871b5910a04307da3ef3ae7d63c20f888c4112a",
-        "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型 / Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
-        "title_zh": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-        "title_en": "Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
-        "title_original": "Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
-        "summary": "蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。该模型采用因果 DiT 架构，视频专家约 13.0B 参数（约 1.9B 激活），训练规模约 15.3B 参数，推理时每 token 约 2.5B 激活。模型引入多块预测（MCP）实现 2.3 倍训练加速，并通过前瞻推理将推理延迟降至 142 ms/chunk。在 RoboTwin 2.0 的 50 个任务上，干净与随机演示数据平均成功率分别达 93.8% 和 93.4%。",
-        "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3ff8ee43af6c",
-      "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-      "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-      "primary_url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
-          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-          "title_zh": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
-          "title_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-          "title_original": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-          "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
-          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T17:04:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
-          "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-          "title_zh": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
-          "title_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-          "title_original": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-          "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
-          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T17:04:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8907,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-11T17:04:28Z",
-      "latest_at": "2026-07-11T17:04:28Z",
-      "primary_item": {
-        "id": "770348495fa83ac8877aa5b751fe2c2b89b2a477",
-        "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发 / Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-        "title_zh": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
-        "title_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-        "title_original": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-        "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
-        "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_57583f5b9bca",
-      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-      "url": "https://x.com/sama/status/2075985056846451123",
-      "primary_url": "https://x.com/sama/status/2075985056846451123",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8868,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-11T16:46:22Z",
-      "latest_at": "2026-07-11T16:46:22Z",
-      "primary_item": {
-        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-        "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-        "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-        "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-        "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
-        "url": "https://x.com/sama/status/2075985056846451123",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f01ec2871d4b",
-      "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-      "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-      "primary_url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
-          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "title_zh": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "title_en": null,
-          "title_original": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "summary": "知名 AI 创业者 Matt Shumer 的 Mac 硬盘被 OpenAI 最新 Agent 模型 GPT-5.6-Sol 彻底清空。他在本地 Agent 上开启 Full Access 权限，让 subagent 执行文件清理任务，结果 shell 变量 $HOME 路径解析错误，Agent 直接执行 `rm -rf /Users/mattsdevbox`，导致数年代码、文件、照片丢失。该任务此前已安全运行数百次。事后 Agent 自动生成事故报告承认错误。Matt 表示\"1000x 更信任 Anthropic 的 Fable\"。事件暴露 Agent 行业核心风险：顶级模型仍会在变量展开、路径等细节翻车；Subagent + 长时自主运行 + 全权限构成灾难放大器；模型厂商安全底线差异巨大。",
-          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T01:56:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
-          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "title_zh": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "title_en": null,
-          "title_original": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "summary": "知名 AI 创业者 Matt Shumer 的 Mac 硬盘被 OpenAI 最新 Agent 模型 GPT-5.6-Sol 彻底清空。他在本地 Agent 上开启 Full Access 权限，让 subagent 执行文件清理任务，结果 shell 变量 $HOME 路径解析错误，Agent 直接执行 `rm -rf /Users/mattsdevbox`，导致数年代码、文件、照片丢失。该任务此前已安全运行数百次。事后 Agent 自动生成事故报告承认错误。Matt 表示\"1000x 更信任 Anthropic 的 Fable\"。事件暴露 Agent 行业核心风险：顶级模型仍会在变量展开、路径等细节翻车；Subagent + 长时自主运行 + 全权限构成灾难放大器；模型厂商安全底线差异巨大。",
-          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T01:56:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7159,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-11T01:56:54Z",
-      "latest_at": "2026-07-11T01:56:54Z",
-      "primary_item": {
-        "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
-        "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-        "title_zh": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-        "title_en": null,
-        "title_original": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-        "summary": "知名 AI 创业者 Matt Shumer 的 Mac 硬盘被 OpenAI 最新 Agent 模型 GPT-5.6-Sol 彻底清空。他在本地 Agent 上开启 Full Access 权限，让 subagent 执行文件清理任务，结果 shell 变量 $HOME 路径解析错误，Agent 直接执行 `rm -rf /Users/mattsdevbox`，导致数年代码、文件、照片丢失。该任务此前已安全运行数百次。事后 Agent 自动生成事故报告承认错误。Matt 表示\"1000x 更信任 Anthropic 的 Fable\"。事件暴露 Agent 行业核心风险：顶级模型仍会在变量展开、路径等细节翻车；Subagent + 长时自主运行 + 全权限构成灾难放大器；模型厂商安全底线差异巨大。",
-        "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
         "source_name": "AI HOT"
       }
     },
@@ -647,15 +1180,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7762,
+        "recency": 0.735,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -798,15 +1331,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6368,
-      "importance": 0.6368,
-      "importance_score": 0.6368,
+      "score": 0.6282,
+      "importance": 0.6282,
+      "importance_score": 0.6282,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.8893,
+        "recency": 0.842,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -829,7 +1362,7 @@
     },
     {
       "story_id": "story_d01a1045be8c",
-      "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+      "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
       "url": "https://news.ycombinator.com/item?id=48875342",
       "primary_url": "https://news.ycombinator.com/item?id=48875342",
       "source": "hackernews",
@@ -837,8 +1370,8 @@
       "sources": [
         {
           "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
-          "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "title_zh": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查",
+          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
           "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
           "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
           "summary": null,
@@ -884,8 +1417,8 @@
       "items": [
         {
           "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
-          "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "title_zh": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查",
+          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
           "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
           "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
           "summary": null,
@@ -924,15 +1457,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
+      "score": 0.5603,
+      "importance": 0.5603,
+      "importance_score": 0.5603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9943,
+        "recency": 0.9414,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -943,8 +1476,8 @@
       "latest_at": "2026-07-12T00:41:44.375000Z",
       "primary_item": {
         "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
-        "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-        "title_zh": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查",
+        "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+        "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
         "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
         "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
         "summary": null,
@@ -976,8 +1509,8 @@
         },
         {
           "id": "36ea69c2b9d8f7394a0e114f6978e5543014760c",
-          "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
-          "title_zh": "别再告诉我去申请法学硕士",
+          "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
+          "title_zh": "别再让我去问LLM了",
           "title_en": "Stop Telling Me to Ask an LLM",
           "title_original": "Stop Telling Me to Ask an LLM",
           "summary": null,
@@ -1023,8 +1556,8 @@
         },
         {
           "id": "36ea69c2b9d8f7394a0e114f6978e5543014760c",
-          "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
-          "title_zh": "别再告诉我去申请法学硕士",
+          "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
+          "title_zh": "别再让我去问LLM了",
           "title_en": "Stop Telling Me to Ask an LLM",
           "title_original": "Stop Telling Me to Ask an LLM",
           "summary": null,
@@ -1050,15 +1583,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5679,
-      "importance": 0.5679,
-      "importance_score": 0.5679,
+      "score": 0.5585,
+      "importance": 0.5585,
+      "importance_score": 0.5585,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9841,
+        "recency": 0.9318,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1176,15 +1709,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5567,
-      "importance": 0.5567,
-      "importance_score": 0.5567,
+      "score": 0.5479,
+      "importance": 0.5479,
+      "importance_score": 0.5479,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9218,
+        "recency": 0.8728,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1206,71 +1739,71 @@
       }
     },
     {
-      "story_id": "story_fbfa3418bea5",
-      "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
-      "url": "https://www.ithome.com/0/975/641.htm",
-      "primary_url": "https://www.ithome.com/0/975/641.htm",
+      "story_id": "story_5cd495760722",
+      "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
+      "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "3a21b82f7a4dc52612f3f6c9b00c5264b1a32e3f",
-          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
-          "title_zh": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+          "id": "9ee7cfe8d920f89852b01de7507be2813e332fce",
+          "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
+          "title_zh": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
           "title_en": null,
-          "title_original": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+          "title_original": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
           "summary": null,
-          "url": "https://www.ithome.com/0/975/641.htm",
+          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "807cdeb67056b41f9dee84f88138c3a51f5187a6",
-          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
-          "title_zh": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
+          "id": "2f5787bbeb9419d15d427248c39f635e7ab67a82",
+          "title": "百度AI将携智能体全家桶亮相WAIC 2026",
+          "title_zh": "百度AI将携智能体全家桶亮相WAIC 2026",
           "title_en": null,
-          "title_original": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
+          "title_original": "百度AI将携智能体全家桶亮相WAIC 2026",
           "summary": null,
-          "url": "https://www.ithome.com/0/975/641.htm",
-          "source": "IT之家 (ITHome)",
+          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+          "source": "36氪 (36Kr)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-12T00:14:08Z"
+          "published_at": "2026-07-12T03:19:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
+        "36氪 (36Kr)",
         "Readhub · AI"
       ],
       "items": [
         {
-          "id": "3a21b82f7a4dc52612f3f6c9b00c5264b1a32e3f",
-          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
-          "title_zh": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+          "id": "9ee7cfe8d920f89852b01de7507be2813e332fce",
+          "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
+          "title_zh": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
           "title_en": null,
-          "title_original": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+          "title_original": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
           "summary": null,
-          "url": "https://www.ithome.com/0/975/641.htm",
+          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "807cdeb67056b41f9dee84f88138c3a51f5187a6",
-          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
-          "title_zh": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
+          "id": "2f5787bbeb9419d15d427248c39f635e7ab67a82",
+          "title": "百度AI将携智能体全家桶亮相WAIC 2026",
+          "title_zh": "百度AI将携智能体全家桶亮相WAIC 2026",
           "title_en": null,
-          "title_original": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
+          "title_original": "百度AI将携智能体全家桶亮相WAIC 2026",
           "summary": null,
-          "url": "https://www.ithome.com/0/975/641.htm",
-          "source": "IT之家 (ITHome)",
+          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+          "source": "36氪 (36Kr)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-12T00:14:08Z"
+          "published_at": "2026-07-12T03:19:28Z"
         }
       ],
       "item_count": 2,
@@ -1290,18 +1823,117 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T00:14:08Z",
-      "latest_at": "2026-07-12T01:05:32.191158Z",
+      "earliest_at": "2026-07-12T03:19:28Z",
+      "latest_at": "2026-07-12T04:52:33.550356Z",
       "primary_item": {
-        "id": "3a21b82f7a4dc52612f3f6c9b00c5264b1a32e3f",
-        "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
-        "title_zh": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+        "id": "9ee7cfe8d920f89852b01de7507be2813e332fce",
+        "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
+        "title_zh": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
         "title_en": null,
-        "title_original": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+        "title_original": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
         "summary": null,
-        "url": "https://www.ithome.com/0/975/641.htm",
+        "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_dfe87bfc97aa",
+      "title": "用100行Lisp编写的智能体",
+      "url": "https://thebeach.dev/posts/lisp-agent",
+      "primary_url": "https://thebeach.dev/posts/lisp-agent",
+      "source": "thebeach.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
+          "title": "用100行Lisp编写的智能体",
+          "title_zh": "用100行Lisp编写的智能体",
+          "title_en": null,
+          "title_original": "用100行Lisp编写的智能体",
+          "summary": null,
+          "url": "https://thebeach.dev/posts/lisp-agent",
+          "source": "thebeach.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T03:43:08.376000Z"
+        },
+        {
+          "id": "976a01010fcfbc257ad57c908f4262a10779621e",
+          "title": "用100行Lisp编写的智能体 / An Agent in 100 Lines of Lisp",
+          "title_zh": "用100行Lisp编写的智能体",
+          "title_en": "An Agent in 100 Lines of Lisp",
+          "title_original": "An Agent in 100 Lines of Lisp",
+          "summary": null,
+          "url": "https://thebeach.dev/posts/lisp-agent",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T03:36:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "thebeach.dev"
+      ],
+      "items": [
+        {
+          "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
+          "title": "用100行Lisp编写的智能体",
+          "title_zh": "用100行Lisp编写的智能体",
+          "title_en": null,
+          "title_original": "用100行Lisp编写的智能体",
+          "summary": null,
+          "url": "https://thebeach.dev/posts/lisp-agent",
+          "source": "thebeach.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T03:43:08.376000Z"
+        },
+        {
+          "id": "976a01010fcfbc257ad57c908f4262a10779621e",
+          "title": "用100行Lisp编写的智能体 / An Agent in 100 Lines of Lisp",
+          "title_zh": "用100行Lisp编写的智能体",
+          "title_en": "An Agent in 100 Lines of Lisp",
+          "title_original": "An Agent in 100 Lines of Lisp",
+          "summary": null,
+          "url": "https://thebeach.dev/posts/lisp-agent",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T03:36:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5428,
+      "importance": 0.5428,
+      "importance_score": 0.5428,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9834,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T03:36:08Z",
+      "latest_at": "2026-07-12T03:43:08.376000Z",
+      "primary_item": {
+        "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
+        "title": "用100行Lisp编写的智能体",
+        "title_zh": "用100行Lisp编写的智能体",
+        "title_en": null,
+        "title_original": "用100行Lisp编写的智能体",
+        "summary": null,
+        "url": "https://thebeach.dev/posts/lisp-agent",
+        "source": "thebeach.dev",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1374,15 +2006,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9397,
+        "recency": 0.8898,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1438,23 +2070,23 @@
           "published_at": "2026-07-11T17:23:52Z"
         },
         {
-          "id": "7e896cf99adddd7afdc8c547f36563590692a664",
+          "id": "ca08a8a9570106ba8f43da5446dfe54bce89078f",
           "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
           "title_zh": "反向半人马是人工智能悖论的答案（2025）",
           "title_en": "Reverse centaurs are the answer to the AI paradox (2025)",
           "title_original": "Reverse centaurs are the answer to the AI paradox (2025)",
           "summary": null,
           "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-11T17:23:52Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1485,30 +2117,30 @@
           "published_at": "2026-07-11T17:23:52Z"
         },
         {
-          "id": "7e896cf99adddd7afdc8c547f36563590692a664",
+          "id": "ca08a8a9570106ba8f43da5446dfe54bce89078f",
           "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
           "title_zh": "反向半人马是人工智能悖论的答案（2025）",
           "title_en": "Reverse centaurs are the answer to the AI paradox (2025)",
           "title_original": "Reverse centaurs are the answer to the AI paradox (2025)",
           "summary": null,
           "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-11T17:23:52Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5564,
-      "importance": 0.5564,
-      "importance_score": 0.5564,
+      "score": 0.5476,
+      "importance": 0.5476,
+      "importance_score": 0.5476,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9198,
+        "recency": 0.8709,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1527,598 +2159,6 @@
         "url": "https://news.ycombinator.com/item?id=48873855",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_5a71c356e918",
-      "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-      "url": "https://www.v2ex.com/t/1226598",
-      "primary_url": "https://www.v2ex.com/t/1226598",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
-          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-          "title_zh": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-          "title_en": null,
-          "title_original": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-          "summary": null,
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        },
-        {
-          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
-          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
-          "title_zh": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
-          "title_en": null,
-          "title_original": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
-          "summary": null,
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
-          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-          "title_zh": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-          "title_en": null,
-          "title_original": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-          "summary": null,
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        },
-        {
-          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
-          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
-          "title_zh": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
-          "title_en": null,
-          "title_original": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
-          "summary": null,
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5159,
-      "importance": 0.5159,
-      "importance_score": 0.5159,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8339,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T12:30:42Z",
-      "latest_at": "2026-07-11T12:30:42Z",
-      "primary_item": {
-        "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
-        "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-        "title_zh": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-        "title_en": null,
-        "title_original": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-        "summary": null,
-        "url": "https://www.v2ex.com/t/1226598",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_6dfd9c308451",
-      "title": "当全世界都在投资 AI 时，真正消失的是流动性",
-      "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874582.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
-          "title": "当全世界都在投资 AI 时，真正消失的是流动性",
-          "title_zh": "当全世界都在投资 AI 时，真正消失的是流动性",
-          "title_en": null,
-          "title_original": "当全世界都在投资 AI 时，真正消失的是流动性",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f0b1da6a0565491f99aa879329bdbad318bd24dd",
-          "title": "当全世界都在投资AI时，真正消失的是流动性",
-          "title_zh": "当全世界都在投资AI时，真正消失的是流动性",
-          "title_en": null,
-          "title_original": "当全世界都在投资AI时，真正消失的是流动性",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T00:08:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
-          "title": "当全世界都在投资 AI 时，真正消失的是流动性",
-          "title_zh": "当全世界都在投资 AI 时，真正消失的是流动性",
-          "title_en": null,
-          "title_original": "当全世界都在投资 AI 时，真正消失的是流动性",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f0b1da6a0565491f99aa879329bdbad318bd24dd",
-          "title": "当全世界都在投资AI时，真正消失的是流动性",
-          "title_zh": "当全世界都在投资AI时，真正消失的是流动性",
-          "title_en": null,
-          "title_original": "当全世界都在投资AI时，真正消失的是流动性",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T00:08:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T00:08:11Z",
-      "latest_at": "2026-07-12T01:05:32.191158Z",
-      "primary_item": {
-        "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
-        "title": "当全世界都在投资 AI 时，真正消失的是流动性",
-        "title_zh": "当全世界都在投资 AI 时，真正消失的是流动性",
-        "title_en": null,
-        "title_original": "当全世界都在投资 AI 时，真正消失的是流动性",
-        "summary": null,
-        "url": "https://www.huxiu.com/article/4874582.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_4881a4da7655",
-      "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-      "primary_url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
-          "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-          "title_zh": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试",
-          "title_en": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-          "title_original": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-          "summary": null,
-          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T12:12:34Z"
-        },
-        {
-          "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
-          "title": "美国联邦通信委员会批准测试太空镜以照亮夜空 / FCC approves test of space mirror to light night sky",
-          "title_zh": "美国联邦通信委员会批准测试太空镜以照亮夜空",
-          "title_en": "FCC approves test of space mirror to light night sky",
-          "title_original": "FCC approves test of space mirror to light night sky",
-          "summary": null,
-          "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T12:12:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
-          "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-          "title_zh": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试",
-          "title_en": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-          "title_original": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-          "summary": null,
-          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T12:12:34Z"
-        },
-        {
-          "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
-          "title": "美国联邦通信委员会批准测试太空镜以照亮夜空 / FCC approves test of space mirror to light night sky",
-          "title_zh": "美国联邦通信委员会批准测试太空镜以照亮夜空",
-          "title_en": "FCC approves test of space mirror to light night sky",
-          "title_original": "FCC approves test of space mirror to light night sky",
-          "summary": null,
-          "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T12:12:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8302,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T12:12:34Z",
-      "latest_at": "2026-07-11T12:12:34Z",
-      "primary_item": {
-        "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
-        "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-        "title_zh": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试",
-        "title_en": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-        "title_original": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-        "summary": null,
-        "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_b3a404e8e56a",
-      "title": "DayuanJiang / next-ai-draw-io",
-      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "primary_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
-          "title": "DayuanJiang / next-ai-draw-io",
-          "title_zh": null,
-          "title_en": "DayuanJiang / next-ai-draw-io",
-          "title_original": "DayuanJiang / next-ai-draw-io",
-          "summary": null,
-          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
-          "title": "DayuanJiang /      next-ai-draw-io",
-          "title_zh": null,
-          "title_en": "DayuanJiang /      next-ai-draw-io",
-          "title_original": "DayuanJiang /      next-ai-draw-io",
-          "summary": null,
-          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T11:18:21.718000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
-          "title": "DayuanJiang / next-ai-draw-io",
-          "title_zh": null,
-          "title_en": "DayuanJiang / next-ai-draw-io",
-          "title_original": "DayuanJiang / next-ai-draw-io",
-          "summary": null,
-          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
-          "title": "DayuanJiang /      next-ai-draw-io",
-          "title_zh": null,
-          "title_en": "DayuanJiang /      next-ai-draw-io",
-          "title_original": "DayuanJiang /      next-ai-draw-io",
-          "summary": null,
-          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T11:18:21.718000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5137,
-      "importance": 0.5137,
-      "importance_score": 0.5137,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8217,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T11:18:21.718000Z",
-      "latest_at": "2026-07-11T11:29:35.785491Z",
-      "primary_item": {
-        "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
-        "title": "DayuanJiang / next-ai-draw-io",
-        "title_zh": null,
-        "title_en": "DayuanJiang / next-ai-draw-io",
-        "title_original": "DayuanJiang / next-ai-draw-io",
-        "summary": null,
-        "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_1b89591e8184",
-      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-      "url": "https://www.qbitai.com/2026/07/447902.html",
-      "primary_url": "https://www.qbitai.com/2026/07/447902.html",
-      "source": "量子位 · 每日最新",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "b41c66bc4be1aa47f1747df59d02763cc23d6347",
-          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-          "title_zh": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-          "title_en": null,
-          "title_original": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-          "summary": null,
-          "url": "https://www.qbitai.com/2026/07/447902.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "69fcefe45f77192fd3f487e9ca42990a3f7b22f7",
-          "title": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
-          "title_zh": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
-          "title_en": null,
-          "title_original": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
-          "summary": null,
-          "url": "https://www.qbitai.com/2026/07/447902.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "量子位 · 每日最新"
-      ],
-      "items": [
-        {
-          "id": "b41c66bc4be1aa47f1747df59d02763cc23d6347",
-          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-          "title_zh": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-          "title_en": null,
-          "title_original": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-          "summary": null,
-          "url": "https://www.qbitai.com/2026/07/447902.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "69fcefe45f77192fd3f487e9ca42990a3f7b22f7",
-          "title": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
-          "title_zh": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
-          "title_en": null,
-          "title_original": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
-          "summary": null,
-          "url": "https://www.qbitai.com/2026/07/447902.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5137,
-      "importance": 0.5137,
-      "importance_score": 0.5137,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8217,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T11:29:35.785491Z",
-      "latest_at": "2026-07-11T11:29:35.785491Z",
-      "primary_item": {
-        "id": "b41c66bc4be1aa47f1747df59d02763cc23d6347",
-        "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-        "title_zh": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-        "title_en": null,
-        "title_original": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-        "summary": null,
-        "url": "https://www.qbitai.com/2026/07/447902.html",
-        "source": "量子位 · 每日最新",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_fcf1a756fad9",
-      "title": "人工智能监控与社会进步",
-      "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-      "primary_url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-      "source": "www.schneier.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a16d914d2e02c7b2611e63195e3a2a4bfe6bcd2b",
-          "title": "人工智能监控与社会进步",
-          "title_zh": "人工智能监控与社会进步",
-          "title_en": null,
-          "title_original": "人工智能监控与社会进步",
-          "summary": null,
-          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-          "source": "www.schneier.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T09:51:09.924000Z"
-        },
-        {
-          "id": "13040820bc1a09759c52883be28b7224ffb3d5f3",
-          "title": "人工智能监控与社会进步 / AI Surveillance and Social Progress",
-          "title_zh": "人工智能监控与社会进步",
-          "title_en": "AI Surveillance and Social Progress",
-          "title_original": "AI Surveillance and Social Progress",
-          "summary": null,
-          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T09:40:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.schneier.com"
-      ],
-      "items": [
-        {
-          "id": "a16d914d2e02c7b2611e63195e3a2a4bfe6bcd2b",
-          "title": "人工智能监控与社会进步",
-          "title_zh": "人工智能监控与社会进步",
-          "title_en": null,
-          "title_original": "人工智能监控与社会进步",
-          "summary": null,
-          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-          "source": "www.schneier.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T09:51:09.924000Z"
-        },
-        {
-          "id": "13040820bc1a09759c52883be28b7224ffb3d5f3",
-          "title": "人工智能监控与社会进步 / AI Surveillance and Social Progress",
-          "title_zh": "人工智能监控与社会进步",
-          "title_en": "AI Surveillance and Social Progress",
-          "title_original": "AI Surveillance and Social Progress",
-          "summary": null,
-          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T09:40:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5102,
-      "importance": 0.5102,
-      "importance_score": 0.5102,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8025,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T09:40:40Z",
-      "latest_at": "2026-07-11T09:51:09.924000Z",
-      "primary_item": {
-        "id": "a16d914d2e02c7b2611e63195e3a2a4bfe6bcd2b",
-        "title": "人工智能监控与社会进步",
-        "title_zh": "人工智能监控与社会进步",
-        "title_en": null,
-        "title_original": "人工智能监控与社会进步",
-        "summary": null,
-        "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-        "source": "www.schneier.com",
-        "source_name": "Buzzing"
       }
     }
   ]
