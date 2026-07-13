@@ -22,6 +22,8 @@ Then ask your agent: `What happened in AI today?`
 
 [中文](README.md) · [Radar Skill](skills/radar/README.md) · [Scout Skill](skills/ai-news-radar/README.md) · [Source strategy](docs/SOURCE_COVERAGE.md)
 
+**What's new**: v0.9 collapses the UI into a single-layer information architecture (category tabs × curated/all toggle × chronological timeline). The old three-view screenshots are archived at [`/legacy/`](legacy/) and stay online until mid-August 2026.
+
 </div>
 
 ---
@@ -32,7 +34,7 @@ Then ask your agent: `What happened in AI today?`
 
 ![ai-radar demo](skills/radar/assets/demo.gif)
 
-**② Read the site directly** → open [radar.learnprompt.pro](https://radar.learnprompt.pro). Since v0.8 every daily pick carries a persona review, and the daily TOP3 shows three personas side by side — Pragmatist, Cynic, and Paper Police — so you see the same story from three angles at a glance.
+**② Read the site directly** → open [radar.learnprompt.pro](https://radar.learnprompt.pro). Since v0.9 the UI is a single layer: top category tabs (All/Models/Products/Devtools/Industry/Research/Community/Creator), a curated/all-items global toggle, and a chronological main list grouped by date. The "current hotspots" board has no fixed cap. Every curated card carries a one-line "why it matters" review, and stories that make the daily TOP3 expand inline into three-persona side-by-side reviews (Pragmatist, Cynic, Paper Police). When the same event is covered by multiple sources, the card collapses into a "N sources" chip you can expand.
 
 **③ Fork and own your own filter** → fork this repo, swap in your own OPML sources, edit a markdown file under `personas/` to change the taste, and the data grows on your own GitHub Pages. Jump to the [fork guide](#fork-guide-your-own-radar-in-five-steps).
 
@@ -54,7 +56,22 @@ Its core logic is **Scout Skill**. It helps you find the thoroughbreds among a p
 
 Judge first. Then connect.
 
-![AI News Radar current screenshot grid](assets/screenshots/ai-news-radar-current-grid.jpg)
+![AI News Radar v0.9 overview screenshot](assets/screenshots/radar-v09-overview.png)
+
+## v0.9: single-layer IA + title enhancement
+
+v0.8's three views (Scout Picks / AI Signal Flow / Hot board) are now one layer: one set of category tabs, one curated/all toggle, one timeline.
+
+![AI News Radar v0.9 timeline screenshot](assets/screenshots/radar-v09-timeline.png)
+
+- **Category tabs**: All/Models/Products/Devtools/Industry/Research/Community/Creator, mutually exclusive, borrowing the single-layer classification idea from [AIHOT](https://aihot.virxact.com)
+- **Curated/all global toggle**: curated reads the merged, AI-relevant, high-value story pool; all reads the raw fetch pool. Both modes share the same timeline + date-grouping template
+- **Current hotspots board**: no fixed item cap — it shows however many stories clear the multi-source heat threshold, kept separate from the main list
+- **Why-it-matters review**: every curated card carries a one-line review; stories that make the daily TOP3 expand inline into all three persona reviews side by side instead of living in a separate homepage section
+- **Same-event expansion**: when 2+ sources cover the same event, the card shows an "N sources" chip — expand it to see each source's own title, outlet, and relative time
+- **Title enhancement**: when a title is too terse or jargon-heavy, the pipeline micro-crawls the source page for context (falling back to r.jina.ai on direct-fetch failure) and has an LLM rewrite it. Requires `DEEPSEEK_API_KEY`; without it, titles stay as-is and nothing else breaks
+- **Data-source switch**: append `?data=<data-dir-url>` to the page URL to point the frontend at a different `data/` directory (e.g. to preview another branch's or PR's generated data). The choice persists in local storage, handy for multi-branch development
+- **AIHOT sub-source classification**: items from aggregator sites get a further breakdown chip — X / WeChat / HN / RSS — right after the channel chip
 
 ## v0.8: three-persona reviews
 
@@ -66,7 +83,7 @@ Whether a story matters depends on who you are. v0.8 gives the daily brief swapp
 | **Cynic** | `cynic` | Punctures marketing spin and hype — sarcastic, but grounded in facts |
 | **Paper Police** | `paper-police` | Only trusts papers/code/benchmarks; zero tolerance for "coming soon" |
 
-- The daily 20 picks are scored and reviewed by the default persona; the homepage TOP3 shows all three personas side by side — one story, three angles.
+- The daily 20 picks are scored and reviewed by the default persona; stories that make the daily TOP3 expand inline in their timeline card to show all three personas side by side — one story, three angles.
 - Each persona is one markdown file under `personas/` (frontmatter + system prompt). Change the taste by editing one file; create a new one following [personas/README.md](personas/README.md) and PR it to join the built-in list.
 - LLM reviews require a `DEEPSEEK_API_KEY` upstream. Without it the whole pipeline still runs — it degrades gracefully to rule-based scores, and both the site and the skill keep working.
 
@@ -92,17 +109,19 @@ It is closer to a lightweight news pipeline: source judgement, fetching, dedupli
 
 ### For readers
 
-- Open the live site and scan the last 24 hours of AI, model, Agent, developer-tool, and tech-ecosystem updates
-- Use "Scout Picks" to see high-value story timelines first; the TOP3 three-persona reviews set the tone quickly
-- Continue reading the full AI-focused feed in "AI Signal Flow"
-- Locate updates quickly with site, keyword, time, and source filters
-- See each item's AI label, AI-relevance score, source platform, and publish time
+- Use the "All/Models/Products/Devtools/Industry/Research/Community/Creator" category tabs to jump straight to what you care about
+- Use the curated/all global toggle: curated shows high-value story timelines; switch to all when you need to backfill or search the raw pool
+- The main list is sorted newest-first and grouped by day, so you can scan what happened today vs. yesterday at a glance; "current hotspots" is a separate, uncapped board for what's hottest right now
+- Every curated card carries a one-line "why it matters" review; stories in the daily TOP3 expand inline into all three persona reviews
+- When the same event is covered by multiple sources, the card shows an "N sources" chip — expand it to read each source's own title instead of clicking through duplicates
+- If a title reads like jargon or an abbreviation, sites with `DEEPSEEK_API_KEY` configured will show the LLM-rewritten, more complete version
+- Locate updates quickly with the specific-source filter and keyword search
 - Use source health and AI ratio to tell which sources are actually useful, and which ones update a lot but contain little AI signal
 
 ### For content creators
 
 - Preserve original source links for deeper research, fact checking, and topic planning
-- Merge multiple sources for the same event, reducing duplicate reading
+- Multiple sources covering the same event collapse into the card's "N sources" chip — expand it to compare each outlet's own title and wording, reducing duplicate reading
 - Use AI labels to judge whether an item is better for a post, short video, or hands-on tool test
 - Use signals such as multi-source overlap, official-first source, and single-source watch item to judge topic credibility and priority
 - Persona reviews double as topic research: the Pragmatist says it's useful, the Cynic says it's spin, the Paper Police says there's no evidence — the disagreement itself is content
@@ -113,6 +132,7 @@ It is closer to a lightweight news pipeline: source judgement, fetching, dedupli
 - Supports official RSS/changelog sources, OPML/RSS, public GitHub feed/JSON files, static pages, and AgentMail
 - GitHub Actions automatically generates `data/*.json` and publishes to GitHub Pages
 - Codex / Claude Code / Hermes / OpenClaw can use the in-repo Scout Skill to maintain sources, fetch logic, and the web page
+- For local or multi-branch development, use the page's `?data=` query param to point the frontend at a different `data/` directory without touching code or redeploying
 - Advanced sources can be connected through GitHub Secrets or local environment variables, without committing tokens, cookies, private OPML files, or email bodies
 
 ## How it works
@@ -179,11 +199,11 @@ If `daily-brief.json` is not available yet, the page falls back to candidate Sco
 
 1. **Fork** [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar).
 2. **Enable Actions**: GitHub pauses workflows on forks by default — enable them on the Actions tab, and `update-news.yml` runs every 30 minutes.
-3. **(Optional) Add `DEEPSEEK_API_KEY`**: Settings → Secrets and variables → Actions. This unlocks persona reviews and better Chinese title translation. Without it everything still runs — rule-based scores and Google Translate take over.
+3. **(Optional) Add `DEEPSEEK_API_KEY`**: Settings → Secrets and variables → Actions. This unlocks persona reviews, title enhancement, and better Chinese title translation. Without it everything still runs — rule-based scores, original titles, and Google Translate take over. Add `TITLE_ENHANCE_MAX_PER_RUN` too if you want to cap how many titles get rewritten per run (defaults to 30).
 4. **Enable GitHub Pages**: Settings → Pages, serve the master branch root. Your radar is live minutes later.
 5. **Change one line in the skill**: point the `BASE_URL` at the top of `skills/radar/SKILL.md` to `https://<your-username>.github.io/ai-news-radar/data`, and your agent reads your data from now on.
 
-To change sources: put your subscriptions into `feeds/follow.opml` (see `feeds/follow.example.opml`), or let the in-repo [Scout Skill](skills/ai-news-radar/README.md) judge and ingest them. To change tastes: edit the markdown files under `personas/`. Unhappy with a translation: edit `translation-glossary.txt` in the repo root (protected terms + repair rules, format documented in the file) and the next pipeline run picks it up. Want your own domain: (optional) import the repo into Vercel — the included `vercel.json` is ready, zero build.
+To change sources: put your subscriptions into `feeds/follow.opml` (see `feeds/follow.example.opml`), or let the in-repo [Scout Skill](skills/ai-news-radar/README.md) judge and ingest them. To change tastes: edit the markdown files under `personas/`. Unhappy with a translation: edit `translation-glossary.txt` in the repo root (protected terms + repair rules, format documented in the file) and the next pipeline run picks it up. Want your own domain: (optional) import the repo into Vercel — the included `vercel.json` is ready, zero build. Want to preview data from another branch while testing: append `?data=<data-dir-url>` to the page URL, no code changes needed.
 
 ## Quick start (run locally)
 
@@ -243,7 +263,8 @@ When a new agent takes over validation, read these first:
 - Supports manual `workflow_dispatch`; pass `force_tikhub=true` explicitly to override the normal paid-source interval for TikHub
 - Runs every 30 minutes by default: `*/30 * * * *`
 - Automatically generates and commits `data/*.json`
-- With `DEEPSEEK_API_KEY` set, scores the daily picks with the default persona and generates the three-persona TOP3 reviews; without it, falls back to rule-based scores
+- With `DEEPSEEK_API_KEY` set, scores the daily picks with the default persona, generates the three-persona TOP3 reviews, enables title enhancement, and gives better translation; without it, falls back to rule-based scores, original titles, and Google Translate — the core pipeline still runs
+- With `TITLE_ENHANCE_MAX_PER_RUN` set, caps how many titles get rewritten per run; defaults to 30
 - Uses public demo `feeds/follow.example.opml` when `FOLLOW_OPML_B64` is not configured, so the hosted page can show the RSS/OPML path working
 - Decodes `FOLLOW_OPML_B64` into private `feeds/follow.opml` when configured
 - Generates a redacted email summary when `EMAIL_DIGEST_ENABLED=1`, `AGENTMAIL_API_KEY`, and `AGENTMAIL_INBOX_ID` are set
@@ -272,6 +293,7 @@ The single-account / single-newsletter demo is in `docs/guides/rileybrown-alphas
 | v0.6 | How do scattered messages become events? | Story merging, AI labels/scores, source health and AI ratio |
 | v0.7 | With this many stories, what's hot? | Hot view (multi-source mass × time decay), community section, headline-style Top3, quality-over-quantity gate, scoring backtest tool, ai-radar consumer skill |
 | v0.8 | Same story — whose take do you trust? | Three-persona reviews, TOP3 side-by-side, persona-as-markdown-file (editable, PR-able), Vercel public site |
+| v0.9 | Three views coexist — how do they read as one news feed? | Single-layer IA (category tabs × curated/all × timeline), title enhancement, same-event multi-source expansion, data-source switching, AIHOT sub-source classification |
 
 See [Releases](https://github.com/LearnPrompt/ai-news-radar/releases) for the full history.
 
