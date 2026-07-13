@@ -16,7 +16,7 @@ const state = {
   siteFilter: "",
   authorFilter: "",
   query: "",
-  // AIHOT 式单层信息架构：category（内容 tab） x mode（精选/全量全局开关）两个维度。
+  // 单层信息架构：category（内容 tab） x mode（精选/全量全局开关）两个维度。
   // mode=selected 主列表读 mergedStories()（AI 相关合并事件池，纯时间倒序）；
   // mode=all 主列表读 itemsAllRaw/itemsAll（全量原始条目池）。
   mode: "selected",
@@ -129,7 +129,7 @@ const SOURCE_KINDS = {
 const AIHOT_SUB_LABELS = { x: "X", wechat: "公众号", hn: "HN", rss: "RSS" };
 const AIHOT_SUB_TONES = { x: "builders", wechat: "creator", hn: "aggregate", rss: "newsletter" };
 
-// AIHOT 式单层内容 tab：全部（默认，无过滤）+ 5 个主题栏目 + 社区 + 自媒体，互斥单值。
+// 单层内容 tab：全部（默认，无过滤）+ 5 个主题栏目 + 社区 + 自媒体，互斥单值。
 const SECTION_DEFS = [
   { id: "all", label: "全部", short: "全部", description: "不筛选内容栏目，查看全部信号" },
   { id: "models", label: "模型", short: "模型", description: "模型发布、能力升级、评测与开源权重" },

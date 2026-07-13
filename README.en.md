@@ -64,14 +64,14 @@ v0.8's three views (Scout Picks / AI Signal Flow / Hot board) are now one layer:
 
 ![AI News Radar v0.9 timeline screenshot](assets/screenshots/radar-v09-timeline.png)
 
-- **Category tabs**: All/Models/Products/Devtools/Industry/Research/Community/Creator, mutually exclusive, borrowing the single-layer classification idea from [AIHOT](https://aihot.virxact.com)
+- **Category tabs**: All/Models/Products/Devtools/Industry/Research/Community/Creator, mutually exclusive
 - **Curated/all global toggle**: curated reads the merged, AI-relevant, high-value story pool; all reads the raw fetch pool. Both modes share the same timeline + date-grouping template
 - **Current hotspots board**: no fixed item cap — it shows however many stories clear the multi-source heat threshold, kept separate from the main list
 - **Why-it-matters review**: every curated card carries a one-line review; stories that make the daily TOP3 expand inline into all three persona reviews side by side instead of living in a separate homepage section
 - **Same-event expansion**: when 2+ sources cover the same event, the card shows an "N sources" chip — expand it to see each source's own title, outlet, and relative time
 - **Title enhancement**: when a title is too terse or jargon-heavy, the pipeline micro-crawls the source page for context (falling back to r.jina.ai on direct-fetch failure) and has an LLM rewrite it. Requires `DEEPSEEK_API_KEY`; without it, titles stay as-is and nothing else breaks
 - **Data-source switch**: append `?data=<data-dir-url>` to the page URL to point the frontend at a different `data/` directory (e.g. to preview another branch's or PR's generated data). The choice persists in local storage, handy for multi-branch development
-- **AIHOT sub-source classification**: items from aggregator sites get a further breakdown chip — X / WeChat / HN / RSS — right after the channel chip
+- **aggregator sub-source classification**: items from aggregator sites get a further breakdown chip — X / WeChat / HN / RSS — right after the channel chip
 
 ## v0.8: three-persona reviews
 
@@ -293,13 +293,13 @@ The single-account / single-newsletter demo is in `docs/guides/rileybrown-alphas
 | v0.6 | How do scattered messages become events? | Story merging, AI labels/scores, source health and AI ratio |
 | v0.7 | With this many stories, what's hot? | Hot view (multi-source mass × time decay), community section, headline-style Top3, quality-over-quantity gate, scoring backtest tool, ai-radar consumer skill |
 | v0.8 | Same story — whose take do you trust? | Three-persona reviews, TOP3 side-by-side, persona-as-markdown-file (editable, PR-able), Vercel public site |
-| v0.9 | Three views coexist — how do they read as one news feed? | Single-layer IA (category tabs × curated/all × timeline), title enhancement, same-event multi-source expansion, data-source switching, AIHOT sub-source classification |
+| v0.9 | Three views coexist — how do they read as one news feed? | Single-layer IA (category tabs × curated/all × timeline), title enhancement, same-event multi-source expansion, data-source switching, aggregator sub-source classification |
 
 See [Releases](https://github.com/LearnPrompt/ai-news-radar/releases) for the full history.
 
 ## Acknowledgements
 
-- [AIHOT](https://aihot.virxact.com): upstream inspiration and one of the sources
+- [AI HOT](https://aihot.virxact.com): Chinese AI news aggregator, one of the sources
 - [superpowers](https://github.com/obra/superpowers): skill engineering methodology
 - [mattpocock/skills](https://github.com/mattpocock/skills): skill writing methodology
 
