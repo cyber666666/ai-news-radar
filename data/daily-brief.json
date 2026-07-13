@@ -1,8 +1,82 @@
 {
-  "generated_at": "2026-07-13T02:47:55.497322Z",
+  "generated_at": "2026-07-13T06:18:59.993938Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.144.2 / Codex CLI 0.144.2",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
+          "title": "Codex CLI 0.144.2 / Codex CLI 0.144.2",
+          "title_zh": "Codex CLI 0.144.2",
+          "title_en": "Codex CLI 0.144.2",
+          "title_original": "Codex CLI 0.144.2",
+          "summary": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
+          "title": "Codex CLI 0.144.2 / Codex CLI 0.144.2",
+          "title_zh": "Codex CLI 0.144.2",
+          "title_en": "Codex CLI 0.144.2",
+          "title_original": "Codex CLI 0.144.2",
+          "summary": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8503,
+      "importance": 0.8503,
+      "importance_score": 0.8503,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9128,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T00:00:00Z",
+      "latest_at": "2026-07-13T00:00:00Z",
+      "primary_item": {
+        "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
+        "title": "Codex CLI 0.144.2 / Codex CLI 0.144.2",
+        "title_zh": "Codex CLI 0.144.2",
+        "title_en": "Codex CLI 0.144.2",
+        "title_original": "Codex CLI 0.144.2",
+        "summary": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_4f4c2bd39a3c",
       "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
@@ -39,8 +113,8 @@
         },
         {
           "id": "494324f73b81243fdc1df1886cd3ec6d393284d2",
-          "title": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-          "title_zh": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27%",
+          "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+          "title_zh": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
           "title_en": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
           "title_original": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
           "summary": null,
@@ -100,8 +174,8 @@
         },
         {
           "id": "494324f73b81243fdc1df1886cd3ec6d393284d2",
-          "title": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-          "title_zh": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27%",
+          "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+          "title_zh": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
           "title_en": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
           "title_original": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
           "summary": null,
@@ -127,15 +201,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9561,
+        "recency": 0.9087,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -201,15 +275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9615,
+        "recency": 0.9139,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -228,6 +302,281 @@
         "summary": "安全研究者发现，xAI 官方 Grok CLI（npm 包 `@xai-official/grok` 0.2.93 版）会在每轮任务前后，将当前工作目录打包为 `before_codebase.tar.gz` 和 `after_codebase.tar.gz`，通过独立旁路通道静默上传至 xAI 的 Google Cloud 仓库。验证显示，即使模型仅回复一个单词，上传依然发生。上传包还包含仓库外的 `~/.claude.json`、Claude Code 设置、全局 AGENTS 规则、30 多个 Skill 文件及一个 API 密钥。7 月 13 日凌晨，xAI 通过服务端远程开关新增 `disable_codebase_upload` 字段，将默认上传行为关闭，但此前该功能默认开启。",
         "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
         "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b3e627b2977f",
+      "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+      "url": "https://www.ithome.com/0/975/865.htm",
+      "primary_url": "https://www.ithome.com/0/975/865.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
+          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+          "title_zh": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+          "title_en": null,
+          "title_original": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+          "summary": "英伟达CEO黄仁勋在摩根士丹利路演中表示，公司季度营收即将逼近1000亿美元，且增长速度仍在加快。他否认下一代旗舰架构Rubin Ultra延期传闻，称其仍按计划于明年出货，当前机架设计调整仅为系统架构优化。一个此前主要依赖ASIC的前沿AI模型项目，如今英伟达GPU算力占比已接近50%，市场普遍指向Anthropic。英伟达预计本财年CPU业务收入约200亿美元，下一代Vera CPU将进军通用服务器市场。摩根士丹利维持英伟达\"增持\"评级，目标价288美元。",
+          "url": "https://www.ithome.com/0/975/865.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T00:55:29Z"
+        },
+        {
+          "id": "cd197e74e0d33b4478a0ca5538315e5523afe942",
+          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+          "title_zh": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+          "title_en": null,
+          "title_original": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+          "summary": null,
+          "url": "https://stock.jrj.com.cn/2026/07/13134057778647.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
+          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+          "title_zh": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+          "title_en": null,
+          "title_original": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+          "summary": "英伟达CEO黄仁勋在摩根士丹利路演中表示，公司季度营收即将逼近1000亿美元，且增长速度仍在加快。他否认下一代旗舰架构Rubin Ultra延期传闻，称其仍按计划于明年出货，当前机架设计调整仅为系统架构优化。一个此前主要依赖ASIC的前沿AI模型项目，如今英伟达GPU算力占比已接近50%，市场普遍指向Anthropic。英伟达预计本财年CPU业务收入约200亿美元，下一代Vera CPU将进军通用服务器市场。摩根士丹利维持英伟达\"增持\"评级，目标价288美元。",
+          "url": "https://www.ithome.com/0/975/865.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T00:55:29Z"
+        },
+        {
+          "id": "cd197e74e0d33b4478a0ca5538315e5523afe942",
+          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+          "title_zh": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+          "title_en": null,
+          "title_original": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+          "summary": null,
+          "url": "https://stock.jrj.com.cn/2026/07/13134057778647.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9251,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T00:55:29Z",
+      "latest_at": "2026-07-13T06:18:59.993938Z",
+      "primary_item": {
+        "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
+        "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+        "title_zh": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+        "title_en": null,
+        "title_original": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+        "summary": "英伟达CEO黄仁勋在摩根士丹利路演中表示，公司季度营收即将逼近1000亿美元，且增长速度仍在加快。他否认下一代旗舰架构Rubin Ultra延期传闻，称其仍按计划于明年出货，当前机架设计调整仅为系统架构优化。一个此前主要依赖ASIC的前沿AI模型项目，如今英伟达GPU算力占比已接近50%，市场普遍指向Anthropic。英伟达预计本财年CPU业务收入约200亿美元，下一代Vera CPU将进军通用服务器市场。摩根士丹利维持英伟达\"增持\"评级，目标价288美元。",
+        "url": "https://www.ithome.com/0/975/865.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_181aad88bf9c",
+      "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+      "url": "https://www.aibase.com/news/29541",
+      "primary_url": "https://www.aibase.com/news/29541",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
+          "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "title_zh": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "title_en": null,
+          "title_original": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "summary": null,
+          "url": "https://www.aibase.com/news/29541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T06:18:59.993938Z"
+        },
+        {
+          "id": "525c3271839491bd18897603baa12db3362be93b",
+          "title": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "title_zh": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "title_en": null,
+          "title_original": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "summary": null,
+          "url": "https://www.ithome.com/0/975/885.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T02:32:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
+          "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "title_zh": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "title_en": null,
+          "title_original": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "summary": null,
+          "url": "https://www.aibase.com/news/29541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T06:18:59.993938Z"
+        },
+        {
+          "id": "525c3271839491bd18897603baa12db3362be93b",
+          "title": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "title_zh": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "title_en": null,
+          "title_original": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "summary": null,
+          "url": "https://www.ithome.com/0/975/885.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T02:32:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T02:32:13Z",
+      "latest_at": "2026-07-13T06:18:59.993938Z",
+      "primary_item": {
+        "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
+        "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+        "title_zh": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+        "title_en": null,
+        "title_original": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+        "summary": null,
+        "url": "https://www.aibase.com/news/29541",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_94a1c14fcbb4",
+      "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+      "url": "https://x.com/dotey/status/2076372677577576864",
+      "primary_url": "https://x.com/dotey/status/2076372677577576864",
+      "source": "X：宝玉 (@dotey)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "title_en": null,
+          "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
+          "url": "https://x.com/dotey/status/2076372677577576864",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T18:26:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：宝玉 (@dotey)"
+      ],
+      "items": [
+        {
+          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "title_en": null,
+          "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
+          "url": "https://x.com/dotey/status/2076372677577576864",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T18:26:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8424,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T18:26:38Z",
+      "latest_at": "2026-07-12T18:26:38Z",
+      "primary_item": {
+        "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+        "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+        "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+        "title_en": null,
+        "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+        "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
+        "url": "https://x.com/dotey/status/2076372677577576864",
+        "source": "X：宝玉 (@dotey)",
         "source_name": "AI HOT"
       }
     },
@@ -301,15 +650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9505,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -330,152 +679,6 @@
         "url": "https://www.aibase.com/news/29537",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b3e627b2977f",
-      "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-      "url": "https://www.ithome.com/0/975/865.htm",
-      "primary_url": "https://www.ithome.com/0/975/865.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
-          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "title_zh": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "title_en": null,
-          "title_original": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "summary": "英伟达CEO黄仁勋在摩根士丹利路演中表示，公司季度营收即将逼近1000亿美元，且增长速度仍在加快。他否认下一代旗舰架构Rubin Ultra延期传闻，称其仍按计划于明年出货，当前机架设计调整仅为系统架构优化。一个此前主要依赖ASIC的前沿AI模型项目，如今英伟达GPU算力占比已接近50%，市场普遍指向Anthropic。英伟达预计本财年CPU业务收入约200亿美元，下一代Vera CPU将进军通用服务器市场。摩根士丹利维持英伟达\"增持\"评级，目标价288美元。",
-          "url": "https://www.ithome.com/0/975/865.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T00:55:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
-          "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "title_zh": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "title_en": null,
-          "title_original": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-          "summary": "英伟达CEO黄仁勋在摩根士丹利路演中表示，公司季度营收即将逼近1000亿美元，且增长速度仍在加快。他否认下一代旗舰架构Rubin Ultra延期传闻，称其仍按计划于明年出货，当前机架设计调整仅为系统架构优化。一个此前主要依赖ASIC的前沿AI模型项目，如今英伟达GPU算力占比已接近50%，市场普遍指向Anthropic。英伟达预计本财年CPU业务收入约200亿美元，下一代Vera CPU将进军通用服务器市场。摩根士丹利维持英伟达\"增持\"评级，目标价288美元。",
-          "url": "https://www.ithome.com/0/975/865.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T00:55:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9733,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T00:55:29Z",
-      "latest_at": "2026-07-13T00:55:29Z",
-      "primary_item": {
-        "id": "39db45781d2a93f4799ffcdead7da06f7035f621",
-        "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-        "title_zh": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-        "title_en": null,
-        "title_original": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-        "summary": "英伟达CEO黄仁勋在摩根士丹利路演中表示，公司季度营收即将逼近1000亿美元，且增长速度仍在加快。他否认下一代旗舰架构Rubin Ultra延期传闻，称其仍按计划于明年出货，当前机架设计调整仅为系统架构优化。一个此前主要依赖ASIC的前沿AI模型项目，如今英伟达GPU算力占比已接近50%，市场普遍指向Anthropic。英伟达预计本财年CPU业务收入约200亿美元，下一代Vera CPU将进军通用服务器市场。摩根士丹利维持英伟达\"增持\"评级，目标价288美元。",
-        "url": "https://www.ithome.com/0/975/865.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_94a1c14fcbb4",
-      "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-      "url": "https://x.com/dotey/status/2076372677577576864",
-      "primary_url": "https://x.com/dotey/status/2076372677577576864",
-      "source": "X：宝玉 (@dotey)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "title_en": null,
-          "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
-          "url": "https://x.com/dotey/status/2076372677577576864",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T18:26:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：宝玉 (@dotey)"
-      ],
-      "items": [
-        {
-          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "title_en": null,
-          "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
-          "url": "https://x.com/dotey/status/2076372677577576864",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T18:26:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8863,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T18:26:38Z",
-      "latest_at": "2026-07-12T18:26:38Z",
-      "primary_item": {
-        "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-        "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-        "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-        "title_en": null,
-        "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-        "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
-        "url": "https://x.com/dotey/status/2076372677577576864",
-        "source": "X：宝玉 (@dotey)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -521,15 +724,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8807,
+        "recency": 0.837,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -594,21 +797,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8607,
+        "recency": 0.818,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-12T16:24:32Z",
       "latest_at": "2026-07-12T16:24:32Z",
@@ -694,15 +896,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7763,
+        "recency": 0.7378,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -767,15 +969,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8454,
+        "recency": 0.8035,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -794,6 +996,79 @@
         "url": "https://x.com/satyanadella/status/2076323181154230284",
         "source": "X：Satya Nadella (@satyanadella)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3b8abf3cb07f",
+      "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
+      "url": "https://www.aibase.com/news/29540",
+      "primary_url": "https://www.aibase.com/news/29540",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7d3139bebf1808f8739e165b51d03bebe3c410a1",
+          "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
+          "title_zh": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
+          "title_en": null,
+          "title_original": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
+          "summary": null,
+          "url": "https://www.aibase.com/news/29540",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T06:18:59.993938Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7d3139bebf1808f8739e165b51d03bebe3c410a1",
+          "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
+          "title_zh": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
+          "title_en": null,
+          "title_original": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
+          "summary": null,
+          "url": "https://www.aibase.com/news/29540",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T06:18:59.993938Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T06:18:59.993938Z",
+      "latest_at": "2026-07-13T06:18:59.993938Z",
+      "primary_item": {
+        "id": "7d3139bebf1808f8739e165b51d03bebe3c410a1",
+        "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
+        "title_zh": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
+        "title_en": null,
+        "title_original": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
+        "summary": null,
+        "url": "https://www.aibase.com/news/29540",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -816,24 +1091,10 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-12T13:51:05.035000Z"
-        },
-        {
-          "id": "8ae43e3e6e516ec40634c1eb5556f6a09222b8b2",
-          "title": "Show HN: Mindwalk——在代码库的 3D 地图上重放编码代理会话 / Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-          "title_zh": "Show HN: Mindwalk——在代码库的 3D 地图上重放编码代理会话",
-          "title_en": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-          "title_original": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-          "summary": null,
-          "url": "https://github.com/cosmtrek/mindwalk",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T05:51:32Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
@@ -849,41 +1110,26 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-12T13:51:05.035000Z"
-        },
-        {
-          "id": "8ae43e3e6e516ec40634c1eb5556f6a09222b8b2",
-          "title": "Show HN: Mindwalk——在代码库的 3D 地图上重放编码代理会话 / Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-          "title_zh": "Show HN: Mindwalk——在代码库的 3D 地图上重放编码代理会话",
-          "title_en": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-          "title_original": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-          "summary": null,
-          "url": "https://github.com/cosmtrek/mindwalk",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T05:51:32Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8295,
-        "story_heat": 0.25
+        "recency": 0.7884,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-12T05:51:32Z",
+      "earliest_at": "2026-07-12T13:51:05.035000Z",
       "latest_at": "2026-07-12T13:51:05.035000Z",
       "primary_item": {
         "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
@@ -898,25 +1144,25 @@
       }
     },
     {
-      "story_id": "story_4a682d8ae5ae",
-      "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-      "url": "https://www.aibase.com/news/29538",
-      "primary_url": "https://www.aibase.com/news/29538",
+      "story_id": "story_86c792186562",
+      "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
+      "url": "https://www.aibase.com/news/29544",
+      "primary_url": "https://www.aibase.com/news/29544",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
-          "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-          "title_zh": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+          "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
+          "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
+          "title_zh": "哈啰试水AI校园社交，推出精准交友产品“Match”",
           "title_en": null,
-          "title_original": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+          "title_original": "哈啰试水AI校园社交，推出精准交友产品“Match”",
           "summary": null,
-          "url": "https://www.aibase.com/news/29538",
+          "url": "https://www.aibase.com/news/29544",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
+          "published_at": "2026-07-13T06:18:59.993938Z"
         }
       ],
       "source_count": 1,
@@ -925,17 +1171,17 @@
       ],
       "items": [
         {
-          "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
-          "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-          "title_zh": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+          "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
+          "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
+          "title_zh": "哈啰试水AI校园社交，推出精准交友产品“Match”",
           "title_en": null,
-          "title_original": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+          "title_original": "哈啰试水AI校园社交，推出精准交友产品“Match”",
           "summary": null,
-          "url": "https://www.aibase.com/news/29538",
+          "url": "https://www.aibase.com/news/29544",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
+          "published_at": "2026-07-13T06:18:59.993938Z"
         }
       ],
       "item_count": 1,
@@ -956,175 +1202,55 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T02:47:55.497322Z",
-      "latest_at": "2026-07-13T02:47:55.497322Z",
+      "earliest_at": "2026-07-13T06:18:59.993938Z",
+      "latest_at": "2026-07-13T06:18:59.993938Z",
       "primary_item": {
-        "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
-        "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-        "title_zh": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+        "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
+        "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
+        "title_zh": "哈啰试水AI校园社交，推出精准交友产品“Match”",
         "title_en": null,
-        "title_original": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+        "title_original": "哈啰试水AI校园社交，推出精准交友产品“Match”",
         "summary": null,
-        "url": "https://www.aibase.com/news/29538",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_290d28970a0b",
-      "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-      "url": "https://www.aibase.com/news/29531",
-      "primary_url": "https://www.aibase.com/news/29531",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "73d9aa7dc755a693c4234b6511f2547cd7d65506",
-          "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-          "title_zh": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-          "title_en": null,
-          "title_original": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29531",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "73d9aa7dc755a693c4234b6511f2547cd7d65506",
-          "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-          "title_zh": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-          "title_en": null,
-          "title_original": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29531",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T02:47:55.497322Z",
-      "latest_at": "2026-07-13T02:47:55.497322Z",
-      "primary_item": {
-        "id": "73d9aa7dc755a693c4234b6511f2547cd7d65506",
-        "title": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-        "title_zh": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-        "title_en": null,
-        "title_original": "OpenAI 招聘家庭产品经理，ChatGPT 加速渗透中老年与家庭用户",
-        "summary": null,
-        "url": "https://www.aibase.com/news/29531",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_03ae6cbbca5c",
-      "title": "​Claude Code再进化！内置浏览器让AI自主“刷网页”",
-      "url": "https://www.aibase.com/news/29533",
-      "primary_url": "https://www.aibase.com/news/29533",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7d25a823e31276aeffd1d99ad1ccb6565a9868b6",
-          "title": "​Claude Code再进化！内置浏览器让AI自主“刷网页”",
-          "title_zh": "​Claude Code再进化！内置浏览器让AI自主“刷网页”",
-          "title_en": null,
-          "title_original": "​Claude Code再进化！内置浏览器让AI自主“刷网页”",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29533",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7d25a823e31276aeffd1d99ad1ccb6565a9868b6",
-          "title": "​Claude Code再进化！内置浏览器让AI自主“刷网页”",
-          "title_zh": "​Claude Code再进化！内置浏览器让AI自主“刷网页”",
-          "title_en": null,
-          "title_original": "​Claude Code再进化！内置浏览器让AI自主“刷网页”",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29533",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T02:47:55.497322Z",
-      "latest_at": "2026-07-13T02:47:55.497322Z",
-      "primary_item": {
-        "id": "7d25a823e31276aeffd1d99ad1ccb6565a9868b6",
-        "title": "​Claude Code再进化！内置浏览器让AI自主“刷网页”",
-        "title_zh": "​Claude Code再进化！内置浏览器让AI自主“刷网页”",
-        "title_en": null,
-        "title_original": "​Claude Code再进化！内置浏览器让AI自主“刷网页”",
-        "summary": null,
-        "url": "https://www.aibase.com/news/29533",
+        "url": "https://www.aibase.com/news/29544",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
+      "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-12",
+      "source": "社区更新 · 2026-07-13",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "a930df5107467df479e4f4a3ac3c60cbb53d9cf4",
+          "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+          "title_zh": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+          "title_en": null,
+          "title_original": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+          "summary": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-13T06:18:59.993938Z"
+        },
+        {
+          "id": "e1608d294393a4b1847e3e845eee9dec1c1bba62",
+          "title": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
+          "title_zh": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
+          "title_en": null,
+          "title_original": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
+          "summary": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-13T06:18:59.993938Z"
+        },
+        {
           "id": "d133bdd1b1e6b872b9efacecbf1cac68d0dc435b",
           "title": "如果你最近也在用 Codex、Claude Code 搭建网站，这套DESIGN.md工具方案能帮你摆脱千篇一律的廉价模板感。文中按不同使用场景推荐了对应工具，从找品牌设计灵感、抓取站点规范、浏览器实时提取样式、一站式落地页面全流程全覆盖，带你拆解成熟产品的底层设计规则。",
           "title_zh": "如果你最近也在用 Codex、Claude Code 搭建网站，这套DESIGN.md工具方案能帮你摆脱千篇一律的廉价模板感。文中按不同使用场景推荐了对应工具，从找品牌设计灵感、抓取站点规范、浏览器实时提取样式、一站式落地页面全流程全覆盖，带你拆解成熟产品的底层设计规则。",
@@ -1203,12 +1329,39 @@
           "published_at": "2026-07-12T15:32:56.938982Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 8,
       "source_names": [
-        "社区更新 · 2026-07-12"
+        "社区更新 · 2026-07-12",
+        "社区更新 · 2026-07-13"
       ],
       "items": [
         {
+          "id": "a930df5107467df479e4f4a3ac3c60cbb53d9cf4",
+          "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+          "title_zh": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+          "title_en": null,
+          "title_original": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+          "summary": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-13T06:18:59.993938Z"
+        },
+        {
+          "id": "e1608d294393a4b1847e3e845eee9dec1c1bba62",
+          "title": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
+          "title_zh": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
+          "title_en": null,
+          "title_original": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
+          "summary": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-13T06:18:59.993938Z"
+        },
+        {
           "id": "d133bdd1b1e6b872b9efacecbf1cac68d0dc435b",
           "title": "如果你最近也在用 Codex、Claude Code 搭建网站，这套DESIGN.md工具方案能帮你摆脱千篇一律的廉价模板感。文中按不同使用场景推荐了对应工具，从找品牌设计灵感、抓取站点规范、浏览器实时提取样式、一站式落地页面全流程全覆盖，带你拆解成熟产品的底层设计规则。",
           "title_zh": "如果你最近也在用 Codex、Claude Code 搭建网站，这套DESIGN.md工具方案能帮你摆脱千篇一律的廉价模板感。文中按不同使用场景推荐了对应工具，从找品牌设计灵感、抓取站点规范、浏览器实时提取样式、一站式落地页面全流程全覆盖，带你拆解成熟产品的底层设计规则。",
@@ -1287,17 +1440,17 @@
           "published_at": "2026-07-12T15:32:56.938982Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6645,
-      "importance": 0.6645,
-      "importance_score": 0.6645,
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4968,
+        "editorial": 0.468,
         "source_tier": 0.54,
-        "ai_relevance": 0.69,
-        "recency": 0.8813,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1305,111 +1458,39 @@
         "multi_source"
       ],
       "earliest_at": "2026-07-12T15:32:56.938982Z",
-      "latest_at": "2026-07-12T18:02:51.675834Z",
+      "latest_at": "2026-07-13T06:18:59.993938Z",
       "primary_item": {
-        "id": "9e195b60c4529fab4b75186aba85e70421e15d69",
-        "title": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
-        "title_zh": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
+        "id": "a930df5107467df479e4f4a3ac3c60cbb53d9cf4",
+        "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+        "title_zh": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
         "title_en": null,
-        "title_original": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
-        "summary": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
+        "title_original": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
+        "summary": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-12",
+        "source": "社区更新 · 2026-07-13",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_b21c70de14cb",
-      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "primary_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "title_en": null,
-          "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T03:59:09.632000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "title_en": null,
-          "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T03:59:09.632000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7231,
-      "importance": 0.7231,
-      "importance_score": 0.7231,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7193,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T03:59:09.632000Z",
-      "latest_at": "2026-07-12T03:59:09.632000Z",
-      "primary_item": {
-        "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-        "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-        "title_en": null,
-        "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-        "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
-        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_41ff5dcf5fcf",
-      "title": "用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架",
-      "url": "https://www.aibase.com/news/29535",
-      "primary_url": "https://www.aibase.com/news/29535",
+      "story_id": "story_62ff3681c8ca",
+      "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+      "url": "https://www.aibase.com/news/29543",
+      "primary_url": "https://www.aibase.com/news/29543",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "01ad5f56c3902a903ee0f0cd81816a0733b5f9de",
-          "title": "用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架",
-          "title_zh": "用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架",
+          "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
+          "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+          "title_zh": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
           "title_en": null,
-          "title_original": "用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架",
+          "title_original": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
           "summary": null,
-          "url": "https://www.aibase.com/news/29535",
+          "url": "https://www.aibase.com/news/29543",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
+          "published_at": "2026-07-13T06:18:59.993938Z"
         }
       ],
       "source_count": 1,
@@ -1418,17 +1499,17 @@
       ],
       "items": [
         {
-          "id": "01ad5f56c3902a903ee0f0cd81816a0733b5f9de",
-          "title": "用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架",
-          "title_zh": "用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架",
+          "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
+          "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+          "title_zh": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
           "title_en": null,
-          "title_original": "用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架",
+          "title_original": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
           "summary": null,
-          "url": "https://www.aibase.com/news/29535",
+          "url": "https://www.aibase.com/news/29543",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
+          "published_at": "2026-07-13T06:18:59.993938Z"
         }
       ],
       "item_count": 1,
@@ -1449,40 +1530,40 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T02:47:55.497322Z",
-      "latest_at": "2026-07-13T02:47:55.497322Z",
+      "earliest_at": "2026-07-13T06:18:59.993938Z",
+      "latest_at": "2026-07-13T06:18:59.993938Z",
       "primary_item": {
-        "id": "01ad5f56c3902a903ee0f0cd81816a0733b5f9de",
-        "title": "用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架",
-        "title_zh": "用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架",
+        "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
+        "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+        "title_zh": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
         "title_en": null,
-        "title_original": "用“@”就能让 AI 改你照片?Meta 刚上线的新功能被骂到连夜下架",
+        "title_original": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
         "summary": null,
-        "url": "https://www.aibase.com/news/29535",
+        "url": "https://www.aibase.com/news/29543",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_4ad14a7fc96c",
-      "title": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
-      "url": "https://www.aibase.com/news/29532",
-      "primary_url": "https://www.aibase.com/news/29532",
+      "story_id": "story_ec77dce64ece",
+      "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
+      "url": "https://www.aibase.com/news/29542",
+      "primary_url": "https://www.aibase.com/news/29542",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "791a073bc08326031af93445f6195dea82193834",
-          "title": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
-          "title_zh": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
+          "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
+          "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
+          "title_zh": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
           "title_en": null,
-          "title_original": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
+          "title_original": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
           "summary": null,
-          "url": "https://www.aibase.com/news/29532",
+          "url": "https://www.aibase.com/news/29542",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
+          "published_at": "2026-07-13T06:18:59.993938Z"
         }
       ],
       "source_count": 1,
@@ -1491,17 +1572,17 @@
       ],
       "items": [
         {
-          "id": "791a073bc08326031af93445f6195dea82193834",
-          "title": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
-          "title_zh": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
+          "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
+          "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
+          "title_zh": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
           "title_en": null,
-          "title_original": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
+          "title_original": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
           "summary": null,
-          "url": "https://www.aibase.com/news/29532",
+          "url": "https://www.aibase.com/news/29542",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
+          "published_at": "2026-07-13T06:18:59.993938Z"
         }
       ],
       "item_count": 1,
@@ -1522,16 +1603,16 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T02:47:55.497322Z",
-      "latest_at": "2026-07-13T02:47:55.497322Z",
+      "earliest_at": "2026-07-13T06:18:59.993938Z",
+      "latest_at": "2026-07-13T06:18:59.993938Z",
       "primary_item": {
-        "id": "791a073bc08326031af93445f6195dea82193834",
-        "title": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
-        "title_zh": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
+        "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
+        "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
+        "title_zh": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
         "title_en": null,
-        "title_original": "苹果正式起诉OpenAI指控其窃取商业机密，涉及前高管及核心AI硬件项目",
+        "title_original": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
         "summary": null,
-        "url": "https://www.aibase.com/news/29532",
+        "url": "https://www.aibase.com/news/29542",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1686,15 +1767,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6026,
-      "importance": 0.6026,
-      "importance_score": 0.6026,
+      "score": 0.5946,
+      "importance": 0.5946,
+      "importance_score": 0.5946,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8987,
+        "recency": 0.8542,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1716,25 +1797,25 @@
       }
     },
     {
-      "story_id": "story_0ab7a090c793",
-      "title": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
-      "url": "https://www.aibase.com/news/29536",
-      "primary_url": "https://www.aibase.com/news/29536",
+      "story_id": "story_30b2b7775a31",
+      "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+      "url": "https://www.aibase.com/news/29539",
+      "primary_url": "https://www.aibase.com/news/29539",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7bd0d0430adfd3c40de51875d6feb098422c7262",
-          "title": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
-          "title_zh": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
+          "id": "edc4f6360e6710e178004982d3e013be98514cae",
+          "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+          "title_zh": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
           "title_en": null,
-          "title_original": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
+          "title_original": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
           "summary": null,
-          "url": "https://www.aibase.com/news/29536",
+          "url": "https://www.aibase.com/news/29539",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
+          "published_at": "2026-07-13T06:18:59.993938Z"
         }
       ],
       "source_count": 1,
@@ -1743,17 +1824,17 @@
       ],
       "items": [
         {
-          "id": "7bd0d0430adfd3c40de51875d6feb098422c7262",
-          "title": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
-          "title_zh": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
+          "id": "edc4f6360e6710e178004982d3e013be98514cae",
+          "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+          "title_zh": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
           "title_en": null,
-          "title_original": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
+          "title_original": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
           "summary": null,
-          "url": "https://www.aibase.com/news/29536",
+          "url": "https://www.aibase.com/news/29539",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
+          "published_at": "2026-07-13T06:18:59.993938Z"
         }
       ],
       "item_count": 1,
@@ -1774,36 +1855,36 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T02:47:55.497322Z",
-      "latest_at": "2026-07-13T02:47:55.497322Z",
+      "earliest_at": "2026-07-13T06:18:59.993938Z",
+      "latest_at": "2026-07-13T06:18:59.993938Z",
       "primary_item": {
-        "id": "7bd0d0430adfd3c40de51875d6feb098422c7262",
-        "title": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
-        "title_zh": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
+        "id": "edc4f6360e6710e178004982d3e013be98514cae",
+        "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+        "title_zh": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
         "title_en": null,
-        "title_original": "被寄予厚望的AI浏览器夭折，OpenAI正式宣布关停Atlas",
+        "title_original": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
         "summary": null,
-        "url": "https://www.aibase.com/news/29536",
+        "url": "https://www.aibase.com/news/29539",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b1b1e8395876",
-      "title": "近七成美国民众渴望共享AI红利！呼吁设立主权财富基金",
-      "url": "https://www.aibase.com/news/29534",
-      "primary_url": "https://www.aibase.com/news/29534",
+      "story_id": "story_4a682d8ae5ae",
+      "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+      "url": "https://www.aibase.com/news/29538",
+      "primary_url": "https://www.aibase.com/news/29538",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e2951ffb3ec69f6cc85c26fdc4d1e852669a45dc",
-          "title": "近七成美国民众渴望共享AI红利！呼吁设立主权财富基金",
-          "title_zh": "近七成美国民众渴望共享AI红利！呼吁设立主权财富基金",
+          "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
+          "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+          "title_zh": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
           "title_en": null,
-          "title_original": "近七成美国民众渴望共享AI红利！呼吁设立主权财富基金",
+          "title_original": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
           "summary": null,
-          "url": "https://www.aibase.com/news/29534",
+          "url": "https://www.aibase.com/news/29538",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1816,13 +1897,13 @@
       ],
       "items": [
         {
-          "id": "e2951ffb3ec69f6cc85c26fdc4d1e852669a45dc",
-          "title": "近七成美国民众渴望共享AI红利！呼吁设立主权财富基金",
-          "title_zh": "近七成美国民众渴望共享AI红利！呼吁设立主权财富基金",
+          "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
+          "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+          "title_zh": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
           "title_en": null,
-          "title_original": "近七成美国民众渴望共享AI红利！呼吁设立主权财富基金",
+          "title_original": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
           "summary": null,
-          "url": "https://www.aibase.com/news/29534",
+          "url": "https://www.aibase.com/news/29538",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1831,15 +1912,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9505,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1850,13 +1931,13 @@
       "earliest_at": "2026-07-13T02:47:55.497322Z",
       "latest_at": "2026-07-13T02:47:55.497322Z",
       "primary_item": {
-        "id": "e2951ffb3ec69f6cc85c26fdc4d1e852669a45dc",
-        "title": "近七成美国民众渴望共享AI红利！呼吁设立主权财富基金",
-        "title_zh": "近七成美国民众渴望共享AI红利！呼吁设立主权财富基金",
+        "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
+        "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+        "title_zh": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
         "title_en": null,
-        "title_original": "近七成美国民众渴望共享AI红利！呼吁设立主权财富基金",
+        "title_original": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
         "summary": null,
-        "url": "https://www.aibase.com/news/29534",
+        "url": "https://www.aibase.com/news/29538",
         "source": "AIbase",
         "source_name": "AIbase"
       }
