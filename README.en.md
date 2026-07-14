@@ -34,7 +34,7 @@ Then ask your agent: `What happened in AI today?`
 
 ![ai-radar demo](skills/radar/assets/demo.gif)
 
-**② Read the site directly** → open [radar.learnprompt.pro](https://radar.learnprompt.pro). Since v0.9 the UI is a single layer: top category tabs (All/Models/Products/Devtools/Industry/Research/Community/Creator), a curated/all-items global toggle, and a chronological main list grouped by date. The "current hotspots" board has no fixed cap. Every curated card carries a one-line "why it matters" review, and stories that make the daily TOP3 expand inline into three-persona side-by-side reviews (Pragmatist, Cynic, Paper Police). When the same event is covered by multiple sources, the card collapses into a "N sources" chip you can expand.
+**② Read the site directly** → open [radar.learnprompt.pro](https://radar.learnprompt.pro). It defaults to a mobile view, with a "view" switch in the top-right corner to jump to the classic desktop UI at `/classic/`; you can also force a view with `?view=mobile` / `?view=classic` / `?view=auto`. Both views read the same `data/` directory. Since v0.9 the UI is a single layer: top category tabs (All/Models/Products/Devtools/Industry/Research/Community/Creator), a curated/all-items global toggle, and a chronological main list grouped by date. The "current hotspots" board has no fixed cap. Every curated card carries a one-line "why it matters" review, and stories that make the daily TOP3 expand inline into three-persona side-by-side reviews (Pragmatist, Cynic, Paper Police). When the same event is covered by multiple sources, the card collapses into a "N sources" chip you can expand.
 
 **③ Fork and own your own filter** → fork this repo, swap in your own OPML sources, edit a markdown file under `personas/` to change the taste, and the data grows on your own GitHub Pages. Jump to the [fork guide](#fork-guide-your-own-radar-in-five-steps).
 
@@ -64,12 +64,14 @@ v0.8's three views (Scout Picks / AI Signal Flow / Hot board) are now one layer:
 
 ![AI News Radar v0.9 timeline screenshot](assets/screenshots/radar-v09-timeline.png)
 
+- **Dual view**: this single-layer IA now ships two UI skins — the root `index.html` defaults to mobile, and a "view" switch in the top-right corner jumps to the classic desktop skin at `/classic/`; both `?view=mobile` / `?view=classic` / `?view=auto` work directly as well. Both skins read the same `data/`, and the choice is remembered in local storage
 - **Category tabs**: All/Models/Products/Devtools/Industry/Research/Community/Creator, mutually exclusive
-- **Curated/all global toggle**: curated reads the merged, AI-relevant, high-value story pool; all reads the raw fetch pool. Both modes share the same timeline + date-grouping template
+- **Curated/all global toggle**: curated reads the merged, AI-relevant, high-value story pool; all reads the broader AI-relevant pool (`latest-24h-all.json`, score >= 0.3). Both modes share the same timeline + date-grouping template
 - **Current hotspots board**: no fixed item cap — it shows however many stories clear the multi-source heat threshold, kept separate from the main list
-- **Why-it-matters review**: every curated card carries a one-line review; stories that make the daily TOP3 expand inline into all three persona reviews side by side instead of living in a separate homepage section
+- **Real, pipeline-generated reviews**: the one-line "why it matters" review on curated cards is now written by the pipeline itself — for items that already passed the AI-relevance filter, it fetches the full article and has DeepSeek write one sentence on why it's worth reading (requires `DEEPSEEK_API_KEY`). When there's no real review, the frontend simply hides that block instead of showing a template sentence. Stories that make the daily TOP3 still expand inline into all three persona reviews side by side, in a separate section of the card
 - **Same-event expansion**: when 2+ sources cover the same event, the card shows an "N sources" chip — expand it to see each source's own title, outlet, and relative time
 - **Title enhancement**: when a title is too terse or jargon-heavy, the pipeline micro-crawls the source page for context (falling back to r.jina.ai on direct-fetch failure) and has an LLM rewrite it. Requires `DEEPSEEK_API_KEY`; without it, titles stay as-is and nothing else breaks
+- **Source-quality hardening**: the zeli aggregator (Hacker News 24h hot list) no longer gets a blanket allowlist pass — it now goes through the same AI-relevance scoring as every other aggregator. Bilingual title translation also gained validation: refusal-style outputs (e.g. "sorry, I can't process link content") and degenerate translations are detected and rejected, falling back to the original title instead of showing garbled text
 - **Data-source switch**: append `?data=<data-dir-url>` to the page URL to point the frontend at a different `data/` directory (e.g. to preview another branch's or PR's generated data). The choice persists in local storage, handy for multi-branch development
 - **aggregator sub-source classification**: items from aggregator sites get a further breakdown chip — X / WeChat / HN / RSS — right after the channel chip
 
@@ -110,9 +112,9 @@ It is closer to a lightweight news pipeline: source judgement, fetching, dedupli
 ### For readers
 
 - Use the "All/Models/Products/Devtools/Industry/Research/Community/Creator" category tabs to jump straight to what you care about
-- Use the curated/all global toggle: curated shows high-value story timelines; switch to all when you need to backfill or search the raw pool
+- Use the curated/all global toggle: curated shows high-value story timelines; switch to all when you need to backfill or search the broader AI-relevant pool
 - The main list is sorted newest-first and grouped by day, so you can scan what happened today vs. yesterday at a glance; "current hotspots" is a separate, uncapped board for what's hottest right now
-- Every curated card carries a one-line "why it matters" review; stories in the daily TOP3 expand inline into all three persona reviews
+- Every curated card carries a one-line "why it matters" review, written by the pipeline itself — the block is simply hidden when there's no real review; stories in the daily TOP3 expand inline into all three persona reviews
 - When the same event is covered by multiple sources, the card shows an "N sources" chip — expand it to read each source's own title instead of clicking through duplicates
 - If a title reads like jargon or an abbreviation, sites with `DEEPSEEK_API_KEY` configured will show the LLM-rewritten, more complete version
 - Locate updates quickly with the specific-source filter and keyword search
@@ -188,7 +190,8 @@ Core files include:
 - `data/daily-brief.json`: Scout Picks — 20 daily items; since v0.8 each carries persona score and review fields
 - `data/top3-personas.json`: the daily TOP3 with all three persona reviews side by side
 - `data/latest-24h.json`: AI-focused updates from the last 24 hours
-- `data/latest-24h-all.json`: all updates from the last 24 hours
+- `data/latest-24h-all.json`: broadly AI-relevant updates from the last 24 hours (score >= 0.3)
+- `data/latest-24h-all-raw.json`: unfiltered raw items from the last 24 hours (dev-only, not wired into the frontend)
 - `data/source-status.json`: source fetch status, success rate, site coverage, and source health
 - `data/stories-merged.json`: the complete merged story set
 - `data/merge-log.json`: story-merge matches and debug records for auditing
@@ -199,7 +202,7 @@ If `daily-brief.json` is not available yet, the page falls back to candidate Sco
 
 1. **Fork** [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar).
 2. **Enable Actions**: GitHub pauses workflows on forks by default — enable them on the Actions tab, and `update-news.yml` runs every 30 minutes.
-3. **(Optional) Add `DEEPSEEK_API_KEY`**: Settings → Secrets and variables → Actions. This unlocks persona reviews, title enhancement, and better Chinese title translation. Without it everything still runs — rule-based scores, original titles, and Google Translate take over. Add `TITLE_ENHANCE_MAX_PER_RUN` too if you want to cap how many titles get rewritten per run (defaults to 30).
+3. **(Optional) Add `DEEPSEEK_API_KEY`**: Settings → Secrets and variables → Actions. This unlocks persona reviews, title enhancement, real pipeline-generated review lines for curated items, and more reliable Chinese title translation (refusal text and degenerate output fall back to the original title automatically). Without it everything still runs — rule-based scores, original titles, and Google Translate take over, and the review block simply doesn't render. The default model is `deepseek-v4-flash`; set a repo Variable `DEEPSEEK_MODEL` if you want a different one. Add `TITLE_ENHANCE_MAX_PER_RUN` too if you want to cap how many titles get rewritten per run (defaults to 30).
 4. **Enable GitHub Pages**: Settings → Pages, serve the master branch root. Your radar is live minutes later.
 5. **Change one line in the skill**: point the `BASE_URL` at the top of `skills/radar/SKILL.md` to `https://<your-username>.github.io/ai-news-radar/data`, and your agent reads your data from now on.
 
@@ -263,7 +266,8 @@ When a new agent takes over validation, read these first:
 - Supports manual `workflow_dispatch`; pass `force_tikhub=true` explicitly to override the normal paid-source interval for TikHub
 - Runs every 30 minutes by default: `*/30 * * * *`
 - Automatically generates and commits `data/*.json`
-- With `DEEPSEEK_API_KEY` set, scores the daily picks with the default persona, generates the three-persona TOP3 reviews, enables title enhancement, and gives better translation; without it, falls back to rule-based scores, original titles, and Google Translate — the core pipeline still runs
+- With `DEEPSEEK_API_KEY` set, scores the daily picks with the default persona, generates the three-persona TOP3 reviews, enables title enhancement, generates real pipeline-written review lines for curated items, and gives better translation (refusal text and degenerate output fall back to the original title automatically); without it, falls back to rule-based scores, original titles, and Google Translate, and the review block doesn't render — the core pipeline still runs
+- Default DeepSeek model is `deepseek-v4-flash` (DeepSeek is retiring the `deepseek-chat` alias on 2026-07-24); set a repo Variable `DEEPSEEK_MODEL` to override it
 - With `TITLE_ENHANCE_MAX_PER_RUN` set, caps how many titles get rewritten per run; defaults to 30
 - Uses public demo `feeds/follow.example.opml` when `FOLLOW_OPML_B64` is not configured, so the hosted page can show the RSS/OPML path working
 - Decodes `FOLLOW_OPML_B64` into private `feeds/follow.opml` when configured
@@ -293,7 +297,7 @@ The single-account / single-newsletter demo is in `docs/guides/rileybrown-alphas
 | v0.6 | How do scattered messages become events? | Story merging, AI labels/scores, source health and AI ratio |
 | v0.7 | With this many stories, what's hot? | Hot view (multi-source mass × time decay), community section, headline-style Top3, quality-over-quantity gate, scoring backtest tool, ai-radar consumer skill |
 | v0.8 | Same story — whose take do you trust? | Three-persona reviews, TOP3 side-by-side, persona-as-markdown-file (editable, PR-able), Vercel public site |
-| v0.9 | Three views coexist — how do they read as one news feed? | Single-layer IA (category tabs × curated/all × timeline), title enhancement, same-event multi-source expansion, data-source switching, aggregator sub-source classification |
+| v0.9 | Three views coexist — how do they read as one news feed? | Single-layer IA (category tabs × curated/all × timeline), mobile/classic dual view, real pipeline-generated reviews, title enhancement, source-quality hardening, same-event multi-source expansion, data-source switching, aggregator sub-source classification |
 
 See [Releases](https://github.com/LearnPrompt/ai-news-radar/releases) for the full history.
 

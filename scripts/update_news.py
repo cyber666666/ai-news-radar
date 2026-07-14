@@ -4706,7 +4706,7 @@ def translate_to_zh_deepseek(text: str, timeout: int = 20) -> str | None:
     if not api_key:
         return None
     base_url = str(os.environ.get("DEEPSEEK_API_BASE_URL") or "https://api.deepseek.com").strip().rstrip("/")
-    model = str(os.environ.get("DEEPSEEK_MODEL") or "deepseek-chat").strip()
+    model = str(os.environ.get("DEEPSEEK_MODEL") or "deepseek-v4-flash").strip()
     protected_terms, _ = _get_translation_glossary()
     if protected_terms:
         term_list = "、".join(protected_terms)
@@ -5244,7 +5244,7 @@ def enhance_title_deepseek(title: str, context: str, timeout: int = 45) -> str |
     if not api_key:
         return None
     base_url = str(os.environ.get("DEEPSEEK_API_BASE_URL") or "https://api.deepseek.com").strip().rstrip("/")
-    model = str(os.environ.get("DEEPSEEK_MODEL") or "deepseek-chat").strip()
+    model = str(os.environ.get("DEEPSEEK_MODEL") or "deepseek-v4-flash").strip()
     system_prompt = (
         "你是科技新闻编辑，负责把语焉不详、看不出信息量的英文标题改写成一条完整的中文资讯标题。"
         "输出一条中文资讯标题，不超过28个字（英文名称按一个词计）。"
@@ -5378,7 +5378,7 @@ def generate_recommend_reason_deepseek(
     if not api_key:
         return None
     base_url = str(os.environ.get("DEEPSEEK_API_BASE_URL") or "https://api.deepseek.com").strip().rstrip("/")
-    model = str(os.environ.get("DEEPSEEK_MODEL") or "deepseek-chat").strip()
+    model = str(os.environ.get("DEEPSEEK_MODEL") or "deepseek-v4-flash").strip()
     system_prompt = (
         "你是科技新闻编辑，负责为一篇具体的文章写一句「为什么值得读」的中文推荐语。"
         "输出一句中文，40到80个字之间。"
