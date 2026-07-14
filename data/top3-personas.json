@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T13:44:42.112102Z",
+  "generated_at": "2026-07-14T19:54:53.073006Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_de135bbc6d10",
-      "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
-      "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+      "story_id": "story_3c7e9dc57dbe",
+      "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
+      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "1bit 是个噱头，4bit 接近满血——满血是谁定的？"
+          "score": 75,
+          "review": "终于把AI检测结果塞进PR界面了，希望误报率别和之前一样感人。"
         },
         "paper-police": {
           "score": 25,
-          "review": "公众号宣称性能，无论文无代码无评测，等独立验证。"
+          "review": "官方公告有链接，但无论文无代码无独立评测，证据不足。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "1bit 单卡可跑，4bit 接近满血，部署成本大降，今天就能试。"
+          "review": "PR 里直接嵌入 AI 安全检测结果，省去手动配置，今天就能用上。"
         }
       }
     },
     {
-      "story_id": "story_9c53ab3f5247",
-      "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型 / SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
-      "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+      "story_id": "story_a37b7492af9e",
+      "title": "GitHub Copilot 应用现已支持安全审查 / Security reviews now available in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "又开一个7B模型，但性能对比呢？别只堆参数不报分数。"
+          "score": 75,
+          "review": "终于想起自己会写漏洞了？这功能该叫‘事后诸葛亮’。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "只说了开源，无论文无代码链接，无法验证真伪。"
+          "score": 20,
+          "review": "官方公告宣布新功能，但无论文或评测数据，无法验证有效性。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "开源即用，7B多任务视觉模型，直接下载跑推理，省去训练成本。"
+          "review": "写代码时直接查安全漏洞，省去单独跑工具的时间，今天就能用。"
         }
       }
     },
     {
-      "story_id": "story_8ec6a1a77a23",
-      "title": "GitHub 代码质量许可证估算现已公开预览 / GitHub Code Quality license estimate in public preview",
-      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "story_id": "story_b39fa54bc8de",
+      "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译 / http://x.com/i/article/2067347903761485824",
+      "url": "https://x.com/googleaidevs/status/2077049898059354565",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 75,
-          "review": "许可证估算挺贴心，但代码质量还得靠人，别指望数字说了算。"
+          "score": 72,
+          "review": "70+语言？先测测延迟和方言准确度再吹不迟。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "官方博客宣布预览，无论文无代码无基准，缺独立验证。"
+          "score": 20,
+          "review": "只有官方推文，无论文无代码无评测，证据不足。"
         },
         "pragmatic": {
-          "score": 75,
-          "review": "公开预览，可以试；对团队代码质量管理有用，但非标配。"
+          "score": 90,
+          "review": "直接可用的语音翻译API，多语言应用立刻集成。"
         }
       }
     }
