@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T05:51:34.936951Z",
+  "generated_at": "2026-07-14T08:04:31.744370Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -46,15 +46,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8514,
-      "importance": 0.8514,
-      "importance_score": 0.8514,
+      "score": 0.8462,
+      "importance": 0.8462,
+      "importance_score": 0.8462,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9189,
+        "recency": 0.8899,
         "story_heat": 0.0
       },
       "category": "official",
@@ -199,15 +199,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8907,
+        "recency": 0.8626,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -273,15 +273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8286,
-      "importance": 0.8286,
-      "importance_score": 0.8286,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9143,
+        "recency": 0.8855,
         "story_heat": 0.0
       },
       "category": "official",
@@ -305,34 +305,108 @@
       }
     },
     {
-      "story_id": "story_5a0b9c6bbb93",
-      "title": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
-      "url": "https://www.aibase.com/news/29570",
-      "primary_url": "https://www.aibase.com/news/29570",
+      "story_id": "story_77ccb073c59f",
+      "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+      "primary_url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "87578bed341fd0971cb7837fab5906aa5398793f",
+          "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
+          "title_zh": "通过 ATL Saathi 为印度下一代创新者提供支持",
+          "title_en": "Empowering India’s next generation of innovators with ATL Saathi",
+          "title_original": "Empowering India’s next generation of innovators with ATL Saathi",
+          "summary": null,
+          "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T12:37:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "87578bed341fd0971cb7837fab5906aa5398793f",
+          "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
+          "title_zh": "通过 ATL Saathi 为印度下一代创新者提供支持",
+          "title_en": "Empowering India’s next generation of innovators with ATL Saathi",
+          "title_original": "Empowering India’s next generation of innovators with ATL Saathi",
+          "summary": null,
+          "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T12:37:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7551,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T12:37:28Z",
+      "latest_at": "2026-07-13T12:37:28Z",
+      "primary_item": {
+        "id": "87578bed341fd0971cb7837fab5906aa5398793f",
+        "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
+        "title_zh": "通过 ATL Saathi 为印度下一代创新者提供支持",
+        "title_en": "Empowering India’s next generation of innovators with ATL Saathi",
+        "title_original": "Empowering India’s next generation of innovators with ATL Saathi",
+        "summary": null,
+        "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4a1f2cf768e5",
+      "title": "面壁智能CTO曾国洋：从“打字机”到大模型，端侧AI的进化与突围",
+      "url": "https://www.aibase.com/news/29578",
+      "primary_url": "https://www.aibase.com/news/29578",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2380412450cc6817c4a1592f7a1a2b05b2b1bba8",
-          "title": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
-          "title_zh": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
+          "id": "5c518a6cd0caf6ad40c46e2d8fc7d1680684609f",
+          "title": "面壁智能CTO曾国洋：从“打字机”到大模型，端侧AI的进化与突围",
+          "title_zh": "面壁智能CTO曾国洋：从“打字机”到大模型，端侧AI的进化与突围",
           "title_en": null,
-          "title_original": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
+          "title_original": "面壁智能CTO曾国洋：从“打字机”到大模型，端侧AI的进化与突围",
           "summary": null,
-          "url": "https://www.aibase.com/news/29570",
+          "url": "https://www.aibase.com/news/29578",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T03:13:49.649494Z"
+          "published_at": "2026-07-14T08:04:31.744370Z"
         },
         {
-          "id": "59a996f329a768bf233c7f30863adfd66307ec3e",
-          "title": "谷歌 TPU 战略转向：从内部工具到对外商用，直接挑战英伟达 AI 芯片霸主地位",
-          "title_zh": "谷歌 TPU 战略转向：从内部工具到对外商用，直接挑战英伟达 AI 芯片霸主地位",
+          "id": "5523026d4be8996059da90da8df4a42b9bec39b6",
+          "title": "面壁智能 CTO 曾国洋：从「打字机」到大模型，端侧 AI 的进化与突围",
+          "title_zh": "面壁智能 CTO 曾国洋：从「打字机」到大模型，端侧 AI 的进化与突围",
           "title_en": null,
-          "title_original": "谷歌 TPU 战略转向：从内部工具到对外商用，直接挑战英伟达 AI 芯片霸主地位",
+          "title_original": "面壁智能 CTO 曾国洋：从「打字机」到大模型，端侧 AI 的进化与突围",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/29570",
+          "url": "https://www.aibase.com/zh/news/29578",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -346,26 +420,26 @@
       ],
       "items": [
         {
-          "id": "2380412450cc6817c4a1592f7a1a2b05b2b1bba8",
-          "title": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
-          "title_zh": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
+          "id": "5c518a6cd0caf6ad40c46e2d8fc7d1680684609f",
+          "title": "面壁智能CTO曾国洋：从“打字机”到大模型，端侧AI的进化与突围",
+          "title_zh": "面壁智能CTO曾国洋：从“打字机”到大模型，端侧AI的进化与突围",
           "title_en": null,
-          "title_original": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
+          "title_original": "面壁智能CTO曾国洋：从“打字机”到大模型，端侧AI的进化与突围",
           "summary": null,
-          "url": "https://www.aibase.com/news/29570",
+          "url": "https://www.aibase.com/news/29578",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T03:13:49.649494Z"
+          "published_at": "2026-07-14T08:04:31.744370Z"
         },
         {
-          "id": "59a996f329a768bf233c7f30863adfd66307ec3e",
-          "title": "谷歌 TPU 战略转向：从内部工具到对外商用，直接挑战英伟达 AI 芯片霸主地位",
-          "title_zh": "谷歌 TPU 战略转向：从内部工具到对外商用，直接挑战英伟达 AI 芯片霸主地位",
+          "id": "5523026d4be8996059da90da8df4a42b9bec39b6",
+          "title": "面壁智能 CTO 曾国洋：从「打字机」到大模型，端侧 AI 的进化与突围",
+          "title_zh": "面壁智能 CTO 曾国洋：从「打字机」到大模型，端侧 AI 的进化与突围",
           "title_en": null,
-          "title_original": "谷歌 TPU 战略转向：从内部工具到对外商用，直接挑战英伟达 AI 芯片霸主地位",
+          "title_original": "面壁智能 CTO 曾国洋：从「打字机」到大模型，端侧 AI 的进化与突围",
           "summary": null,
-          "url": "https://www.aibase.com/zh/news/29570",
+          "url": "https://www.aibase.com/zh/news/29578",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -374,15 +448,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -391,18 +465,146 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T03:13:49.649494Z",
-      "latest_at": "2026-07-14T03:13:49.649494Z",
+      "earliest_at": "2026-07-14T08:04:31.744370Z",
+      "latest_at": "2026-07-14T08:04:31.744370Z",
       "primary_item": {
-        "id": "2380412450cc6817c4a1592f7a1a2b05b2b1bba8",
-        "title": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
-        "title_zh": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
+        "id": "5c518a6cd0caf6ad40c46e2d8fc7d1680684609f",
+        "title": "面壁智能CTO曾国洋：从“打字机”到大模型，端侧AI的进化与突围",
+        "title_zh": "面壁智能CTO曾国洋：从“打字机”到大模型，端侧AI的进化与突围",
         "title_en": null,
-        "title_original": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
+        "title_original": "面壁智能CTO曾国洋：从“打字机”到大模型，端侧AI的进化与突围",
         "summary": null,
-        "url": "https://www.aibase.com/news/29570",
+        "url": "https://www.aibase.com/news/29578",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_860f6a642092",
+      "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+      "primary_url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c45a95aeb13d7ca5f7ec6c2dc85650e23a074963",
+          "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "title_zh": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "title_en": null,
+          "title_original": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "summary": "普林斯顿大学教授 Arvind Narayanan 在首尔 ICML 2026 上发表主旨演讲，提出三个核心论点：第一，\"AI 作为正常技术\"框架是思考 AI 影响的正确方式；第二，即使应认真对待递归自我改进，实验室中没有任何里程碑会突然让所有人失业；第三，未来工作将发生根本性变化，需要大量适应。他呼吁 AI 社区不应接受工作被取代，而应主动建立与 AI 互补的技能（如判断力、品味），并展望了人类与 AI 的\"共超智能\"愿景。",
+          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T07:07:34.621000Z"
+        },
+        {
+          "id": "2983edb5657957aac635151bf899b03b88821541",
+          "title": "那我们还能做些什么呢？",
+          "title_zh": "那我们还能做些什么呢？",
+          "title_en": null,
+          "title_original": "那我们还能做些什么呢？",
+          "summary": null,
+          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "source": "www.normaltech.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T07:07:34.621000Z"
+        },
+        {
+          "id": "7a52e4a2dcdc9d74552bcdeed7537f0e62e7e41e",
+          "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平 / What will be left for us to work on?",
+          "title_zh": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "title_en": "What will be left for us to work on?",
+          "title_original": "What will be left for us to work on?",
+          "summary": null,
+          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-14T01:44:40Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.normaltech.ai"
+      ],
+      "items": [
+        {
+          "id": "c45a95aeb13d7ca5f7ec6c2dc85650e23a074963",
+          "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "title_zh": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "title_en": null,
+          "title_original": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "summary": "普林斯顿大学教授 Arvind Narayanan 在首尔 ICML 2026 上发表主旨演讲，提出三个核心论点：第一，\"AI 作为正常技术\"框架是思考 AI 影响的正确方式；第二，即使应认真对待递归自我改进，实验室中没有任何里程碑会突然让所有人失业；第三，未来工作将发生根本性变化，需要大量适应。他呼吁 AI 社区不应接受工作被取代，而应主动建立与 AI 互补的技能（如判断力、品味），并展望了人类与 AI 的\"共超智能\"愿景。",
+          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T07:07:34.621000Z"
+        },
+        {
+          "id": "2983edb5657957aac635151bf899b03b88821541",
+          "title": "那我们还能做些什么呢？",
+          "title_zh": "那我们还能做些什么呢？",
+          "title_en": null,
+          "title_original": "那我们还能做些什么呢？",
+          "summary": null,
+          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "source": "www.normaltech.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T07:07:34.621000Z"
+        },
+        {
+          "id": "7a52e4a2dcdc9d74552bcdeed7537f0e62e7e41e",
+          "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平 / What will be left for us to work on?",
+          "title_zh": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "title_en": "What will be left for us to work on?",
+          "title_original": "What will be left for us to work on?",
+          "summary": null,
+          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-14T01:44:40Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8091,
+      "importance": 0.8091,
+      "importance_score": 0.8091,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9864,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T01:44:40Z",
+      "latest_at": "2026-07-14T07:07:34.621000Z",
+      "primary_item": {
+        "id": "c45a95aeb13d7ca5f7ec6c2dc85650e23a074963",
+        "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+        "title_zh": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+        "title_en": null,
+        "title_original": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+        "summary": "普林斯顿大学教授 Arvind Narayanan 在首尔 ICML 2026 上发表主旨演讲，提出三个核心论点：第一，\"AI 作为正常技术\"框架是思考 AI 影响的正确方式；第二，即使应认真对待递归自我改进，实验室中没有任何里程碑会突然让所有人失业；第三，未来工作将发生根本性变化，需要大量适应。他呼吁 AI 社区不应接受工作被取代，而应主动建立与 AI 互补的技能（如判断力、品味），并展望了人类与 AI 的\"共超智能\"愿景。",
+        "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -448,15 +650,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8182,
+        "recency": 0.7924,
         "story_heat": 0.0
       },
       "category": "official",
@@ -477,6 +679,79 @@
         "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5d3ffb4c6f4d",
+      "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+      "url": "https://www.ithome.com/0/976/453.htm",
+      "primary_url": "https://www.ithome.com/0/976/453.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
+          "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "title_zh": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "title_en": null,
+          "title_original": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "summary": "独立安全研究者 @cereblab 通过钓鱼仓库证实，SpaceXAI 旗下 AI 编程 agent Grok Build 在用户关闭\"帮助改进模型\"开关后仍将整个代码仓库上传至 Google Cloud 存储桶。一个 12GB 测试仓库被拆成 73 个数据包共传输 5.1GB，而正常对话仅用 192KB。另一研究者复现发现日志记录 339 次自动上传，其中一次涉及整个电脑主目录。事件曝光后，Elon Musk 亲自回应承认属实，承诺彻底删除所有此前上传的用户数据。Grok Build 已上线 `/privacy` 命令供用户一键关闭数据留存并追溯删除已上传数据。",
+          "url": "https://www.ithome.com/0/976/453.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T05:43:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
+          "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "title_zh": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "title_en": null,
+          "title_original": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+          "summary": "独立安全研究者 @cereblab 通过钓鱼仓库证实，SpaceXAI 旗下 AI 编程 agent Grok Build 在用户关闭\"帮助改进模型\"开关后仍将整个代码仓库上传至 Google Cloud 存储桶。一个 12GB 测试仓库被拆成 73 个数据包共传输 5.1GB，而正常对话仅用 192KB。另一研究者复现发现日志记录 339 次自动上传，其中一次涉及整个电脑主目录。事件曝光后，Elon Musk 亲自回应承认属实，承诺彻底删除所有此前上传的用户数据。Grok Build 已上线 `/privacy` 命令供用户一键关闭数据留存并追溯删除已上传数据。",
+          "url": "https://www.ithome.com/0/976/453.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T05:43:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9666,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T05:43:25Z",
+      "latest_at": "2026-07-14T05:43:25Z",
+      "primary_item": {
+        "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
+        "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+        "title_zh": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+        "title_en": null,
+        "title_original": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+        "summary": "独立安全研究者 @cereblab 通过钓鱼仓库证实，SpaceXAI 旗下 AI 编程 agent Grok Build 在用户关闭\"帮助改进模型\"开关后仍将整个代码仓库上传至 Google Cloud 存储桶。一个 12GB 测试仓库被拆成 73 个数据包共传输 5.1GB，而正常对话仅用 192KB。另一研究者复现发现日志记录 339 次自动上传，其中一次涉及整个电脑主目录。事件曝光后，Elon Musk 亲自回应承认属实，承诺彻底删除所有此前上传的用户数据。Grok Build 已上线 `/privacy` 命令供用户一键关闭数据留存并追溯删除已上传数据。",
+        "url": "https://www.ithome.com/0/976/453.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -549,15 +824,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9189,
+        "recency": 0.8899,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -623,15 +898,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9274,
+        "recency": 0.8982,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -696,15 +971,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8401,
+        "recency": 0.8136,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -727,146 +1002,102 @@
       }
     },
     {
-      "story_id": "story_163a2ee8955d",
-      "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-      "url": "https://www.ithome.com/0/976/149.htm",
-      "primary_url": "https://www.ithome.com/0/976/149.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
-          "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-          "title_zh": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-          "title_en": null,
-          "title_original": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-          "summary": "Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿美元，为全球最大 AI 基础设施投资之一。Meta 承诺承担全部能源及水资源费用，并另投超 10 亿美元改善当地道路及供水系统。此外，Meta 与安特吉公司达成协议，为新建天然气发电厂、储能电池及核电增容项目提供资金支持。",
-          "url": "https://www.ithome.com/0/976/149.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T09:58:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
-          "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-          "title_zh": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-          "title_en": null,
-          "title_original": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-          "summary": "Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿美元，为全球最大 AI 基础设施投资之一。Meta 承诺承担全部能源及水资源费用，并另投超 10 亿美元改善当地道路及供水系统。此外，Meta 与安特吉公司达成协议，为新建天然气发电厂、储能电池及核电增容项目提供资金支持。",
-          "url": "https://www.ithome.com/0/976/149.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T09:58:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7505,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T09:58:56Z",
-      "latest_at": "2026-07-13T09:58:56Z",
-      "primary_item": {
-        "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
-        "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-        "title_zh": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-        "title_en": null,
-        "title_original": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-        "summary": "Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿美元，为全球最大 AI 基础设施投资之一。Meta 承诺承担全部能源及水资源费用，并另投超 10 亿美元改善当地道路及供水系统。此外，Meta 与安特吉公司达成协议，为新建天然气发电厂、储能电池及核电增容项目提供资金支持。",
-        "url": "https://www.ithome.com/0/976/149.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f0fb835f03f6",
-      "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
-      "url": "https://www.aibase.com/news/29572",
-      "primary_url": "https://www.aibase.com/news/29572",
+      "story_id": "story_5a0b9c6bbb93",
+      "title": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
+      "url": "https://www.aibase.com/news/29570",
+      "primary_url": "https://www.aibase.com/news/29570",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e7a04a13bbcc7c363ae67cb285b4b8faf1de7a00",
-          "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
-          "title_zh": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
+          "id": "2380412450cc6817c4a1592f7a1a2b05b2b1bba8",
+          "title": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
+          "title_zh": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
           "title_en": null,
-          "title_original": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
+          "title_original": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
           "summary": null,
-          "url": "https://www.aibase.com/news/29572",
+          "url": "https://www.aibase.com/news/29570",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T05:51:34.936951Z"
+          "published_at": "2026-07-14T03:13:49.649494Z"
+        },
+        {
+          "id": "59a996f329a768bf233c7f30863adfd66307ec3e",
+          "title": "谷歌 TPU 战略转向：从内部工具到对外商用，直接挑战英伟达 AI 芯片霸主地位",
+          "title_zh": "谷歌 TPU 战略转向：从内部工具到对外商用，直接挑战英伟达 AI 芯片霸主地位",
+          "title_en": null,
+          "title_original": "谷歌 TPU 战略转向：从内部工具到对外商用，直接挑战英伟达 AI 芯片霸主地位",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/29570",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "e7a04a13bbcc7c363ae67cb285b4b8faf1de7a00",
-          "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
-          "title_zh": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
+          "id": "2380412450cc6817c4a1592f7a1a2b05b2b1bba8",
+          "title": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
+          "title_zh": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
           "title_en": null,
-          "title_original": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
+          "title_original": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
           "summary": null,
-          "url": "https://www.aibase.com/news/29572",
+          "url": "https://www.aibase.com/news/29570",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T05:51:34.936951Z"
+          "published_at": "2026-07-14T03:13:49.649494Z"
+        },
+        {
+          "id": "59a996f329a768bf233c7f30863adfd66307ec3e",
+          "title": "谷歌 TPU 战略转向：从内部工具到对外商用，直接挑战英伟达 AI 芯片霸主地位",
+          "title_zh": "谷歌 TPU 战略转向：从内部工具到对外商用，直接挑战英伟达 AI 芯片霸主地位",
+          "title_en": null,
+          "title_original": "谷歌 TPU 战略转向：从内部工具到对外商用，直接挑战英伟达 AI 芯片霸主地位",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/29570",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9324,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T05:51:34.936951Z",
-      "latest_at": "2026-07-14T05:51:34.936951Z",
+      "earliest_at": "2026-07-14T03:13:49.649494Z",
+      "latest_at": "2026-07-14T03:13:49.649494Z",
       "primary_item": {
-        "id": "e7a04a13bbcc7c363ae67cb285b4b8faf1de7a00",
-        "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
-        "title_zh": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
+        "id": "2380412450cc6817c4a1592f7a1a2b05b2b1bba8",
+        "title": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
+        "title_zh": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
         "title_en": null,
-        "title_original": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
+        "title_original": "谷歌TPU战略转向：从内部工具到对外商用，直接挑战英伟达AI芯片霸主地位",
         "summary": null,
-        "url": "https://www.aibase.com/news/29572",
+        "url": "https://www.aibase.com/news/29570",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -914,15 +1145,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.764,
+        "recency": 0.7399,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -986,15 +1217,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7487,
+        "recency": 0.7251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1058,15 +1289,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9524,
+        "recency": 0.9224,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1157,15 +1388,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7691,
+        "recency": 0.7449,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1188,25 +1419,25 @@
       }
     },
     {
-      "story_id": "story_58a7c5d076cd",
-      "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
-      "url": "https://www.aibase.com/news/29573",
-      "primary_url": "https://www.aibase.com/news/29573",
+      "story_id": "story_97f8c036f0d4",
+      "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+      "url": "https://www.aibase.com/news/29575",
+      "primary_url": "https://www.aibase.com/news/29575",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "45a7699453aa225b6cca9b224b97c82380324b5c",
-          "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
-          "title_zh": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+          "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
+          "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+          "title_zh": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
           "title_en": null,
-          "title_original": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+          "title_original": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
           "summary": null,
-          "url": "https://www.aibase.com/news/29573",
+          "url": "https://www.aibase.com/news/29575",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T05:51:34.936951Z"
+          "published_at": "2026-07-14T08:04:31.744370Z"
         }
       ],
       "source_count": 1,
@@ -1215,17 +1446,17 @@
       ],
       "items": [
         {
-          "id": "45a7699453aa225b6cca9b224b97c82380324b5c",
-          "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
-          "title_zh": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+          "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
+          "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+          "title_zh": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
           "title_en": null,
-          "title_original": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+          "title_original": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
           "summary": null,
-          "url": "https://www.aibase.com/news/29573",
+          "url": "https://www.aibase.com/news/29575",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T05:51:34.936951Z"
+          "published_at": "2026-07-14T08:04:31.744370Z"
         }
       ],
       "item_count": 1,
@@ -1246,40 +1477,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T05:51:34.936951Z",
-      "latest_at": "2026-07-14T05:51:34.936951Z",
+      "earliest_at": "2026-07-14T08:04:31.744370Z",
+      "latest_at": "2026-07-14T08:04:31.744370Z",
       "primary_item": {
-        "id": "45a7699453aa225b6cca9b224b97c82380324b5c",
-        "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
-        "title_zh": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+        "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
+        "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+        "title_zh": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
         "title_en": null,
-        "title_original": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+        "title_original": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
         "summary": null,
-        "url": "https://www.aibase.com/news/29573",
+        "url": "https://www.aibase.com/news/29575",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_dd3ee811834c",
-      "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
-      "url": "https://www.aibase.com/news/29569",
-      "primary_url": "https://www.aibase.com/news/29569",
+      "story_id": "story_163a2ee8955d",
+      "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+      "url": "https://www.ithome.com/0/976/149.htm",
+      "primary_url": "https://www.ithome.com/0/976/149.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
+          "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "title_zh": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "title_en": null,
+          "title_original": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "summary": "Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿美元，为全球最大 AI 基础设施投资之一。Meta 承诺承担全部能源及水资源费用，并另投超 10 亿美元改善当地道路及供水系统。此外，Meta 与安特吉公司达成协议，为新建天然气发电厂、储能电池及核电增容项目提供资金支持。",
+          "url": "https://www.ithome.com/0/976/149.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T09:58:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
+          "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "title_zh": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "title_en": null,
+          "title_original": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "summary": "Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿美元，为全球最大 AI 基础设施投资之一。Meta 承诺承担全部能源及水资源费用，并另投超 10 亿美元改善当地道路及供水系统。此外，Meta 与安特吉公司达成协议，为新建天然气发电厂、储能电池及核电增容项目提供资金支持。",
+          "url": "https://www.ithome.com/0/976/149.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T09:58:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7268,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-13T09:58:56Z",
+      "latest_at": "2026-07-13T09:58:56Z",
+      "primary_item": {
+        "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
+        "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+        "title_zh": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+        "title_en": null,
+        "title_original": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+        "summary": "Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿美元，为全球最大 AI 基础设施投资之一。Meta 承诺承担全部能源及水资源费用，并另投超 10 亿美元改善当地道路及供水系统。此外，Meta 与安特吉公司达成协议，为新建天然气发电厂、储能电池及核电增容项目提供资金支持。",
+        "url": "https://www.ithome.com/0/976/149.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cd73fff47e39",
+      "title": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
+      "url": "https://www.aibase.com/news/29576",
+      "primary_url": "https://www.aibase.com/news/29576",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1c091a9830f5dd847b0fbc5b459bd189d6d022c0",
-          "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
-          "title_zh": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
+          "id": "bd871d849ba8e56816d69e4ac6b240782b53f4a6",
+          "title": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
+          "title_zh": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
           "title_en": null,
-          "title_original": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
+          "title_original": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
           "summary": null,
-          "url": "https://www.aibase.com/news/29569",
+          "url": "https://www.aibase.com/news/29576",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T03:13:49.649494Z"
+          "published_at": "2026-07-14T08:04:31.744370Z"
         }
       ],
       "source_count": 1,
@@ -1288,30 +1591,30 @@
       ],
       "items": [
         {
-          "id": "1c091a9830f5dd847b0fbc5b459bd189d6d022c0",
-          "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
-          "title_zh": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
+          "id": "bd871d849ba8e56816d69e4ac6b240782b53f4a6",
+          "title": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
+          "title_zh": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
           "title_en": null,
-          "title_original": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
+          "title_original": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
           "summary": null,
-          "url": "https://www.aibase.com/news/29569",
+          "url": "https://www.aibase.com/news/29576",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T03:13:49.649494Z"
+          "published_at": "2026-07-14T08:04:31.744370Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1319,40 +1622,40 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T03:13:49.649494Z",
-      "latest_at": "2026-07-14T03:13:49.649494Z",
+      "earliest_at": "2026-07-14T08:04:31.744370Z",
+      "latest_at": "2026-07-14T08:04:31.744370Z",
       "primary_item": {
-        "id": "1c091a9830f5dd847b0fbc5b459bd189d6d022c0",
-        "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
-        "title_zh": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
+        "id": "bd871d849ba8e56816d69e4ac6b240782b53f4a6",
+        "title": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
+        "title_zh": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
         "title_en": null,
-        "title_original": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
+        "title_original": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
         "summary": null,
-        "url": "https://www.aibase.com/news/29569",
+        "url": "https://www.aibase.com/news/29576",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_391b4b26f79e",
-      "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-      "url": "https://www.aibase.com/news/29563",
-      "primary_url": "https://www.aibase.com/news/29563",
+      "story_id": "story_6a9b41ee998f",
+      "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
+      "url": "https://www.aibase.com/news/29577",
+      "primary_url": "https://www.aibase.com/news/29577",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
-          "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-          "title_zh": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
+          "id": "c5b846ba13312c21b2b0f86705bbb3ec5256aa60",
+          "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
+          "title_zh": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
           "title_en": null,
-          "title_original": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
+          "title_original": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
           "summary": null,
-          "url": "https://www.aibase.com/news/29563",
+          "url": "https://www.aibase.com/news/29577",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T03:13:49.649494Z"
+          "published_at": "2026-07-14T08:04:31.744370Z"
         }
       ],
       "source_count": 1,
@@ -1361,30 +1664,30 @@
       ],
       "items": [
         {
-          "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
-          "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-          "title_zh": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
+          "id": "c5b846ba13312c21b2b0f86705bbb3ec5256aa60",
+          "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
+          "title_zh": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
           "title_en": null,
-          "title_original": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
+          "title_original": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
           "summary": null,
-          "url": "https://www.aibase.com/news/29563",
+          "url": "https://www.aibase.com/news/29577",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-14T03:13:49.649494Z"
+          "published_at": "2026-07-14T08:04:31.744370Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1392,365 +1695,18 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T03:13:49.649494Z",
-      "latest_at": "2026-07-14T03:13:49.649494Z",
+      "earliest_at": "2026-07-14T08:04:31.744370Z",
+      "latest_at": "2026-07-14T08:04:31.744370Z",
       "primary_item": {
-        "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
-        "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-        "title_zh": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
+        "id": "c5b846ba13312c21b2b0f86705bbb3ec5256aa60",
+        "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
+        "title_zh": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
         "title_en": null,
-        "title_original": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
+        "title_original": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
         "summary": null,
-        "url": "https://www.aibase.com/news/29563",
+        "url": "https://www.aibase.com/news/29577",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-13",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "c8cde8501abb3b92ec5fa74993fd134a5eac1d53",
-          "title": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "title_zh": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "title_en": null,
-          "title_original": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "summary": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T17:54:21.367156Z"
-        },
-        {
-          "id": "7bb84f5c51a83164a5c42a140174656686ab7644",
-          "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "title_zh": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "title_en": null,
-          "title_original": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "summary": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T15:44:54.282825Z"
-        },
-        {
-          "id": "a66c1084a5fbfbe101630fe32f2545df7c6b3887",
-          "title": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "title_zh": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "title_en": null,
-          "title_original": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "summary": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T15:44:54.282825Z"
-        },
-        {
-          "id": "a930df5107467df479e4f4a3ac3c60cbb53d9cf4",
-          "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "title_zh": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "title_en": null,
-          "title_original": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "summary": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T06:18:59.993938Z"
-        },
-        {
-          "id": "e1608d294393a4b1847e3e845eee9dec1c1bba62",
-          "title": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "title_zh": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "title_en": null,
-          "title_original": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "summary": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T06:18:59.993938Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "社区更新 · 2026-07-13"
-      ],
-      "items": [
-        {
-          "id": "c8cde8501abb3b92ec5fa74993fd134a5eac1d53",
-          "title": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "title_zh": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "title_en": null,
-          "title_original": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "summary": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T17:54:21.367156Z"
-        },
-        {
-          "id": "7bb84f5c51a83164a5c42a140174656686ab7644",
-          "title": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "title_zh": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "title_en": null,
-          "title_original": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "summary": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T15:44:54.282825Z"
-        },
-        {
-          "id": "a66c1084a5fbfbe101630fe32f2545df7c6b3887",
-          "title": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "title_zh": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "title_en": null,
-          "title_original": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "summary": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T15:44:54.282825Z"
-        },
-        {
-          "id": "a930df5107467df479e4f4a3ac3c60cbb53d9cf4",
-          "title": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "title_zh": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "title_en": null,
-          "title_original": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "summary": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T06:18:59.993938Z"
-        },
-        {
-          "id": "e1608d294393a4b1847e3e845eee9dec1c1bba62",
-          "title": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "title_zh": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "title_en": null,
-          "title_original": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "summary": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-13T06:18:59.993938Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6407,
-      "importance": 0.6407,
-      "importance_score": 0.6407,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.8415,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T06:18:59.993938Z",
-      "latest_at": "2026-07-13T17:54:21.367156Z",
-      "primary_item": {
-        "id": "c8cde8501abb3b92ec5fa74993fd134a5eac1d53",
-        "title": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-        "title_zh": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-        "title_en": null,
-        "title_original": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-        "summary": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-13",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_282f3f896467",
-      "title": "Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑",
-      "url": "https://www.aibase.com/news/29566",
-      "primary_url": "https://www.aibase.com/news/29566",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f7a6a03b96a5119f6a98d00374a8fc11228bb1b5",
-          "title": "Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑",
-          "title_zh": "Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑",
-          "title_en": null,
-          "title_original": "Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29566",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T03:13:49.649494Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f7a6a03b96a5119f6a98d00374a8fc11228bb1b5",
-          "title": "Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑",
-          "title_zh": "Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑",
-          "title_en": null,
-          "title_original": "Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29566",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T03:13:49.649494Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9627,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T03:13:49.649494Z",
-      "latest_at": "2026-07-14T03:13:49.649494Z",
-      "primary_item": {
-        "id": "f7a6a03b96a5119f6a98d00374a8fc11228bb1b5",
-        "title": "Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑",
-        "title_zh": "Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑",
-        "title_en": null,
-        "title_original": "Meta大手笔：斥资 500 亿美元打造5GW数据中心，AI算力格局迎来重塑",
-        "summary": null,
-        "url": "https://www.aibase.com/news/29566",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6358ddebecad",
-      "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "primary_url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "d30e94a3e3bf4a087b2a4656cebd2b4ff5fec66b",
-          "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-          "title_zh": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控",
-          "title_en": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-          "title_original": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-          "summary": null,
-          "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T17:00:00Z"
-        },
-        {
-          "id": "c5fa62c2f6615c3470719c358a68309b01e36503",
-          "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple’s lawsuit against OpenAI",
-          "title_zh": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控",
-          "title_en": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-          "title_original": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-          "summary": null,
-          "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T17:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "d30e94a3e3bf4a087b2a4656cebd2b4ff5fec66b",
-          "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-          "title_zh": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控",
-          "title_en": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-          "title_original": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-          "summary": null,
-          "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T17:00:00Z"
-        },
-        {
-          "id": "c5fa62c2f6615c3470719c358a68309b01e36503",
-          "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple’s lawsuit against OpenAI",
-          "title_zh": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控",
-          "title_en": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-          "title_original": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-          "summary": null,
-          "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T17:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5975,
-      "importance": 0.5975,
-      "importance_score": 0.5975,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.8305,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T17:00:00Z",
-      "latest_at": "2026-07-13T17:00:00Z",
-      "primary_item": {
-        "id": "d30e94a3e3bf4a087b2a4656cebd2b4ff5fec66b",
-        "title": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控 / The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-        "title_zh": "苹果针对 OpenAI 的诉讼中最疯狂的 6 项指控",
-        "title_en": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-        "title_original": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-        "summary": null,
-        "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-        "source": "The Verge",
-        "source_name": "Curated Media"
       }
     }
   ]
