@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T00:07:03.734882Z",
+  "generated_at": "2026-07-15T03:35:39.884324Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8688,
-      "importance": 0.8688,
-      "importance_score": 0.8688,
+      "score": 0.8603,
+      "importance": 0.8603,
+      "importance_score": 0.8603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9151,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,30 +172,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
-      "story_id": "story_3c7e9dc57dbe",
-      "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
-      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+      "story_id": "story_c17d75933e6c",
+      "title": "Visual Studio 中 GitHub Copilot 的六月更新 / GitHub Copilot in Visual Studio — June update",
+      "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
+      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-          "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
-          "title_zh": "代码扫描显示AI对拉取请求进行安全检测",
-          "title_en": "Code scanning shows AI security detections on pull requests",
-          "title_original": "Code scanning shows AI security detections on pull requests",
-          "summary": null,
-          "recommend_reason_zh": "GitHub code scanning推出AI安全检测，直接在pull requests上显示，覆盖CodeQL不支持的编程语言和框架，现处于public preview，需GitHub Copilot license并消耗AI credits。",
-          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
+          "title": "Visual Studio 中 GitHub Copilot 的六月更新 / GitHub Copilot in Visual Studio — June update",
+          "title_zh": "Visual Studio 中 GitHub Copilot 的六月更新",
+          "title_en": "GitHub Copilot in Visual Studio — June update",
+          "title_original": "GitHub Copilot in Visual Studio — June update",
+          "summary": "June 2026 is about visibility and trust with a clearer view of your GitHub Copilot usage, a new trust layer for MCP servers, and the first C++ scenarios for the…\nJune 2026 is about visibility and trust with a clearer view of your GitHub Copilot usage, a new trust layer for MCP servers, and the first C++ scenarios for the modernization agent reaching general availability.\nHere’s what’s new with GitHub Copilot in Visual Studio 2026. Check the Insiders channel for the latest:\nThis update is availab",
+          "recommend_reason_zh": "GitHub Copilot in Visual Studio 六月更新新增MCP服务器信任层，首个C++现代化代理场景正式发布，并覆盖Copilot Free到Enterprise所有计划，让你更清晰掌握使用情况。",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T19:12:48Z"
+          "published_at": "2026-07-15T00:01:24Z"
         }
       ],
       "source_count": 1,
@@ -204,31 +204,31 @@
       ],
       "items": [
         {
-          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-          "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
-          "title_zh": "代码扫描显示AI对拉取请求进行安全检测",
-          "title_en": "Code scanning shows AI security detections on pull requests",
-          "title_original": "Code scanning shows AI security detections on pull requests",
-          "summary": null,
-          "recommend_reason_zh": "GitHub code scanning推出AI安全检测，直接在pull requests上显示，覆盖CodeQL不支持的编程语言和框架，现处于public preview，需GitHub Copilot license并消耗AI credits。",
-          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
+          "title": "Visual Studio 中 GitHub Copilot 的六月更新 / GitHub Copilot in Visual Studio — June update",
+          "title_zh": "Visual Studio 中 GitHub Copilot 的六月更新",
+          "title_en": "GitHub Copilot in Visual Studio — June update",
+          "title_original": "GitHub Copilot in Visual Studio — June update",
+          "summary": "June 2026 is about visibility and trust with a clearer view of your GitHub Copilot usage, a new trust layer for MCP servers, and the first C++ scenarios for the…\nJune 2026 is about visibility and trust with a clearer view of your GitHub Copilot usage, a new trust layer for MCP servers, and the first C++ scenarios for the modernization agent reaching general availability.\nHere’s what’s new with GitHub Copilot in Visual Studio 2026. Check the Insiders channel for the latest:\nThis update is availab",
+          "recommend_reason_zh": "GitHub Copilot in Visual Studio 六月更新新增MCP服务器信任层，首个C++现代化代理场景正式发布，并覆盖Copilot Free到Enterprise所有计划，让你更清晰掌握使用情况。",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T19:12:48Z"
+          "published_at": "2026-07-15T00:01:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9316,
+        "ai_relevance": 0.91,
+        "recency": 0.9497,
         "story_heat": 0.0
       },
       "category": "official",
@@ -237,27 +237,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T19:12:48Z",
-      "latest_at": "2026-07-14T19:12:48Z",
+      "earliest_at": "2026-07-15T00:01:24Z",
+      "latest_at": "2026-07-15T00:01:24Z",
       "primary_item": {
-        "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
-        "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
-        "title_zh": "代码扫描显示AI对拉取请求进行安全检测",
-        "title_en": "Code scanning shows AI security detections on pull requests",
-        "title_original": "Code scanning shows AI security detections on pull requests",
-        "summary": null,
-        "recommend_reason_zh": "GitHub code scanning推出AI安全检测，直接在pull requests上显示，覆盖CodeQL不支持的编程语言和框架，现处于public preview，需GitHub Copilot license并消耗AI credits。",
-        "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+        "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
+        "title": "Visual Studio 中 GitHub Copilot 的六月更新 / GitHub Copilot in Visual Studio — June update",
+        "title_zh": "Visual Studio 中 GitHub Copilot 的六月更新",
+        "title_en": "GitHub Copilot in Visual Studio — June update",
+        "title_original": "GitHub Copilot in Visual Studio — June update",
+        "summary": "June 2026 is about visibility and trust with a clearer view of your GitHub Copilot usage, a new trust layer for MCP servers, and the first C++ scenarios for the…\nJune 2026 is about visibility and trust with a clearer view of your GitHub Copilot usage, a new trust layer for MCP servers, and the first C++ scenarios for the modernization agent reaching general availability.\nHere’s what’s new with GitHub Copilot in Visual Studio 2026. Check the Insiders channel for the latest:\nThis update is availab",
+        "recommend_reason_zh": "GitHub Copilot in Visual Studio 六月更新新增MCP服务器信任层，首个C++现代化代理场景正式发布，并覆盖Copilot Free到Enterprise所有计划，让你更清晰掌握使用情况。",
+        "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "PR 里直接嵌入 AI 安全检测结果，省去手动配置，今天就能用上。",
+      "persona_score": 65,
+      "persona_review": "VS用户需要看更新详情的，可能改了常用操作或修复了bug。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
@@ -305,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8894,
+        "recency": 0.8458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -342,91 +342,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
-      "story_id": "story_72440e047ac9",
-      "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-      "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-      "primary_url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
+      "story_id": "story_4e955aceea0c",
+      "title": "GitHub Copilot for JetBrains 扩展 BYOK 能力 / GitHub Copilot for JetBrains expands BYOK capabilities",
+      "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5d91636db5625e900361a03a18921524a4153cb4",
-          "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "title_zh": "Codex 周活超700万，两月更新150+项",
-          "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
-          "recommend_reason_zh": "@romainhuet 介绍了Codex在两个月内150+项更新，包括GPT-5.6、Ultra、并行工作/goal等，该平台已吸引每周700万以上用户。",
-          "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T23:01:05Z"
+          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
+          "title": "GitHub Copilot for JetBrains 扩展 BYOK 能力 / GitHub Copilot for JetBrains expands BYOK capabilities",
+          "title_zh": "GitHub Copilot for JetBrains 扩展 BYOK 能力",
+          "title_en": "GitHub Copilot for JetBrains expands BYOK capabilities",
+          "title_original": "GitHub Copilot for JetBrains expands BYOK capabilities",
+          "summary": "This update brings major advances in customization and model provider flexibility to all tiers of GitHub Copilot for JetBrains IDEs. With richer plugin and provider experiences, improved conversational interactions, and…\nThis update brings major advances in customization and model provider flexibility to all tiers of GitHub Copilot for JetBrains IDEs. With richer plugin and provider experiences, improved conversational interactions, and stronger reliability, teams can more confidently tailor Cop",
+          "recommend_reason_zh": "GitHub Copilot for JetBrains 更新扩展了 BYOK 能力，支持自定义 OpenAI 兼容端点与 API 密钥，新增 Claude agent 代理（Pro 及以上）和本地沙箱预览，可定制团队工作流。",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T23:37:29Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "5d91636db5625e900361a03a18921524a4153cb4",
-          "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "title_zh": "Codex 周活超700万，两月更新150+项",
-          "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
-          "recommend_reason_zh": "@romainhuet 介绍了Codex在两个月内150+项更新，包括GPT-5.6、Ultra、并行工作/goal等，该平台已吸引每周700万以上用户。",
-          "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T23:01:05Z"
+          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
+          "title": "GitHub Copilot for JetBrains 扩展 BYOK 能力 / GitHub Copilot for JetBrains expands BYOK capabilities",
+          "title_zh": "GitHub Copilot for JetBrains 扩展 BYOK 能力",
+          "title_en": "GitHub Copilot for JetBrains expands BYOK capabilities",
+          "title_original": "GitHub Copilot for JetBrains expands BYOK capabilities",
+          "summary": "This update brings major advances in customization and model provider flexibility to all tiers of GitHub Copilot for JetBrains IDEs. With richer plugin and provider experiences, improved conversational interactions, and…\nThis update brings major advances in customization and model provider flexibility to all tiers of GitHub Copilot for JetBrains IDEs. With richer plugin and provider experiences, improved conversational interactions, and stronger reliability, teams can more confidently tailor Cop",
+          "recommend_reason_zh": "GitHub Copilot for JetBrains 更新扩展了 BYOK 能力，支持自定义 OpenAI 兼容端点与 API 密钥，新增 Claude agent 代理（Pro 及以上）和本地沙箱预览，可定制团队工作流。",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T23:37:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9842,
+        "ai_relevance": 0.91,
+        "recency": 0.9443,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T23:01:05Z",
-      "latest_at": "2026-07-14T23:01:05Z",
+      "earliest_at": "2026-07-14T23:37:29Z",
+      "latest_at": "2026-07-14T23:37:29Z",
       "primary_item": {
-        "id": "5d91636db5625e900361a03a18921524a4153cb4",
-        "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-        "title_zh": "Codex 周活超700万，两月更新150+项",
-        "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-        "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-        "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
-        "recommend_reason_zh": "@romainhuet 介绍了Codex在两个月内150+项更新，包括GPT-5.6、Ultra、并行工作/goal等，该平台已吸引每周700万以上用户。",
-        "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
+        "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
+        "title": "GitHub Copilot for JetBrains 扩展 BYOK 能力 / GitHub Copilot for JetBrains expands BYOK capabilities",
+        "title_zh": "GitHub Copilot for JetBrains 扩展 BYOK 能力",
+        "title_en": "GitHub Copilot for JetBrains expands BYOK capabilities",
+        "title_original": "GitHub Copilot for JetBrains expands BYOK capabilities",
+        "summary": "This update brings major advances in customization and model provider flexibility to all tiers of GitHub Copilot for JetBrains IDEs. With richer plugin and provider experiences, improved conversational interactions, and…\nThis update brings major advances in customization and model provider flexibility to all tiers of GitHub Copilot for JetBrains IDEs. With richer plugin and provider experiences, improved conversational interactions, and stronger reliability, teams can more confidently tailor Cop",
+        "recommend_reason_zh": "GitHub Copilot for JetBrains 更新扩展了 BYOK 能力，支持自定义 OpenAI 兼容端点与 API 密钥，新增 Claude agent 代理（Pro 及以上）和本地沙箱预览，可定制团队工作流。",
+        "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "Codex更新频繁，生态活跃，搞AI编程的今天可查更新日志优化工作流。",
+      "persona_score": 68,
+      "persona_review": "BYOK对安全团队有用，配置不复杂；个人开发者暂时不需要动。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
@@ -474,15 +475,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8156,
+        "recency": 0.7756,
         "story_heat": 0.0
       },
       "category": "official",
@@ -511,7 +512,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
+      }
+    },
+    {
+      "story_id": "story_72440e047ac9",
+      "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+      "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
+      "primary_url": "https://x.com/OpenAIDevs/status/2077166520392970529",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5d91636db5625e900361a03a18921524a4153cb4",
+          "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+          "title_zh": "Codex 周活超700万，两月更新150+项",
+          "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+          "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+          "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
+          "recommend_reason_zh": "@romainhuet 介绍了Codex在两个月内150+项更新，包括GPT-5.6、Ultra、并行工作/goal等，该平台已吸引每周700万以上用户。",
+          "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T23:01:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "items": [
+        {
+          "id": "5d91636db5625e900361a03a18921524a4153cb4",
+          "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+          "title_zh": "Codex 周活超700万，两月更新150+项",
+          "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+          "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+          "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
+          "recommend_reason_zh": "@romainhuet 介绍了Codex在两个月内150+项更新，包括GPT-5.6、Ultra、并行工作/goal等，该平台已吸引每周700万以上用户。",
+          "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T23:01:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9361,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T23:01:05Z",
+      "latest_at": "2026-07-14T23:01:05Z",
+      "primary_item": {
+        "id": "5d91636db5625e900361a03a18921524a4153cb4",
+        "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+        "title_zh": "Codex 周活超700万，两月更新150+项",
+        "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+        "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+        "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
+        "recommend_reason_zh": "@romainhuet 介绍了Codex在两个月内150+项更新，包括GPT-5.6、Ultra、并行工作/goal等，该平台已吸引每周700万以上用户。",
+        "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "Codex更新频繁，生态活跃，搞AI编程的今天可查更新日志优化工作流。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
@@ -588,15 +673,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7902,
+      "importance": 0.7902,
+      "importance_score": 0.7902,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9676,
+        "recency": 0.9202,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -625,92 +710,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
-      "story_id": "story_f795a259360f",
-      "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-      "primary_url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_63bab2e3f8e6",
+      "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+      "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
+      "primary_url": "https://x.com/AYi_AInotes/status/2077217295504490992",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-          "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
-          "title_zh": "Dependabot版本更新引入默认包冷却期",
-          "title_en": "Dependabot version updates introduce default package cooldown",
-          "title_original": "Dependabot version updates introduce default package cooldown",
-          "summary": null,
-          "recommend_reason_zh": "Dependabot版本更新默认加入三天冷却期，新版本发布后至少等待三天才开启PR，有效防范供应链攻击；该默认值适用于github.com所有生态，GHES 3.23中生效。",
-          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:42:59Z"
+          "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
+          "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+          "title_zh": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+          "title_en": null,
+          "title_original": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+          "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等敏感操作仍需用户手动完成，信任与授权仍是所有 Agent 厂商的难题。",
+          "recommend_reason_zh": "Airtap新功能只需发条iMessage，无需安装TikTok或星巴克App，AI靠视觉模拟真人点屏，帮你选品加购到结账页，甚至点好了一杯美式。",
+          "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T02:22:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：阿易 AI Notes (@AYi_AInotes)"
       ],
       "items": [
         {
-          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-          "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
-          "title_zh": "Dependabot版本更新引入默认包冷却期",
-          "title_en": "Dependabot version updates introduce default package cooldown",
-          "title_original": "Dependabot version updates introduce default package cooldown",
-          "summary": null,
-          "recommend_reason_zh": "Dependabot版本更新默认加入三天冷却期，新版本发布后至少等待三天才开启PR，有效防范供应链攻击；该默认值适用于github.com所有生态，GHES 3.23中生效。",
-          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:42:59Z"
+          "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
+          "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+          "title_zh": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+          "title_en": null,
+          "title_original": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+          "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等敏感操作仍需用户手动完成，信任与授权仍是所有 Agent 厂商的难题。",
+          "recommend_reason_zh": "Airtap新功能只需发条iMessage，无需安装TikTok或星巴克App，AI靠视觉模拟真人点屏，帮你选品加购到结账页，甚至点好了一杯美式。",
+          "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T02:22:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8258,
-      "importance": 0.8258,
-      "importance_score": 0.8258,
-      "importance_label": "官方更新",
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8986,
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9826,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T16:42:59Z",
-      "latest_at": "2026-07-14T16:42:59Z",
+      "earliest_at": "2026-07-15T02:22:50Z",
+      "latest_at": "2026-07-15T02:22:50Z",
       "primary_item": {
-        "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-        "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
-        "title_zh": "Dependabot版本更新引入默认包冷却期",
-        "title_en": "Dependabot version updates introduce default package cooldown",
-        "title_original": "Dependabot version updates introduce default package cooldown",
-        "summary": null,
-        "recommend_reason_zh": "Dependabot版本更新默认加入三天冷却期，新版本发布后至少等待三天才开启PR，有效防范供应链攻击；该默认值适用于github.com所有生态，GHES 3.23中生效。",
-        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
+        "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+        "title_zh": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+        "title_en": null,
+        "title_original": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+        "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等敏感操作仍需用户手动完成，信任与授权仍是所有 Agent 厂商的难题。",
+        "recommend_reason_zh": "Airtap新功能只需发条iMessage，无需安装TikTok或星巴克App，AI靠视觉模拟真人点屏，帮你选品加购到结账页，甚至点好了一杯美式。",
+        "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Dependabot自动更新会延迟，需要检查冷却期配置，避免错过关键补丁。",
+      "persona_score": 75,
+      "persona_review": "发短信即可调用手机操作，实用，但需确认是否开放API。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
@@ -816,15 +900,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9403,
+        "recency": 0.8943,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -853,7 +937,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
@@ -901,15 +985,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.879,
+        "recency": 0.836,
         "story_heat": 0.0
       },
       "category": "official",
@@ -937,30 +1021,198 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
-      "story_id": "story_a37b7492af9e",
-      "title": "GitHub Copilot 应用现已支持安全审查 / Security reviews now available in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "story_id": "story_183d53d9be78",
+      "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+      "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
+      "primary_url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
+      "source": "公众号：通义实验室（千问）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
+          "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+          "title_zh": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+          "title_en": null,
+          "title_original": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+          "summary": "阿里通义实验室发布实时语音交互模型 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 的 Speech Reasoning 子项中综合排名第一，超越 OpenAI GPT-Realtime-2。",
+          "recommend_reason_zh": "阿里全新Qwen-Audio-3.0-Realtime在Artificial Analysis语音推理子项综合排名第一，以“脑子快、情商高、耳朵灵”形容其高效与智能。",
+          "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T02:30:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：通义实验室（千问）"
+      ],
+      "items": [
+        {
+          "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
+          "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+          "title_zh": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+          "title_en": null,
+          "title_original": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+          "summary": "阿里通义实验室发布实时语音交互模型 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 的 Speech Reasoning 子项中综合排名第一，超越 OpenAI GPT-Realtime-2。",
+          "recommend_reason_zh": "阿里全新Qwen-Audio-3.0-Realtime在Artificial Analysis语音推理子项综合排名第一，以“脑子快、情商高、耳朵灵”形容其高效与智能。",
+          "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T02:30:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9844,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T02:30:26Z",
+      "latest_at": "2026-07-15T02:30:26Z",
+      "primary_item": {
+        "id": "ae4337d9eeb79e389eb8dca02fc217633f7ad02b",
+        "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+        "title_zh": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+        "title_en": null,
+        "title_original": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+        "summary": "阿里通义实验室发布实时语音交互模型 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 的 Speech Reasoning 子项中综合排名第一，超越 OpenAI GPT-Realtime-2。",
+        "recommend_reason_zh": "阿里全新Qwen-Audio-3.0-Realtime在Artificial Analysis语音推理子项综合排名第一，以“脑子快、情商高、耳朵灵”形容其高效与智能。",
+        "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
+        "source": "公众号：通义实验室（千问）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 90,
+      "persona_review": "新模型登顶语音推理榜，实测可换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T03:43:34.504284Z"
+      }
+    },
+    {
+      "story_id": "story_5c1463bedc0b",
+      "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+      "url": "https://www.aibase.com/news/29609",
+      "primary_url": "https://www.aibase.com/news/29609",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
+          "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+          "title_zh": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+          "title_en": null,
+          "title_original": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+          "summary": "Independent developer Jodi Bruijn released the MacWhisper 14.0 update yesterday, focusing on improving transcription performance and adding an editor view. MacW\nIndependent developer Jodi Bruijn released the MacWhisper 14.0 update yesterday, focusing on improving transcription performance and adding an editor view. MacW\nIndependent developer Jodi Bruijn released the MacWhisper 14.0 update yesterday, focusing on improving transcription performance and adding an editor view. MacW\nExplore AI Fronti",
+          "recommend_reason_zh": "独立开发者Jodi Bruijn发布MacWhisper 14.0，新增编辑器视图让你直接在转录界面编辑文本，并修复CPU占用过高问题，提升性能。",
+          "url": "https://www.aibase.com/news/29609",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T03:35:39.884324Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
+          "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+          "title_zh": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+          "title_en": null,
+          "title_original": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+          "summary": "Independent developer Jodi Bruijn released the MacWhisper 14.0 update yesterday, focusing on improving transcription performance and adding an editor view. MacW\nIndependent developer Jodi Bruijn released the MacWhisper 14.0 update yesterday, focusing on improving transcription performance and adding an editor view. MacW\nIndependent developer Jodi Bruijn released the MacWhisper 14.0 update yesterday, focusing on improving transcription performance and adding an editor view. MacW\nExplore AI Fronti",
+          "recommend_reason_zh": "独立开发者Jodi Bruijn发布MacWhisper 14.0，新增编辑器视图让你直接在转录界面编辑文本，并修复CPU占用过高问题，提升性能。",
+          "url": "https://www.aibase.com/news/29609",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T03:35:39.884324Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T03:35:39.884324Z",
+      "latest_at": "2026-07-15T03:35:39.884324Z",
+      "primary_item": {
+        "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
+        "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+        "title_zh": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+        "title_en": null,
+        "title_original": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+        "summary": "Independent developer Jodi Bruijn released the MacWhisper 14.0 update yesterday, focusing on improving transcription performance and adding an editor view. MacW\nIndependent developer Jodi Bruijn released the MacWhisper 14.0 update yesterday, focusing on improving transcription performance and adding an editor view. MacW\nIndependent developer Jodi Bruijn released the MacWhisper 14.0 update yesterday, focusing on improving transcription performance and adding an editor view. MacW\nExplore AI Fronti",
+        "recommend_reason_zh": "独立开发者Jodi Bruijn发布MacWhisper 14.0，新增编辑器视图让你直接在转录界面编辑文本，并修复CPU占用过高问题，提升性能。",
+        "url": "https://www.aibase.com/news/29609",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 70,
+      "persona_review": "转录用户可升级，新编辑器省事；CPU修复提升日常体验。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T03:43:34.504284Z"
+      }
+    },
+    {
+      "story_id": "story_3c7e9dc57dbe",
+      "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
+      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+      "primary_url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-          "title": "GitHub Copilot 应用现已支持安全审查 / Security reviews now available in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用现已支持安全审查",
-          "title_en": "Security reviews now available in the GitHub Copilot app",
-          "title_original": "Security reviews now available in the GitHub Copilot app",
+          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
+          "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
+          "title_zh": "代码扫描显示AI对拉取请求进行安全检测",
+          "title_en": "Code scanning shows AI security detections on pull requests",
+          "title_original": "Code scanning shows AI security detections on pull requests",
           "summary": null,
-          "recommend_reason_zh": "GitHub Copilot app 新增 /security-review 斜杠命令，可扫描注入、XSS、路径遍历等高危漏洞，无需离开编码环境。该公开预览版对 Copilot Free/Pro/Business/Enterprise 用户开放。",
-          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "recommend_reason_zh": "GitHub code scanning推出AI安全检测，直接在pull requests上显示，覆盖CodeQL不支持的编程语言和框架，现处于public preview，需GitHub Copilot license并消耗AI credits。",
+          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T12:54:12Z"
+          "published_at": "2026-07-14T19:12:48Z"
         }
       ],
       "source_count": 1,
@@ -969,31 +1221,31 @@
       ],
       "items": [
         {
-          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-          "title": "GitHub Copilot 应用现已支持安全审查 / Security reviews now available in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用现已支持安全审查",
-          "title_en": "Security reviews now available in the GitHub Copilot app",
-          "title_original": "Security reviews now available in the GitHub Copilot app",
+          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
+          "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
+          "title_zh": "代码扫描显示AI对拉取请求进行安全检测",
+          "title_en": "Code scanning shows AI security detections on pull requests",
+          "title_original": "Code scanning shows AI security detections on pull requests",
           "summary": null,
-          "recommend_reason_zh": "GitHub Copilot app 新增 /security-review 斜杠命令，可扫描注入、XSS、路径遍历等高危漏洞，无需离开编码环境。该公开预览版对 Copilot Free/Pro/Business/Enterprise 用户开放。",
-          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "recommend_reason_zh": "GitHub code scanning推出AI安全检测，直接在pull requests上显示，覆盖CodeQL不支持的编程语言和框架，现处于public preview，需GitHub Copilot license并消耗AI credits。",
+          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T12:54:12Z"
+          "published_at": "2026-07-14T19:12:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8505,
+        "ai_relevance": 0.87,
+        "recency": 0.886,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1002,141 +1254,111 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T12:54:12Z",
-      "latest_at": "2026-07-14T12:54:12Z",
+      "earliest_at": "2026-07-14T19:12:48Z",
+      "latest_at": "2026-07-14T19:12:48Z",
       "primary_item": {
-        "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-        "title": "GitHub Copilot 应用现已支持安全审查 / Security reviews now available in the GitHub Copilot app",
-        "title_zh": "GitHub Copilot 应用现已支持安全审查",
-        "title_en": "Security reviews now available in the GitHub Copilot app",
-        "title_original": "Security reviews now available in the GitHub Copilot app",
+        "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
+        "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
+        "title_zh": "代码扫描显示AI对拉取请求进行安全检测",
+        "title_en": "Code scanning shows AI security detections on pull requests",
+        "title_original": "Code scanning shows AI security detections on pull requests",
         "summary": null,
-        "recommend_reason_zh": "GitHub Copilot app 新增 /security-review 斜杠命令，可扫描注入、XSS、路径遍历等高危漏洞，无需离开编码环境。该公开预览版对 Copilot Free/Pro/Business/Enterprise 用户开放。",
-        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+        "recommend_reason_zh": "GitHub code scanning推出AI安全检测，直接在pull requests上显示，覆盖CodeQL不支持的编程语言和框架，现处于public preview，需GitHub Copilot license并消耗AI credits。",
+        "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 90,
-      "persona_review": "写代码时直接查安全漏洞，省去单独跑工具的时间，今天就能用。",
+      "persona_review": "PR 里直接嵌入 AI 安全检测结果，省去手动配置，今天就能用上。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
-      "story_id": "story_1e888126e542",
-      "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-      "url": "https://www.aibase.com/news/29585",
-      "primary_url": "https://www.aibase.com/news/29585",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2bc8c8a555a2",
+      "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
+      "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
+      "primary_url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
-          "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-          "title_zh": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+          "id": "7f407e817b9c352b467b7b2a1ec7646d359e4007",
+          "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
+          "title_zh": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
           "title_en": null,
-          "title_original": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek创始人梁文锋财富飙升至360亿美元，一年暴增199亿美元，超越Anthropic和OpenAI联合创始人，他自掏200亿元完成公司首次外部融资，估值达400亿元。",
-          "url": "https://www.aibase.com/news/29585",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T10:16:15.321950Z"
-        },
-        {
-          "id": "b6a3edf220780dcddd8ae827d2d6095554275f4d",
-          "title": "DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富",
-          "title_zh": "DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富",
-          "title_en": null,
-          "title_original": "DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/976/525.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-14T07:30:11Z"
+          "title_original": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
+          "summary": "作者基于 API 版 Fable5 和 Codex 开发了开源 TODO Skill\"阿福\"，用于将收件箱中的待办资料自动转为 Markdown 任务卡，识别信息不完整项（如视频链接需通过 yt-dlp 和本地 Whisper 提取字幕），并支持批量排期、AI 分组合并、拖拽调整周视图及同步到 Mac 日历或飞书日历。项目已开源在 GitHub，安装仅需一条命令。",
+          "recommend_reason_zh": "开源工具“阿福”利用Claude Code和Codex，实现了从知识管理到排期自动化，帮你轻松管理待办事项。",
+          "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T01:52:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
+        "公众号：卡尔的AI沃茨"
       ],
       "items": [
         {
-          "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
-          "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-          "title_zh": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+          "id": "7f407e817b9c352b467b7b2a1ec7646d359e4007",
+          "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
+          "title_zh": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
           "title_en": null,
-          "title_original": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek创始人梁文锋财富飙升至360亿美元，一年暴增199亿美元，超越Anthropic和OpenAI联合创始人，他自掏200亿元完成公司首次外部融资，估值达400亿元。",
-          "url": "https://www.aibase.com/news/29585",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T10:16:15.321950Z"
-        },
-        {
-          "id": "b6a3edf220780dcddd8ae827d2d6095554275f4d",
-          "title": "DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富",
-          "title_zh": "DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富",
-          "title_en": null,
-          "title_original": "DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/976/525.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-14T07:30:11Z"
+          "title_original": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
+          "summary": "作者基于 API 版 Fable5 和 Codex 开发了开源 TODO Skill\"阿福\"，用于将收件箱中的待办资料自动转为 Markdown 任务卡，识别信息不完整项（如视频链接需通过 yt-dlp 和本地 Whisper 提取字幕），并支持批量排期、AI 分组合并、拖拽调整周视图及同步到 Mac 日历或飞书日历。项目已开源在 GitHub，安装仅需一条命令。",
+          "recommend_reason_zh": "开源工具“阿福”利用Claude Code和Codex，实现了从知识管理到排期自动化，帮你轻松管理待办事项。",
+          "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T01:52:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8188,
-        "story_heat": 0.25
+        "recency": 0.9754,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T07:30:11Z",
-      "latest_at": "2026-07-14T10:16:15.321950Z",
+      "earliest_at": "2026-07-15T01:52:00Z",
+      "latest_at": "2026-07-15T01:52:00Z",
       "primary_item": {
-        "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
-        "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-        "title_zh": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+        "id": "7f407e817b9c352b467b7b2a1ec7646d359e4007",
+        "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
+        "title_zh": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
         "title_en": null,
-        "title_original": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-        "summary": null,
-        "recommend_reason_zh": "DeepSeek创始人梁文锋财富飙升至360亿美元，一年暴增199亿美元，超越Anthropic和OpenAI联合创始人，他自掏200亿元完成公司首次外部融资，估值达400亿元。",
-        "url": "https://www.aibase.com/news/29585",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "title_original": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
+        "summary": "作者基于 API 版 Fable5 和 Codex 开发了开源 TODO Skill\"阿福\"，用于将收件箱中的待办资料自动转为 Markdown 任务卡，识别信息不完整项（如视频链接需通过 yt-dlp 和本地 Whisper 提取字幕），并支持批量排期、AI 分组合并、拖拽调整周视图及同步到 Mac 日历或飞书日历。项目已开源在 GitHub，安装仅需一条命令。",
+        "recommend_reason_zh": "开源工具“阿福”利用Claude Code和Codex，实现了从知识管理到排期自动化，帮你轻松管理待办事项。",
+        "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "与写代码无关，不看。",
+      "persona_score": 88,
+      "persona_review": "开源可clone，用Claude Code直接上手，个人知识管理和排期有现成方案。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
@@ -1213,15 +1435,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7667,
+        "recency": 0.7292,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1250,90 +1472,174 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
-      "story_id": "story_cd95092ecd2f",
-      "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-      "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-      "primary_url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
+      "story_id": "story_78c1bc80203e",
+      "title": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
+      "url": "https://www.aibase.com/news/29594",
+      "primary_url": "https://www.aibase.com/news/29594",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
-          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-          "title_zh": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "id": "cf4b7b30e8762cc791334987a70738680dee0452",
+          "title": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
+          "title_zh": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
           "title_en": null,
-          "title_original": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-          "summary": "LibTV推出Agent功能并内置Skill Hub，提供100多个覆盖武侠电影、皮克斯动画广告、电商口播等类型的视频Skill。用户输入想法后，Agent会分析需求并询问方向，自动生成视频分镜并串联成完整节点工作流，每个节点可查看和修改提示语。生成后LibTV会启动自查机制，自动检测并返修有问题的镜头。故事板视图提供图片与视频资产总览，支持在成片中直接打开剪辑时间线进行精细调整。用户还可自行创建Skill，上传三个文件即可，无需编程。实测中，Agent能输出剧情连贯、带粤语配音的成片，并支持双语字幕生成。",
-          "recommend_reason_zh": "LibTV Agent实测：将100个AI视频工作流重组为Skill，用户甚至可以手搓一个视频Skill的提示语，释放创意自由。",
-          "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T09:04:00Z"
+          "title_original": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
+          "summary": "Recently, Anthropic announced a new initiative called \"Claude for Teachers,\" aimed at providing free advanced AI tools to current K-12 (kindergarten through hig\nRecently, Anthropic announced a new initiative called \"Claude for Teachers,\" aimed at providing free advanced AI tools to current K-12 (kindergarten through hig\nRecently, Anthropic announced a new initiative called \"Claude for Teachers,\" aimed at providing free advanced AI tools to current K-12 (kindergarten through hig\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic 免费推出Claude for Teachers，为美国K-12教师提供AI工具，覆盖50州学术标准，可自动生成教案及差异化方案，并支持Claude Code和Claude Cowork分析数据。",
+          "url": "https://www.aibase.com/news/29594",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T03:35:39.884324Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：卡尔的AI沃茨"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
-          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-          "title_zh": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "id": "cf4b7b30e8762cc791334987a70738680dee0452",
+          "title": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
+          "title_zh": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
           "title_en": null,
-          "title_original": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-          "summary": "LibTV推出Agent功能并内置Skill Hub，提供100多个覆盖武侠电影、皮克斯动画广告、电商口播等类型的视频Skill。用户输入想法后，Agent会分析需求并询问方向，自动生成视频分镜并串联成完整节点工作流，每个节点可查看和修改提示语。生成后LibTV会启动自查机制，自动检测并返修有问题的镜头。故事板视图提供图片与视频资产总览，支持在成片中直接打开剪辑时间线进行精细调整。用户还可自行创建Skill，上传三个文件即可，无需编程。实测中，Agent能输出剧情连贯、带粤语配音的成片，并支持双语字幕生成。",
-          "recommend_reason_zh": "LibTV Agent实测：将100个AI视频工作流重组为Skill，用户甚至可以手搓一个视频Skill的提示语，释放创意自由。",
-          "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T09:04:00Z"
+          "title_original": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
+          "summary": "Recently, Anthropic announced a new initiative called \"Claude for Teachers,\" aimed at providing free advanced AI tools to current K-12 (kindergarten through hig\nRecently, Anthropic announced a new initiative called \"Claude for Teachers,\" aimed at providing free advanced AI tools to current K-12 (kindergarten through hig\nRecently, Anthropic announced a new initiative called \"Claude for Teachers,\" aimed at providing free advanced AI tools to current K-12 (kindergarten through hig\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic 免费推出Claude for Teachers，为美国K-12教师提供AI工具，覆盖50州学术标准，可自动生成教案及差异化方案，并支持Claude Code和Claude Cowork分析数据。",
+          "url": "https://www.aibase.com/news/29594",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T03:35:39.884324Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8047,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T03:35:39.884324Z",
+      "latest_at": "2026-07-15T03:35:39.884324Z",
+      "primary_item": {
+        "id": "cf4b7b30e8762cc791334987a70738680dee0452",
+        "title": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
+        "title_zh": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
+        "title_en": null,
+        "title_original": "Anthropic 免费推出 Claude for Teachers，助力美国教师智慧教学！",
+        "summary": "Recently, Anthropic announced a new initiative called \"Claude for Teachers,\" aimed at providing free advanced AI tools to current K-12 (kindergarten through hig\nRecently, Anthropic announced a new initiative called \"Claude for Teachers,\" aimed at providing free advanced AI tools to current K-12 (kindergarten through hig\nRecently, Anthropic announced a new initiative called \"Claude for Teachers,\" aimed at providing free advanced AI tools to current K-12 (kindergarten through hig\nExplore AI Fronti",
+        "recommend_reason_zh": "Anthropic 免费推出Claude for Teachers，为美国K-12教师提供AI工具，覆盖50州学术标准，可自动生成教案及差异化方案，并支持Claude Code和Claude Cowork分析数据。",
+        "url": "https://www.aibase.com/news/29594",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "目标用户是美国教师，对开发者没有直接可用的资源或工具。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T03:43:34.504284Z"
+      }
+    },
+    {
+      "story_id": "story_941e90a70542",
+      "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+      "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
+      "primary_url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "376f888bb5c8649c59e3a4d49411834b249a9d40",
+          "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+          "title_zh": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+          "title_en": null,
+          "title_original": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+          "summary": "作者每天Vibe Coding约16小时，认为Claude Fable 5在大型方案初版设计上\"当世独一档\"，GPT-5.6 Sol能有效纠错并优化方案。核心流程为：Fable 5出方案初版 → GPT-5.6 Sol审查纠错 → 在Codex中开启\"目标模式\"全自动化执行，最长曾连续运行17小时。",
+          "recommend_reason_zh": "这篇内容揭秘了作者每天Vibe Coding 16小时，利用Fable 5与GPT-5.6 Sol进行AI开发的完整流程，为高效编码提供了具体实践参考。",
+          "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T00:02:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "376f888bb5c8649c59e3a4d49411834b249a9d40",
+          "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+          "title_zh": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+          "title_en": null,
+          "title_original": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+          "summary": "作者每天Vibe Coding约16小时，认为Claude Fable 5在大型方案初版设计上\"当世独一档\"，GPT-5.6 Sol能有效纠错并优化方案。核心流程为：Fable 5出方案初版 → GPT-5.6 Sol审查纠错 → 在Codex中开启\"目标模式\"全自动化执行，最长曾连续运行17小时。",
+          "recommend_reason_zh": "这篇内容揭秘了作者每天Vibe Coding 16小时，利用Fable 5与GPT-5.6 Sol进行AI开发的完整流程，为高效编码提供了具体实践参考。",
+          "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T00:02:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9499,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T09:04:00Z",
-      "latest_at": "2026-07-14T09:04:00Z",
+      "earliest_at": "2026-07-15T00:02:00Z",
+      "latest_at": "2026-07-15T00:02:00Z",
       "primary_item": {
-        "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
-        "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-        "title_zh": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+        "id": "376f888bb5c8649c59e3a4d49411834b249a9d40",
+        "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+        "title_zh": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
         "title_en": null,
-        "title_original": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-        "summary": "LibTV推出Agent功能并内置Skill Hub，提供100多个覆盖武侠电影、皮克斯动画广告、电商口播等类型的视频Skill。用户输入想法后，Agent会分析需求并询问方向，自动生成视频分镜并串联成完整节点工作流，每个节点可查看和修改提示语。生成后LibTV会启动自查机制，自动检测并返修有问题的镜头。故事板视图提供图片与视频资产总览，支持在成片中直接打开剪辑时间线进行精细调整。用户还可自行创建Skill，上传三个文件即可，无需编程。实测中，Agent能输出剧情连贯、带粤语配音的成片，并支持双语字幕生成。",
-        "recommend_reason_zh": "LibTV Agent实测：将100个AI视频工作流重组为Skill，用户甚至可以手搓一个视频Skill的提示语，释放创意自由。",
-        "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-        "source": "公众号：卡尔的AI沃茨",
+        "title_original": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+        "summary": "作者每天Vibe Coding约16小时，认为Claude Fable 5在大型方案初版设计上\"当世独一档\"，GPT-5.6 Sol能有效纠错并优化方案。核心流程为：Fable 5出方案初版 → GPT-5.6 Sol审查纠错 → 在Codex中开启\"目标模式\"全自动化执行，最长曾连续运行17小时。",
+        "recommend_reason_zh": "这篇内容揭秘了作者每天Vibe Coding 16小时，利用Fable 5与GPT-5.6 Sol进行AI开发的完整流程，为高效编码提供了具体实践参考。",
+        "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "软文嫌疑重，等实际可用的开源或API再考虑。",
+      "persona_score": 25,
+      "persona_review": "个人经验分享，无新工具或API，看看就好。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
@@ -1381,15 +1687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8804,
+        "recency": 0.8373,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1416,7 +1722,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
@@ -1464,15 +1770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8031,
+        "recency": 0.7638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1499,513 +1805,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     },
     {
-      "story_id": "story_785e88ff46e3",
-      "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "primary_url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_f795a259360f",
+      "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+      "primary_url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ea78747877347e2ca67adbf4c95feeebd264a8b4",
-          "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-          "title_zh": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-          "title_en": null,
-          "title_original": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-          "summary": "用户可通过 Claude 的 MessageDisplay Hook 机制自定义词汇替换。编写 Python 脚本，将\"seam\"替换为\"whatchamacallit\"、\"you're absolutely right\"替换为\"I'm a complete clown\"、\"honest take\"替换为\"spicy doodad\"、\"load-bearing\"替换为\"cooked\"，保存为 `~/.claude/hooks/wordswap.sh` 并赋予执行权限，再在 `~/.claude/settings.json` 的 hooks 块中配置该命令。Hook 在启动时加载，新会话即生效。",
-          "recommend_reason_zh": "厌倦了Claude说\"honest takes\"和\"load-bearing seams\"？本文教你用wordswap.sh脚本放在~/.claude/hooks/并配置settings.json，轻松替换这些恼人措辞。",
-          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T16:39:15.519000Z"
-        },
-        {
-          "id": "e4bc3154ff14ec9c0c263e9620cac1387106531c",
-          "title": "如何阻止Claude说\"load-bearing / How to stop Claude from saying load-bearing",
-          "title_zh": "如何阻止Claude说\"load-bearing",
-          "title_en": "How to stop Claude from saying load-bearing",
-          "title_original": "How to stop Claude from saying load-bearing",
-          "summary": "I guess they are not annoying since I know I am talking to an LLM and expect the typical responses. When I am reading prose online that I previously would have expected a human to write, it can be quite jarring to realize its an LLM.\nreply\nreply\nreply\n[0]: https://slate.com/human-interest/2011/05/em-dashes-why-write...\nBut the LLMs really seem to fixate on using the same ones in the same places all the time. I guess that's because that's the highest probability construction.\nreply\nreply\nreply\nOr",
-          "recommend_reason_zh": "本文揭示了AI语言模型（如Claude）为何频繁使用“load-bearing”等固定短语，并引用用户自身“<scope problem>...<constraint/requirement> is loadbearing”的重复模式，说明人类习惯也可能被AI复制为“slop”。",
-          "url": "https://news.ycombinator.com/item?id=48905248",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T15:46:36.874000Z"
-        },
-        {
-          "id": "6d98b1fb6fee1c31b0b85bfc87ac2e11fdb73fd9",
-          "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\" / How to stop Claude from saying load-bearing",
-          "title_zh": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-          "title_en": "How to stop Claude from saying load-bearing",
-          "title_original": "How to stop Claude from saying load-bearing",
+          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+          "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
+          "title_zh": "Dependabot版本更新引入默认包冷却期",
+          "title_en": "Dependabot version updates introduce default package cooldown",
+          "title_original": "Dependabot version updates introduce default package cooldown",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-14T11:46:02Z"
+          "recommend_reason_zh": "Dependabot版本更新默认加入三天冷却期，新版本发布后至少等待三天才开启PR，有效防范供应链攻击；该默认值适用于github.com所有生态，GHES 3.23中生效。",
+          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T16:42:59Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "ea78747877347e2ca67adbf4c95feeebd264a8b4",
-          "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-          "title_zh": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-          "title_en": null,
-          "title_original": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-          "summary": "用户可通过 Claude 的 MessageDisplay Hook 机制自定义词汇替换。编写 Python 脚本，将\"seam\"替换为\"whatchamacallit\"、\"you're absolutely right\"替换为\"I'm a complete clown\"、\"honest take\"替换为\"spicy doodad\"、\"load-bearing\"替换为\"cooked\"，保存为 `~/.claude/hooks/wordswap.sh` 并赋予执行权限，再在 `~/.claude/settings.json` 的 hooks 块中配置该命令。Hook 在启动时加载，新会话即生效。",
-          "recommend_reason_zh": "厌倦了Claude说\"honest takes\"和\"load-bearing seams\"？本文教你用wordswap.sh脚本放在~/.claude/hooks/并配置settings.json，轻松替换这些恼人措辞。",
-          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T16:39:15.519000Z"
-        },
-        {
-          "id": "e4bc3154ff14ec9c0c263e9620cac1387106531c",
-          "title": "如何阻止Claude说\"load-bearing / How to stop Claude from saying load-bearing",
-          "title_zh": "如何阻止Claude说\"load-bearing",
-          "title_en": "How to stop Claude from saying load-bearing",
-          "title_original": "How to stop Claude from saying load-bearing",
-          "summary": "I guess they are not annoying since I know I am talking to an LLM and expect the typical responses. When I am reading prose online that I previously would have expected a human to write, it can be quite jarring to realize its an LLM.\nreply\nreply\nreply\n[0]: https://slate.com/human-interest/2011/05/em-dashes-why-write...\nBut the LLMs really seem to fixate on using the same ones in the same places all the time. I guess that's because that's the highest probability construction.\nreply\nreply\nreply\nOr",
-          "recommend_reason_zh": "本文揭示了AI语言模型（如Claude）为何频繁使用“load-bearing”等固定短语，并引用用户自身“<scope problem>...<constraint/requirement> is loadbearing”的重复模式，说明人类习惯也可能被AI复制为“slop”。",
-          "url": "https://news.ycombinator.com/item?id=48905248",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T15:46:36.874000Z"
-        },
-        {
-          "id": "6d98b1fb6fee1c31b0b85bfc87ac2e11fdb73fd9",
-          "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\" / How to stop Claude from saying load-bearing",
-          "title_zh": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-          "title_en": "How to stop Claude from saying load-bearing",
-          "title_original": "How to stop Claude from saying load-bearing",
+          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+          "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
+          "title_zh": "Dependabot版本更新引入默认包冷却期",
+          "title_en": "Dependabot version updates introduce default package cooldown",
+          "title_original": "Dependabot version updates introduce default package cooldown",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-14T11:46:02Z"
+          "recommend_reason_zh": "Dependabot版本更新默认加入三天冷却期，新版本发布后至少等待三天才开启PR，有效防范供应链攻击；该默认值适用于github.com所有生态，GHES 3.23中生效。",
+          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T16:42:59Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8978,
-        "story_heat": 0.5
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8546,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T11:46:02Z",
-      "latest_at": "2026-07-14T16:39:15.519000Z",
+      "earliest_at": "2026-07-14T16:42:59Z",
+      "latest_at": "2026-07-14T16:42:59Z",
       "primary_item": {
-        "id": "ea78747877347e2ca67adbf4c95feeebd264a8b4",
-        "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-        "title_zh": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-        "title_en": null,
-        "title_original": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-        "summary": "用户可通过 Claude 的 MessageDisplay Hook 机制自定义词汇替换。编写 Python 脚本，将\"seam\"替换为\"whatchamacallit\"、\"you're absolutely right\"替换为\"I'm a complete clown\"、\"honest take\"替换为\"spicy doodad\"、\"load-bearing\"替换为\"cooked\"，保存为 `~/.claude/hooks/wordswap.sh` 并赋予执行权限，再在 `~/.claude/settings.json` 的 hooks 块中配置该命令。Hook 在启动时加载，新会话即生效。",
-        "recommend_reason_zh": "厌倦了Claude说\"honest takes\"和\"load-bearing seams\"？本文教你用wordswap.sh脚本放在~/.claude/hooks/并配置settings.json，轻松替换这些恼人措辞。",
-        "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 80,
-      "persona_review": "直接给提示词模板省自己调半天，抄来就用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
-      }
-    },
-    {
-      "story_id": "story_47c98eab184a",
-      "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-      "url": "https://www.aibase.com/news/29583",
-      "primary_url": "https://www.aibase.com/news/29583",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a54237efdec97bbf09efc03629057c1426399fe7",
-          "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-          "title_zh": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-          "title_en": null,
-          "title_original": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-          "summary": null,
-          "recommend_reason_zh": "一位9年iOS开发者完全靠AI，15天打造Capybara外卖游戏，在Cursor Vibe Jam2026中赢得2.5万美元奖金。Claude生成27000行代码，总投入仅100美元，全程零手写代码。",
-          "url": "https://www.aibase.com/news/29583",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T10:16:15.321950Z"
-        },
-        {
-          "id": "11a6bd9cde998009d84074ffabfbe7e8b16c09f4",
-          "title": "代码 100% 由 AI 编写：9 年 iOS 开发者 15 天打造外卖游戏，斩获 2.5 万美元奖金",
-          "title_zh": "代码 100% 由 AI 编写：9 年 iOS 开发者 15 天打造外卖游戏，斩获 2.5 万美元奖金",
-          "title_en": null,
-          "title_original": "代码 100% 由 AI 编写：9 年 iOS 开发者 15 天打造外卖游戏，斩获 2.5 万美元奖金",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/976/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-14T04:46:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "a54237efdec97bbf09efc03629057c1426399fe7",
-          "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-          "title_zh": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-          "title_en": null,
-          "title_original": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-          "summary": null,
-          "recommend_reason_zh": "一位9年iOS开发者完全靠AI，15天打造Capybara外卖游戏，在Cursor Vibe Jam2026中赢得2.5万美元奖金。Claude生成27000行代码，总投入仅100美元，全程零手写代码。",
-          "url": "https://www.aibase.com/news/29583",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T10:16:15.321950Z"
-        },
-        {
-          "id": "11a6bd9cde998009d84074ffabfbe7e8b16c09f4",
-          "title": "代码 100% 由 AI 编写：9 年 iOS 开发者 15 天打造外卖游戏，斩获 2.5 万美元奖金",
-          "title_zh": "代码 100% 由 AI 编写：9 年 iOS 开发者 15 天打造外卖游戏，斩获 2.5 万美元奖金",
-          "title_en": null,
-          "title_original": "代码 100% 由 AI 编写：9 年 iOS 开发者 15 天打造外卖游戏，斩获 2.5 万美元奖金",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/976/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-14T04:46:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8188,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T04:46:08Z",
-      "latest_at": "2026-07-14T10:16:15.321950Z",
-      "primary_item": {
-        "id": "a54237efdec97bbf09efc03629057c1426399fe7",
-        "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-        "title_zh": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-        "title_en": null,
-        "title_original": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
+        "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+        "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
+        "title_zh": "Dependabot版本更新引入默认包冷却期",
+        "title_en": "Dependabot version updates introduce default package cooldown",
+        "title_original": "Dependabot version updates introduce default package cooldown",
         "summary": null,
-        "recommend_reason_zh": "一位9年iOS开发者完全靠AI，15天打造Capybara外卖游戏，在Cursor Vibe Jam2026中赢得2.5万美元奖金。Claude生成27000行代码，总投入仅100美元，全程零手写代码。",
-        "url": "https://www.aibase.com/news/29583",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "recommend_reason_zh": "Dependabot版本更新默认加入三天冷却期，新版本发布后至少等待三天才开启PR，有效防范供应链攻击；该默认值适用于github.com所有生态，GHES 3.23中生效。",
+        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "AI写游戏获奖是噱头，你的日常开发还是得自己debug。",
+      "persona_score": 72,
+      "persona_review": "Dependabot自动更新会延迟，需要检查冷却期配置，避免错过关键补丁。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
-      }
-    },
-    {
-      "story_id": "story_9c53ab3f5247",
-      "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型 / SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
-      "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-      "primary_url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b5851a195823881985167c1306ffc765d134db35",
-          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型 / SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
-          "title_zh": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-          "title_en": "SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
-          "title_original": "SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
-          "summary": "商汤发布并完全开源 SenseNova-Vision-7B-MoT，一个统一处理检测、OCR、GUI、深度与法线估计、分割、多视图等主要视觉任务的模型。该模型支持通过自然语言定义新的视觉任务变体，跨传统任务边界重组视觉能力。开源内容包括模型权重及 SenseNova-Vision Corpus（含 5000 万示例子集及复现剩余公开数据的完整工具包）。",
-          "recommend_reason_zh": "SenseNova-Vision-7B-MoT完全开源，一个模型即可同时处理Detection/OCR/GUI、深度与法线估计、分割和多视图等全部主流视觉任务。",
-          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-          "source": "X：商汤 SenseTime (@SenseTime_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T00:38:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：商汤 SenseTime (@SenseTime_AI)"
-      ],
-      "items": [
-        {
-          "id": "b5851a195823881985167c1306ffc765d134db35",
-          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型 / SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
-          "title_zh": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-          "title_en": "SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
-          "title_original": "SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
-          "summary": "商汤发布并完全开源 SenseNova-Vision-7B-MoT，一个统一处理检测、OCR、GUI、深度与法线估计、分割、多视图等主要视觉任务的模型。该模型支持通过自然语言定义新的视觉任务变体，跨传统任务边界重组视觉能力。开源内容包括模型权重及 SenseNova-Vision Corpus（含 5000 万示例子集及复现剩余公开数据的完整工具包）。",
-          "recommend_reason_zh": "SenseNova-Vision-7B-MoT完全开源，一个模型即可同时处理Detection/OCR/GUI、深度与法线估计、分割和多视图等全部主流视觉任务。",
-          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-          "source": "X：商汤 SenseTime (@SenseTime_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T00:38:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7125,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T00:38:32Z",
-      "latest_at": "2026-07-14T00:38:32Z",
-      "primary_item": {
-        "id": "b5851a195823881985167c1306ffc765d134db35",
-        "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型 / SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
-        "title_zh": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-        "title_en": "SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
-        "title_original": "SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
-        "summary": "商汤发布并完全开源 SenseNova-Vision-7B-MoT，一个统一处理检测、OCR、GUI、深度与法线估计、分割、多视图等主要视觉任务的模型。该模型支持通过自然语言定义新的视觉任务变体，跨传统任务边界重组视觉能力。开源内容包括模型权重及 SenseNova-Vision Corpus（含 5000 万示例子集及复现剩余公开数据的完整工具包）。",
-        "recommend_reason_zh": "SenseNova-Vision-7B-MoT完全开源，一个模型即可同时处理Detection/OCR/GUI、深度与法线估计、分割和多视图等全部主流视觉任务。",
-        "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-        "source": "X：商汤 SenseTime (@SenseTime_AI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "模型开源可下载，视觉多任务场景直接拿来用。少走弯路。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
-      }
-    },
-    {
-      "story_id": "story_f81c4bc04acd",
-      "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍 / http://x.com/i/article/2076946210397552640",
-      "url": "https://x.com/demishassabis/status/2076957440109625718",
-      "primary_url": "https://x.com/demishassabis/status/2076957440109625718",
-      "source": "X：Demis Hassabis (@demishassabis)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fcf33a91034cba26e0f446e0c02b9ab1a910ecd0",
-          "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍 / http://x.com/i/article/2076946210397552640",
-          "title_zh": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
-          "title_en": "http://x.com/i/article/2076946210397552640",
-          "title_original": "http://x.com/i/article/2076946210397552640",
-          "summary": "Google DeepMind 联合创始人 Demis Hassabis 发文称，AGI 可能仅需数年即可实现，其影响将达工业革命的10倍且速度更快。他指出，前沿模型在网络安全、核与生物风险方面已构成挑战，未来需对日益智能体化、递归自我改进的系统建立稳健防护。Hassabis 呼吁美国率先建立类似 FINRA 的前沿AI标准机构，采用联邦监督下的公私合作或自律组织模式，由独立技术专家和开源代表组成董事会，资金主要来自行业以吸引顶尖人才和算力。他强调，当前商业与地缘竞赛导致技术进步快于理解，需以谨慎乐观态度推进公共政策，兼顾创新与安全。",
-          "recommend_reason_zh": "由于提供的正文只有登录提示和链接，没有可引用的具体事实、数字或细节，无法生成符合要求的推荐语。请提供包含文章内容的原文。",
-          "url": "https://x.com/demishassabis/status/2076957440109625718",
-          "source": "X：Demis Hassabis (@demishassabis)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T09:10:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Demis Hassabis (@demishassabis)"
-      ],
-      "items": [
-        {
-          "id": "fcf33a91034cba26e0f446e0c02b9ab1a910ecd0",
-          "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍 / http://x.com/i/article/2076946210397552640",
-          "title_zh": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
-          "title_en": "http://x.com/i/article/2076946210397552640",
-          "title_original": "http://x.com/i/article/2076946210397552640",
-          "summary": "Google DeepMind 联合创始人 Demis Hassabis 发文称，AGI 可能仅需数年即可实现，其影响将达工业革命的10倍且速度更快。他指出，前沿模型在网络安全、核与生物风险方面已构成挑战，未来需对日益智能体化、递归自我改进的系统建立稳健防护。Hassabis 呼吁美国率先建立类似 FINRA 的前沿AI标准机构，采用联邦监督下的公私合作或自律组织模式，由独立技术专家和开源代表组成董事会，资金主要来自行业以吸引顶尖人才和算力。他强调，当前商业与地缘竞赛导致技术进步快于理解，需以谨慎乐观态度推进公共政策，兼顾创新与安全。",
-          "recommend_reason_zh": "由于提供的正文只有登录提示和链接，没有可引用的具体事实、数字或细节，无法生成符合要求的推荐语。请提供包含文章内容的原文。",
-          "url": "https://x.com/demishassabis/status/2076957440109625718",
-          "source": "X：Demis Hassabis (@demishassabis)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T09:10:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8059,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T09:10:16Z",
-      "latest_at": "2026-07-14T09:10:16Z",
-      "primary_item": {
-        "id": "fcf33a91034cba26e0f446e0c02b9ab1a910ecd0",
-        "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍 / http://x.com/i/article/2076946210397552640",
-        "title_zh": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
-        "title_en": "http://x.com/i/article/2076946210397552640",
-        "title_original": "http://x.com/i/article/2076946210397552640",
-        "summary": "Google DeepMind 联合创始人 Demis Hassabis 发文称，AGI 可能仅需数年即可实现，其影响将达工业革命的10倍且速度更快。他指出，前沿模型在网络安全、核与生物风险方面已构成挑战，未来需对日益智能体化、递归自我改进的系统建立稳健防护。Hassabis 呼吁美国率先建立类似 FINRA 的前沿AI标准机构，采用联邦监督下的公私合作或自律组织模式，由独立技术专家和开源代表组成董事会，资金主要来自行业以吸引顶尖人才和算力。他强调，当前商业与地缘竞赛导致技术进步快于理解，需以谨慎乐观态度推进公共政策，兼顾创新与安全。",
-        "recommend_reason_zh": "由于提供的正文只有登录提示和链接，没有可引用的具体事实、数字或细节，无法生成符合要求的推荐语。请提供包含文章内容的原文。",
-        "url": "https://x.com/demishassabis/status/2076957440109625718",
-        "source": "X：Demis Hassabis (@demishassabis)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "愿景不写代码，等有产品再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
-      }
-    },
-    {
-      "story_id": "story_682e97a04185",
-      "title": "Google 因 AI 训练再遭出版商集体诉讼 / Google faces another AI training lawsuit from major publishers",
-      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
-      "primary_url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "29280d50c21ea6130e6110d918142a03656a01b8",
-          "title": "Google 因 AI 训练再遭出版商集体诉讼 / Google faces another AI training lawsuit from major publishers",
-          "title_zh": "Google 因 AI 训练再遭出版商集体诉讼",
-          "title_en": "Google faces another AI training lawsuit from major publishers",
-          "title_original": "Google faces another AI training lawsuit from major publishers",
-          "summary": "包括 Hachette、Cengage、Elsevier 及作家 Scott Turow 在内的出版商与作者团体对 Google 提起集体诉讼，指控其未经授权使用受版权保护的作品训练 Gemini 模型，并故意移除或篡改版权信息以掩盖这一行为。原告称 Google 将原本仅用于 Google Books 搜索片段展示的书籍副本，以及 Google Play 商店上传的图书，非法用于 AI 训练。诉讼援引 Google 内部文件，其中指出此举可能带来\"100 亿至 1000 亿美元的潜在罚款\"。该案在纽约南区联邦地区法院提起。",
-          "recommend_reason_zh": "Hachette、Cengage、Elsevier等出版商联合作者起诉Google，指控其用Google Books和Play Store中的版权作品训练Gemini，并刻意删除版权信息，引用内部文件称可能面临“100亿美元罚款”。",
-          "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T18:33:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "29280d50c21ea6130e6110d918142a03656a01b8",
-          "title": "Google 因 AI 训练再遭出版商集体诉讼 / Google faces another AI training lawsuit from major publishers",
-          "title_zh": "Google 因 AI 训练再遭出版商集体诉讼",
-          "title_en": "Google faces another AI training lawsuit from major publishers",
-          "title_original": "Google faces another AI training lawsuit from major publishers",
-          "summary": "包括 Hachette、Cengage、Elsevier 及作家 Scott Turow 在内的出版商与作者团体对 Google 提起集体诉讼，指控其未经授权使用受版权保护的作品训练 Gemini 模型，并故意移除或篡改版权信息以掩盖这一行为。原告称 Google 将原本仅用于 Google Books 搜索片段展示的书籍副本，以及 Google Play 商店上传的图书，非法用于 AI 训练。诉讼援引 Google 内部文件，其中指出此举可能带来\"100 亿至 1000 亿美元的潜在罚款\"。该案在纽约南区联邦地区法院提起。",
-          "recommend_reason_zh": "Hachette、Cengage、Elsevier等出版商联合作者起诉Google，指控其用Google Books和Play Store中的版权作品训练Gemini，并刻意删除版权信息，引用内部文件称可能面临“100亿美元罚款”。",
-          "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T18:33:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9229,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T18:33:31Z",
-      "latest_at": "2026-07-14T18:33:31Z",
-      "primary_item": {
-        "id": "29280d50c21ea6130e6110d918142a03656a01b8",
-        "title": "Google 因 AI 训练再遭出版商集体诉讼 / Google faces another AI training lawsuit from major publishers",
-        "title_zh": "Google 因 AI 训练再遭出版商集体诉讼",
-        "title_en": "Google faces another AI training lawsuit from major publishers",
-        "title_original": "Google faces another AI training lawsuit from major publishers",
-        "summary": "包括 Hachette、Cengage、Elsevier 及作家 Scott Turow 在内的出版商与作者团体对 Google 提起集体诉讼，指控其未经授权使用受版权保护的作品训练 Gemini 模型，并故意移除或篡改版权信息以掩盖这一行为。原告称 Google 将原本仅用于 Google Books 搜索片段展示的书籍副本，以及 Google Play 商店上传的图书，非法用于 AI 训练。诉讼援引 Google 内部文件，其中指出此举可能带来\"100 亿至 1000 亿美元的潜在罚款\"。该案在纽约南区联邦地区法院提起。",
-        "recommend_reason_zh": "Hachette、Cengage、Elsevier等出版商联合作者起诉Google，指控其用Google Books和Play Store中的版权作品训练Gemini，并刻意删除版权信息，引用内部文件称可能面临“100亿美元罚款”。",
-        "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "诉讼不影响今天写代码，继续关注判决结果。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T00:13:59.272522Z"
+        "scored_at": "2026-07-15T03:43:34.504284Z"
       }
     }
   ]
