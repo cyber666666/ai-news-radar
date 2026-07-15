@@ -93,7 +93,7 @@ X_API_RUN_UTC_HOUR=0
 X_API_RUN_UTC_MINUTE_MAX=10
 ```
 
-The workflow may run every 30 minutes, but the X API adapter only runs inside the configured UTC window unless `X_API_FORCE_RUN=1` is set. Do not set `X_API_FORCE_RUN=1` in a recurring workflow.
+The workflow runs every four hours, but the X API adapter only runs inside the configured UTC window unless `X_API_FORCE_RUN=1` is set. Do not set `X_API_FORCE_RUN=1` in a recurring workflow.
 
 ## Cost guardrail
 

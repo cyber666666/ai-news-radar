@@ -9,7 +9,9 @@ on:
         default: false
         type: boolean
   schedule:
-    - cron: "17 * * * *"
+    # GitHub cron uses UTC. UTC+8 is also a multiple of four, so this runs at
+    # 00:00/04:00/08:00/12:00/16:00/20:00 in both UTC and Asia/Shanghai.
+    - cron: "0 */4 * * *"
 
 concurrency:
   group: update-ai-news-${{ github.ref }}

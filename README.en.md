@@ -212,7 +212,7 @@ If `daily-brief.json` is not available yet, the page falls back to candidate Sco
 ## Fork guide: your own radar in five steps
 
 1. **Fork** [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar).
-2. **Enable Actions**: GitHub pauses workflows on forks by default — enable them on the Actions tab, and `update-news.yml` runs every 30 minutes.
+2. **Enable Actions**: GitHub pauses workflows on forks by default — enable them on the Actions tab, and `update-news.yml` runs every four hours.
 3. **(Optional) Add `DEEPSEEK_API_KEY`**: Settings → Secrets and variables → Actions. This unlocks persona reviews, title enhancement, real pipeline-generated review lines for curated items, and more reliable Chinese title translation (refusal text and degenerate output fall back to the original title automatically). Without it everything still runs — rule-based scores, original titles, and Google Translate take over, and the review block simply doesn't render. The default model is `deepseek-v4-flash`; set a repo Variable `DEEPSEEK_MODEL` if you want a different one. Add `TITLE_ENHANCE_MAX_PER_RUN` too if you want to cap how many titles get rewritten per run (defaults to 30).
 4. **Enable GitHub Pages**: Settings → Pages, serve the master branch root. Your radar is live minutes later.
 5. **Change one line in the skill**: point the `BASE_URL` at the top of `skills/radar/SKILL.md` to `https://<your-username>.github.io/ai-news-radar/data`, and your agent reads your data from now on.
@@ -275,7 +275,7 @@ When a new agent takes over validation, read these first:
 `.github/workflows/update-news.yml` is already configured.
 
 - Supports manual `workflow_dispatch`; pass `force_tikhub=true` explicitly to override the normal paid-source interval for TikHub
-- Runs every 30 minutes by default: `*/30 * * * *`
+- Runs every four hours on the hour: `0 */4 * * *` (GitHub cron uses UTC; because UTC+8 is also a multiple of four, the Asia/Shanghai times are still 00:00/04:00/08:00/12:00/16:00/20:00)
 - Automatically generates and commits `data/*.json`
 - With `DEEPSEEK_API_KEY` set, scores the daily picks with the default persona, generates the three-persona TOP3 reviews, enables title enhancement, generates real pipeline-written review lines for curated items, and gives better translation (refusal text and degenerate output fall back to the original title automatically); without it, falls back to rule-based scores, original titles, and Google Translate, and the review block doesn't render — the core pipeline still runs
 - Default DeepSeek model is `deepseek-v4-flash` (DeepSeek is retiring the `deepseek-chat` alias on 2026-07-24); set a repo Variable `DEEPSEEK_MODEL` to override it
