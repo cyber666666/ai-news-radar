@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-07-17T19:51:51.601127Z",
+  "generated_at": "2026-07-17T22:34:40.180042Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_5142a2d0cb41",
+      "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+          "title_zh": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论",
+          "title_en": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+          "title_original": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T19:47:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+          "title_zh": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论",
+          "title_en": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+          "title_original": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T19:47:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8509,
+      "importance": 0.8509,
+      "importance_score": 0.8509,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9606,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T19:47:45Z",
+      "latest_at": "2026-07-17T19:47:45Z",
+      "primary_item": {
+        "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
+        "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+        "title_zh": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论",
+        "title_en": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+        "title_original": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-17T22:35:40.874011Z"
+      }
+    },
     {
       "story_id": "story_3c32cc962842",
       "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8501,
-      "importance": 0.8501,
-      "importance_score": 0.8501,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9452,
+        "recency": 0.9089,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8672,
+        "recency": 0.8339,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,173 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
+      }
+    },
+    {
+      "story_id": "story_41dc3e242cb7",
+      "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
+      "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
+      "primary_url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
+          "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
+          "title_zh": "GitHub Copilot 应用程序现在可在使用指标 API 中使用",
+          "title_en": "GitHub Copilot app now available in the usage metrics API",
+          "title_original": "GitHub Copilot app now available in the usage metrics API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T22:05:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
+          "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
+          "title_zh": "GitHub Copilot 应用程序现在可在使用指标 API 中使用",
+          "title_en": "GitHub Copilot app now available in the usage metrics API",
+          "title_original": "GitHub Copilot app now available in the usage metrics API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T22:05:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8507,
+      "importance": 0.8507,
+      "importance_score": 0.8507,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9929,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T22:05:11Z",
+      "latest_at": "2026-07-17T22:05:11Z",
+      "primary_item": {
+        "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
+        "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
+        "title_zh": "GitHub Copilot 应用程序现在可在使用指标 API 中使用",
+        "title_en": "GitHub Copilot app now available in the usage metrics API",
+        "title_original": "GitHub Copilot app now available in the usage metrics API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-17T22:35:40.874011Z"
+      }
+    },
+    {
+      "story_id": "story_39f96da3c40c",
+      "title": "代码仓库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+          "title": "代码仓库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+          "title_zh": "代码仓库级 GitHub Copilot 使用指标普遍可用",
+          "title_en": "Repository-level GitHub Copilot usage metrics generally available",
+          "title_original": "Repository-level GitHub Copilot usage metrics generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T22:05:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+          "title": "代码仓库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+          "title_zh": "代码仓库级 GitHub Copilot 使用指标普遍可用",
+          "title_en": "Repository-level GitHub Copilot usage metrics generally available",
+          "title_original": "Repository-level GitHub Copilot usage metrics generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T22:05:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8507,
+      "importance": 0.8507,
+      "importance_score": 0.8507,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.993,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T22:05:18Z",
+      "latest_at": "2026-07-17T22:05:18Z",
+      "primary_item": {
+        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+        "title": "代码仓库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+        "title_zh": "代码仓库级 GitHub Copilot 使用指标普遍可用",
+        "title_en": "Repository-level GitHub Copilot usage metrics generally available",
+        "title_original": "Repository-level GitHub Copilot usage metrics generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     },
     {
@@ -243,15 +492,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.796,
-      "importance": 0.796,
-      "importance_score": 0.796,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9691,
+        "recency": 0.9319,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -278,7 +527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     },
     {
@@ -326,15 +575,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9684,
+        "recency": 0.9312,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -360,119 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
-      }
-    },
-    {
-      "story_id": "story_780136eb567a",
-      "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2aca8373dd0d45a54de2bb25665b9081400fd533",
-          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-          "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-          "title_en": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-          "title_original": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-          "summary": "xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T20:26:23Z"
-        },
-        {
-          "id": "1890876761adf3a7fca676b2c15fa1ff9e15c96c",
-          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-          "title_en": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "title_original": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-16T20:26:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2aca8373dd0d45a54de2bb25665b9081400fd533",
-          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-          "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-          "title_en": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-          "title_original": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-          "summary": "xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T20:26:23Z"
-        },
-        {
-          "id": "1890876761adf3a7fca676b2c15fa1ff9e15c96c",
-          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-          "title_en": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "title_original": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-16T20:26:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.87,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.713,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T20:26:23Z",
-      "latest_at": "2026-07-16T20:26:23Z",
-      "primary_item": {
-        "id": "2aca8373dd0d45a54de2bb25665b9081400fd533",
-        "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-        "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-        "title_en": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-        "title_original": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-        "summary": "xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     },
     {
@@ -520,15 +657,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9535,
+        "recency": 0.9169,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -554,7 +691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     },
     {
@@ -602,15 +739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9621,
+        "recency": 0.9251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -636,7 +773,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
+      }
+    },
+    {
+      "story_id": "story_c13975dae097",
+      "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
+      "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+      "primary_url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
+          "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
+          "title_zh": "Copilot 代码审查：定制和可配置性改进",
+          "title_en": "Copilot code review: Customization and configurability improvements",
+          "title_original": "Copilot code review: Customization and configurability improvements",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T21:08:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
+          "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
+          "title_zh": "Copilot 代码审查：定制和可配置性改进",
+          "title_en": "Copilot code review: Customization and configurability improvements",
+          "title_original": "Copilot code review: Customization and configurability improvements",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T21:08:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8483,
+      "importance": 0.8483,
+      "importance_score": 0.8483,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9795,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T21:08:30Z",
+      "latest_at": "2026-07-17T21:08:30Z",
+      "primary_item": {
+        "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
+        "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
+        "title_zh": "Copilot 代码审查：定制和可配置性改进",
+        "title_en": "Copilot code review: Customization and configurability improvements",
+        "title_original": "Copilot code review: Customization and configurability improvements",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     },
     {
@@ -684,15 +904,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9207,
+        "recency": 0.8853,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -718,7 +938,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     },
     {
@@ -766,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8511,
+        "recency": 0.8184,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -800,89 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
-      }
-    },
-    {
-      "story_id": "story_aed8bc029fb1",
-      "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果 / Automations in Grok",
-      "url": "https://x.ai/news/grok-automations",
-      "primary_url": "https://x.ai/news/grok-automations",
-      "source": "xAI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "862a9de3f6f2e72267c0ece7882dabe66de7fcdc",
-          "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果 / Automations in Grok",
-          "title_zh": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
-          "title_en": "Automations in Grok",
-          "title_original": "Automations in Grok",
-          "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
-          "recommend_reason_zh": null,
-          "url": "https://x.ai/news/grok-automations",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T21:39:40.165000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "xAI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "862a9de3f6f2e72267c0ece7882dabe66de7fcdc",
-          "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果 / Automations in Grok",
-          "title_zh": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
-          "title_en": "Automations in Grok",
-          "title_original": "Automations in Grok",
-          "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
-          "recommend_reason_zh": null,
-          "url": "https://x.ai/news/grok-automations",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T21:39:40.165000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7257,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T21:39:40.165000Z",
-      "latest_at": "2026-07-16T21:39:40.165000Z",
-      "primary_item": {
-        "id": "862a9de3f6f2e72267c0ece7882dabe66de7fcdc",
-        "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果 / Automations in Grok",
-        "title_zh": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
-        "title_en": "Automations in Grok",
-        "title_original": "Automations in Grok",
-        "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
-        "recommend_reason_zh": null,
-        "url": "https://x.ai/news/grok-automations",
-        "source": "xAI：News（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     },
     {
@@ -930,15 +1068,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.882,
+        "recency": 0.8481,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -963,88 +1101,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
-      }
-    },
-    {
-      "story_id": "story_4cdf56f2cdfc",
-      "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-      "url": "https://www.aibase.com/news/29695",
-      "primary_url": "https://www.aibase.com/news/29695",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f183207c181cd941ef7ce235d39392087e42d27e",
-          "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-          "title_zh": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-          "title_en": null,
-          "title_original": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29695",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T12:19:45.913289Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f183207c181cd941ef7ce235d39392087e42d27e",
-          "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-          "title_zh": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-          "title_en": null,
-          "title_original": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29695",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T12:19:45.913289Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8969,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T12:19:45.913289Z",
-      "latest_at": "2026-07-17T12:19:45.913289Z",
-      "primary_item": {
-        "id": "f183207c181cd941ef7ce235d39392087e42d27e",
-        "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-        "title_zh": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-        "title_en": null,
-        "title_original": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29695",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     },
     {
@@ -1092,15 +1149,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8634,
+        "recency": 0.8302,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1125,7 +1182,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
+      }
+    },
+    {
+      "story_id": "story_4cdf56f2cdfc",
+      "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
+      "url": "https://www.aibase.com/news/29695",
+      "primary_url": "https://www.aibase.com/news/29695",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f183207c181cd941ef7ce235d39392087e42d27e",
+          "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
+          "title_zh": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
+          "title_en": null,
+          "title_original": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29695",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T12:19:45.913289Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f183207c181cd941ef7ce235d39392087e42d27e",
+          "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
+          "title_zh": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
+          "title_en": null,
+          "title_original": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29695",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T12:19:45.913289Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8624,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T12:19:45.913289Z",
+      "latest_at": "2026-07-17T12:19:45.913289Z",
+      "primary_item": {
+        "id": "f183207c181cd941ef7ce235d39392087e42d27e",
+        "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
+        "title_zh": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
+        "title_en": null,
+        "title_original": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29695",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     },
     {
@@ -1173,15 +1311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8064,
+        "recency": 0.7754,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1206,7 +1344,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     },
     {
@@ -1254,15 +1392,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9532,
+        "recency": 0.9166,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1287,7 +1425,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     },
     {
@@ -1335,15 +1473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8411,
+        "recency": 0.8088,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1368,7 +1506,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     },
     {
@@ -1416,15 +1554,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8969,
+        "recency": 0.8624,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1449,7 +1587,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     },
     {
@@ -1526,15 +1664,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7579,
+        "recency": 0.7288,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1560,169 +1698,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
-      }
-    },
-    {
-      "story_id": "story_6ed165bacfd5",
-      "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-      "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
-      "primary_url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
-      "source": "公众号：通义实验室（千问）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c01f6f8afae4dee902984233154ff627c06daced",
-          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-          "title_zh": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-          "title_en": null,
-          "title_original": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-          "summary": "通义实验室发布 Wan-Streamer v0.2，这是一款将\"听、看、说、演\"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T07:14:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：通义实验室（千问）"
-      ],
-      "items": [
-        {
-          "id": "c01f6f8afae4dee902984233154ff627c06daced",
-          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-          "title_zh": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-          "title_en": null,
-          "title_original": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-          "summary": "通义实验室发布 Wan-Streamer v0.2，这是一款将\"听、看、说、演\"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T07:14:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8333,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T07:14:00Z",
-      "latest_at": "2026-07-17T07:14:00Z",
-      "primary_item": {
-        "id": "c01f6f8afae4dee902984233154ff627c06daced",
-        "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-        "title_zh": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-        "title_en": null,
-        "title_original": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-        "summary": "通义实验室发布 Wan-Streamer v0.2，这是一款将\"听、看、说、演\"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
-        "source": "公众号：通义实验室（千问）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
-      }
-    },
-    {
-      "story_id": "story_0c4284448485",
-      "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
-      "url": "https://www.aibase.com/news/29694",
-      "primary_url": "https://www.aibase.com/news/29694",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "41657b2e7b5b9e157c6a12ab8dcd78a49d08fd3d",
-          "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
-          "title_zh": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
-          "title_en": null,
-          "title_original": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29694",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T12:19:45.913289Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "41657b2e7b5b9e157c6a12ab8dcd78a49d08fd3d",
-          "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
-          "title_zh": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
-          "title_en": null,
-          "title_original": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29694",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T12:19:45.913289Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8969,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T12:19:45.913289Z",
-      "latest_at": "2026-07-17T12:19:45.913289Z",
-      "primary_item": {
-        "id": "41657b2e7b5b9e157c6a12ab8dcd78a49d08fd3d",
-        "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
-        "title_zh": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
-        "title_en": null,
-        "title_original": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29694",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-17T19:52:44.697700Z"
+        "scored_at": "2026-07-17T22:35:40.874011Z"
       }
     }
   ]
