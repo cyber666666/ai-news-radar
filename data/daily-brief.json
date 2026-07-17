@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T23:14:44.309846Z",
+  "generated_at": "2026-07-17T07:35:34.452245Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8511,
-      "importance": 0.8511,
-      "importance_score": 0.8511,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9007,
+        "recency": 0.7984,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.8482,
-      "importance_score": 0.8482,
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9009,
+        "recency": 0.7986,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9007,
+        "recency": 0.7984,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
@@ -327,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9422,
+        "recency": 0.8352,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
@@ -439,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8305,
-      "importance": 0.8305,
-      "importance_score": 0.8305,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9603,
+        "recency": 0.8512,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -474,90 +474,148 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
-      "story_id": "story_affed1a668e3",
-      "title": "Codex CLI 0.144.5",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_ecf19906475d",
+      "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+      "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+      "primary_url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "027b6c9a356ca75814a626e9497b95393736ceea",
-          "title": "Codex CLI 0.144.5",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.144.5",
-          "title_original": "Codex CLI 0.144.5",
+          "id": "78996dfa263154031e4769c9285030721f78fd89",
+          "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+          "title_zh": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+          "title_en": null,
+          "title_original": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+          "summary": "AI公司为维持大语言模型（如ChatGPT、Claude）运行，可能已购买全球70%的高端计算机内存，导致内存与存储价格飙升：两年前350美元的硬盘现已涨至800美元且缺货，部分笔记本电脑涨价50%。科技公司计划未来几年将美国数据中心容量扩大8倍，部分站点甚至用喷气发动机供电。预测称，平价入门级电脑可能在2028年前消失，内存短缺预计持续数年。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T00:40:20.333000Z"
+        },
+        {
+          "id": "2cf769d110f457856f494494b492626f80287f19",
+          "title": "生成式人工智能是一场工程灾难",
+          "title_zh": "生成式人工智能是一场工程灾难",
+          "title_en": null,
+          "title_original": "生成式人工智能是一场工程灾难",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T00:00:00Z"
+          "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+          "source": "www.theatlantic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T00:40:20.333000Z"
+        },
+        {
+          "id": "b0820a47e866342b44398d3e1385a41711a6bc40",
+          "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格 / Generative AI Is an Engineering Disaster",
+          "title_zh": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+          "title_en": "Generative AI Is an Engineering Disaster",
+          "title_original": "Generative AI Is an Engineering Disaster",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-16T13:12:24Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.theatlantic.com"
       ],
       "items": [
         {
-          "id": "027b6c9a356ca75814a626e9497b95393736ceea",
-          "title": "Codex CLI 0.144.5",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.144.5",
-          "title_original": "Codex CLI 0.144.5",
+          "id": "78996dfa263154031e4769c9285030721f78fd89",
+          "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+          "title_zh": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+          "title_en": null,
+          "title_original": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+          "summary": "AI公司为维持大语言模型（如ChatGPT、Claude）运行，可能已购买全球70%的高端计算机内存，导致内存与存储价格飙升：两年前350美元的硬盘现已涨至800美元且缺货，部分笔记本电脑涨价50%。科技公司计划未来几年将美国数据中心容量扩大8倍，部分站点甚至用喷气发动机供电。预测称，平价入门级电脑可能在2028年前消失，内存短缺预计持续数年。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T00:40:20.333000Z"
+        },
+        {
+          "id": "2cf769d110f457856f494494b492626f80287f19",
+          "title": "生成式人工智能是一场工程灾难",
+          "title_zh": "生成式人工智能是一场工程灾难",
+          "title_en": null,
+          "title_original": "生成式人工智能是一场工程灾难",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T00:00:00Z"
+          "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+          "source": "www.theatlantic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T00:40:20.333000Z"
+        },
+        {
+          "id": "b0820a47e866342b44398d3e1385a41711a6bc40",
+          "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格 / Generative AI Is an Engineering Disaster",
+          "title_zh": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+          "title_en": "Generative AI Is an Engineering Disaster",
+          "title_original": "Generative AI Is an Engineering Disaster",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-16T13:12:24Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7149,
-        "story_heat": 0.0
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9049,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T00:00:00Z",
-      "latest_at": "2026-07-16T00:00:00Z",
+      "earliest_at": "2026-07-16T13:12:24Z",
+      "latest_at": "2026-07-17T00:40:20.333000Z",
       "primary_item": {
-        "id": "027b6c9a356ca75814a626e9497b95393736ceea",
-        "title": "Codex CLI 0.144.5",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.144.5",
-        "title_original": "Codex CLI 0.144.5",
-        "summary": null,
+        "id": "78996dfa263154031e4769c9285030721f78fd89",
+        "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+        "title_zh": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+        "title_en": null,
+        "title_original": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+        "summary": "AI公司为维持大语言模型（如ChatGPT、Claude）运行，可能已购买全球70%的高端计算机内存，导致内存与存储价格飙升：两年前350美元的硬盘现已涨至800美元且缺货，部分笔记本电脑涨价50%。科技公司计划未来几年将美国数据中心容量扩大8倍，部分站点甚至用喷气发动机供电。预测称，平价入门级电脑可能在2028年前消失，内存短缺预计持续数年。",
         "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
@@ -605,15 +663,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8116,
-      "importance": 0.8116,
-      "importance_score": 0.8116,
+      "score": 0.7949,
+      "importance": 0.7949,
+      "importance_score": 0.7949,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8201,
+        "recency": 0.727,
         "story_heat": 0.0
       },
       "category": "official",
@@ -640,90 +698,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
-      }
-    },
-    {
-      "story_id": "story_17b15ceeb6c5",
-      "title": "代码仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-      "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
-          "title": "代码仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-          "title_zh": "代码仓库管理员可以归档拉取请求",
-          "title_en": "Repository admins can archive pull requests",
-          "title_original": "Repository admins can archive pull requests",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T19:01:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
-          "title": "代码仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-          "title_zh": "代码仓库管理员可以归档拉取请求",
-          "title_en": "Repository admins can archive pull requests",
-          "title_original": "Repository admins can archive pull requests",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T19:01:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8333,
-      "importance": 0.8333,
-      "importance_score": 0.8333,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9408,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T19:01:09Z",
-      "latest_at": "2026-07-16T19:01:09Z",
-      "primary_item": {
-        "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
-        "title": "代码仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-        "title_zh": "代码仓库管理员可以归档拉取请求",
-        "title_en": "Repository admins can archive pull requests",
-        "title_original": "Repository admins can archive pull requests",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
@@ -771,15 +746,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.848,
+        "recency": 0.7517,
         "story_heat": 0.0
       },
       "category": "official",
@@ -806,7 +781,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
+      }
+    },
+    {
+      "story_id": "story_17b15ceeb6c5",
+      "title": "代码仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
+      "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+      "primary_url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
+          "title": "代码仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
+          "title_zh": "代码仓库管理员可以归档拉取请求",
+          "title_en": "Repository admins can archive pull requests",
+          "title_original": "Repository admins can archive pull requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T19:01:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
+          "title": "代码仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
+          "title_zh": "代码仓库管理员可以归档拉取请求",
+          "title_en": "Repository admins can archive pull requests",
+          "title_original": "Repository admins can archive pull requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T19:01:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.834,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T19:01:09Z",
+      "latest_at": "2026-07-16T19:01:09Z",
+      "primary_item": {
+        "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
+        "title": "代码仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
+        "title_zh": "代码仓库管理员可以归档拉取请求",
+        "title_en": "Repository admins can archive pull requests",
+        "title_original": "Repository admins can archive pull requests",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
@@ -854,15 +912,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9774,
+        "recency": 0.8664,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -888,7 +946,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
@@ -936,15 +994,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9007,
+        "recency": 0.7984,
         "story_heat": 0.0
       },
       "category": "official",
@@ -971,7 +1029,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
@@ -1019,15 +1077,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9371,
+        "recency": 0.8307,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1053,7 +1111,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
+      }
+    },
+    {
+      "story_id": "story_f7be63b540c0",
+      "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+      "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
+      "primary_url": "https://x.com/AYi_AInotes/status/2077981025905316253",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "631799f38cbcccea4fd890910553090807498366",
+          "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+          "title_zh": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+          "title_en": null,
+          "title_original": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+          "summary": "Kimi K3 在 Frontend Code Arena 以 1679 分登顶，力压 Claude Fable 5 与 GPT-5.6 Sol，7 个前端细分赛道拿下 6 个第一。该模型为 2.8 万亿参数 MoE 架构，百万上下文窗口，7 月 27 日开放权重。K3 的 API 定价为输入每百万 tokens 15 美元，对标前沿闭源模型，放弃低价路线，转向长上下文智能体编码场景的定价策略。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T04:57:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "631799f38cbcccea4fd890910553090807498366",
+          "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+          "title_zh": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+          "title_en": null,
+          "title_original": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+          "summary": "Kimi K3 在 Frontend Code Arena 以 1679 分登顶，力压 Claude Fable 5 与 GPT-5.6 Sol，7 个前端细分赛道拿下 6 个第一。该模型为 2.8 万亿参数 MoE 架构，百万上下文窗口，7 月 27 日开放权重。K3 的 API 定价为输入每百万 tokens 15 美元，对标前沿闭源模型，放弃低价路线，转向长上下文智能体编码场景的定价策略。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T04:57:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9627,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T04:57:38Z",
+      "latest_at": "2026-07-17T04:57:38Z",
+      "primary_item": {
+        "id": "631799f38cbcccea4fd890910553090807498366",
+        "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+        "title_zh": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+        "title_en": null,
+        "title_original": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+        "summary": "Kimi K3 在 Frontend Code Arena 以 1679 分登顶，力压 Claude Fable 5 与 GPT-5.6 Sol，7 个前端细分赛道拿下 6 个第一。该模型为 2.8 万亿参数 MoE 架构，百万上下文窗口，7 月 27 日开放权重。K3 的 API 定价为输入每百万 tokens 15 美元，对标前沿闭源模型，放弃低价路线，转向长上下文智能体编码场景的定价策略。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-17T07:36:46.991117Z"
+      }
+    },
+    {
+      "story_id": "story_fb877d205159",
+      "title": "1Password携手Claude推出集成功能 AI能替你登网站了，但密码始终藏在它看不见的地方",
+      "url": "https://www.aibase.com/news/29668",
+      "primary_url": "https://www.aibase.com/news/29668",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dd841454e8f1dd5bdbd4deb83527391e045e84ce",
+          "title": "1Password携手Claude推出集成功能 AI能替你登网站了，但密码始终藏在它看不见的地方",
+          "title_zh": "1Password携手Claude推出集成功能 AI能替你登网站了，但密码始终藏在它看不见的地方",
+          "title_en": null,
+          "title_original": "1Password携手Claude推出集成功能 AI能替你登网站了，但密码始终藏在它看不见的地方",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29668",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T07:35:34.452245Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "dd841454e8f1dd5bdbd4deb83527391e045e84ce",
+          "title": "1Password携手Claude推出集成功能 AI能替你登网站了，但密码始终藏在它看不见的地方",
+          "title_zh": "1Password携手Claude推出集成功能 AI能替你登网站了，但密码始终藏在它看不见的地方",
+          "title_en": null,
+          "title_original": "1Password携手Claude推出集成功能 AI能替你登网站了，但密码始终藏在它看不见的地方",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29668",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T07:35:34.452245Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T07:35:34.452245Z",
+      "latest_at": "2026-07-17T07:35:34.452245Z",
+      "primary_item": {
+        "id": "dd841454e8f1dd5bdbd4deb83527391e045e84ce",
+        "title": "1Password携手Claude推出集成功能 AI能替你登网站了，但密码始终藏在它看不见的地方",
+        "title_zh": "1Password携手Claude推出集成功能 AI能替你登网站了，但密码始终藏在它看不见的地方",
+        "title_en": null,
+        "title_original": "1Password携手Claude推出集成功能 AI能替你登网站了，但密码始终藏在它看不见的地方",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29668",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
@@ -1130,15 +1352,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7763,
-      "importance": 0.7763,
-      "importance_score": 0.7763,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9095,
+        "recency": 0.8063,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1165,7 +1387,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
+      }
+    },
+    {
+      "story_id": "story_6ed165bacfd5",
+      "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+      "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+      "primary_url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+      "source": "公众号：通义实验室（千问）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c01f6f8afae4dee902984233154ff627c06daced",
+          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "title_zh": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "title_en": null,
+          "title_original": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "summary": "通义实验室发布 Wan-Streamer v0.2，这是一款将\"听、看、说、演\"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T07:14:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：通义实验室（千问）"
+      ],
+      "items": [
+        {
+          "id": "c01f6f8afae4dee902984233154ff627c06daced",
+          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "title_zh": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "title_en": null,
+          "title_original": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "summary": "通义实验室发布 Wan-Streamer v0.2，这是一款将\"听、看、说、演\"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T07:14:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9948,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T07:14:00Z",
+      "latest_at": "2026-07-17T07:14:00Z",
+      "primary_item": {
+        "id": "c01f6f8afae4dee902984233154ff627c06daced",
+        "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+        "title_zh": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+        "title_en": null,
+        "title_original": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+        "summary": "通义实验室发布 Wan-Streamer v0.2，这是一款将\"听、看、说、演\"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+        "source": "公众号：通义实验室（千问）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
@@ -1213,15 +1517,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9286,
+        "recency": 0.8231,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1248,90 +1552,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
-      }
-    },
-    {
-      "story_id": "story_1d0a52bac8ca",
-      "title": "Cars24 如何利用 OpenAI 扩展对话并加快构建速度 / How Cars24 scales conversations and builds faster with OpenAI",
-      "url": "https://openai.com/index/cars24",
-      "primary_url": "https://openai.com/index/cars24",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "48799bf8785bffe1caa48542043220ab69aaac18",
-          "title": "Cars24 如何利用 OpenAI 扩展对话并加快构建速度 / How Cars24 scales conversations and builds faster with OpenAI",
-          "title_zh": "Cars24 如何利用 OpenAI 扩展对话并加快构建速度",
-          "title_en": "How Cars24 scales conversations and builds faster with OpenAI",
-          "title_original": "How Cars24 scales conversations and builds faster with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/cars24",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "48799bf8785bffe1caa48542043220ab69aaac18",
-          "title": "Cars24 如何利用 OpenAI 扩展对话并加快构建速度 / How Cars24 scales conversations and builds faster with OpenAI",
-          "title_zh": "Cars24 如何利用 OpenAI 扩展对话并加快构建速度",
-          "title_en": "How Cars24 scales conversations and builds faster with OpenAI",
-          "title_original": "How Cars24 scales conversations and builds faster with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/cars24",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7149,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T00:00:00Z",
-      "latest_at": "2026-07-16T00:00:00Z",
-      "primary_item": {
-        "id": "48799bf8785bffe1caa48542043220ab69aaac18",
-        "title": "Cars24 如何利用 OpenAI 扩展对话并加快构建速度 / How Cars24 scales conversations and builds faster with OpenAI",
-        "title_zh": "Cars24 如何利用 OpenAI 扩展对话并加快构建速度",
-        "title_en": "How Cars24 scales conversations and builds faster with OpenAI",
-        "title_original": "How Cars24 scales conversations and builds faster with OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/cars24",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
@@ -1379,21 +1600,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8515,
+        "recency": 0.7548,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T12:06:51Z",
       "latest_at": "2026-07-16T12:06:51Z",
@@ -1413,7 +1633,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
@@ -1490,22 +1710,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7991,
+        "recency": 0.7083,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T07:42:49Z",
       "latest_at": "2026-07-16T07:42:49Z",
@@ -1525,63 +1744,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     },
     {
-      "story_id": "story_2e5a4333049e",
-      "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-      "url": "https://www.ithome.com/0/977/793.htm",
-      "primary_url": "https://www.ithome.com/0/977/793.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_d9e286c896c3",
+      "title": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
+      "url": "https://www.aibase.com/news/29673",
+      "primary_url": "https://www.aibase.com/news/29673",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
-          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "title_zh": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "id": "2eedff0dcf7d900f80dd8ccfeb606352fef39a6e",
+          "title": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
+          "title_zh": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
           "title_en": null,
-          "title_original": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "summary": "7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。",
+          "title_original": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/977/793.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T14:38:08Z"
+          "url": "https://www.aibase.com/news/29673",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T07:35:34.452245Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
-          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "title_zh": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "id": "2eedff0dcf7d900f80dd8ccfeb606352fef39a6e",
+          "title": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
+          "title_zh": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
           "title_en": null,
-          "title_original": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "summary": "7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。",
+          "title_original": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/977/793.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T14:38:08Z"
+          "url": "https://www.aibase.com/news/29673",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T07:35:34.452245Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8831,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1589,189 +1808,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T14:38:08Z",
-      "latest_at": "2026-07-16T14:38:08Z",
+      "earliest_at": "2026-07-17T07:35:34.452245Z",
+      "latest_at": "2026-07-17T07:35:34.452245Z",
       "primary_item": {
-        "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
-        "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-        "title_zh": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+        "id": "2eedff0dcf7d900f80dd8ccfeb606352fef39a6e",
+        "title": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
+        "title_zh": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
         "title_en": null,
-        "title_original": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-        "summary": "7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。",
+        "title_original": "5个月增长15倍，智谱AI凭Coding路线冲击10亿美元ARR",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/977/793.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/29673",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
-      }
-    },
-    {
-      "story_id": "story_50f4f0dc42dc",
-      "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
-      "url": "https://mp.weixin.qq.com/s/RWveWvw9yBH6YQINBQ-XjA",
-      "primary_url": "https://mp.weixin.qq.com/s/RWveWvw9yBH6YQINBQ-XjA",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a4319becdaa5337bff676141c712a606da35b1e7",
-          "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
-          "title_zh": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
-          "title_en": null,
-          "title_original": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
-          "summary": "HYPIC 在混合注意力大模型上实现了位置无关缓存，将首 token 延迟平均降低 3.25 倍。在 4 个生产级模型上，同 SLO 下可持续 QPS 提升 1.66 倍，任务质量与完全重算仅相差 1.71 分。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/RWveWvw9yBH6YQINBQ-XjA",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "a4319becdaa5337bff676141c712a606da35b1e7",
-          "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
-          "title_zh": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
-          "title_en": null,
-          "title_original": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
-          "summary": "HYPIC 在混合注意力大模型上实现了位置无关缓存，将首 token 延迟平均降低 3.25 倍。在 4 个生产级模型上，同 SLO 下可持续 QPS 提升 1.66 倍，任务质量与完全重算仅相差 1.71 分。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/RWveWvw9yBH6YQINBQ-XjA",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8259,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T10:00:00Z",
-      "latest_at": "2026-07-16T10:00:00Z",
-      "primary_item": {
-        "id": "a4319becdaa5337bff676141c712a606da35b1e7",
-        "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
-        "title_zh": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
-        "title_en": null,
-        "title_original": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
-        "summary": "HYPIC 在混合注意力大模型上实现了位置无关缓存，将首 token 延迟平均降低 3.25 倍。在 4 个生产级模型上，同 SLO 下可持续 QPS 提升 1.66 倍，任务质量与完全重算仅相差 1.71 分。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s/RWveWvw9yBH6YQINBQ-XjA",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
-      }
-    },
-    {
-      "story_id": "story_4727d09c2e30",
-      "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准 / PerceptionBench",
-      "url": "https://www.kimi.com/blog/perception-bench",
-      "primary_url": "https://www.kimi.com/blog/perception-bench",
-      "source": "Moonshot AI：Kimi Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
-          "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准 / PerceptionBench",
-          "title_zh": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
-          "title_en": "PerceptionBench",
-          "title_original": "PerceptionBench",
-          "summary": "Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。",
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.com/blog/perception-bench",
-          "source": "Moonshot AI：Kimi Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T19:11:01.192000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Moonshot AI：Kimi Blog"
-      ],
-      "items": [
-        {
-          "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
-          "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准 / PerceptionBench",
-          "title_zh": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
-          "title_en": "PerceptionBench",
-          "title_original": "PerceptionBench",
-          "summary": "Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。",
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.com/blog/perception-bench",
-          "source": "Moonshot AI：Kimi Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T19:11:01.192000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.943,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T19:11:01.192000Z",
-      "latest_at": "2026-07-16T19:11:01.192000Z",
-      "primary_item": {
-        "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
-        "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准 / PerceptionBench",
-        "title_zh": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
-        "title_en": "PerceptionBench",
-        "title_original": "PerceptionBench",
-        "summary": "Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。",
-        "recommend_reason_zh": null,
-        "url": "https://www.kimi.com/blog/perception-bench",
-        "source": "Moonshot AI：Kimi Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-16T23:16:00.586018Z"
+        "scored_at": "2026-07-17T07:36:46.991117Z"
       }
     }
   ]
