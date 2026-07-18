@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T15:32:42.701540Z",
+  "generated_at": "2026-07-18T19:55:26.828514Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_56c5b0ab76c7",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7989,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,173 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
-      }
-    },
-    {
-      "story_id": "story_5142a2d0cb41",
-      "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-          "title_zh": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论",
-          "title_en": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-          "title_original": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T19:47:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-          "title_zh": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论",
-          "title_en": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-          "title_original": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T19:47:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7519,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T19:47:45Z",
-      "latest_at": "2026-07-17T19:47:45Z",
-      "primary_item": {
-        "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-        "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-        "title_zh": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论",
-        "title_en": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-        "title_original": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
-      }
-    },
-    {
-      "story_id": "story_3c32cc962842",
-      "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "primary_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
-          "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "title_zh": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型",
-          "title_en": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "title_original": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T15:57:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
-          "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "title_zh": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型",
-          "title_en": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "title_original": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T15:57:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7114,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T15:57:54Z",
-      "latest_at": "2026-07-17T15:57:54Z",
-      "primary_item": {
-        "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
-        "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-        "title_zh": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型",
-        "title_en": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-        "title_original": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
+        "scored_at": "2026-07-18T19:56:24.118668Z"
       }
     },
     {
@@ -297,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7772,
+        "recency": 0.7295,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,119 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
-      }
-    },
-    {
-      "story_id": "story_90e9f1d2b782",
-      "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple's plot to crush OpenAI",
-      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "primary_url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "821a7dee5b0d96c5be8f197943ec8615a5c65c76",
-          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple's plot to crush OpenAI",
-          "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
-          "title_en": "Apple's plot to crush OpenAI",
-          "title_original": "Apple's plot to crush OpenAI",
-          "summary": "Apple 对 OpenAI 提起诉讼，指控其存在多项不当行为，尽管许多专家认为部分指控属于行业惯例。此举正值 Apple 发布新版软件公测版（以新 Siri AI 为核心）之际，外界猜测 Apple 究竟是担忧 OpenAI 成为潜在竞争对手，还是想利用 OpenAI 的弱势期获利。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T17:41:32Z"
-        },
-        {
-          "id": "29df03a4226bc5016b882921fce99b406e25110a",
-          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple’s plot to crush OpenAI",
-          "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
-          "title_en": "Apple’s plot to crush OpenAI",
-          "title_original": "Apple’s plot to crush OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-17T17:41:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "821a7dee5b0d96c5be8f197943ec8615a5c65c76",
-          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple's plot to crush OpenAI",
-          "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
-          "title_en": "Apple's plot to crush OpenAI",
-          "title_original": "Apple's plot to crush OpenAI",
-          "summary": "Apple 对 OpenAI 提起诉讼，指控其存在多项不当行为，尽管许多专家认为部分指控属于行业惯例。此举正值 Apple 发布新版软件公测版（以新 Siri AI 为核心）之际，外界猜测 Apple 究竟是担忧 OpenAI 成为潜在竞争对手，还是想利用 OpenAI 的弱势期获利。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T17:41:32Z"
-        },
-        {
-          "id": "29df03a4226bc5016b882921fce99b406e25110a",
-          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple’s plot to crush OpenAI",
-          "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
-          "title_en": "Apple’s plot to crush OpenAI",
-          "title_original": "Apple’s plot to crush OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-17T17:41:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7294,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T17:41:32Z",
-      "latest_at": "2026-07-17T17:41:32Z",
-      "primary_item": {
-        "id": "821a7dee5b0d96c5be8f197943ec8615a5c65c76",
-        "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple's plot to crush OpenAI",
-        "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
-        "title_en": "Apple's plot to crush OpenAI",
-        "title_original": "Apple's plot to crush OpenAI",
-        "summary": "Apple 对 OpenAI 提起诉讼，指控其存在多项不当行为，尽管许多专家认为部分指控属于行业惯例。此举正值 Apple 发布新版软件公测版（以新 Siri AI 为核心）之际，外界猜测 Apple 究竟是担忧 OpenAI 成为潜在竞争对手，还是想利用 OpenAI 的弱势期获利。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
+        "scored_at": "2026-07-18T19:56:24.118668Z"
       }
     },
     {
@@ -492,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7772,
+        "recency": 0.7296,
         "story_heat": 0.0
       },
       "category": "official",
@@ -527,331 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
-      }
-    },
-    {
-      "story_id": "story_98056171f5d0",
-      "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-      "url": "https://x.com/dotey/status/2078172517085085951",
-      "primary_url": "https://x.com/dotey/status/2078172517085085951",
-      "source": "X：宝玉 (@dotey)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b9a7fee9978bddd3409b35656836bb8a5bcab19c",
-          "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-          "title_zh": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-          "title_en": null,
-          "title_original": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-          "summary": "月之暗面CEO杨植麟在GTC 2026演讲中提出用MuonClip优化器替代Adam，可将数据利用效率提升近一倍。同时推出Kimi Linear线性注意力，在百万Token上下文下全面超越全注意力；Agent Swarm已支持300个Agent并行工作。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/dotey/status/2078172517085085951",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T17:38:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：宝玉 (@dotey)"
-      ],
-      "items": [
-        {
-          "id": "b9a7fee9978bddd3409b35656836bb8a5bcab19c",
-          "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-          "title_zh": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-          "title_en": null,
-          "title_original": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-          "summary": "月之暗面CEO杨植麟在GTC 2026演讲中提出用MuonClip优化器替代Adam，可将数据利用效率提升近一倍。同时推出Kimi Linear线性注意力，在百万Token上下文下全面超越全注意力；Agent Swarm已支持300个Agent并行工作。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/dotey/status/2078172517085085951",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T17:38:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7289,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T17:38:33Z",
-      "latest_at": "2026-07-17T17:38:33Z",
-      "primary_item": {
-        "id": "b9a7fee9978bddd3409b35656836bb8a5bcab19c",
-        "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-        "title_zh": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-        "title_en": null,
-        "title_original": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
-        "summary": "月之暗面CEO杨植麟在GTC 2026演讲中提出用MuonClip优化器替代Adam，可将数据利用效率提升近一倍。同时推出Kimi Linear线性注意力，在百万Token上下文下全面超越全注意力；Agent Swarm已支持300个Agent并行工作。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/dotey/status/2078172517085085951",
-        "source": "X：宝玉 (@dotey)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
-      }
-    },
-    {
-      "story_id": "story_c449eac7cc43",
-      "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\" / Neil Rimer thinks the AI money is coming back out",
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
-      "primary_url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f3de47687089129541af59069ffb80331ab438a3",
-          "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\" / Neil Rimer thinks the AI money is coming back out",
-          "title_zh": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
-          "title_en": "Neil Rimer thinks the AI money is coming back out",
-          "title_original": "Neil Rimer thinks the AI money is coming back out",
-          "summary": "Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临\"某种形式的再分配\"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-18T04:47:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f3de47687089129541af59069ffb80331ab438a3",
-          "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\" / Neil Rimer thinks the AI money is coming back out",
-          "title_zh": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
-          "title_en": "Neil Rimer thinks the AI money is coming back out",
-          "title_original": "Neil Rimer thinks the AI money is coming back out",
-          "summary": "Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临\"某种形式的再分配\"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-18T04:47:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8562,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-18T04:47:25Z",
-      "latest_at": "2026-07-18T04:47:25Z",
-      "primary_item": {
-        "id": "f3de47687089129541af59069ffb80331ab438a3",
-        "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\" / Neil Rimer thinks the AI money is coming back out",
-        "title_zh": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
-        "title_en": "Neil Rimer thinks the AI money is coming back out",
-        "title_original": "Neil Rimer thinks the AI money is coming back out",
-        "summary": "Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临\"某种形式的再分配\"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
-      }
-    },
-    {
-      "story_id": "story_73d08ef26c2b",
-      "title": "Sora 2 视频克隆效果惊人，真假难辨 / nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
-      "url": "https://x.com/gabriel1/status/2078156277247881438",
-      "primary_url": "https://x.com/gabriel1/status/2078156277247881438",
-      "source": "X：Gabriel (@gabriel1)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a3e474b460c8d7ea397e8fa60487f31c5f5bc268",
-          "title": "Sora 2 视频克隆效果惊人，真假难辨 / nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
-          "title_zh": "Sora 2 视频克隆效果惊人，真假难辨",
-          "title_en": "nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
-          "title_original": "nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
-          "summary": "一年后，没有任何东西能接近 Sora 的完美视频深度克隆。它捕捉到了我和 Sam 的每一块面部肌肉运动以及我们走路的方式。\n\n如果你从这段关于我或 Sam 的视频中截取一帧，根本无法判断它是真是假。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gabriel1/status/2078156277247881438",
-          "source": "X：Gabriel (@gabriel1)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T16:34:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Gabriel (@gabriel1)"
-      ],
-      "items": [
-        {
-          "id": "a3e474b460c8d7ea397e8fa60487f31c5f5bc268",
-          "title": "Sora 2 视频克隆效果惊人，真假难辨 / nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
-          "title_zh": "Sora 2 视频克隆效果惊人，真假难辨",
-          "title_en": "nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
-          "title_original": "nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
-          "summary": "一年后，没有任何东西能接近 Sora 的完美视频深度克隆。它捕捉到了我和 Sam 的每一块面部肌肉运动以及我们走路的方式。\n\n如果你从这段关于我或 Sam 的视频中截取一帧，根本无法判断它是真是假。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gabriel1/status/2078156277247881438",
-          "source": "X：Gabriel (@gabriel1)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T16:34:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7176,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T16:34:01Z",
-      "latest_at": "2026-07-17T16:34:01Z",
-      "primary_item": {
-        "id": "a3e474b460c8d7ea397e8fa60487f31c5f5bc268",
-        "title": "Sora 2 视频克隆效果惊人，真假难辨 / nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
-        "title_zh": "Sora 2 视频克隆效果惊人，真假难辨",
-        "title_en": "nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
-        "title_original": "nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
-        "summary": "一年后，没有任何东西能接近 Sora 的完美视频深度克隆。它捕捉到了我和 Sam 的每一块面部肌肉运动以及我们走路的方式。\n\n如果你从这段关于我或 Sam 的视频中截取一帧，根本无法判断它是真是假。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/gabriel1/status/2078156277247881438",
-        "source": "X：Gabriel (@gabriel1)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
-      }
-    },
-    {
-      "story_id": "story_3f67571c4418",
-      "title": "八天四款前沿模型发布，Kimi K3 跻身第三 / The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
-      "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2f69db9fc8c217acc9e2ea01bb0208ab26cb651c",
-          "title": "八天四款前沿模型发布，Kimi K3 跻身第三 / The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
-          "title_zh": "八天四款前沿模型发布，Kimi K3 跻身第三",
-          "title_en": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
-          "title_original": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
-          "summary": "过去八天内，Grok 4.5、GPT-5.6、Muse Spark 1.1 与 Kimi K3 四款前沿模型相继发布，使 Artificial Analysis Intelligence Index 得分超 50 的实验室从 6 月初的 2 家增至 6 家。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T17:11:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "2f69db9fc8c217acc9e2ea01bb0208ab26cb651c",
-          "title": "八天四款前沿模型发布，Kimi K3 跻身第三 / The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
-          "title_zh": "八天四款前沿模型发布，Kimi K3 跻身第三",
-          "title_en": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
-          "title_original": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
-          "summary": "过去八天内，Grok 4.5、GPT-5.6、Muse Spark 1.1 与 Kimi K3 四款前沿模型相继发布，使 Artificial Analysis Intelligence Index 得分超 50 的实验室从 6 月初的 2 家增至 6 家。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T17:11:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7241,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T17:11:19Z",
-      "latest_at": "2026-07-17T17:11:19Z",
-      "primary_item": {
-        "id": "2f69db9fc8c217acc9e2ea01bb0208ab26cb651c",
-        "title": "八天四款前沿模型发布，Kimi K3 跻身第三 / The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
-        "title_zh": "八天四款前沿模型发布，Kimi K3 跻身第三",
-        "title_en": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
-        "title_original": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
-        "summary": "过去八天内，Grok 4.5、GPT-5.6、Muse Spark 1.1 与 Kimi K3 四款前沿模型相继发布，使 Artificial Analysis Intelligence Index 得分超 50 的实验室从 6 月初的 2 家增至 6 家。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
+        "scored_at": "2026-07-18T19:56:24.118668Z"
       }
     },
     {
@@ -899,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7666,
+        "recency": 0.7196,
         "story_heat": 0.0
       },
       "category": "official",
@@ -934,138 +332,219 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
+        "scored_at": "2026-07-18T19:56:24.118668Z"
       }
     },
     {
-      "story_id": "story_1a64b2e84394",
-      "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-      "url": "https://news.ycombinator.com/item?id=48956949",
-      "primary_url": "https://news.ycombinator.com/item?id=48956949",
+      "story_id": "story_c449eac7cc43",
+      "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\" / Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
+      "primary_url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f3de47687089129541af59069ffb80331ab438a3",
+          "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\" / Neil Rimer thinks the AI money is coming back out",
+          "title_zh": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
+          "title_en": "Neil Rimer thinks the AI money is coming back out",
+          "title_original": "Neil Rimer thinks the AI money is coming back out",
+          "summary": "Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临\"某种形式的再分配\"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-18T04:47:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f3de47687089129541af59069ffb80331ab438a3",
+          "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\" / Neil Rimer thinks the AI money is coming back out",
+          "title_zh": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
+          "title_en": "Neil Rimer thinks the AI money is coming back out",
+          "title_original": "Neil Rimer thinks the AI money is coming back out",
+          "summary": "Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临\"某种形式的再分配\"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-18T04:47:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8037,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-18T04:47:25Z",
+      "latest_at": "2026-07-18T04:47:25Z",
+      "primary_item": {
+        "id": "f3de47687089129541af59069ffb80331ab438a3",
+        "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\" / Neil Rimer thinks the AI money is coming back out",
+        "title_zh": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
+        "title_en": "Neil Rimer thinks the AI money is coming back out",
+        "title_original": "Neil Rimer thinks the AI money is coming back out",
+        "summary": "Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临\"某种形式的再分配\"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-18T19:56:24.118668Z"
+      }
+    },
+    {
+      "story_id": "story_dad2bbf2a5ce",
+      "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://news.ycombinator.com/item?id=48959392",
+      "primary_url": "https://news.ycombinator.com/item?id=48959392",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-          "title_zh": "AI 在图表中对 stackoverflow 做了什么",
-          "title_en": "What AI did to stackoverflow in a graph",
-          "title_original": "What AI did to stackoverflow in a graph",
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_zh": "设置您的备用 Mac 以供 Claude Code 控制，分步指南",
+          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48956949",
+          "url": "https://news.ycombinator.com/item?id=48959392",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T15:21:03.125000Z"
+          "published_at": "2026-07-18T19:55:48.411000Z"
         },
         {
-          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
-          "title": "图表展示：AI对Stack Overflow的影响",
-          "title_zh": "图表展示：AI对Stack Overflow的影响",
+          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
           "title_en": null,
-          "title_original": "图表展示：AI对Stack Overflow的影响",
+          "title_original": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "data.stackexchange.com",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "ykdojo.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T13:29:15.879000Z"
+          "published_at": "2026-07-18T19:37:23.960000Z"
         },
         {
-          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
-          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
-          "title_zh": "图表展示：AI对Stack Overflow的影响",
-          "title_en": "What AI did to stackoverflow in a graph",
-          "title_original": "What AI did to stackoverflow in a graph",
+          "id": "148a627148b89ee69ea4f3f7f302cf6fc1d575ff",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T11:12:46Z"
+          "published_at": "2026-07-18T16:12:08Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News",
-        "data.stackexchange.com",
-        "hackernews"
+        "hackernews",
+        "ykdojo.github.io"
       ],
       "items": [
         {
-          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-          "title_zh": "AI 在图表中对 stackoverflow 做了什么",
-          "title_en": "What AI did to stackoverflow in a graph",
-          "title_original": "What AI did to stackoverflow in a graph",
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_zh": "设置您的备用 Mac 以供 Claude Code 控制，分步指南",
+          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48956949",
+          "url": "https://news.ycombinator.com/item?id=48959392",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T15:21:03.125000Z"
+          "published_at": "2026-07-18T19:55:48.411000Z"
         },
         {
-          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
-          "title": "图表展示：AI对Stack Overflow的影响",
-          "title_zh": "图表展示：AI对Stack Overflow的影响",
+          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
           "title_en": null,
-          "title_original": "图表展示：AI对Stack Overflow的影响",
+          "title_original": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "data.stackexchange.com",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "ykdojo.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T13:29:15.879000Z"
+          "published_at": "2026-07-18T19:37:23.960000Z"
         },
         {
-          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
-          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
-          "title_zh": "图表展示：AI对Stack Overflow的影响",
-          "title_en": "What AI did to stackoverflow in a graph",
-          "title_original": "What AI did to stackoverflow in a graph",
+          "id": "148a627148b89ee69ea4f3f7f302cf6fc1d575ff",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T11:12:46Z"
+          "published_at": "2026-07-18T16:12:08Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5703,
-      "importance": 0.5703,
-      "importance_score": 0.5703,
+      "score": 0.5708,
+      "importance": 0.5708,
+      "importance_score": 0.5708,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9972,
+        "recency": 1.0,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T11:12:46Z",
-      "latest_at": "2026-07-18T15:21:03.125000Z",
+      "earliest_at": "2026-07-18T16:12:08Z",
+      "latest_at": "2026-07-18T19:55:48.411000Z",
       "primary_item": {
-        "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-        "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-        "title_zh": "AI 在图表中对 stackoverflow 做了什么",
-        "title_en": "What AI did to stackoverflow in a graph",
-        "title_original": "What AI did to stackoverflow in a graph",
+        "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+        "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+        "title_zh": "设置您的备用 Mac 以供 Claude Code 控制，分步指南",
+        "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+        "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=48956949",
+        "url": "https://news.ycombinator.com/item?id=48959392",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1073,7 +552,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
+        "scored_at": "2026-07-18T19:56:24.118668Z"
       }
     },
     {
@@ -1179,15 +658,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5622,
-      "importance": 0.5622,
-      "importance_score": 0.5622,
+      "score": 0.5517,
+      "importance": 0.5517,
+      "importance_score": 0.5517,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9524,
+        "recency": 0.894,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1212,138 +691,138 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
+        "scored_at": "2026-07-18T19:56:24.118668Z"
       }
     },
     {
-      "story_id": "story_6e3ae8d4de00",
-      "title": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://news.ycombinator.com/item?id=48956879",
-      "primary_url": "https://news.ycombinator.com/item?id=48956879",
+      "story_id": "story_1a64b2e84394",
+      "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+      "url": "https://news.ycombinator.com/item?id=48956949",
+      "primary_url": "https://news.ycombinator.com/item?id=48956949",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-          "title": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_zh": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？",
-          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "title_zh": "AI 在图表中对 stackoverflow 做了什么",
+          "title_en": "What AI did to stackoverflow in a graph",
+          "title_original": "What AI did to stackoverflow in a graph",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48956879",
+          "url": "https://news.ycombinator.com/item?id=48956949",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-18T15:21:03.125000Z"
         },
         {
-          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "title_zh": "图表展示：AI对Stack Overflow的影响",
           "title_en": null,
-          "title_original": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_original": "图表展示：AI对Stack Overflow的影响",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "charlesazam.com",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T15:05:23.818000Z"
+          "published_at": "2026-07-18T13:29:15.879000Z"
         },
         {
-          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "title_zh": "图表展示：AI对Stack Overflow的影响",
+          "title_en": "What AI did to stackoverflow in a graph",
+          "title_original": "What AI did to stackoverflow in a graph",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T11:00:29Z"
+          "published_at": "2026-07-18T11:12:46Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News",
-        "charlesazam.com",
+        "data.stackexchange.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-          "title": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_zh": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？",
-          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "title_zh": "AI 在图表中对 stackoverflow 做了什么",
+          "title_en": "What AI did to stackoverflow in a graph",
+          "title_original": "What AI did to stackoverflow in a graph",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48956879",
+          "url": "https://news.ycombinator.com/item?id=48956949",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-18T15:21:03.125000Z"
         },
         {
-          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "title_zh": "图表展示：AI对Stack Overflow的影响",
           "title_en": null,
-          "title_original": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_original": "图表展示：AI对Stack Overflow的影响",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "charlesazam.com",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T15:05:23.818000Z"
+          "published_at": "2026-07-18T13:29:15.879000Z"
         },
         {
-          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "title_zh": "图表展示：AI对Stack Overflow的影响",
+          "title_en": "What AI did to stackoverflow in a graph",
+          "title_original": "What AI did to stackoverflow in a graph",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T11:00:29Z"
+          "published_at": "2026-07-18T11:12:46Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5703,
-      "importance": 0.5703,
-      "importance_score": 0.5703,
+      "score": 0.5593,
+      "importance": 0.5593,
+      "importance_score": 0.5593,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9972,
+        "recency": 0.9361,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T11:00:29Z",
+      "earliest_at": "2026-07-18T11:12:46Z",
       "latest_at": "2026-07-18T15:21:03.125000Z",
       "primary_item": {
-        "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-        "title": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-        "title_zh": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？",
-        "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-        "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+        "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+        "title_zh": "AI 在图表中对 stackoverflow 做了什么",
+        "title_en": "What AI did to stackoverflow in a graph",
+        "title_original": "What AI did to stackoverflow in a graph",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=48956879",
+        "url": "https://news.ycombinator.com/item?id=48956949",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1351,7 +830,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
+        "scored_at": "2026-07-18T19:56:24.118668Z"
       }
     },
     {
@@ -1457,15 +936,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
+      "score": 0.5251,
+      "importance": 0.5251,
+      "importance_score": 0.5251,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7947,
+        "recency": 0.746,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1490,7 +969,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
+        "scored_at": "2026-07-18T19:56:24.118668Z"
+      }
+    },
+    {
+      "story_id": "story_6e3ae8d4de00",
+      "title": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://news.ycombinator.com/item?id=48956879",
+      "primary_url": "https://news.ycombinator.com/item?id=48956879",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T15:21:03.125000Z"
+        },
+        {
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_en": null,
+          "title_original": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T15:05:23.818000Z"
+        },
+        {
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:00:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "charlesazam.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T15:21:03.125000Z"
+        },
+        {
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_en": null,
+          "title_original": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T15:05:23.818000Z"
+        },
+        {
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:00:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5593,
+      "importance": 0.5593,
+      "importance_score": 0.5593,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9361,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:00:29Z",
+      "latest_at": "2026-07-18T15:21:03.125000Z",
+      "primary_item": {
+        "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+        "title": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "title_zh": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？",
+        "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=48956879",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-18T19:56:24.118668Z"
       }
     },
     {
@@ -1596,15 +1214,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5703,
-      "importance": 0.5703,
-      "importance_score": 0.5703,
+      "score": 0.5593,
+      "importance": 0.5593,
+      "importance_score": 0.5593,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9972,
+        "recency": 0.9361,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1629,117 +1247,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
+        "scored_at": "2026-07-18T19:56:24.118668Z"
       }
     },
     {
-      "story_id": "story_8037081f1773",
-      "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-      "primary_url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_e2c93b777179",
+      "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+      "url": "https://news.ycombinator.com/item?id=48961157",
+      "primary_url": "https://news.ycombinator.com/item?id=48961157",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "49976faca8943d55cd7337aa020050c79f59b960",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "title_zh": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力",
-          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+          "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
+          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "title_zh": "最近代理每周随机配额重置是怎么回事？",
+          "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
+          "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T16:33:48Z"
+          "url": "https://news.ycombinator.com/item?id=48961157",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T19:55:48.411000Z"
         },
         {
-          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "title_zh": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力",
-          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "id": "884bed0f263ec562e5d998deb08fd4883aee24bf",
+          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "title_zh": "最近代理每周随机配额重置是怎么回事？",
+          "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
+          "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:17:06Z"
+          "url": "https://minimaxir.com/2026/07/agent-quota-reset",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T19:06:23Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "New York Times"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "49976faca8943d55cd7337aa020050c79f59b960",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "title_zh": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力",
-          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+          "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
+          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "title_zh": "最近代理每周随机配额重置是怎么回事？",
+          "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
+          "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T16:33:48Z"
+          "url": "https://news.ycombinator.com/item?id=48961157",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T19:55:48.411000Z"
         },
         {
-          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "title_zh": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力",
-          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "id": "884bed0f263ec562e5d998deb08fd4883aee24bf",
+          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+          "title_zh": "最近代理每周随机配额重置是怎么回事？",
+          "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
+          "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:17:06Z"
+          "url": "https://minimaxir.com/2026/07/agent-quota-reset",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T19:06:23Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.495,
-      "importance": 0.495,
-      "importance_score": 0.495,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7176,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T16:17:06Z",
-      "latest_at": "2026-07-17T16:33:48Z",
+      "earliest_at": "2026-07-18T19:06:23Z",
+      "latest_at": "2026-07-18T19:55:48.411000Z",
       "primary_item": {
-        "id": "49976faca8943d55cd7337aa020050c79f59b960",
-        "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-        "title_zh": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力",
-        "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-        "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+        "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
+        "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
+        "title_zh": "最近代理每周随机配额重置是怎么回事？",
+        "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
+        "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "url": "https://news.ycombinator.com/item?id=48961157",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 0,
+      "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:33:48.492574Z"
+        "scored_at": "2026-07-18T19:56:24.118668Z"
       }
     }
   ]
