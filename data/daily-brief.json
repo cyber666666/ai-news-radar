@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-07-18T11:32:36.753560Z",
+  "generated_at": "2026-07-18T15:32:42.701540Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 17,
   "items": [
+    {
+      "story_id": "story_56c5b0ab76c7",
+      "title": "Codex CLI 0.144.6",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+          "title": "Codex CLI 0.144.6",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.144.6",
+          "title_original": "Codex CLI 0.144.6",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-18T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+          "title": "Codex CLI 0.144.6",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.144.6",
+          "title_original": "Codex CLI 0.144.6",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-18T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7989,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-18T00:00:00Z",
+      "latest_at": "2026-07-18T00:00:00Z",
+      "primary_item": {
+        "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+        "title": "Codex CLI 0.144.6",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.144.6",
+        "title_original": "Codex CLI 0.144.6",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-18T15:33:48.492574Z"
+      }
+    },
     {
       "story_id": "story_5142a2d0cb41",
       "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7966,
+        "recency": 0.7519,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
+        "scored_at": "2026-07-18T15:33:48.492574Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7537,
+        "recency": 0.7114,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
+        "scored_at": "2026-07-18T15:33:48.492574Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8234,
+        "recency": 0.7772,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
+        "scored_at": "2026-07-18T15:33:48.492574Z"
       }
     },
     {
@@ -326,15 +409,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7728,
+        "recency": 0.7294,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -361,7 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
+        "scored_at": "2026-07-18T15:33:48.492574Z"
       }
     },
     {
@@ -409,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8234,
+        "recency": 0.7772,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,7 +527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
+        "scored_at": "2026-07-18T15:33:48.492574Z"
       }
     },
     {
@@ -492,21 +575,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7722,
+        "recency": 0.7289,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T17:38:33Z",
       "latest_at": "2026-07-17T17:38:33Z",
@@ -526,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
+        "scored_at": "2026-07-18T15:33:48.492574Z"
       }
     },
     {
@@ -574,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9071,
+        "recency": 0.8562,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,7 +689,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
+        "scored_at": "2026-07-18T15:33:48.492574Z"
       }
     },
     {
@@ -655,15 +737,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7603,
+        "recency": 0.7176,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -688,7 +770,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
+        "scored_at": "2026-07-18T15:33:48.492574Z"
       }
     },
     {
@@ -736,15 +818,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.7299,
+      "importance": 0.7299,
+      "importance_score": 0.7299,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7672,
+        "recency": 0.7241,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -769,88 +851,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
-      }
-    },
-    {
-      "story_id": "story_9a831943d0df",
-      "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准 / BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-      "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-      "primary_url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-      "source": "X：美团 LongCat (@Meituan_LongCat)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
-          "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准 / BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-          "title_zh": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
-          "title_en": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-          "title_original": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-          "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-          "source": "X：美团 LongCat (@Meituan_LongCat)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T14:08:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：美团 LongCat (@Meituan_LongCat)"
-      ],
-      "items": [
-        {
-          "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
-          "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准 / BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-          "title_zh": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
-          "title_en": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-          "title_original": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-          "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-          "source": "X：美团 LongCat (@Meituan_LongCat)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T14:08:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7341,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T14:08:29Z",
-      "latest_at": "2026-07-17T14:08:29Z",
-      "primary_item": {
-        "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
-        "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准 / BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-        "title_zh": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
-        "title_en": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-        "title_original": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-        "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-        "source": "X：美团 LongCat (@Meituan_LongCat)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
+        "scored_at": "2026-07-18T15:33:48.492574Z"
       }
     },
     {
@@ -898,15 +899,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8122,
+        "recency": 0.7666,
         "story_heat": 0.0
       },
       "category": "official",
@@ -933,195 +934,138 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
+        "scored_at": "2026-07-18T15:33:48.492574Z"
       }
     },
     {
-      "story_id": "story_c06be1aad3a1",
-      "title": "开源人工智能的现状 / The state of open source AI",
-      "url": "https://news.ycombinator.com/item?id=48947825",
-      "primary_url": "https://news.ycombinator.com/item?id=48947825",
+      "story_id": "story_1a64b2e84394",
+      "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+      "url": "https://news.ycombinator.com/item?id=48956949",
+      "primary_url": "https://news.ycombinator.com/item?id=48956949",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
-          "title": "开源人工智能的现状 / The state of open source AI",
-          "title_zh": "开源人工智能的现状",
-          "title_en": "The state of open source AI",
-          "title_original": "The state of open source AI",
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "title_zh": "AI 在图表中对 stackoverflow 做了什么",
+          "title_en": "What AI did to stackoverflow in a graph",
+          "title_original": "What AI did to stackoverflow in a graph",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48947825",
+          "url": "https://news.ycombinator.com/item?id=48956949",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-17T22:35:01.749000Z"
+          "published_at": "2026-07-18T15:21:03.125000Z"
         },
         {
-          "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
-          "title": "Mozilla：开源人工智能的现状 / Mozilla: The state of open source AI",
-          "title_zh": "Mozilla：开源人工智能的现状",
-          "title_en": "Mozilla: The state of open source AI",
-          "title_original": "Mozilla: The state of open source AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48947825",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T19:28:59.911000Z"
-        },
-        {
-          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
-          "title": "Mozilla：开源人工智能的发展现状",
-          "title_zh": "Mozilla：开源人工智能的发展现状",
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "title_zh": "图表展示：AI对Stack Overflow的影响",
           "title_en": null,
-          "title_original": "Mozilla：开源人工智能的发展现状",
+          "title_original": "图表展示：AI对Stack Overflow的影响",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://stateofopensource.ai",
-          "source": "stateofopensource.ai",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-17T15:53:45.162000Z"
+          "published_at": "2026-07-18T13:29:15.879000Z"
         },
         {
-          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
-          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
-          "title_zh": "Mozilla：开源人工智能的发展现状",
-          "title_en": "Mozilla: The state of open source AI",
-          "title_original": "Mozilla: The state of open source AI",
+          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "title_zh": "图表展示：AI对Stack Overflow的影响",
+          "title_en": "What AI did to stackoverflow in a graph",
+          "title_original": "What AI did to stackoverflow in a graph",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://stateofopensource.ai",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-17T14:31:10Z"
-        },
-        {
-          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
-          "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
-          "title_zh": "Mozilla：开源人工智能的发展现状",
-          "title_en": "The state of open source AI",
-          "title_original": "The state of open source AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T14:31:10Z"
+          "published_at": "2026-07-18T11:12:46Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "stateofopensource.ai"
+        "data.stackexchange.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
-          "title": "开源人工智能的现状 / The state of open source AI",
-          "title_zh": "开源人工智能的现状",
-          "title_en": "The state of open source AI",
-          "title_original": "The state of open source AI",
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "title_zh": "AI 在图表中对 stackoverflow 做了什么",
+          "title_en": "What AI did to stackoverflow in a graph",
+          "title_original": "What AI did to stackoverflow in a graph",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48947825",
+          "url": "https://news.ycombinator.com/item?id=48956949",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-17T22:35:01.749000Z"
+          "published_at": "2026-07-18T15:21:03.125000Z"
         },
         {
-          "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
-          "title": "Mozilla：开源人工智能的现状 / Mozilla: The state of open source AI",
-          "title_zh": "Mozilla：开源人工智能的现状",
-          "title_en": "Mozilla: The state of open source AI",
-          "title_original": "Mozilla: The state of open source AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48947825",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T19:28:59.911000Z"
-        },
-        {
-          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
-          "title": "Mozilla：开源人工智能的发展现状",
-          "title_zh": "Mozilla：开源人工智能的发展现状",
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "title_zh": "图表展示：AI对Stack Overflow的影响",
           "title_en": null,
-          "title_original": "Mozilla：开源人工智能的发展现状",
+          "title_original": "图表展示：AI对Stack Overflow的影响",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://stateofopensource.ai",
-          "source": "stateofopensource.ai",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-17T15:53:45.162000Z"
+          "published_at": "2026-07-18T13:29:15.879000Z"
         },
         {
-          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
-          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
-          "title_zh": "Mozilla：开源人工智能的发展现状",
-          "title_en": "Mozilla: The state of open source AI",
-          "title_original": "Mozilla: The state of open source AI",
+          "id": "0af8bfa31dc1a6fb0f8a836a4d612cbd6109afbb",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "title_zh": "图表展示：AI对Stack Overflow的影响",
+          "title_en": "What AI did to stackoverflow in a graph",
+          "title_original": "What AI did to stackoverflow in a graph",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://stateofopensource.ai",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-17T14:31:10Z"
-        },
-        {
-          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
-          "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
-          "title_zh": "Mozilla：开源人工智能的发展现状",
-          "title_en": "The state of open source AI",
-          "title_original": "The state of open source AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T14:31:10Z"
+          "published_at": "2026-07-18T11:12:46Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5901,
-      "importance": 0.5901,
-      "importance_score": 0.5901,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8293,
-        "story_heat": 1.0
+        "recency": 0.9972,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T14:31:10Z",
-      "latest_at": "2026-07-17T22:35:01.749000Z",
+      "earliest_at": "2026-07-18T11:12:46Z",
+      "latest_at": "2026-07-18T15:21:03.125000Z",
       "primary_item": {
-        "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
-        "title": "开源人工智能的现状 / The state of open source AI",
-        "title_zh": "开源人工智能的现状",
-        "title_en": "The state of open source AI",
-        "title_original": "The state of open source AI",
+        "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+        "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+        "title_zh": "AI 在图表中对 stackoverflow 做了什么",
+        "title_en": "What AI did to stackoverflow in a graph",
+        "title_original": "What AI did to stackoverflow in a graph",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=48947825",
+        "url": "https://news.ycombinator.com/item?id=48956949",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1129,7 +1073,285 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
+        "scored_at": "2026-07-18T15:33:48.492574Z"
+      }
+    },
+    {
+      "story_id": "story_b3a9ac157817",
+      "title": "为什么人工智能公司的标志看起来像肛门？",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "primary_url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "source": "velvetshark.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
+          "title": "为什么人工智能公司的标志看起来像肛门？",
+          "title_zh": "为什么人工智能公司的标志看起来像肛门？",
+          "title_en": null,
+          "title_original": "为什么人工智能公司的标志看起来像肛门？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "velvetshark.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:09:54.152000Z"
+        },
+        {
+          "id": "d5cabbfa788aa3fa90f7b5a9bb0f17420fd1aa03",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes?",
+          "title_zh": "为什么人工智能公司的标志看起来像肛门？",
+          "title_en": "Why do AI company logos look like buttholes?",
+          "title_original": "Why do AI company logos look like buttholes?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:06:50Z"
+        },
+        {
+          "id": "d81130d206697b0f1421fc4256e14b87d6a1f066",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes? (2025)",
+          "title_zh": "为什么人工智能公司的标志看起来像肛门？",
+          "title_en": "Why do AI company logos look like buttholes? (2025)",
+          "title_original": "Why do AI company logos look like buttholes? (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T11:06:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "velvetshark.com"
+      ],
+      "items": [
+        {
+          "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
+          "title": "为什么人工智能公司的标志看起来像肛门？",
+          "title_zh": "为什么人工智能公司的标志看起来像肛门？",
+          "title_en": null,
+          "title_original": "为什么人工智能公司的标志看起来像肛门？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "velvetshark.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:09:54.152000Z"
+        },
+        {
+          "id": "d5cabbfa788aa3fa90f7b5a9bb0f17420fd1aa03",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes?",
+          "title_zh": "为什么人工智能公司的标志看起来像肛门？",
+          "title_en": "Why do AI company logos look like buttholes?",
+          "title_original": "Why do AI company logos look like buttholes?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:06:50Z"
+        },
+        {
+          "id": "d81130d206697b0f1421fc4256e14b87d6a1f066",
+          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes? (2025)",
+          "title_zh": "为什么人工智能公司的标志看起来像肛门？",
+          "title_en": "Why do AI company logos look like buttholes? (2025)",
+          "title_original": "Why do AI company logos look like buttholes? (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T11:06:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9524,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:06:50Z",
+      "latest_at": "2026-07-18T12:09:54.152000Z",
+      "primary_item": {
+        "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
+        "title": "为什么人工智能公司的标志看起来像肛门？",
+        "title_zh": "为什么人工智能公司的标志看起来像肛门？",
+        "title_en": null,
+        "title_original": "为什么人工智能公司的标志看起来像肛门？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+        "source": "velvetshark.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-18T15:33:48.492574Z"
+      }
+    },
+    {
+      "story_id": "story_6e3ae8d4de00",
+      "title": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://news.ycombinator.com/item?id=48956879",
+      "primary_url": "https://news.ycombinator.com/item?id=48956879",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T15:21:03.125000Z"
+        },
+        {
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_en": null,
+          "title_original": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T15:05:23.818000Z"
+        },
+        {
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:00:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "charlesazam.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T15:21:03.125000Z"
+        },
+        {
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_en": null,
+          "title_original": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T15:05:23.818000Z"
+        },
+        {
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:00:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9972,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:00:29Z",
+      "latest_at": "2026-07-18T15:21:03.125000Z",
+      "primary_item": {
+        "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+        "title": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "title_zh": "Fable 5与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？",
+        "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=48956879",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-18T15:33:48.492574Z"
       }
     },
     {
@@ -1235,15 +1457,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.842,
+        "recency": 0.7947,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1268,7 +1490,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
+        "scored_at": "2026-07-18T15:33:48.492574Z"
+      }
+    },
+    {
+      "story_id": "story_641c7fe4ecc7",
+      "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://news.ycombinator.com/item?id=48957779",
+      "primary_url": "https://news.ycombinator.com/item?id=48957779",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_zh": "GPT-5.6使用提示缩小了凸优化30年的差距",
+          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48957779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T15:21:03.125000Z"
+        },
+        {
+          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "title_zh": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "title_en": null,
+          "title_original": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T14:17:48.882000Z"
+        },
+        {
+          "id": "5cfa609606dd5bf0ae1ec5a716abb5524a60a0b9",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_zh": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T13:00:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "old.reddit.com"
+      ],
+      "items": [
+        {
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_zh": "GPT-5.6使用提示缩小了凸优化30年的差距",
+          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48957779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T15:21:03.125000Z"
+        },
+        {
+          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "title_zh": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "title_en": null,
+          "title_original": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T14:17:48.882000Z"
+        },
+        {
+          "id": "5cfa609606dd5bf0ae1ec5a716abb5524a60a0b9",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_zh": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T13:00:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9972,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T13:00:52Z",
+      "latest_at": "2026-07-18T15:21:03.125000Z",
+      "primary_item": {
+        "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+        "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "title_zh": "GPT-5.6使用提示缩小了凸优化30年的差距",
+        "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=48957779",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-18T15:33:48.492574Z"
       }
     },
     {
@@ -1345,15 +1706,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5026,
-      "importance": 0.5026,
-      "importance_score": 0.5026,
+      "score": 0.495,
+      "importance": 0.495,
+      "importance_score": 0.495,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7603,
+        "recency": 0.7176,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1375,230 +1736,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
-      }
-    },
-    {
-      "story_id": "story_881787692b1c",
-      "title": "苹果向OpenAI员工发出法律信函",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "primary_url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "source": "www.ft.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
-          "title": "苹果向OpenAI员工发出法律信函",
-          "title_zh": "苹果向OpenAI员工发出法律信函",
-          "title_en": null,
-          "title_original": "苹果向OpenAI员工发出法律信函",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:01:52.399000Z"
-        },
-        {
-          "id": "1b0ac55e8268b0d8bbddbc36c642eb425f18a25f",
-          "title": "苹果向OpenAI员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
-          "title_zh": "苹果向OpenAI员工发出法律信函",
-          "title_en": "Apple targets dozens of OpenAI employees with legal letters",
-          "title_original": "Apple targets dozens of OpenAI employees with legal letters",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T12:02:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
-          "title": "苹果向OpenAI员工发出法律信函",
-          "title_zh": "苹果向OpenAI员工发出法律信函",
-          "title_en": null,
-          "title_original": "苹果向OpenAI员工发出法律信函",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:01:52.399000Z"
-        },
-        {
-          "id": "1b0ac55e8268b0d8bbddbc36c642eb425f18a25f",
-          "title": "苹果向OpenAI员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
-          "title_zh": "苹果向OpenAI员工发出法律信函",
-          "title_en": "Apple targets dozens of OpenAI employees with legal letters",
-          "title_original": "Apple targets dozens of OpenAI employees with legal letters",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T12:02:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.733,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T12:02:39Z",
-      "latest_at": "2026-07-17T14:01:52.399000Z",
-      "primary_item": {
-        "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
-        "title": "苹果向OpenAI员工发出法律信函",
-        "title_zh": "苹果向OpenAI员工发出法律信函",
-        "title_en": null,
-        "title_original": "苹果向OpenAI员工发出法律信函",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-        "source": "www.ft.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
-      }
-    },
-    {
-      "story_id": "story_17ffaf56b0fe",
-      "title": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "url": "https://news.ycombinator.com/item?id=48947714",
-      "primary_url": "https://news.ycombinator.com/item?id=48947714",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "1e4656819f8c1084e94f30e6042f46d6c139331c",
-          "title": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_zh": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么",
-          "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48947714",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T19:28:59.911000Z"
-        },
-        {
-          "id": "213fe8e61a20db7a4e859a4adf8ff3e88c8b77eb",
-          "title": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_zh": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么",
-          "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.zksecurity.xyz/posts/openvm-bugs",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T14:21:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1e4656819f8c1084e94f30e6042f46d6c139331c",
-          "title": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_zh": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么",
-          "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48947714",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T19:28:59.911000Z"
-        },
-        {
-          "id": "213fe8e61a20db7a4e859a4adf8ff3e88c8b77eb",
-          "title": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_zh": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么",
-          "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.zksecurity.xyz/posts/openvm-bugs",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T14:21:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5085,
-      "importance": 0.5085,
-      "importance_score": 0.5085,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.793,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T14:21:35Z",
-      "latest_at": "2026-07-17T19:28:59.911000Z",
-      "primary_item": {
-        "id": "1e4656819f8c1084e94f30e6042f46d6c139331c",
-        "title": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-        "title_zh": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么",
-        "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-        "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=48947714",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T11:33:38.494826Z"
+        "scored_at": "2026-07-18T15:33:48.492574Z"
       }
     }
   ]
