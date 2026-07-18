@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T07:11:26.724604Z",
+  "generated_at": "2026-07-18T11:32:36.753560Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_5142a2d0cb41",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8483,
+        "recency": 0.7966,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
+        "scored_at": "2026-07-18T11:33:38.494826Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8026,
+        "recency": 0.7537,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
-      }
-    },
-    {
-      "story_id": "story_23f6bdd28b68",
-      "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值 / A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "primary_url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "731a7505b9e070229c9549f7cba6978cb43856a9",
-          "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值 / A scorecard for the AI age",
-          "title_zh": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值",
-          "title_en": "A scorecard for the AI age",
-          "title_original": "A scorecard for the AI age",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "731a7505b9e070229c9549f7cba6978cb43856a9",
-          "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值 / A scorecard for the AI age",
-          "title_zh": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值",
-          "title_en": "A scorecard for the AI age",
-          "title_original": "A scorecard for the AI age",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7364,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T10:00:00Z",
-      "latest_at": "2026-07-17T10:00:00Z",
-      "primary_item": {
-        "id": "731a7505b9e070229c9549f7cba6978cb43856a9",
-        "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值 / A scorecard for the AI age",
-        "title_zh": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值",
-        "title_en": "A scorecard for the AI age",
-        "title_original": "A scorecard for the AI age",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
+        "scored_at": "2026-07-18T11:33:38.494826Z"
       }
     },
     {
@@ -297,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8768,
+        "recency": 0.8234,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,90 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
-      }
-    },
-    {
-      "story_id": "story_39f96da3c40c",
-      "title": "代码仓库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "代码仓库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "title_zh": "代码仓库级 GitHub Copilot 使用指标普遍可用",
-          "title_en": "Repository-level GitHub Copilot usage metrics generally available",
-          "title_original": "Repository-level GitHub Copilot usage metrics generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "代码仓库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "title_zh": "代码仓库级 GitHub Copilot 使用指标普遍可用",
-          "title_en": "Repository-level GitHub Copilot usage metrics generally available",
-          "title_original": "Repository-level GitHub Copilot usage metrics generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8768,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T22:05:18Z",
-      "latest_at": "2026-07-17T22:05:18Z",
-      "primary_item": {
-        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-        "title": "代码仓库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-        "title_zh": "代码仓库级 GitHub Copilot 使用指标普遍可用",
-        "title_en": "Repository-level GitHub Copilot usage metrics generally available",
-        "title_original": "Repository-level GitHub Copilot usage metrics generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
+        "scored_at": "2026-07-18T11:33:38.494826Z"
       }
     },
     {
@@ -492,15 +326,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8229,
+        "recency": 0.7728,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -527,7 +361,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
+        "scored_at": "2026-07-18T11:33:38.494826Z"
+      }
+    },
+    {
+      "story_id": "story_39f96da3c40c",
+      "title": "代码仓库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+          "title": "代码仓库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+          "title_zh": "代码仓库级 GitHub Copilot 使用指标普遍可用",
+          "title_en": "Repository-level GitHub Copilot usage metrics generally available",
+          "title_original": "Repository-level GitHub Copilot usage metrics generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T22:05:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+          "title": "代码仓库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+          "title_zh": "代码仓库级 GitHub Copilot 使用指标普遍可用",
+          "title_en": "Repository-level GitHub Copilot usage metrics generally available",
+          "title_original": "Repository-level GitHub Copilot usage metrics generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T22:05:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8234,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T22:05:18Z",
+      "latest_at": "2026-07-17T22:05:18Z",
+      "primary_item": {
+        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
+        "title": "代码仓库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
+        "title_zh": "代码仓库级 GitHub Copilot 使用指标普遍可用",
+        "title_en": "Repository-level GitHub Copilot usage metrics generally available",
+        "title_original": "Repository-level GitHub Copilot usage metrics generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-18T11:33:38.494826Z"
       }
     },
     {
@@ -575,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8223,
+        "recency": 0.7722,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -609,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
+        "scored_at": "2026-07-18T11:33:38.494826Z"
       }
     },
     {
@@ -657,21 +574,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9659,
+        "recency": 0.9071,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-18T04:47:25Z",
       "latest_at": "2026-07-18T04:47:25Z",
@@ -691,7 +607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
+        "scored_at": "2026-07-18T11:33:38.494826Z"
       }
     },
     {
@@ -739,21 +655,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8096,
+        "recency": 0.7603,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T16:34:01Z",
       "latest_at": "2026-07-17T16:34:01Z",
@@ -773,7 +688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
+        "scored_at": "2026-07-18T11:33:38.494826Z"
       }
     },
     {
@@ -821,15 +736,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8169,
+        "recency": 0.7672,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -854,90 +769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
-      }
-    },
-    {
-      "story_id": "story_c13975dae097",
-      "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-      "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-      "primary_url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
-          "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-          "title_zh": "Copilot 代码审查：定制和可配置性改进",
-          "title_en": "Copilot code review: Customization and configurability improvements",
-          "title_original": "Copilot code review: Customization and configurability improvements",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T21:08:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
-          "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-          "title_zh": "Copilot 代码审查：定制和可配置性改进",
-          "title_en": "Copilot code review: Customization and configurability improvements",
-          "title_original": "Copilot code review: Customization and configurability improvements",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T21:08:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8649,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T21:08:30Z",
-      "latest_at": "2026-07-17T21:08:30Z",
-      "primary_item": {
-        "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
-        "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-        "title_zh": "Copilot 代码审查：定制和可配置性改进",
-        "title_en": "Copilot code review: Customization and configurability improvements",
-        "title_original": "Copilot code review: Customization and configurability improvements",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
+        "scored_at": "2026-07-18T11:33:38.494826Z"
       }
     },
     {
@@ -985,15 +817,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7818,
+        "recency": 0.7341,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1018,655 +850,755 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
+        "scored_at": "2026-07-18T11:33:38.494826Z"
       }
     },
     {
-      "story_id": "story_268031546842",
-      "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-      "url": "https://schema-harness.github.io",
-      "primary_url": "https://schema-harness.github.io",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_c13975dae097",
+      "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
+      "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+      "primary_url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
-          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "title_zh": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "title_en": null,
-          "title_original": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "summary": "Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。",
-          "recommend_reason_zh": null,
-          "url": "https://schema-harness.github.io",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T08:41:53.383000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
-          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "title_zh": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "title_en": null,
-          "title_original": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "summary": "Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。",
-          "recommend_reason_zh": null,
-          "url": "https://schema-harness.github.io",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T08:41:53.383000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7227,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T08:41:53.383000Z",
-      "latest_at": "2026-07-17T08:41:53.383000Z",
-      "primary_item": {
-        "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
-        "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-        "title_zh": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-        "title_en": null,
-        "title_original": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-        "summary": "Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。",
-        "recommend_reason_zh": null,
-        "url": "https://schema-harness.github.io",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
-      }
-    },
-    {
-      "story_id": "story_fead9a6937e2",
-      "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
-      "url": "https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ",
-      "primary_url": "https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ",
-      "source": "公众号：通义实验室（千问）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac87694437bf8efd489ba6cc177c904ab5763e6c",
-          "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
-          "title_zh": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
-          "title_en": null,
-          "title_original": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
-          "summary": "首届\"小有可为\"大赛乡村教育赛道一等奖作品\"智绘科普\"采用 Qwen3.5-397B-A17B 大语言模型与 Manim 动画引擎，通过多Agent分阶段协作与自动修复机制，将知识主题转化为可控、可编辑的教学动画。系统包含规划、草稿、实现、审查、合成五个阶段，渲染失败时可自动提取日志并修复，该工程范式可迁移至其他赛道。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T09:41:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：通义实验室（千问）"
-      ],
-      "items": [
-        {
-          "id": "ac87694437bf8efd489ba6cc177c904ab5763e6c",
-          "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
-          "title_zh": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
-          "title_en": null,
-          "title_original": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
-          "summary": "首届\"小有可为\"大赛乡村教育赛道一等奖作品\"智绘科普\"采用 Qwen3.5-397B-A17B 大语言模型与 Manim 动画引擎，通过多Agent分阶段协作与自动修复机制，将知识主题转化为可控、可编辑的教学动画。系统包含规划、草稿、实现、审查、合成五个阶段，渲染失败时可自动提取日志并修复，该工程范式可迁移至其他赛道。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T09:41:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7331,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T09:41:25Z",
-      "latest_at": "2026-07-17T09:41:25Z",
-      "primary_item": {
-        "id": "ac87694437bf8efd489ba6cc177c904ab5763e6c",
-        "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
-        "title_zh": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
-        "title_en": null,
-        "title_original": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
-        "summary": "首届\"小有可为\"大赛乡村教育赛道一等奖作品\"智绘科普\"采用 Qwen3.5-397B-A17B 大语言模型与 Manim 动画引擎，通过多Agent分阶段协作与自动修复机制，将知识主题转化为可控、可编辑的教学动画。系统包含规划、草稿、实现、审查、合成五个阶段，渲染失败时可自动提取日志并修复，该工程范式可迁移至其他赛道。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ",
-        "source": "公众号：通义实验室（千问）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
-      }
-    },
-    {
-      "story_id": "story_6a54ab2c9478",
-      "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-      "url": "https://www.ithome.com/0/978/277.htm",
-      "primary_url": "https://www.ithome.com/0/978/277.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
-          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "title_zh": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "title_en": null,
-          "title_original": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "summary": "苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。此前苹果起诉OpenAI及两名前员工，指控其通过挖角获取商业机密以加速AI硬件研发。苹果称已有超400名前员工在OpenAI工作，正寻求法院禁令阻止OpenAI使用苹果信息并要求归还机密。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/978/277.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T11:10:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
-          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "title_zh": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "title_en": null,
-          "title_original": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "summary": "苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。此前苹果起诉OpenAI及两名前员工，指控其通过挖角获取商业机密以加速AI硬件研发。苹果称已有超400名前员工在OpenAI工作，正寻求法院禁令阻止OpenAI使用苹果信息并要求归还机密。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/978/277.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T11:10:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7489,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T11:10:01Z",
-      "latest_at": "2026-07-17T11:10:01Z",
-      "primary_item": {
-        "id": "4cbba37163f0aa7a385f67b42c2e2382c3e8d069",
-        "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-        "title_zh": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-        "title_en": null,
-        "title_original": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-        "summary": "苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。此前苹果起诉OpenAI及两名前员工，指控其通过挖角获取商业机密以加速AI硬件研发。苹果称已有超400名前员工在OpenAI工作，正寻求法院禁令阻止OpenAI使用苹果信息并要求归还机密。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/978/277.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
-      }
-    },
-    {
-      "story_id": "story_4cdf56f2cdfc",
-      "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-      "url": "https://www.aibase.com/news/29695",
-      "primary_url": "https://www.aibase.com/news/29695",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f183207c181cd941ef7ce235d39392087e42d27e",
-          "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-          "title_zh": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-          "title_en": null,
-          "title_original": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
+          "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
+          "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
+          "title_zh": "Copilot 代码审查：定制和可配置性改进",
+          "title_en": "Copilot code review: Customization and configurability improvements",
+          "title_original": "Copilot code review: Customization and configurability improvements",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29695",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T12:19:45.913289Z"
+          "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T21:08:30Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "f183207c181cd941ef7ce235d39392087e42d27e",
-          "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-          "title_zh": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-          "title_en": null,
-          "title_original": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
+          "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
+          "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
+          "title_zh": "Copilot 代码审查：定制和可配置性改进",
+          "title_en": "Copilot code review: Customization and configurability improvements",
+          "title_original": "Copilot code review: Customization and configurability improvements",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29695",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T12:19:45.913289Z"
+          "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T21:08:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
-      "importance_label": "行业动态",
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7616,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8122,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-17T12:19:45.913289Z",
-      "latest_at": "2026-07-17T12:19:45.913289Z",
+      "earliest_at": "2026-07-17T21:08:30Z",
+      "latest_at": "2026-07-17T21:08:30Z",
       "primary_item": {
-        "id": "f183207c181cd941ef7ce235d39392087e42d27e",
-        "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-        "title_zh": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-        "title_en": null,
-        "title_original": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
+        "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
+        "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
+        "title_zh": "Copilot 代码审查：定制和可配置性改进",
+        "title_en": "Copilot code review: Customization and configurability improvements",
+        "title_original": "Copilot code review: Customization and configurability improvements",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29695",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
+        "scored_at": "2026-07-18T11:33:38.494826Z"
       }
     },
     {
-      "story_id": "story_36e3b8c457f1",
-      "title": "LLM cliché highlighter：一款识别AI写作套话的检测工具 / LLM cliché highlighter",
-      "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter",
-      "primary_url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
+      "story_id": "story_c06be1aad3a1",
+      "title": "开源人工智能的现状 / The state of open source AI",
+      "url": "https://news.ycombinator.com/item?id=48947825",
+      "primary_url": "https://news.ycombinator.com/item?id=48947825",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "a94bfc7f9839e6db9cb0dd7eb9bc2182787aa431",
-          "title": "LLM cliché highlighter：一款识别AI写作套话的检测工具 / LLM cliché highlighter",
-          "title_zh": "LLM cliché highlighter：一款识别AI写作套话的检测工具",
-          "title_en": "LLM cliché highlighter",
-          "title_original": "LLM cliché highlighter",
-          "summary": "Simon Willison 用 Fable 5 开发了一款 LLM cliché highlighter 应用，用于高亮 LLM 生成文本中常见的十种套话模式，例如\"no fluff， no filler， no jargon\"这类陈词滥调。该工具旨在帮助读者快速识别并过滤掉充斥在文章中的 AI 写作风格化表达。",
+          "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
+          "title": "开源人工智能的现状 / The state of open source AI",
+          "title_zh": "开源人工智能的现状",
+          "title_en": "The state of open source AI",
+          "title_original": "The state of open source AI",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T12:11:11Z"
+          "url": "https://news.ycombinator.com/item?id=48947825",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T22:35:01.749000Z"
+        },
+        {
+          "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
+          "title": "Mozilla：开源人工智能的现状 / Mozilla: The state of open source AI",
+          "title_zh": "Mozilla：开源人工智能的现状",
+          "title_en": "Mozilla: The state of open source AI",
+          "title_original": "Mozilla: The state of open source AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48947825",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T19:28:59.911000Z"
+        },
+        {
+          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
+          "title": "Mozilla：开源人工智能的发展现状",
+          "title_zh": "Mozilla：开源人工智能的发展现状",
+          "title_en": null,
+          "title_original": "Mozilla：开源人工智能的发展现状",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://stateofopensource.ai",
+          "source": "stateofopensource.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T15:53:45.162000Z"
+        },
+        {
+          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
+          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
+          "title_zh": "Mozilla：开源人工智能的发展现状",
+          "title_en": "Mozilla: The state of open source AI",
+          "title_original": "Mozilla: The state of open source AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://stateofopensource.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T14:31:10Z"
+        },
+        {
+          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
+          "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
+          "title_zh": "Mozilla：开源人工智能的发展现状",
+          "title_en": "The state of open source AI",
+          "title_original": "The state of open source AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://stateofopensource.ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-17T14:31:10Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 5,
       "source_names": [
-        "Simon Willison 博客"
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "stateofopensource.ai"
       ],
       "items": [
         {
-          "id": "a94bfc7f9839e6db9cb0dd7eb9bc2182787aa431",
-          "title": "LLM cliché highlighter：一款识别AI写作套话的检测工具 / LLM cliché highlighter",
-          "title_zh": "LLM cliché highlighter：一款识别AI写作套话的检测工具",
-          "title_en": "LLM cliché highlighter",
-          "title_original": "LLM cliché highlighter",
-          "summary": "Simon Willison 用 Fable 5 开发了一款 LLM cliché highlighter 应用，用于高亮 LLM 生成文本中常见的十种套话模式，例如\"no fluff， no filler， no jargon\"这类陈词滥调。该工具旨在帮助读者快速识别并过滤掉充斥在文章中的 AI 写作风格化表达。",
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T12:11:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.76,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T12:11:11Z",
-      "latest_at": "2026-07-17T12:11:11Z",
-      "primary_item": {
-        "id": "a94bfc7f9839e6db9cb0dd7eb9bc2182787aa431",
-        "title": "LLM cliché highlighter：一款识别AI写作套话的检测工具 / LLM cliché highlighter",
-        "title_zh": "LLM cliché highlighter：一款识别AI写作套话的检测工具",
-        "title_en": "LLM cliché highlighter",
-        "title_original": "LLM cliché highlighter",
-        "summary": "Simon Willison 用 Fable 5 开发了一款 LLM cliché highlighter 应用，用于高亮 LLM 生成文本中常见的十种套话模式，例如\"no fluff， no filler， no jargon\"这类陈词滥调。该工具旨在帮助读者快速识别并过滤掉充斥在文章中的 AI 写作风格化表达。",
-        "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
-      }
-    },
-    {
-      "story_id": "story_d959f7b562f8",
-      "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-      "url": "https://www.aibase.com/news/29689",
-      "primary_url": "https://www.aibase.com/news/29689",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "aa9b347178a67e78a1b42b60abe81fb4db47bc89",
-          "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-          "title_zh": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-          "title_en": null,
-          "title_original": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+          "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
+          "title": "开源人工智能的现状 / The state of open source AI",
+          "title_zh": "开源人工智能的现状",
+          "title_en": "The state of open source AI",
+          "title_original": "The state of open source AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29689",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T12:19:45.913289Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
+          "url": "https://news.ycombinator.com/item?id=48947825",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T22:35:01.749000Z"
+        },
         {
-          "id": "aa9b347178a67e78a1b42b60abe81fb4db47bc89",
-          "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-          "title_zh": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-          "title_en": null,
-          "title_original": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+          "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
+          "title": "Mozilla：开源人工智能的现状 / Mozilla: The state of open source AI",
+          "title_zh": "Mozilla：开源人工智能的现状",
+          "title_en": "Mozilla: The state of open source AI",
+          "title_original": "Mozilla: The state of open source AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29689",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T12:19:45.913289Z"
+          "url": "https://news.ycombinator.com/item?id=48947825",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T19:28:59.911000Z"
+        },
+        {
+          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
+          "title": "Mozilla：开源人工智能的发展现状",
+          "title_zh": "Mozilla：开源人工智能的发展现状",
+          "title_en": null,
+          "title_original": "Mozilla：开源人工智能的发展现状",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://stateofopensource.ai",
+          "source": "stateofopensource.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T15:53:45.162000Z"
+        },
+        {
+          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
+          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
+          "title_zh": "Mozilla：开源人工智能的发展现状",
+          "title_en": "Mozilla: The state of open source AI",
+          "title_original": "Mozilla: The state of open source AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://stateofopensource.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T14:31:10Z"
+        },
+        {
+          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
+          "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
+          "title_zh": "Mozilla：开源人工智能的发展现状",
+          "title_en": "The state of open source AI",
+          "title_original": "The state of open source AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://stateofopensource.ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-17T14:31:10Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
-      "importance_label": "行业动态",
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5901,
+      "importance": 0.5901,
+      "importance_score": 0.5901,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7616,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8293,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-17T12:19:45.913289Z",
-      "latest_at": "2026-07-17T12:19:45.913289Z",
+      "earliest_at": "2026-07-17T14:31:10Z",
+      "latest_at": "2026-07-17T22:35:01.749000Z",
       "primary_item": {
-        "id": "aa9b347178a67e78a1b42b60abe81fb4db47bc89",
-        "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-        "title_zh": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
-        "title_en": null,
-        "title_original": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+        "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
+        "title": "开源人工智能的现状 / The state of open source AI",
+        "title_zh": "开源人工智能的现状",
+        "title_en": "The state of open source AI",
+        "title_original": "The state of open source AI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29689",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://news.ycombinator.com/item?id=48947825",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
+        "scored_at": "2026-07-18T11:33:38.494826Z"
       }
     },
     {
-      "story_id": "story_0c4284448485",
-      "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
-      "url": "https://www.aibase.com/news/29694",
-      "primary_url": "https://www.aibase.com/news/29694",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_3a562813155e",
+      "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+      "primary_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+      "source": "localnewsmatters.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "41657b2e7b5b9e157c6a12ab8dcd78a49d08fd3d",
-          "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
-          "title_zh": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "title_zh": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
           "title_en": null,
-          "title_original": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+          "title_original": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29694",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T12:19:45.913289Z"
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "localnewsmatters.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.200000Z"
+        },
+        {
+          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "title_zh": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "title_en": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "title_original": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T22:26:30Z"
+        },
+        {
+          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "title_zh": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "title_en": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "title_original": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T22:26:30Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "localnewsmatters.org"
       ],
       "items": [
         {
-          "id": "41657b2e7b5b9e157c6a12ab8dcd78a49d08fd3d",
-          "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
-          "title_zh": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "title_zh": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
           "title_en": null,
-          "title_original": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+          "title_original": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29694",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T12:19:45.913289Z"
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "localnewsmatters.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.200000Z"
+        },
+        {
+          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "title_zh": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "title_en": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "title_original": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T22:26:30Z"
+        },
+        {
+          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "title_zh": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "title_en": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "title_original": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T22:26:30Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7616,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.842,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-17T12:19:45.913289Z",
-      "latest_at": "2026-07-17T12:19:45.913289Z",
+      "earliest_at": "2026-07-17T22:26:30Z",
+      "latest_at": "2026-07-17T23:38:00.200000Z",
       "primary_item": {
-        "id": "41657b2e7b5b9e157c6a12ab8dcd78a49d08fd3d",
-        "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
-        "title_zh": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+        "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+        "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+        "title_zh": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
         "title_en": null,
-        "title_original": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+        "title_original": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29694",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+        "source": "localnewsmatters.org",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
+        "scored_at": "2026-07-18T11:33:38.494826Z"
       }
     },
     {
-      "story_id": "story_0bb1fc0f637b",
-      "title": "超低延迟 AI 对话神器！Wan-Streamer v0.2 让你与 AI 零距离沟通",
-      "url": "https://www.aibase.com/news/29691",
-      "primary_url": "https://www.aibase.com/news/29691",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_8037081f1773",
+      "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+      "primary_url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "85c81739816f9f19025fa107e33b08a1679231dc",
-          "title": "超低延迟 AI 对话神器！Wan-Streamer v0.2 让你与 AI 零距离沟通",
-          "title_zh": "超低延迟 AI 对话神器！Wan-Streamer v0.2 让你与 AI 零距离沟通",
-          "title_en": null,
-          "title_original": "超低延迟 AI 对话神器！Wan-Streamer v0.2 让你与 AI 零距离沟通",
+          "id": "49976faca8943d55cd7337aa020050c79f59b960",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+          "title_zh": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力",
+          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29691",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T12:19:45.913289Z"
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T16:33:48Z"
+        },
+        {
+          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "title_zh": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力",
+          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T16:17:06Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "New York Times"
       ],
       "items": [
         {
-          "id": "85c81739816f9f19025fa107e33b08a1679231dc",
-          "title": "超低延迟 AI 对话神器！Wan-Streamer v0.2 让你与 AI 零距离沟通",
-          "title_zh": "超低延迟 AI 对话神器！Wan-Streamer v0.2 让你与 AI 零距离沟通",
-          "title_en": null,
-          "title_original": "超低延迟 AI 对话神器！Wan-Streamer v0.2 让你与 AI 零距离沟通",
+          "id": "49976faca8943d55cd7337aa020050c79f59b960",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+          "title_zh": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力",
+          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29691",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T12:19:45.913289Z"
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T16:33:48Z"
+        },
+        {
+          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
+          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "title_zh": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力",
+          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T16:17:06Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5026,
+      "importance": 0.5026,
+      "importance_score": 0.5026,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7616,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7603,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-17T12:19:45.913289Z",
-      "latest_at": "2026-07-17T12:19:45.913289Z",
+      "earliest_at": "2026-07-17T16:17:06Z",
+      "latest_at": "2026-07-17T16:33:48Z",
       "primary_item": {
-        "id": "85c81739816f9f19025fa107e33b08a1679231dc",
-        "title": "超低延迟 AI 对话神器！Wan-Streamer v0.2 让你与 AI 零距离沟通",
-        "title_zh": "超低延迟 AI 对话神器！Wan-Streamer v0.2 让你与 AI 零距离沟通",
-        "title_en": null,
-        "title_original": "超低延迟 AI 对话神器！Wan-Streamer v0.2 让你与 AI 零距离沟通",
+        "id": "49976faca8943d55cd7337aa020050c79f59b960",
+        "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+        "title_zh": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力",
+        "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+        "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29691",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T07:12:24.429498Z"
+        "scored_at": "2026-07-18T11:33:38.494826Z"
+      }
+    },
+    {
+      "story_id": "story_881787692b1c",
+      "title": "苹果向OpenAI员工发出法律信函",
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "primary_url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "source": "www.ft.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
+          "title": "苹果向OpenAI员工发出法律信函",
+          "title_zh": "苹果向OpenAI员工发出法律信函",
+          "title_en": null,
+          "title_original": "苹果向OpenAI员工发出法律信函",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T14:01:52.399000Z"
+        },
+        {
+          "id": "1b0ac55e8268b0d8bbddbc36c642eb425f18a25f",
+          "title": "苹果向OpenAI员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
+          "title_zh": "苹果向OpenAI员工发出法律信函",
+          "title_en": "Apple targets dozens of OpenAI employees with legal letters",
+          "title_original": "Apple targets dozens of OpenAI employees with legal letters",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T12:02:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.ft.com"
+      ],
+      "items": [
+        {
+          "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
+          "title": "苹果向OpenAI员工发出法律信函",
+          "title_zh": "苹果向OpenAI员工发出法律信函",
+          "title_en": null,
+          "title_original": "苹果向OpenAI员工发出法律信函",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T14:01:52.399000Z"
+        },
+        {
+          "id": "1b0ac55e8268b0d8bbddbc36c642eb425f18a25f",
+          "title": "苹果向OpenAI员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
+          "title_zh": "苹果向OpenAI员工发出法律信函",
+          "title_en": "Apple targets dozens of OpenAI employees with legal letters",
+          "title_original": "Apple targets dozens of OpenAI employees with legal letters",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T12:02:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4977,
+      "importance": 0.4977,
+      "importance_score": 0.4977,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.733,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T12:02:39Z",
+      "latest_at": "2026-07-17T14:01:52.399000Z",
+      "primary_item": {
+        "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
+        "title": "苹果向OpenAI员工发出法律信函",
+        "title_zh": "苹果向OpenAI员工发出法律信函",
+        "title_en": null,
+        "title_original": "苹果向OpenAI员工发出法律信函",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+        "source": "www.ft.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-18T11:33:38.494826Z"
+      }
+    },
+    {
+      "story_id": "story_17ffaf56b0fe",
+      "title": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "url": "https://news.ycombinator.com/item?id=48947714",
+      "primary_url": "https://news.ycombinator.com/item?id=48947714",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1e4656819f8c1084e94f30e6042f46d6c139331c",
+          "title": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "title_zh": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么",
+          "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48947714",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T19:28:59.911000Z"
+        },
+        {
+          "id": "213fe8e61a20db7a4e859a4adf8ff3e88c8b77eb",
+          "title": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "title_zh": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么",
+          "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.zksecurity.xyz/posts/openvm-bugs",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T14:21:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1e4656819f8c1084e94f30e6042f46d6c139331c",
+          "title": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "title_zh": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么",
+          "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48947714",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T19:28:59.911000Z"
+        },
+        {
+          "id": "213fe8e61a20db7a4e859a4adf8ff3e88c8b77eb",
+          "title": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "title_zh": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么",
+          "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.zksecurity.xyz/posts/openvm-bugs",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T14:21:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5085,
+      "importance": 0.5085,
+      "importance_score": 0.5085,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.793,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T14:21:35Z",
+      "latest_at": "2026-07-17T19:28:59.911000Z",
+      "primary_item": {
+        "id": "1e4656819f8c1084e94f30e6042f46d6c139331c",
+        "title": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+        "title_zh": "AI 遇见密码学 2：AI 在 OpenVM 的 ZkVM 中发现了什么",
+        "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+        "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=48947714",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-18T11:33:38.494826Z"
       }
     }
   ]
