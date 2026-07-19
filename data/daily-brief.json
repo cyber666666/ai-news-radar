@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T15:33:59.232756Z",
+  "generated_at": "2026-07-19T20:10:06.504762Z",
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_e10fb03864e5",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8613,
+        "recency": 0.8059,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     },
     {
@@ -247,15 +247,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8513,
+        "recency": 0.7966,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -282,89 +282,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
-      }
-    },
-    {
-      "story_id": "story_20bda4ade41b",
-      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-      "url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "primary_url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-          "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenBMB/status/2078839529591759025",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T13:49:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：面壁智能 OpenBMB (@OpenBMB)"
-      ],
-      "items": [
-        {
-          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-          "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenBMB/status/2078839529591759025",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T13:49:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9751,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-19T13:49:01Z",
-      "latest_at": "2026-07-19T13:49:01Z",
-      "primary_item": {
-        "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-        "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-        "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-        "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-        "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-        "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenBMB/status/2078839529591759025",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     },
     {
@@ -412,21 +330,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9581,
+        "recency": 0.8965,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-19T12:35:56Z",
       "latest_at": "2026-07-19T12:35:56Z",
@@ -446,7 +363,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
+      }
+    },
+    {
+      "story_id": "story_20bda4ade41b",
+      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+      "url": "https://x.com/OpenBMB/status/2078839529591759025",
+      "primary_url": "https://x.com/OpenBMB/status/2078839529591759025",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
+          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+          "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenBMB/status/2078839529591759025",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T13:49:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：面壁智能 OpenBMB (@OpenBMB)"
+      ],
+      "items": [
+        {
+          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
+          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+          "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenBMB/status/2078839529591759025",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T13:49:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9124,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-19T13:49:01Z",
+      "latest_at": "2026-07-19T13:49:01Z",
+      "primary_item": {
+        "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
+        "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+        "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+        "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+        "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+        "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenBMB/status/2078839529591759025",
+        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     },
     {
@@ -494,21 +492,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8988,
+        "recency": 0.841,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-19T08:10:39Z",
       "latest_at": "2026-07-19T08:10:39Z",
@@ -528,7 +525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     },
     {
@@ -576,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9666,
+        "recency": 0.9044,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -609,7 +606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     },
     {
@@ -657,15 +654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 0.7885,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,7 +687,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     },
     {
@@ -738,21 +735,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8319,
+        "recency": 0.7784,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-19T02:49:15.657000Z",
       "latest_at": "2026-07-19T02:49:15.657000Z",
@@ -772,7 +768,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     },
     {
@@ -849,15 +845,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5825,
-      "importance": 0.5825,
-      "importance_score": 0.5825,
+      "score": 0.5727,
+      "importance": 0.5727,
+      "importance_score": 0.5727,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.845,
+        "recency": 0.7907,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -882,7 +878,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     },
     {
@@ -922,7 +918,7 @@
           "published_at": "2026-07-19T11:18:51.391000Z"
         },
         {
-          "id": "023ebf15eb4a0e696725b614dfee331cf70d31a4",
+          "id": "7a8eb125771c2d5fedc488e142da8abed7b33ccb",
           "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万 / OpenAI reduces Codex Model Context Size from 372k to 272k",
           "title_zh": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
           "title_en": "OpenAI reduces Codex Model Context Size from 372k to 272k",
@@ -930,15 +926,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/openai/codex/pull/33972/files",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-19T07:54:39Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "github.com",
         "hackernews"
       ],
@@ -972,7 +968,7 @@
           "published_at": "2026-07-19T11:18:51.391000Z"
         },
         {
-          "id": "023ebf15eb4a0e696725b614dfee331cf70d31a4",
+          "id": "7a8eb125771c2d5fedc488e142da8abed7b33ccb",
           "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万 / OpenAI reduces Codex Model Context Size from 372k to 272k",
           "title_zh": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
           "title_en": "OpenAI reduces Codex Model Context Size from 372k to 272k",
@@ -980,23 +976,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/openai/codex/pull/33972/files",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-19T07:54:39Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5689,
-      "importance": 0.5689,
-      "importance_score": 0.5689,
+      "score": 0.5574,
+      "importance": 0.5574,
+      "importance_score": 0.5574,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9894,
+        "recency": 0.9258,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1021,44 +1017,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     },
     {
-      "story_id": "story_0ebdebd76392",
-      "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
-      "url": "https://news.ycombinator.com/item?id=48968067",
-      "primary_url": "https://news.ycombinator.com/item?id=48968067",
+      "story_id": "story_b07488f85ab7",
+      "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "url": "https://news.ycombinator.com/item?id=48969291",
+      "primary_url": "https://news.ycombinator.com/item?id=48969291",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "70ee0ac4f331ec5e5e537493f5fd6fef636affad",
-          "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
-          "title_zh": "DRIVE – 人工智能加速工程的卓越运营",
-          "title_en": "DRIVE – Operational Excellence for AI-accelerated engineering",
-          "title_original": "DRIVE – Operational Excellence for AI-accelerated engineering",
+          "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
+          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "title_zh": "Moonshot AI 由于 Kimi K3 需求暂停新订阅",
+          "title_en": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "title_original": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48968067",
+          "url": "https://news.ycombinator.com/item?id=48969291",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-19T15:19:28.034000Z"
+          "published_at": "2026-07-19T19:50:09.716000Z"
         },
         {
-          "id": "e1fb3ee308303cdbd693ef50249845ceccb7b60d",
-          "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
-          "title_zh": "DRIVE – 人工智能加速工程的卓越运营",
-          "title_en": "DRIVE – Operational Excellence for AI-accelerated engineering",
-          "title_original": "DRIVE – Operational Excellence for AI-accelerated engineering",
+          "id": "319ff83da8c991e09d08b2a45836d1b8f79ae95a",
+          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "title_zh": "Moonshot AI 由于 Kimi K3 需求暂停新订阅",
+          "title_en": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "title_original": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.cortex.io/drive",
+          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-19T13:30:01Z"
+          "published_at": "2026-07-19T16:02:25Z"
         }
       ],
       "source_count": 2,
@@ -1068,62 +1064,62 @@
       ],
       "items": [
         {
-          "id": "70ee0ac4f331ec5e5e537493f5fd6fef636affad",
-          "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
-          "title_zh": "DRIVE – 人工智能加速工程的卓越运营",
-          "title_en": "DRIVE – Operational Excellence for AI-accelerated engineering",
-          "title_original": "DRIVE – Operational Excellence for AI-accelerated engineering",
+          "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
+          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "title_zh": "Moonshot AI 由于 Kimi K3 需求暂停新订阅",
+          "title_en": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "title_original": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48968067",
+          "url": "https://news.ycombinator.com/item?id=48969291",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-19T15:19:28.034000Z"
+          "published_at": "2026-07-19T19:50:09.716000Z"
         },
         {
-          "id": "e1fb3ee308303cdbd693ef50249845ceccb7b60d",
-          "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
-          "title_zh": "DRIVE – 人工智能加速工程的卓越运营",
-          "title_en": "DRIVE – Operational Excellence for AI-accelerated engineering",
-          "title_original": "DRIVE – Operational Excellence for AI-accelerated engineering",
+          "id": "319ff83da8c991e09d08b2a45836d1b8f79ae95a",
+          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "title_zh": "Moonshot AI 由于 Kimi K3 需求暂停新订阅",
+          "title_en": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "title_original": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.cortex.io/drive",
+          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-19T13:30:01Z"
+          "published_at": "2026-07-19T16:02:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9965,
+        "recency": 0.9952,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-19T13:30:01Z",
-      "latest_at": "2026-07-19T15:19:28.034000Z",
+      "earliest_at": "2026-07-19T16:02:25Z",
+      "latest_at": "2026-07-19T19:50:09.716000Z",
       "primary_item": {
-        "id": "70ee0ac4f331ec5e5e537493f5fd6fef636affad",
-        "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
-        "title_zh": "DRIVE – 人工智能加速工程的卓越运营",
-        "title_en": "DRIVE – Operational Excellence for AI-accelerated engineering",
-        "title_original": "DRIVE – Operational Excellence for AI-accelerated engineering",
+        "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
+        "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+        "title_zh": "Moonshot AI 由于 Kimi K3 需求暂停新订阅",
+        "title_en": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+        "title_original": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=48968067",
+        "url": "https://news.ycombinator.com/item?id=48969291",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1131,7 +1127,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     },
     {
@@ -1208,15 +1204,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5685,
-      "importance": 0.5685,
-      "importance_score": 0.5685,
+      "score": 0.5585,
+      "importance": 0.5585,
+      "importance_score": 0.5585,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8598,
+        "recency": 0.8045,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,7 +1237,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     },
     {
@@ -1347,15 +1343,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
+      "score": 0.5261,
+      "importance": 0.5261,
+      "importance_score": 0.5261,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8036,
+        "recency": 0.7519,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1380,7 +1376,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     },
     {
@@ -1457,15 +1453,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5179,
-      "importance": 0.5179,
-      "importance_score": 0.5179,
+      "score": 0.5081,
+      "importance": 0.5081,
+      "importance_score": 0.5081,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8448,
+        "recency": 0.7905,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1490,7 +1486,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
+      }
+    },
+    {
+      "story_id": "story_0ebdebd76392",
+      "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
+      "url": "https://news.ycombinator.com/item?id=48968067",
+      "primary_url": "https://news.ycombinator.com/item?id=48968067",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "70ee0ac4f331ec5e5e537493f5fd6fef636affad",
+          "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
+          "title_zh": "DRIVE – 人工智能加速工程的卓越运营",
+          "title_en": "DRIVE – Operational Excellence for AI-accelerated engineering",
+          "title_original": "DRIVE – Operational Excellence for AI-accelerated engineering",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48968067",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T15:19:28.034000Z"
+        },
+        {
+          "id": "e1fb3ee308303cdbd693ef50249845ceccb7b60d",
+          "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
+          "title_zh": "DRIVE – 人工智能加速工程的卓越运营",
+          "title_en": "DRIVE – Operational Excellence for AI-accelerated engineering",
+          "title_original": "DRIVE – Operational Excellence for AI-accelerated engineering",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cortex.io/drive",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T13:30:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "70ee0ac4f331ec5e5e537493f5fd6fef636affad",
+          "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
+          "title_zh": "DRIVE – 人工智能加速工程的卓越运营",
+          "title_en": "DRIVE – Operational Excellence for AI-accelerated engineering",
+          "title_original": "DRIVE – Operational Excellence for AI-accelerated engineering",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48968067",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T15:19:28.034000Z"
+        },
+        {
+          "id": "e1fb3ee308303cdbd693ef50249845ceccb7b60d",
+          "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
+          "title_zh": "DRIVE – 人工智能加速工程的卓越运营",
+          "title_en": "DRIVE – Operational Excellence for AI-accelerated engineering",
+          "title_original": "DRIVE – Operational Excellence for AI-accelerated engineering",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cortex.io/drive",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T13:30:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9324,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T13:30:01Z",
+      "latest_at": "2026-07-19T15:19:28.034000Z",
+      "primary_item": {
+        "id": "70ee0ac4f331ec5e5e537493f5fd6fef636affad",
+        "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
+        "title_zh": "DRIVE – 人工智能加速工程的卓越运营",
+        "title_en": "DRIVE – Operational Excellence for AI-accelerated engineering",
+        "title_original": "DRIVE – Operational Excellence for AI-accelerated engineering",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=48968067",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     },
     {
@@ -1567,15 +1673,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9404,
+        "recency": 0.88,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1600,146 +1706,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
-      }
-    },
-    {
-      "story_id": "story_dad2bbf2a5ce",
-      "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://news.ycombinator.com/item?id=48959392",
-      "primary_url": "https://news.ycombinator.com/item?id=48959392",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_zh": "设置您的备用 Mac 以供 Claude Code 控制，分步指南",
-          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48959392",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T19:55:48.411000Z"
-        },
-        {
-          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "title_en": null,
-          "title_original": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "ykdojo.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T19:37:23.960000Z"
-        },
-        {
-          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T16:12:08Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "ykdojo.github.io"
-      ],
-      "items": [
-        {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_zh": "设置您的备用 Mac 以供 Claude Code 控制，分步指南",
-          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48959392",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T19:55:48.411000Z"
-        },
-        {
-          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "title_en": null,
-          "title_original": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "ykdojo.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T19:37:23.960000Z"
-        },
-        {
-          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T16:12:08Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7531,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T16:12:08Z",
-      "latest_at": "2026-07-18T19:55:48.411000Z",
-      "primary_item": {
-        "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-        "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "title_zh": "设置您的备用 Mac 以供 Claude Code 控制，分步指南",
-        "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=48959392",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     },
     {
@@ -1816,15 +1783,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5062,
-      "importance": 0.5062,
-      "importance_score": 0.5062,
+      "score": 0.4972,
+      "importance": 0.4972,
+      "importance_score": 0.4972,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7801,
+        "recency": 0.73,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1846,120 +1813,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
-      }
-    },
-    {
-      "story_id": "story_e2c93b777179",
-      "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
-      "url": "https://news.ycombinator.com/item?id=48961157",
-      "primary_url": "https://news.ycombinator.com/item?id=48961157",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
-          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
-          "title_zh": "最近代理每周随机配额重置是怎么回事？",
-          "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
-          "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48961157",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T19:55:48.411000Z"
-        },
-        {
-          "id": "90dc327dda5d467370c58ef1366bb6deaa5d0af4",
-          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
-          "title_zh": "最近代理每周随机配额重置是怎么回事？",
-          "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
-          "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://minimaxir.com/2026/07/agent-quota-reset",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T19:06:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
-          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
-          "title_zh": "最近代理每周随机配额重置是怎么回事？",
-          "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
-          "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48961157",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T19:55:48.411000Z"
-        },
-        {
-          "id": "90dc327dda5d467370c58ef1366bb6deaa5d0af4",
-          "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
-          "title_zh": "最近代理每周随机配额重置是怎么回事？",
-          "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
-          "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://minimaxir.com/2026/07/agent-quota-reset",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T19:06:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5014,
-      "importance": 0.5014,
-      "importance_score": 0.5014,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7531,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T19:06:23Z",
-      "latest_at": "2026-07-18T19:55:48.411000Z",
-      "primary_item": {
-        "id": "d603199de75c2a552f7ad9d757baf9a195c95274",
-        "title": "最近代理每周随机配额重置是怎么回事？ / What's the deal with all the random weekly quota resets for agents lately?",
-        "title_zh": "最近代理每周随机配额重置是怎么回事？",
-        "title_en": "What's the deal with all the random weekly quota resets for agents lately?",
-        "title_original": "What's the deal with all the random weekly quota resets for agents lately?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=48961157",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:34:48.357507Z"
+        "scored_at": "2026-07-19T20:11:00.458669Z"
       }
     }
   ]
