@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T17:12:38.172361Z",
+  "generated_at": "2026-07-20T23:35:03.386641Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8568,
-      "importance": 0.8568,
-      "importance_score": 0.8568,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9824,
+        "recency": 0.896,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
+        "scored_at": "2026-07-20T23:36:01.915863Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8489,
-      "importance": 0.8489,
-      "importance_score": 0.8489,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9827,
+        "recency": 0.8963,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
+        "scored_at": "2026-07-20T23:36:01.915863Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9011,
+        "recency": 0.8219,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,30 +249,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
+        "scored_at": "2026-07-20T23:36:01.915863Z"
       }
     },
     {
-      "story_id": "story_855107c88571",
-      "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "story_id": "story_7f388aa5cb3e",
+      "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "primary_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_en": null,
+          "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
+          "recommend_reason_zh": null,
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "title_zh": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "title_en": null,
+          "title_original": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "unslop.run",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "3c5cafa69cae492adc835a138f64ec57c7d6bfdb",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_en": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_original": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T16:36:36Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "unslop.run"
+      ],
+      "items": [
+        {
+          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_en": null,
+          "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
+          "recommend_reason_zh": null,
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "title_zh": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "title_en": null,
+          "title_original": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "unslop.run",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "3c5cafa69cae492adc835a138f64ec57c7d6bfdb",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_en": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_original": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T16:36:36Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9289,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T16:36:36Z",
+      "latest_at": "2026-07-20T18:28:23.600000Z",
+      "primary_item": {
+        "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+        "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+        "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+        "title_en": null,
+        "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+        "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
+        "recommend_reason_zh": null,
+        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T23:36:01.915863Z"
+      }
+    },
+    {
+      "story_id": "story_28447d453d58",
+      "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+      "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+      "primary_url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-          "title_zh": "GitHub 代码质量现已普遍可用",
-          "title_en": "GitHub Code Quality is now generally available",
-          "title_original": "GitHub Code Quality is now generally available",
+          "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+          "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+          "title_zh": "计费 UI 中成本中心的 AI 信用池",
+          "title_en": "AI credit pools for cost centers in the billing UI",
+          "title_original": "AI credit pools for cost centers in the billing UI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-20T13:01:24Z"
+          "published_at": "2026-07-20T18:24:14Z"
         }
       ],
       "source_count": 1,
@@ -281,31 +422,31 @@
       ],
       "items": [
         {
-          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-          "title_zh": "GitHub 代码质量现已普遍可用",
-          "title_en": "GitHub Code Quality is now generally available",
-          "title_original": "GitHub Code Quality is now generally available",
+          "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+          "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+          "title_zh": "计费 UI 中成本中心的 AI 信用池",
+          "title_en": "AI credit pools for cost centers in the billing UI",
+          "title_original": "AI credit pools for cost centers in the billing UI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-20T13:01:24Z"
+          "published_at": "2026-07-20T18:24:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.831,
+      "importance": 0.831,
+      "importance_score": 0.831,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9413,
+        "recency": 0.9279,
         "story_heat": 0.0
       },
       "category": "official",
@@ -314,17 +455,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T13:01:24Z",
-      "latest_at": "2026-07-20T13:01:24Z",
+      "earliest_at": "2026-07-20T18:24:14Z",
+      "latest_at": "2026-07-20T18:24:14Z",
       "primary_item": {
-        "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-        "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-        "title_zh": "GitHub 代码质量现已普遍可用",
-        "title_en": "GitHub Code Quality is now generally available",
-        "title_original": "GitHub Code Quality is now generally available",
+        "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+        "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+        "title_zh": "计费 UI 中成本中心的 AI 信用池",
+        "title_en": "AI credit pools for cost centers in the billing UI",
+        "title_original": "AI credit pools for cost centers in the billing UI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+        "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -332,7 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
+        "scored_at": "2026-07-20T23:36:01.915863Z"
       }
     },
     {
@@ -409,15 +550,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.8486,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -444,7 +585,415 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
+        "scored_at": "2026-07-20T23:36:01.915863Z"
+      }
+    },
+    {
+      "story_id": "story_855107c88571",
+      "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+          "title_zh": "GitHub 代码质量现已普遍可用",
+          "title_en": "GitHub Code Quality is now generally available",
+          "title_original": "GitHub Code Quality is now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T13:01:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+          "title_zh": "GitHub 代码质量现已普遍可用",
+          "title_en": "GitHub Code Quality is now generally available",
+          "title_original": "GitHub Code Quality is now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T13:01:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8586,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T13:01:24Z",
+      "latest_at": "2026-07-20T13:01:24Z",
+      "primary_item": {
+        "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+        "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+        "title_zh": "GitHub 代码质量现已普遍可用",
+        "title_en": "GitHub Code Quality is now generally available",
+        "title_original": "GitHub Code Quality is now generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T23:36:01.915863Z"
+      }
+    },
+    {
+      "story_id": "story_1d380b987a08",
+      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
+      "url": "https://x.ai/news/introducing-excel-addin",
+      "primary_url": "https://x.ai/news/introducing-excel-addin",
+      "source": "xAI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
+          "title_zh": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+          "title_en": "Grok for Excel",
+          "title_original": "Grok for Excel",
+          "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
+          "recommend_reason_zh": null,
+          "url": "https://x.ai/news/introducing-excel-addin",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T16:19:52.655000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "xAI：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
+          "title_zh": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+          "title_en": "Grok for Excel",
+          "title_original": "Grok for Excel",
+          "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
+          "recommend_reason_zh": null,
+          "url": "https://x.ai/news/introducing-excel-addin",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T16:19:52.655000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9006,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T16:19:52.655000Z",
+      "latest_at": "2026-07-20T16:19:52.655000Z",
+      "primary_item": {
+        "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+        "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
+        "title_zh": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+        "title_en": "Grok for Excel",
+        "title_original": "Grok for Excel",
+        "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
+        "recommend_reason_zh": null,
+        "url": "https://x.ai/news/introducing-excel-addin",
+        "source": "xAI：News（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T23:36:01.915863Z"
+      }
+    },
+    {
+      "story_id": "story_c1a4355fdb3f",
+      "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+      "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
+      "primary_url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
+          "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+          "title_zh": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+          "title_en": null,
+          "title_original": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+          "summary": "面壁智能联合 OpenBMB 发布并开源 MiniCPM-Robot 系列，包括通用 VLA 模型 MiniCPM-RobotManip（1.5B 参数）与移动跟踪模型 MiniCPM-RobotTrack（0.9B 参数）。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T03:54:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：面壁智能（MiniCPM）"
+      ],
+      "items": [
+        {
+          "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
+          "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+          "title_zh": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+          "title_en": null,
+          "title_original": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+          "summary": "面壁智能联合 OpenBMB 发布并开源 MiniCPM-Robot 系列，包括通用 VLA 模型 MiniCPM-RobotManip（1.5B 参数）与移动跟踪模型 MiniCPM-RobotTrack（0.9B 参数）。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T03:54:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7526,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T03:54:08Z",
+      "latest_at": "2026-07-20T03:54:08Z",
+      "primary_item": {
+        "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
+        "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+        "title_zh": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+        "title_en": null,
+        "title_original": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+        "summary": "面壁智能联合 OpenBMB 发布并开源 MiniCPM-Robot 系列，包括通用 VLA 模型 MiniCPM-RobotManip（1.5B 参数）与移动跟踪模型 MiniCPM-RobotTrack（0.9B 参数）。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T23:36:01.915863Z"
+      }
+    },
+    {
+      "story_id": "story_b4c0af9f3389",
+      "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+      "url": "https://www.aibase.com/news/29725",
+      "primary_url": "https://www.aibase.com/news/29725",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
+          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "title_zh": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "title_en": null,
+          "title_original": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29725",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T10:34:26.119132Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
+          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "title_zh": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "title_en": null,
+          "title_original": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29725",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T10:34:26.119132Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8287,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T10:34:26.119132Z",
+      "latest_at": "2026-07-20T10:34:26.119132Z",
+      "primary_item": {
+        "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
+        "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+        "title_zh": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+        "title_en": null,
+        "title_original": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29725",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T23:36:01.915863Z"
+      }
+    },
+    {
+      "story_id": "story_51df8a948c29",
+      "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》 / District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+      "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+      "primary_url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7a444cb04f8963eb2df183444c28ca7a82bd7f3c",
+          "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》 / District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+          "title_zh": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
+          "title_en": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+          "title_original": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+          "summary": "Neill Blomkamp发布了13分钟科幻恐怖短片《Nightborne》，完全使用Seedance 2.0视频生成模型通过文本提示逐帧创作。影片采用纪录片风格，使用了32位真实人物的面部和声音（已获授权），人类艺术家负责概念艺术。Blomkamp表示计划以相同格式拍摄一部长片，并已创立AI电影工作室Barley Studios。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T17:32:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7a444cb04f8963eb2df183444c28ca7a82bd7f3c",
+          "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》 / District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+          "title_zh": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
+          "title_en": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+          "title_original": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+          "summary": "Neill Blomkamp发布了13分钟科幻恐怖短片《Nightborne》，完全使用Seedance 2.0视频生成模型通过文本提示逐帧创作。影片采用纪录片风格，使用了32位真实人物的面部和声音（已获授权），人类艺术家负责概念艺术。Blomkamp表示计划以相同格式拍摄一部长片，并已创立AI电影工作室Barley Studios。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T17:32:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9165,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T17:32:41Z",
+      "latest_at": "2026-07-20T17:32:41Z",
+      "primary_item": {
+        "id": "7a444cb04f8963eb2df183444c28ca7a82bd7f3c",
+        "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》 / District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+        "title_zh": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
+        "title_en": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+        "title_original": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+        "summary": "Neill Blomkamp发布了13分钟科幻恐怖短片《Nightborne》，完全使用Seedance 2.0视频生成模型通过文本提示逐帧创作。影片采用纪录片风格，使用了32位真实人物的面部和声音（已获授权），人类艺术家负责概念艺术。Blomkamp表示计划以相同格式拍摄一部长片，并已创立AI电影工作室Barley Studios。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T23:36:01.915863Z"
       }
     },
     {
@@ -521,15 +1070,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9323,
+        "recency": 0.8503,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -556,365 +1105,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
-      }
-    },
-    {
-      "story_id": "story_907e8332c2ce",
-      "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地 / What to watch for after Jensen Huang's Japan visit",
-      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-      "primary_url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d9cbe80393053d6c52316ad019400ae6f9dee876",
-          "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地 / What to watch for after Jensen Huang's Japan visit",
-          "title_zh": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
-          "title_en": "What to watch for after Jensen Huang's Japan visit",
-          "title_original": "What to watch for after Jensen Huang's Japan visit",
-          "summary": "Nvidia CEO 黄仁勋在 7 月 15-16 日访日期间，宣布为日本建设\"Vera Rubin AI 工厂\"，配备 13，750 颗 Vera CPU 和 27，500 颗 Rubin GPU，预计 2028 年投运。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T21:16:07Z"
-        },
-        {
-          "id": "1f1ed1cab9a4f828722f54c64e9ed77eb67682e8",
-          "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地 / What to watch for after Jensen Huang’s Japan visit",
-          "title_zh": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
-          "title_en": "What to watch for after Jensen Huang’s Japan visit",
-          "title_original": "What to watch for after Jensen Huang’s Japan visit",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-19T21:16:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d9cbe80393053d6c52316ad019400ae6f9dee876",
-          "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地 / What to watch for after Jensen Huang's Japan visit",
-          "title_zh": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
-          "title_en": "What to watch for after Jensen Huang's Japan visit",
-          "title_original": "What to watch for after Jensen Huang's Japan visit",
-          "summary": "Nvidia CEO 黄仁勋在 7 月 15-16 日访日期间，宣布为日本建设\"Vera Rubin AI 工厂\"，配备 13，750 颗 Vera CPU 和 27，500 颗 Rubin GPU，预计 2028 年投运。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T21:16:07Z"
-        },
-        {
-          "id": "1f1ed1cab9a4f828722f54c64e9ed77eb67682e8",
-          "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地 / What to watch for after Jensen Huang’s Japan visit",
-          "title_zh": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
-          "title_en": "What to watch for after Jensen Huang’s Japan visit",
-          "title_original": "What to watch for after Jensen Huang’s Japan visit",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-19T21:16:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7498,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-19T21:16:07Z",
-      "latest_at": "2026-07-19T21:16:07Z",
-      "primary_item": {
-        "id": "d9cbe80393053d6c52316ad019400ae6f9dee876",
-        "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地 / What to watch for after Jensen Huang's Japan visit",
-        "title_zh": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
-        "title_en": "What to watch for after Jensen Huang's Japan visit",
-        "title_original": "What to watch for after Jensen Huang's Japan visit",
-        "summary": "Nvidia CEO 黄仁勋在 7 月 15-16 日访日期间，宣布为日本建设\"Vera Rubin AI 工厂\"，配备 13，750 颗 Vera CPU 和 27，500 颗 Rubin GPU，预计 2028 年投运。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
-      }
-    },
-    {
-      "story_id": "story_1d380b987a08",
-      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
-      "url": "https://x.ai/news/introducing-excel-addin",
-      "primary_url": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
-          "title_zh": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-          "title_en": "Grok for Excel",
-          "title_original": "Grok for Excel",
-          "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
-          "recommend_reason_zh": null,
-          "url": "https://x.ai/news/introducing-excel-addin",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T16:19:52.655000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "xAI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
-          "title_zh": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-          "title_en": "Grok for Excel",
-          "title_original": "Grok for Excel",
-          "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
-          "recommend_reason_zh": null,
-          "url": "https://x.ai/news/introducing-excel-addin",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T16:19:52.655000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9874,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T16:19:52.655000Z",
-      "latest_at": "2026-07-20T16:19:52.655000Z",
-      "primary_item": {
-        "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-        "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
-        "title_zh": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-        "title_en": "Grok for Excel",
-        "title_original": "Grok for Excel",
-        "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
-        "recommend_reason_zh": null,
-        "url": "https://x.ai/news/introducing-excel-addin",
-        "source": "xAI：News（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
-      }
-    },
-    {
-      "story_id": "story_b4c0af9f3389",
-      "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-      "url": "https://www.aibase.com/news/29725",
-      "primary_url": "https://www.aibase.com/news/29725",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
-          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-          "title_zh": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-          "title_en": null,
-          "title_original": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29725",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:34:26.119132Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
-          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-          "title_zh": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-          "title_en": null,
-          "title_original": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29725",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:34:26.119132Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9086,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T10:34:26.119132Z",
-      "latest_at": "2026-07-20T10:34:26.119132Z",
-      "primary_item": {
-        "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
-        "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-        "title_zh": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-        "title_en": null,
-        "title_original": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29725",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
-      }
-    },
-    {
-      "story_id": "story_c1a4355fdb3f",
-      "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-      "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-      "primary_url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
-          "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-          "title_zh": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-          "title_en": null,
-          "title_original": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-          "summary": "面壁智能联合 OpenBMB 发布并开源 MiniCPM-Robot 系列，包括通用 VLA 模型 MiniCPM-RobotManip（1.5B 参数）与移动跟踪模型 MiniCPM-RobotTrack（0.9B 参数）。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T03:54:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
-          "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-          "title_zh": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-          "title_en": null,
-          "title_original": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-          "summary": "面壁智能联合 OpenBMB 发布并开源 MiniCPM-Robot 系列，包括通用 VLA 模型 MiniCPM-RobotManip（1.5B 参数）与移动跟踪模型 MiniCPM-RobotTrack（0.9B 参数）。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T03:54:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8252,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T03:54:08Z",
-      "latest_at": "2026-07-20T03:54:08Z",
-      "primary_item": {
-        "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
-        "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-        "title_zh": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-        "title_en": null,
-        "title_original": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-        "summary": "面壁智能联合 OpenBMB 发布并开源 MiniCPM-Robot 系列，包括通用 VLA 模型 MiniCPM-RobotManip（1.5B 参数）与移动跟踪模型 MiniCPM-RobotTrack（0.9B 参数）。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
+        "scored_at": "2026-07-20T23:36:01.915863Z"
       }
     },
     {
@@ -962,15 +1153,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9829,
+        "recency": 0.8965,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -995,88 +1186,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
-      }
-    },
-    {
-      "story_id": "story_2d573d7d3b45",
-      "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-      "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-      "primary_url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-      "source": "公众号：通义实验室（千问）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
-          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "title_en": null,
-          "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:53:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：通义实验室（千问）"
-      ],
-      "items": [
-        {
-          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
-          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "title_en": null,
-          "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:53:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8867,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T08:53:11Z",
-      "latest_at": "2026-07-20T08:53:11Z",
-      "primary_item": {
-        "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
-        "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-        "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-        "title_en": null,
-        "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-        "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-        "source": "公众号：通义实验室（千问）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
+        "scored_at": "2026-07-20T23:36:01.915863Z"
       }
     },
     {
@@ -1124,15 +1234,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7814,
+        "recency": 0.7127,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1157,7 +1267,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
+        "scored_at": "2026-07-20T23:36:01.915863Z"
+      }
+    },
+    {
+      "story_id": "story_2d573d7d3b45",
+      "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+      "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+      "primary_url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+      "source": "公众号：通义实验室（千问）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "title_en": null,
+          "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T08:53:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：通义实验室（千问）"
+      ],
+      "items": [
+        {
+          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "title_en": null,
+          "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T08:53:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8088,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T08:53:11Z",
+      "latest_at": "2026-07-20T08:53:11Z",
+      "primary_item": {
+        "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+        "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+        "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+        "title_en": null,
+        "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+        "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+        "source": "公众号：通义实验室（千问）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T23:36:01.915863Z"
       }
     },
     {
@@ -1205,15 +1396,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.7233,
+      "importance": 0.7233,
+      "importance_score": 0.7233,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.863,
+        "recency": 0.7871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1238,88 +1429,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
-      }
-    },
-    {
-      "story_id": "story_193fb0c41321",
-      "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-      "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-      "primary_url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a58c6c23b9542f0c7c9bb1c209685c293ba58241",
-          "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-          "title_zh": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-          "title_en": null,
-          "title_original": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-          "summary": "小红书与北大提出 UltraEP，首次将基于精确路由信息的实时负载均衡引入生产系统，在每个 microbatch 和每一层动态复制热点专家。在 Qwen3-235B 等模型上，训练吞吐平均达到理想性能的 94.6%，相比 Megatron-LM 提升 42%；推理 prefill 吞吐相比 SGLang 提升 1.56 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:00:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "a58c6c23b9542f0c7c9bb1c209685c293ba58241",
-          "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-          "title_zh": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-          "title_en": null,
-          "title_original": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-          "summary": "小红书与北大提出 UltraEP，首次将基于精确路由信息的实时负载均衡引入生产系统，在每个 microbatch 和每一层动态复制热点专家。在 Qwen3-235B 等模型上，训练吞吐平均达到理想性能的 94.6%，相比 Megatron-LM 提升 42%；推理 prefill 吞吐相比 SGLang 提升 1.56 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:00:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8756,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T08:00:45Z",
-      "latest_at": "2026-07-20T08:00:45Z",
-      "primary_item": {
-        "id": "a58c6c23b9542f0c7c9bb1c209685c293ba58241",
-        "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-        "title_zh": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-        "title_en": null,
-        "title_original": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-        "summary": "小红书与北大提出 UltraEP，首次将基于精确路由信息的实时负载均衡引入生产系统，在每个 microbatch 和每一层动态复制热点专家。在 Qwen3-235B 等模型上，训练吞吐平均达到理想性能的 94.6%，相比 Megatron-LM 提升 42%；推理 prefill 吞吐相比 SGLang 提升 1.56 倍。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
+        "scored_at": "2026-07-20T23:36:01.915863Z"
       }
     },
     {
@@ -1367,21 +1477,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9086,
+        "recency": 0.8287,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T10:34:26.119132Z",
       "latest_at": "2026-07-20T10:34:26.119132Z",
@@ -1401,88 +1510,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
-      }
-    },
-    {
-      "story_id": "story_f6458dd26113",
-      "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "primary_url": "https://ollama.com/blog/all-aboard-open-models",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "title_zh": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "title_en": null,
-          "title_original": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
-          "recommend_reason_zh": null,
-          "url": "https://ollama.com/blog/all-aboard-open-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T01:45:09.765000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "title_zh": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "title_en": null,
-          "title_original": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
-          "recommend_reason_zh": null,
-          "url": "https://ollama.com/blog/all-aboard-open-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T01:45:09.765000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7999,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T01:45:09.765000Z",
-      "latest_at": "2026-07-20T01:45:09.765000Z",
-      "primary_item": {
-        "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-        "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-        "title_zh": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-        "title_en": null,
-        "title_original": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-        "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
-        "recommend_reason_zh": null,
-        "url": "https://ollama.com/blog/all-aboard-open-models",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
+        "scored_at": "2026-07-20T23:36:01.915863Z"
       }
     },
     {
@@ -1530,21 +1558,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9086,
+        "recency": 0.8287,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T10:34:26.119132Z",
       "latest_at": "2026-07-20T10:34:26.119132Z",
@@ -1564,7 +1591,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
+        "scored_at": "2026-07-20T23:36:01.915863Z"
+      }
+    },
+    {
+      "story_id": "story_f6458dd26113",
+      "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "primary_url": "https://ollama.com/blog/all-aboard-open-models",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
+          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+          "title_zh": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+          "title_en": null,
+          "title_original": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+          "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
+          "recommend_reason_zh": null,
+          "url": "https://ollama.com/blog/all-aboard-open-models",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T01:45:09.765000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
+          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+          "title_zh": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+          "title_en": null,
+          "title_original": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+          "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
+          "recommend_reason_zh": null,
+          "url": "https://ollama.com/blog/all-aboard-open-models",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T01:45:09.765000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7296,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T01:45:09.765000Z",
+      "latest_at": "2026-07-20T01:45:09.765000Z",
+      "primary_item": {
+        "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
+        "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+        "title_zh": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+        "title_en": null,
+        "title_original": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+        "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
+        "recommend_reason_zh": null,
+        "url": "https://ollama.com/blog/all-aboard-open-models",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T23:36:01.915863Z"
       }
     },
     {
@@ -1612,21 +1720,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9086,
+        "recency": 0.8287,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T10:34:26.119132Z",
       "latest_at": "2026-07-20T10:34:26.119132Z",
@@ -1646,89 +1753,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
-      }
-    },
-    {
-      "story_id": "story_d18258ee5eba",
-      "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-      "url": "https://www.aibase.com/news/29722",
-      "primary_url": "https://www.aibase.com/news/29722",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-          "title_zh": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-          "title_en": null,
-          "title_original": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29722",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:34:26.119132Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-          "title_zh": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-          "title_en": null,
-          "title_original": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29722",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:34:26.119132Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9086,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T10:34:26.119132Z",
-      "latest_at": "2026-07-20T10:34:26.119132Z",
-      "primary_item": {
-        "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-        "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-        "title_zh": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-        "title_en": null,
-        "title_original": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29722",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T17:13:39.356637Z"
+        "scored_at": "2026-07-20T23:36:01.915863Z"
       }
     }
   ]
