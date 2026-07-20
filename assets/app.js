@@ -128,6 +128,111 @@ const SOURCE_KINDS = {
   opmlrss: { label: "OPML", tone: "newsletter" },
 };
 
+// 面向普通读者的来源说明。只陈述当前抓取路径中可以确认的事实，不把聚合站
+// 误写成原创媒体，也不把高级/私有适配器包装成默认来源。
+const SOURCE_EXPLANATIONS = {
+  official_ai: {
+    name: "官方 AI 更新",
+    summary: "直接读取 AI 公司、研究机构和开发平台的官方 RSS、更新日志或新闻页面。",
+    caveat: "通常是一手信息，适合确认产品发布和能力变化；仍需留意官方宣传口径。",
+  },
+  curated_media: {
+    name: "精选 AI 媒体",
+    summary: "从公开 AI/科技媒体 RSS 中筛选与模型、产品、研究和基础设施相关的报道。",
+    caveat: "属于媒体二次报道，重要结论建议继续查看文中引用的官方出处。",
+  },
+  aibreakfast: {
+    name: "AI Breakfast",
+    summary: "通过公开 Newsletter 归档页读取的 AI 日报，适合快速发现当天话题。",
+    caveat: "它是编辑整理后的二手摘要，不等同于原始新闻来源。",
+  },
+  followbuilders: {
+    name: "Follow Builders",
+    summary: "读取另一个 GitHub 项目公开生成的 X、博客和播客 Feed，不在本项目里复制它的社交平台抓取流程。",
+    caveat: "适合发现从业者观点；内容可能是个人判断，不应直接当作已确认事实。",
+  },
+  techurls: {
+    name: "TechURLs",
+    summary: "聚合多家科技媒体标题并链接回各自原文，用来补充跨媒体热点。",
+    caveat: "这是聚合入口，卡片内容和可信度取决于它指向的原始媒体。",
+  },
+  buzzing: {
+    name: "Buzzing",
+    summary: "通过公开 JSON Feed 汇总技术社区和媒体条目，并保留原文链接。",
+    caveat: "属于聚合信号，遇到重要消息应查看原文及其引用来源。",
+  },
+  iris: {
+    name: "Info Flow",
+    summary: "从公开信息流页面发现一组 RSS Feed，再逐个读取可用的子来源。",
+    caveat: "不同子 Feed 的质量和稳定性不一；单个 Feed 失败不会影响其他来源。",
+  },
+  bestblogs: {
+    name: "BestBlogs",
+    summary: "读取 BestBlogs 的公开 Newsletter 列表，提供经过编辑整理的博客选题线索。",
+    caveat: "它是二次精选入口，深入阅读时应继续打开对应文章。",
+  },
+  zeli: {
+    name: "Zeli",
+    summary: "读取 Zeli 提供的 Hacker News 近 24 小时热门条目，链接通常指向原始文章。",
+    caveat: "它反映社区热度，不代表内容已经过事实核查。",
+  },
+  hackernews: {
+    name: "Hacker News",
+    summary: "通过 HN Algolia 公共接口筛选近 24 小时有一定积分或评论量的 AI 相关讨论。",
+    caveat: "正文来自外部网站，HN 页面是社区评论；两者观点需要分开理解。",
+  },
+  aihubtoday: {
+    name: "AI HubToday",
+    summary: "从公开中文 RSS 日报读取 AI 资讯条目，用来补充中文摘要和产品动态。",
+    caveat: "属于二次整理来源，重要消息建议继续追溯官方原文。",
+  },
+  aibase: {
+    name: "AIbase",
+    summary: "抓取 AIbase 中文 AI 资讯页，覆盖模型、产品、公司和行业动态。",
+    caveat: "它是中文科技资讯媒体而非事件当事方；重大消息应同时核对官方来源。",
+  },
+  aihot: {
+    name: "AI HOT",
+    summary: "读取 AI HOT 的公开精选 API；其中的条目可能来自 X、公众号、Hacker News、RSS 或其他公开页面。",
+    caveat: "AI HOT 是聚合和编辑入口，卡片上的子来源标签才表示原始渠道类型。",
+  },
+  newsnow: {
+    name: "NewsNow",
+    summary: "聚合 Hacker News、GitHub、Product Hunt 和中文技术社区等公开热榜。",
+    caveat: "热榜只能说明讨论度，不能单独证明内容的重要性或真实性。",
+  },
+  waytoagi: {
+    name: "WaytoAGI",
+    summary: "读取 WaytoAGI 公开飞书知识库的更新记录，作为中文 AI 社区资料变化信号。",
+    caveat: "它更接近社区知识库更新，不是传统新闻媒体。",
+  },
+  opmlrss: {
+    name: "OPML / RSS",
+    summary: "从配置的 OPML 订阅列表逐个读取公开 RSS 或 Atom Feed。",
+    caveat: "具体可信度取决于卡片显示的实际 Feed；单个订阅失败不会阻塞整轮更新。",
+  },
+  xapi: {
+    name: "X API",
+    summary: "通过维护者自己的 X API 凭证读取公开帖子，属于可选的私密高级来源。",
+    caveat: "帖子是作者观点或即时线索，不应自动视为已核实新闻。",
+  },
+  socialdata_x: {
+    name: "SocialData X",
+    summary: "通过第三方 SocialData API 搜索公开 X 帖子，属于可选的付费高级来源。",
+    caveat: "依赖第三方 API 覆盖和配额，内容同样可能只是个人观点。",
+  },
+  tikhub_douyin: {
+    name: "TikHub 抖音",
+    summary: "通过 TikHub 付费 API 读取公开抖音搜索结果，属于可选的创作者来源。",
+    caveat: "热度不等于专业性，且第三方接口可能受配额和平台变化影响。",
+  },
+  tikhub_xiaohongshu: {
+    name: "TikHub 小红书",
+    summary: "通过 TikHub 付费 API 读取公开小红书搜索结果，属于可选的创作者来源。",
+    caveat: "内容偏个人经验和产品体验，需与官方资料或其他来源交叉核对。",
+  },
+};
+
 // aihotSubSource() 结果 → 卡片小标签文案/色调，色调复用既有 .category.kind-* 规则，不新增样式
 const AIHOT_SUB_LABELS = { x: "X", wechat: "公众号", hn: "HN", rss: "RSS" };
 const AIHOT_SUB_TONES = { x: "builders", wechat: "creator", hn: "aggregate", rss: "newsletter" };
@@ -610,6 +715,70 @@ function setSourceBadge(el, label, tone = "default", title = "") {
   text.className = "source-chip-label";
   text.textContent = label || "来源";
   el.append(dot, text);
+}
+
+function sourceExplanation(item) {
+  const base = SOURCE_EXPLANATIONS[String(item?.site_id || "")];
+  if (!base) {
+    return {
+      name: item?.site_name || item?.source || "当前来源",
+      summary: "这是雷达抓取到的公开信息来源；可通过原文链接确认具体发布者和上下文。",
+      caveat: "来源尚无单独说明时，不要仅凭聚合标题判断事实，重要内容请继续查看原文。",
+    };
+  }
+  if (item?.site_id !== "aihot") return base;
+  const sub = aihotSubSource(item);
+  const subNotes = {
+    x: "这条线索的原始渠道标记为 X。",
+    wechat: "这条线索的原始渠道标记为公众号。",
+    hn: "这条线索的原始渠道标记为 Hacker News。",
+    rss: "这条线索的原始渠道标记为 RSS。",
+  };
+  return subNotes[sub] ? { ...base, summary: `${base.summary}${subNotes[sub]}` } : base;
+}
+
+function attachSourceExplanation(sourceEl, item, cardNode) {
+  const info = sourceExplanation(item);
+  const marker = document.createElement("span");
+  marker.className = "source-info-marker";
+  marker.textContent = "i";
+  marker.setAttribute("aria-hidden", "true");
+  sourceEl.appendChild(marker);
+  sourceEl.classList.add("source-info-toggle");
+  sourceEl.setAttribute("role", "button");
+  sourceEl.setAttribute("tabindex", "0");
+  sourceEl.setAttribute("aria-expanded", "false");
+  sourceEl.setAttribute("aria-label", `了解来源：${info.name}`);
+  sourceEl.title = `${sourceEl.title ? `${sourceEl.title} · ` : ""}点击查看来源说明`;
+
+  let panel = null;
+  const toggle = () => {
+    if (!panel) {
+      panel = document.createElement("aside");
+      panel.className = "source-info-panel";
+      panel.hidden = true;
+
+      const heading = document.createElement("strong");
+      heading.textContent = info.name;
+      const summary = document.createElement("p");
+      summary.textContent = info.summary;
+      const caveat = document.createElement("p");
+      caveat.className = "source-info-caveat";
+      caveat.textContent = `阅读提示：${info.caveat}`;
+      panel.append(heading, summary, caveat);
+      (cardNode.querySelector(".news-card-body") || cardNode).appendChild(panel);
+    }
+    const expanded = sourceEl.getAttribute("aria-expanded") === "true";
+    sourceEl.setAttribute("aria-expanded", String(!expanded));
+    panel.hidden = expanded;
+  };
+
+  sourceEl.addEventListener("click", toggle);
+  sourceEl.addEventListener("keydown", (event) => {
+    if (event.key !== "Enter" && event.key !== " ") return;
+    event.preventDefault();
+    toggle();
+  });
 }
 
 function sourceTierPercent(item) {
@@ -1403,6 +1572,7 @@ function renderItemNode(row) {
   const sourceEl = node.querySelector(".source");
   const sourceLabel = sourceSignal(item);
   setSourceBadge(sourceEl, sourceLabel, sourceSignalTone(sourceLabel), item.source ? `分区: ${item.source}` : "");
+  attachSourceExplanation(sourceEl, item, node);
   if (rowSourceCount(row) > 1) {
     sourceEl.title = `${sourceEl.title || ""} · 共 ${fmtNumber(rowSourceCount(row))} 个来源`.replace(/^ · /, "");
   }

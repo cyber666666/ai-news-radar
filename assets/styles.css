@@ -1210,6 +1210,31 @@ summary:focus-visible {
   font-weight: 650;
 }
 
+.source-info-toggle {
+  cursor: pointer;
+  user-select: none;
+}
+
+.source-info-toggle:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.source-info-marker {
+  display: inline-grid;
+  width: 13px;
+  height: 13px;
+  place-items: center;
+  flex: 0 0 auto;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  font-family: Georgia, serif;
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 1;
+  opacity: 0.72;
+}
+
 .ai-tag.hot {
   border-color: rgba(181, 82, 49, 0.3);
   background: rgba(181, 82, 49, 0.08);
@@ -1969,6 +1994,34 @@ summary:focus-visible {
   overflow-wrap: anywhere;
 }
 
+.source-info-panel {
+  margin-top: 5px;
+  border: 1px solid var(--line-soft);
+  border-radius: 8px;
+  padding: 10px 12px;
+  background: var(--surface-soft);
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.55;
+}
+
+.source-info-panel[hidden] {
+  display: none;
+}
+
+.source-info-panel strong {
+  color: var(--ink);
+  font-size: 12px;
+}
+
+.source-info-panel p {
+  margin: 3px 0 0;
+}
+
+.source-info-panel .source-info-caveat {
+  color: var(--muted);
+}
+
 .persona-slot:empty {
   display: none;
 }
@@ -2072,4 +2125,3 @@ summary:focus-visible {
   color: var(--accent);
   border-color: var(--accent);
 }
-
