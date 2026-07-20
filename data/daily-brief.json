@@ -1,8 +1,564 @@
 {
-  "generated_at": "2026-07-20T10:34:26.119132Z",
+  "generated_at": "2026-07-20T17:12:38.172361Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_36e0334205c9",
+      "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "primary_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
+          "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
+          "title_zh": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成",
+          "title_en": "Introducing Cosmos 3 Edge",
+          "title_original": "Introducing Cosmos 3 Edge",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T15:58:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
+          "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
+          "title_zh": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成",
+          "title_en": "Introducing Cosmos 3 Edge",
+          "title_original": "Introducing Cosmos 3 Edge",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T15:58:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8568,
+      "importance": 0.8568,
+      "importance_score": 0.8568,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9824,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T15:58:51Z",
+      "latest_at": "2026-07-20T15:58:51Z",
+      "primary_item": {
+        "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
+        "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
+        "title_zh": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成",
+        "title_en": "Introducing Cosmos 3 Edge",
+        "title_original": "Introducing Cosmos 3 Edge",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T17:13:39.356637Z"
+      }
+    },
+    {
+      "story_id": "story_c88404f53f8e",
+      "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
+      "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
+      "primary_url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c4797d399f3b08c3517e7396453d98a469814bc6",
+          "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
+          "title_zh": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分",
+          "title_en": "Copilot users can now see AI credits used per billing cycle",
+          "title_original": "Copilot users can now see AI credits used per billing cycle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T16:00:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c4797d399f3b08c3517e7396453d98a469814bc6",
+          "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
+          "title_zh": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分",
+          "title_en": "Copilot users can now see AI credits used per billing cycle",
+          "title_original": "Copilot users can now see AI credits used per billing cycle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T16:00:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8489,
+      "importance": 0.8489,
+      "importance_score": 0.8489,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9827,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T16:00:14Z",
+      "latest_at": "2026-07-20T16:00:14Z",
+      "primary_item": {
+        "id": "c4797d399f3b08c3517e7396453d98a469814bc6",
+        "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
+        "title_zh": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分",
+        "title_en": "Copilot users can now see AI credits used per billing cycle",
+        "title_original": "Copilot users can now see AI credits used per billing cycle",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T17:13:39.356637Z"
+      }
+    },
+    {
+      "story_id": "story_c56b2648b108",
+      "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系 / Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "primary_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c81dd37d71e440ff2dcd40744732287ef9858e55",
+          "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系 / Safety and alignment in an era of long-horizon models",
+          "title_zh": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
+          "title_en": "Safety and alignment in an era of long-horizon models",
+          "title_original": "Safety and alignment in an era of long-horizon models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c81dd37d71e440ff2dcd40744732287ef9858e55",
+          "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系 / Safety and alignment in an era of long-horizon models",
+          "title_zh": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
+          "title_en": "Safety and alignment in an era of long-horizon models",
+          "title_original": "Safety and alignment in an era of long-horizon models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9011,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T10:00:00Z",
+      "latest_at": "2026-07-20T10:00:00Z",
+      "primary_item": {
+        "id": "c81dd37d71e440ff2dcd40744732287ef9858e55",
+        "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系 / Safety and alignment in an era of long-horizon models",
+        "title_zh": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
+        "title_en": "Safety and alignment in an era of long-horizon models",
+        "title_original": "Safety and alignment in an era of long-horizon models",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T17:13:39.356637Z"
+      }
+    },
+    {
+      "story_id": "story_855107c88571",
+      "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+          "title_zh": "GitHub 代码质量现已普遍可用",
+          "title_en": "GitHub Code Quality is now generally available",
+          "title_original": "GitHub Code Quality is now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T13:01:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+          "title_zh": "GitHub 代码质量现已普遍可用",
+          "title_en": "GitHub Code Quality is now generally available",
+          "title_original": "GitHub Code Quality is now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T13:01:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9413,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T13:01:24Z",
+      "latest_at": "2026-07-20T13:01:24Z",
+      "primary_item": {
+        "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+        "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+        "title_zh": "GitHub 代码质量现已普遍可用",
+        "title_en": "GitHub Code Quality is now generally available",
+        "title_original": "GitHub Code Quality is now generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T17:13:39.356637Z"
+      }
+    },
+    {
+      "story_id": "story_23d7bae1d989",
+      "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure， and it used AI to fight back",
+      "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+      "primary_url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure， and it used AI to fight back",
+          "title_zh": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+          "title_en": "Hugging Face says an AI agent hacked its infrastructure， and it used AI to fight back",
+          "title_original": "Hugging Face says an AI agent hacked its infrastructure， and it used AI to fight back",
+          "summary": "Hugging Face 披露其部分生产基础设施遭一个自主AI智能体系统入侵，攻击者通过恶意数据集利用数据处理管道中的代码执行漏洞，窃取了内部数据集和多项服务凭证。该公司部署LLM驱动的分析智能体，在数小时内完成了对17000多条攻击行为的取证分析，而此类工作通常需要数天。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:12:47Z"
+        },
+        {
+          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+          "title_zh": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+          "title_en": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+          "title_original": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-20T12:12:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure， and it used AI to fight back",
+          "title_zh": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+          "title_en": "Hugging Face says an AI agent hacked its infrastructure， and it used AI to fight back",
+          "title_original": "Hugging Face says an AI agent hacked its infrastructure， and it used AI to fight back",
+          "summary": "Hugging Face 披露其部分生产基础设施遭一个自主AI智能体系统入侵，攻击者通过恶意数据集利用数据处理管道中的代码执行漏洞，窃取了内部数据集和多项服务凭证。该公司部署LLM驱动的分析智能体，在数小时内完成了对17000多条攻击行为的取证分析，而此类工作通常需要数天。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:12:47Z"
+        },
+        {
+          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+          "title_zh": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+          "title_en": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+          "title_original": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-20T12:12:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9304,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T12:12:47Z",
+      "latest_at": "2026-07-20T12:12:47Z",
+      "primary_item": {
+        "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
+        "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure， and it used AI to fight back",
+        "title_zh": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+        "title_en": "Hugging Face says an AI agent hacked its infrastructure， and it used AI to fight back",
+        "title_original": "Hugging Face says an AI agent hacked its infrastructure， and it used AI to fight back",
+        "summary": "Hugging Face 披露其部分生产基础设施遭一个自主AI智能体系统入侵，攻击者通过恶意数据集利用数据处理管道中的代码执行漏洞，窃取了内部数据集和多项服务凭证。该公司部署LLM驱动的分析智能体，在数小时内完成了对17000多条攻击行为的取证分析，而此类工作通常需要数天。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T17:13:39.356637Z"
+      }
+    },
+    {
+      "story_id": "story_f7f39d4701ab",
+      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "primary_url": "https://github.com/Saivineeth147/lora-speedrun",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "title_zh": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "title_en": null,
+          "title_original": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "summary": "LoRA Speedrun项目推出公开排行榜，在固定硬件（单张L40S）上比拼Qwen2.5-1.5B的微调运行时间。当前纪录由@Saivineeth147以6分05秒保持，采用序列打包与仅完成损失掩码技术，相比基线11分57秒提速约2倍且准确率更高（61.1%）。项目提供免费Modal沙箱验证，任何提交需经3次独立复现确认。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
+          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "title_zh": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "title_en": null,
+          "title_original": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "title_zh": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "title_en": null,
+          "title_original": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "summary": "LoRA Speedrun项目推出公开排行榜，在固定硬件（单张L40S）上比拼Qwen2.5-1.5B的微调运行时间。当前纪录由@Saivineeth147以6分05秒保持，采用序列打包与仅完成损失掩码技术，相比基线11分57秒提速约2倍且准确率更高（61.1%）。项目提供免费Modal沙箱验证，任何提交需经3次独立复现确认。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
+          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "title_zh": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "title_en": null,
+          "title_original": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9323,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T12:21:09.021000Z",
+      "latest_at": "2026-07-20T12:21:09.021000Z",
+      "primary_item": {
+        "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+        "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+        "title_zh": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+        "title_en": null,
+        "title_original": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+        "summary": "LoRA Speedrun项目推出公开排行榜，在固定硬件（单张L40S）上比拼Qwen2.5-1.5B的微调运行时间。当前纪录由@Saivineeth147以6分05秒保持，采用序列打包与仅完成损失掩码技术，相比基线11分57秒提速约2倍且准确率更高（61.1%）。项目提供免费Modal沙箱验证，任何提交需经3次独立复现确认。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/Saivineeth147/lora-speedrun",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T17:13:39.356637Z"
+      }
+    },
     {
       "story_id": "story_907e8332c2ce",
       "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地 / What to watch for after Jensen Huang's Japan visit",
@@ -77,15 +633,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8252,
+        "recency": 0.7498,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +668,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
+        "scored_at": "2026-07-20T17:13:39.356637Z"
+      }
+    },
+    {
+      "story_id": "story_1d380b987a08",
+      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
+      "url": "https://x.ai/news/introducing-excel-addin",
+      "primary_url": "https://x.ai/news/introducing-excel-addin",
+      "source": "xAI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
+          "title_zh": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+          "title_en": "Grok for Excel",
+          "title_original": "Grok for Excel",
+          "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
+          "recommend_reason_zh": null,
+          "url": "https://x.ai/news/introducing-excel-addin",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T16:19:52.655000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "xAI：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
+          "title_zh": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+          "title_en": "Grok for Excel",
+          "title_original": "Grok for Excel",
+          "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
+          "recommend_reason_zh": null,
+          "url": "https://x.ai/news/introducing-excel-addin",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T16:19:52.655000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9874,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T16:19:52.655000Z",
+      "latest_at": "2026-07-20T16:19:52.655000Z",
+      "primary_item": {
+        "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+        "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
+        "title_zh": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+        "title_en": "Grok for Excel",
+        "title_original": "Grok for Excel",
+        "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
+        "recommend_reason_zh": null,
+        "url": "https://x.ai/news/introducing-excel-addin",
+        "source": "xAI：News（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T17:13:39.356637Z"
       }
     },
     {
@@ -160,15 +798,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9086,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -194,7 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
+        "scored_at": "2026-07-20T17:13:39.356637Z"
       }
     },
     {
@@ -242,15 +880,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9082,
+        "recency": 0.8252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -276,7 +914,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
+        "scored_at": "2026-07-20T17:13:39.356637Z"
+      }
+    },
+    {
+      "story_id": "story_f88669e85914",
+      "title": "Replit 新统一工具栏集成数据库与双因素认证 / Need a database？ Two-factor auth？ An SEO scanner？ Everything your project needs is now in reach wit…",
+      "url": "https://x.com/Replit/status/2079235154485109114",
+      "primary_url": "https://x.com/Replit/status/2079235154485109114",
+      "source": "X：Replit (@Replit)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "835a9a3500b3f20c63c11c067b20c46aa7196d56",
+          "title": "Replit 新统一工具栏集成数据库与双因素认证 / Need a database？ Two-factor auth？ An SEO scanner？ Everything your project needs is now in reach wit…",
+          "title_zh": "Replit 新统一工具栏集成数据库与双因素认证",
+          "title_en": "Need a database？ Two-factor auth？ An SEO scanner？ Everything your project needs is now in reach wit…",
+          "title_original": "Need a database？ Two-factor auth？ An SEO scanner？ Everything your project needs is now in reach wit…",
+          "summary": "需要数据库？双因素认证？SEO 扫描器？\n\n你的项目所需的一切现在都可以通过我们新的统一工具栏触手可及。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Replit/status/2079235154485109114",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T16:01:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Replit (@Replit)"
+      ],
+      "items": [
+        {
+          "id": "835a9a3500b3f20c63c11c067b20c46aa7196d56",
+          "title": "Replit 新统一工具栏集成数据库与双因素认证 / Need a database？ Two-factor auth？ An SEO scanner？ Everything your project needs is now in reach wit…",
+          "title_zh": "Replit 新统一工具栏集成数据库与双因素认证",
+          "title_en": "Need a database？ Two-factor auth？ An SEO scanner？ Everything your project needs is now in reach wit…",
+          "title_original": "Need a database？ Two-factor auth？ An SEO scanner？ Everything your project needs is now in reach wit…",
+          "summary": "需要数据库？双因素认证？SEO 扫描器？\n\n你的项目所需的一切现在都可以通过我们新的统一工具栏触手可及。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Replit/status/2079235154485109114",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T16:01:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9829,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T16:01:05Z",
+      "latest_at": "2026-07-20T16:01:05Z",
+      "primary_item": {
+        "id": "835a9a3500b3f20c63c11c067b20c46aa7196d56",
+        "title": "Replit 新统一工具栏集成数据库与双因素认证 / Need a database？ Two-factor auth？ An SEO scanner？ Everything your project needs is now in reach wit…",
+        "title_zh": "Replit 新统一工具栏集成数据库与双因素认证",
+        "title_en": "Need a database？ Two-factor auth？ An SEO scanner？ Everything your project needs is now in reach wit…",
+        "title_original": "Need a database？ Two-factor auth？ An SEO scanner？ Everything your project needs is now in reach wit…",
+        "summary": "需要数据库？双因素认证？SEO 扫描器？\n\n你的项目所需的一切现在都可以通过我们新的统一工具栏触手可及。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Replit/status/2079235154485109114",
+        "source": "X：Replit (@Replit)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T17:13:39.356637Z"
       }
     },
     {
@@ -324,21 +1043,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9759,
+        "recency": 0.8867,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T08:53:11Z",
       "latest_at": "2026-07-20T08:53:11Z",
@@ -358,7 +1076,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
+        "scored_at": "2026-07-20T17:13:39.356637Z"
       }
     },
     {
@@ -406,21 +1124,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.86,
+        "recency": 0.7814,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T00:08:00Z",
       "latest_at": "2026-07-20T00:08:00Z",
@@ -440,7 +1157,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
+        "scored_at": "2026-07-20T17:13:39.356637Z"
       }
     },
     {
@@ -488,21 +1205,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9498,
+        "recency": 0.863,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T07:00:15Z",
       "latest_at": "2026-07-20T07:00:15Z",
@@ -522,88 +1238,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
-      }
-    },
-    {
-      "story_id": "story_f6458dd26113",
-      "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "primary_url": "https://ollama.com/blog/all-aboard-open-models",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "title_zh": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "title_en": null,
-          "title_original": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
-          "recommend_reason_zh": null,
-          "url": "https://ollama.com/blog/all-aboard-open-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T01:45:09.765000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "title_zh": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "title_en": null,
-          "title_original": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
-          "recommend_reason_zh": null,
-          "url": "https://ollama.com/blog/all-aboard-open-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T01:45:09.765000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8804,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T01:45:09.765000Z",
-      "latest_at": "2026-07-20T01:45:09.765000Z",
-      "primary_item": {
-        "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-        "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-        "title_zh": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-        "title_en": null,
-        "title_original": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-        "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
-        "recommend_reason_zh": null,
-        "url": "https://ollama.com/blog/all-aboard-open-models",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
+        "scored_at": "2026-07-20T17:13:39.356637Z"
       }
     },
     {
@@ -651,15 +1286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9637,
+        "recency": 0.8756,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -684,88 +1319,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
-      }
-    },
-    {
-      "story_id": "story_84aa90aed0cc",
-      "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-      "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-      "primary_url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-      "source": "字节 Seed：Research Feed（网页内嵌数据）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
-          "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "title_zh": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "title_en": null,
-          "title_original": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "summary": "字节跳动 Seed 团队发布音频创作模型 Seed Audio 1.0，在统一框架下联合建模人声、音效和环境声，支持 100ms 间隔精度的时间控制、单次约 2 分钟音频的延展生成及 20+ 语种自然生成。该模型已在火山方舟体验中心上线，多数场景音频可用率达 90% 以上，多语言音频自然度 MOS 超 4 分。",
-          "recommend_reason_zh": null,
-          "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-          "source": "字节 Seed：Research Feed（网页内嵌数据）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "字节 Seed：Research Feed（网页内嵌数据）"
-      ],
-      "items": [
-        {
-          "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
-          "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "title_zh": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "title_en": null,
-          "title_original": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "summary": "字节跳动 Seed 团队发布音频创作模型 Seed Audio 1.0，在统一框架下联合建模人声、音效和环境声，支持 100ms 间隔精度的时间控制、单次约 2 分钟音频的延展生成及 20+ 语种自然生成。该模型已在火山方舟体验中心上线，多数场景音频可用率达 90% 以上，多语言音频自然度 MOS 超 4 分。",
-          "recommend_reason_zh": null,
-          "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-          "source": "字节 Seed：Research Feed（网页内嵌数据）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7647,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-19T16:00:00Z",
-      "latest_at": "2026-07-19T16:00:00Z",
-      "primary_item": {
-        "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
-        "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-        "title_zh": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-        "title_en": null,
-        "title_original": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-        "summary": "字节跳动 Seed 团队发布音频创作模型 Seed Audio 1.0，在统一框架下联合建模人声、音效和环境声，支持 100ms 间隔精度的时间控制、单次约 2 分钟音频的延展生成及 20+ 语种自然生成。该模型已在火山方舟体验中心上线，多数场景音频可用率达 90% 以上，多语言音频自然度 MOS 超 4 分。",
-        "recommend_reason_zh": null,
-        "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-        "source": "字节 Seed：Research Feed（网页内嵌数据）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
+        "scored_at": "2026-07-20T17:13:39.356637Z"
       }
     },
     {
@@ -813,15 +1367,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9086,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -847,7 +1401,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
+        "scored_at": "2026-07-20T17:13:39.356637Z"
+      }
+    },
+    {
+      "story_id": "story_f6458dd26113",
+      "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "primary_url": "https://ollama.com/blog/all-aboard-open-models",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
+          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+          "title_zh": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+          "title_en": null,
+          "title_original": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+          "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
+          "recommend_reason_zh": null,
+          "url": "https://ollama.com/blog/all-aboard-open-models",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T01:45:09.765000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
+          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+          "title_zh": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+          "title_en": null,
+          "title_original": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+          "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
+          "recommend_reason_zh": null,
+          "url": "https://ollama.com/blog/all-aboard-open-models",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T01:45:09.765000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7999,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T01:45:09.765000Z",
+      "latest_at": "2026-07-20T01:45:09.765000Z",
+      "primary_item": {
+        "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
+        "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+        "title_zh": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+        "title_en": null,
+        "title_original": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+        "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
+        "recommend_reason_zh": null,
+        "url": "https://ollama.com/blog/all-aboard-open-models",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-20T17:13:39.356637Z"
       }
     },
     {
@@ -895,15 +1530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9086,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -929,7 +1564,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
+        "scored_at": "2026-07-20T17:13:39.356637Z"
       }
     },
     {
@@ -977,15 +1612,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9086,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1011,7 +1646,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
+        "scored_at": "2026-07-20T17:13:39.356637Z"
       }
     },
     {
@@ -1059,15 +1694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9086,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1093,751 +1728,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
-      }
-    },
-    {
-      "story_id": "story_52b0466daf0b",
-      "title": "别再数Token了：OpenAI甩出AI时代记分卡，用\"有用智能每美元\"给CFO算清ROI",
-      "url": "https://www.aibase.com/news/29713",
-      "primary_url": "https://www.aibase.com/news/29713",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "997897e6dc41c414785580f5f330d5ff200c23fc",
-          "title": "别再数Token了：OpenAI甩出AI时代记分卡，用\"有用智能每美元\"给CFO算清ROI",
-          "title_zh": "别再数Token了：OpenAI甩出AI时代记分卡，用\"有用智能每美元\"给CFO算清ROI",
-          "title_en": null,
-          "title_original": "别再数Token了：OpenAI甩出AI时代记分卡，用\"有用智能每美元\"给CFO算清ROI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29713",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:34:26.119132Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "997897e6dc41c414785580f5f330d5ff200c23fc",
-          "title": "别再数Token了：OpenAI甩出AI时代记分卡，用\"有用智能每美元\"给CFO算清ROI",
-          "title_zh": "别再数Token了：OpenAI甩出AI时代记分卡，用\"有用智能每美元\"给CFO算清ROI",
-          "title_en": null,
-          "title_original": "别再数Token了：OpenAI甩出AI时代记分卡，用\"有用智能每美元\"给CFO算清ROI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29713",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:34:26.119132Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T10:34:26.119132Z",
-      "latest_at": "2026-07-20T10:34:26.119132Z",
-      "primary_item": {
-        "id": "997897e6dc41c414785580f5f330d5ff200c23fc",
-        "title": "别再数Token了：OpenAI甩出AI时代记分卡，用\"有用智能每美元\"给CFO算清ROI",
-        "title_zh": "别再数Token了：OpenAI甩出AI时代记分卡，用\"有用智能每美元\"给CFO算清ROI",
-        "title_en": null,
-        "title_original": "别再数Token了：OpenAI甩出AI时代记分卡，用\"有用智能每美元\"给CFO算清ROI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29713",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
-      }
-    },
-    {
-      "story_id": "story_2cd5bc1b80dd",
-      "title": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
-      "url": "https://www.aibase.com/news/29715",
-      "primary_url": "https://www.aibase.com/news/29715",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b0a0d1ec3ee18f5e9da8873cdbf4fb75a461a652",
-          "title": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
-          "title_zh": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
-          "title_en": null,
-          "title_original": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29715",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:34:26.119132Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b0a0d1ec3ee18f5e9da8873cdbf4fb75a461a652",
-          "title": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
-          "title_zh": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
-          "title_en": null,
-          "title_original": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29715",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:34:26.119132Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T10:34:26.119132Z",
-      "latest_at": "2026-07-20T10:34:26.119132Z",
-      "primary_item": {
-        "id": "b0a0d1ec3ee18f5e9da8873cdbf4fb75a461a652",
-        "title": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
-        "title_zh": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
-        "title_en": null,
-        "title_original": "喊出\"再来两周\"的用户赢了：腾讯混元Hy3 限免延长到 8 月 5 日，295B MoE模型白嫖期续命",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29715",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
-      }
-    },
-    {
-      "story_id": "story_6d01539468ee",
-      "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-      "url": "https://www.aibase.com/news/29716",
-      "primary_url": "https://www.aibase.com/news/29716",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6a2a4efff57c55b85339a80813549686a3d87126",
-          "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-          "title_zh": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-          "title_en": null,
-          "title_original": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29716",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:34:26.119132Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6a2a4efff57c55b85339a80813549686a3d87126",
-          "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-          "title_zh": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-          "title_en": null,
-          "title_original": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29716",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:34:26.119132Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T10:34:26.119132Z",
-      "latest_at": "2026-07-20T10:34:26.119132Z",
-      "primary_item": {
-        "id": "6a2a4efff57c55b85339a80813549686a3d87126",
-        "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-        "title_zh": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-        "title_en": null,
-        "title_original": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29716",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
-      }
-    },
-    {
-      "story_id": "story_09b4c076085e",
-      "title": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "url": "https://news.ycombinator.com/item?id=48975665",
-      "primary_url": "https://news.ycombinator.com/item?id=48975665",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3ab3689a1aa2714fb90ef62d309e0ad9bb3de6ff",
-          "title": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "title_zh": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元",
-          "title_en": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "title_original": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48975665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T10:14:10.648000Z"
-        },
-        {
-          "id": "18b67079333c64ae73e0b9d1cc727c01b745549c",
-          "title": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "title_zh": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元",
-          "title_en": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "title_original": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-20T08:13:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3ab3689a1aa2714fb90ef62d309e0ad9bb3de6ff",
-          "title": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "title_zh": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元",
-          "title_en": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "title_original": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48975665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T10:14:10.648000Z"
-        },
-        {
-          "id": "18b67079333c64ae73e0b9d1cc727c01b745549c",
-          "title": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "title_zh": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元",
-          "title_en": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "title_original": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-20T08:13:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9951,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T08:13:36Z",
-      "latest_at": "2026-07-20T10:14:10.648000Z",
-      "primary_item": {
-        "id": "3ab3689a1aa2714fb90ef62d309e0ad9bb3de6ff",
-        "title": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-        "title_zh": "漏洞利用经纪人为 WordPress RCE 支付 50 万美元。我找到了一个 GPT5.6 的，售价 25 美元",
-        "title_en": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-        "title_original": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=48975665",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
-      }
-    },
-    {
-      "story_id": "story_a55e8e4482c0",
-      "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-      "primary_url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-      "source": "thenextweb.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0eea1d87eacc15a486631f4f55c4b2997bd9dc43",
-          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-          "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-          "title_en": null,
-          "title_original": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "thenextweb.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T23:05:08.884000Z"
-        },
-        {
-          "id": "3abe293cd2a3db5921f0d11ee4bf5757ee5a263c",
-          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people less accurate but more confident – sudy",
-          "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-          "title_en": "AI advice made people less accurate but more confident – sudy",
-          "title_original": "AI advice made people less accurate but more confident – sudy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-19T21:18:10Z"
-        },
-        {
-          "id": "9c79fc22db09b74819e6522bef3954a47d57f212",
-          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people three times less accurate but twice as confident, researchers found",
-          "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-          "title_en": "AI advice made people three times less accurate but twice as confident, researchers found",
-          "title_original": "AI advice made people three times less accurate but twice as confident, researchers found",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T15:35:47Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "The Next Web",
-        "thenextweb.com"
-      ],
-      "items": [
-        {
-          "id": "0eea1d87eacc15a486631f4f55c4b2997bd9dc43",
-          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-          "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-          "title_en": null,
-          "title_original": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "thenextweb.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T23:05:08.884000Z"
-        },
-        {
-          "id": "3abe293cd2a3db5921f0d11ee4bf5757ee5a263c",
-          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people less accurate but more confident – sudy",
-          "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-          "title_en": "AI advice made people less accurate but more confident – sudy",
-          "title_original": "AI advice made people less accurate but more confident – sudy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-19T21:18:10Z"
-        },
-        {
-          "id": "9c79fc22db09b74819e6522bef3954a47d57f212",
-          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people three times less accurate but twice as confident, researchers found",
-          "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-          "title_en": "AI advice made people three times less accurate but twice as confident, researchers found",
-          "title_original": "AI advice made people three times less accurate but twice as confident, researchers found",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T15:35:47Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8471,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T15:35:47Z",
-      "latest_at": "2026-07-19T23:05:08.884000Z",
-      "primary_item": {
-        "id": "0eea1d87eacc15a486631f4f55c4b2997bd9dc43",
-        "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-        "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-        "title_en": null,
-        "title_original": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-        "source": "thenextweb.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
-      }
-    },
-    {
-      "story_id": "story_968bb31d8278",
-      "title": "小米-机器人-1",
-      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "primary_url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "source": "robotics.xiaomi.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4b77cd8b0f3f4a6193c6301d9019be586527c5c6",
-          "title": "小米-机器人-1",
-          "title_zh": "小米-机器人-1",
-          "title_en": null,
-          "title_original": "小米-机器人-1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-          "source": "robotics.xiaomi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T07:52:12.469000Z"
-        },
-        {
-          "id": "249c59b4eceae405353468cb642cd6584db1bd4e",
-          "title": "小米-机器人-1 / Xiaomi-Robotics-1",
-          "title_zh": "小米-机器人-1",
-          "title_en": "Xiaomi-Robotics-1",
-          "title_original": "Xiaomi-Robotics-1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-20T04:45:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "robotics.xiaomi.com"
-      ],
-      "items": [
-        {
-          "id": "4b77cd8b0f3f4a6193c6301d9019be586527c5c6",
-          "title": "小米-机器人-1",
-          "title_zh": "小米-机器人-1",
-          "title_en": null,
-          "title_original": "小米-机器人-1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-          "source": "robotics.xiaomi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T07:52:12.469000Z"
-        },
-        {
-          "id": "249c59b4eceae405353468cb642cd6584db1bd4e",
-          "title": "小米-机器人-1 / Xiaomi-Robotics-1",
-          "title_zh": "小米-机器人-1",
-          "title_en": "Xiaomi-Robotics-1",
-          "title_original": "Xiaomi-Robotics-1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-20T04:45:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9617,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T04:45:15Z",
-      "latest_at": "2026-07-20T07:52:12.469000Z",
-      "primary_item": {
-        "id": "4b77cd8b0f3f4a6193c6301d9019be586527c5c6",
-        "title": "小米-机器人-1",
-        "title_zh": "小米-机器人-1",
-        "title_en": null,
-        "title_original": "小米-机器人-1",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-        "source": "robotics.xiaomi.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
-      }
-    },
-    {
-      "story_id": "story_b07488f85ab7",
-      "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-      "primary_url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-      "source": "twitter.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8f4c7c76d8086dd75b042af6e723545c91401f96",
-          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "title_zh": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "title_en": null,
-          "title_original": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T20:09:31.820000Z"
-        },
-        {
-          "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
-          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_zh": "Moonshot AI 由于 Kimi K3 需求暂停新订阅",
-          "title_en": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_original": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48969291",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T19:50:09.716000Z"
-        },
-        {
-          "id": "319ff83da8c991e09d08b2a45836d1b8f79ae95a",
-          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_zh": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "title_en": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_original": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T16:02:25Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "twitter.com"
-      ],
-      "items": [
-        {
-          "id": "8f4c7c76d8086dd75b042af6e723545c91401f96",
-          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "title_zh": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "title_en": null,
-          "title_original": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T20:09:31.820000Z"
-        },
-        {
-          "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
-          "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_zh": "Moonshot AI 由于 Kimi K3 需求暂停新订阅",
-          "title_en": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_original": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48969291",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T19:50:09.716000Z"
-        },
-        {
-          "id": "319ff83da8c991e09d08b2a45836d1b8f79ae95a",
-          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_zh": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "title_en": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_original": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T16:02:25Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8121,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T16:02:25Z",
-      "latest_at": "2026-07-19T20:09:31.820000Z",
-      "primary_item": {
-        "id": "8f4c7c76d8086dd75b042af6e723545c91401f96",
-        "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-        "title_zh": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-        "title_en": null,
-        "title_original": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-        "source": "twitter.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-20T10:35:24.743924Z"
+        "scored_at": "2026-07-20T17:13:39.356637Z"
       }
     }
   ]
