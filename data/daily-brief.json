@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-07-24T09:12:08.378636Z",
+  "generated_at": "2026-07-24T17:15:39.258006Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_884b6719295f",
+      "title": "Claude作品 5 简介 / Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "primary_url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Anthropic News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+          "title": "Claude作品 5 简介 / Introducing Claude Opus 5",
+          "title_zh": "Claude作品 5 简介",
+          "title_en": "Introducing Claude Opus 5",
+          "title_original": "Introducing Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-24T00:00:00Z"
+        },
+        {
+          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
+          "title": "Claude Opus 5",
+          "title_zh": null,
+          "title_en": "Claude Opus 5",
+          "title_original": "Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T16:55:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Anthropic News",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+          "title": "Claude作品 5 简介 / Introducing Claude Opus 5",
+          "title_zh": "Claude作品 5 简介",
+          "title_en": "Introducing Claude Opus 5",
+          "title_original": "Introducing Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-24T00:00:00Z"
+        },
+        {
+          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
+          "title": "Claude Opus 5",
+          "title_zh": null,
+          "title_en": "Claude Opus 5",
+          "title_original": "Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T16:55:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8453,
+      "importance": 0.8453,
+      "importance_score": 0.8453,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7794,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T00:00:00Z",
+      "latest_at": "2026-07-24T16:55:26Z",
+      "primary_item": {
+        "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
+        "title": "Claude作品 5 简介 / Introducing Claude Opus 5",
+        "title_zh": "Claude作品 5 简介",
+        "title_en": "Introducing Claude Opus 5",
+        "title_original": "Introducing Claude Opus 5",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "source": "Anthropic News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T17:16:28.075638Z"
+      }
+    },
     {
       "story_id": "story_542d81ae471d",
       "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
@@ -48,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8573,
+        "recency": 0.7631,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +196,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
+        "scored_at": "2026-07-24T17:16:28.075638Z"
+      }
+    },
+    {
+      "story_id": "story_a69b2a307509",
+      "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+      "url": "https://x.com/runwayml/status/2080649234672439389",
+      "primary_url": "https://x.com/runwayml/status/2080649234672439389",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
+          "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "title_zh": "Runway Agent 推出自然语言工作流功能",
+          "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "title_original": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/runwayml/status/2080649234672439389",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
+          "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "title_zh": "Runway Agent 推出自然语言工作流功能",
+          "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "title_original": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+          "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/runwayml/status/2080649234672439389",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9495,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T13:40:08Z",
+      "latest_at": "2026-07-24T13:40:08Z",
+      "primary_item": {
+        "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
+        "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+        "title_zh": "Runway Agent 推出自然语言工作流功能",
+        "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+        "title_original": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+        "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/runwayml/status/2080649234672439389",
+        "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T17:16:28.075638Z"
+      }
+    },
+    {
+      "story_id": "story_5105aa91a912",
+      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+      "url": "https://github.com/izeigerman/claude-thermos",
+      "primary_url": "https://github.com/izeigerman/claude-thermos",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_en": null,
+          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        },
+        {
+          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
+          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_en": null,
+          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_en": null,
+          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        },
+        {
+          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
+          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_en": null,
+          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8978,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T09:47:29.601000Z",
+      "latest_at": "2026-07-24T09:47:29.601000Z",
+      "primary_item": {
+        "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "title_en": null,
+        "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/izeigerman/claude-thermos",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T17:16:28.075638Z"
       }
     },
     {
@@ -131,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.824,
+        "recency": 0.7335,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,171 +473,142 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
+        "scored_at": "2026-07-24T17:16:28.075638Z"
       }
     },
     {
-      "story_id": "story_bfadc5abab8d",
-      "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "primary_url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_c64ef4eed3f2",
+      "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+      "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+      "primary_url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_en": null,
-          "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
+          "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
+          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
           "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T20:11:31.906000Z"
+          "published_at": "2026-07-24T09:48:32Z"
         },
         {
-          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
-          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_zh": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_en": null,
-          "title_original": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "id": "c25b286ba4b4b718a1db39c9eb9d736205ecab88",
+          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "www.darpa.mil",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T20:11:31.906000Z"
-        },
-        {
-          "id": "33cce87c1d1999b5e8eb79cce6697396a9f41388",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机 / DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_en": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_original": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T13:51:36Z"
+          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-24T09:48:32Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.darpa.mil"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_en": null,
-          "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
+          "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
+          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
           "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T20:11:31.906000Z"
+          "published_at": "2026-07-24T09:48:32Z"
         },
         {
-          "id": "c4c7faebfc9cea5cf488d3f9f4881425a345456b",
-          "title": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_zh": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
-          "title_en": null,
-          "title_original": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+          "id": "c25b286ba4b4b718a1db39c9eb9d736205ecab88",
+          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "www.darpa.mil",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T20:11:31.906000Z"
-        },
-        {
-          "id": "33cce87c1d1999b5e8eb79cce6697396a9f41388",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机 / DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_en": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "title_original": "DARPA, U.S. Air Force fly AI-controlled F-16",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T13:51:36Z"
+          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-24T09:48:32Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
-        "story_heat": 0.5
+        "recency": 0.898,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T13:51:36Z",
-      "latest_at": "2026-07-23T20:11:31.906000Z",
+      "earliest_at": "2026-07-24T09:48:32Z",
+      "latest_at": "2026-07-24T09:48:32Z",
       "primary_item": {
-        "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
-        "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-        "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-        "title_en": null,
-        "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-        "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
+        "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
+        "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+        "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+        "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+        "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+        "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
         "recommend_reason_zh": null,
-        "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
+        "scored_at": "2026-07-24T17:16:28.075638Z"
       }
     },
     {
-      "story_id": "story_b5d4c2ab6c52",
-      "title": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
-      "url": "https://www.aibase.com/news/29863",
-      "primary_url": "https://www.aibase.com/news/29863",
+      "story_id": "story_29cdb0f6765b",
+      "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+      "url": "https://www.aibase.com/news/29881",
+      "primary_url": "https://www.aibase.com/news/29881",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4ef1aeff61248ba37a1eda260ccfa8aa426bb49c",
-          "title": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
-          "title_zh": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
           "title_en": null,
-          "title_original": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29863",
+          "url": "https://www.aibase.com/news/29881",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T09:12:08.378636Z"
+          "published_at": "2026-07-24T17:15:39.258006Z"
         }
       ],
       "source_count": 1,
@@ -339,18 +617,18 @@
       ],
       "items": [
         {
-          "id": "4ef1aeff61248ba37a1eda260ccfa8aa426bb49c",
-          "title": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
-          "title_zh": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
           "title_en": null,
-          "title_original": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29863",
+          "url": "https://www.aibase.com/news/29881",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T09:12:08.378636Z"
+          "published_at": "2026-07-24T17:15:39.258006Z"
         }
       ],
       "item_count": 1,
@@ -371,17 +649,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T09:12:08.378636Z",
-      "latest_at": "2026-07-24T09:12:08.378636Z",
+      "earliest_at": "2026-07-24T17:15:39.258006Z",
+      "latest_at": "2026-07-24T17:15:39.258006Z",
       "primary_item": {
-        "id": "4ef1aeff61248ba37a1eda260ccfa8aa426bb49c",
-        "title": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
-        "title_zh": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+        "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+        "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+        "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
         "title_en": null,
-        "title_original": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+        "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29863",
+        "url": "https://www.aibase.com/news/29881",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -389,63 +667,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
+        "scored_at": "2026-07-24T17:16:28.075638Z"
       }
     },
     {
-      "story_id": "story_31e9766f60d4",
-      "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-      "url": "https://www.ithome.com/0/981/137.htm",
-      "primary_url": "https://www.ithome.com/0/981/137.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_a1def1d5869a",
+      "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+      "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+      "primary_url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+      "source": "公众号：蚂蚁百灵（Ling）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
-          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-          "title_zh": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
+          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
           "title_en": null,
-          "title_original": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-          "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
+          "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/137.htm",
-          "source": "IT之家（RSS）",
+          "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+          "source": "公众号：蚂蚁百灵（Ling）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-24T06:48:04Z"
+          "published_at": "2026-07-24T13:40:30Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "公众号：蚂蚁百灵（Ling）"
       ],
       "items": [
         {
-          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
-          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-          "title_zh": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
+          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
           "title_en": null,
-          "title_original": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-          "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
+          "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/137.htm",
-          "source": "IT之家（RSS）",
+          "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+          "source": "公众号：蚂蚁百灵（Ling）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-24T06:48:04Z"
+          "published_at": "2026-07-24T13:40:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9659,
+        "recency": 0.9495,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -453,25 +731,301 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T06:48:04Z",
-      "latest_at": "2026-07-24T06:48:04Z",
+      "earliest_at": "2026-07-24T13:40:30Z",
+      "latest_at": "2026-07-24T13:40:30Z",
       "primary_item": {
-        "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
-        "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-        "title_zh": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+        "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
+        "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+        "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
         "title_en": null,
-        "title_original": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-        "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
+        "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+        "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/981/137.htm",
-        "source": "IT之家（RSS）",
+        "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+        "source": "公众号：蚂蚁百灵（Ling）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
+        "scored_at": "2026-07-24T17:16:28.075638Z"
+      }
+    },
+    {
+      "story_id": "story_e6faf39224d8",
+      "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
+      "url": "https://www.anthropic.com/research/project-pilot",
+      "primary_url": "https://www.anthropic.com/research/project-pilot",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
+          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
+          "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+          "title_en": "Project Pilot： Can AI control a drone？",
+          "title_original": "Project Pilot： Can AI control a drone？",
+          "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/project-pilot",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T15:25:45.300000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
+          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
+          "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+          "title_en": "Project Pilot： Can AI control a drone？",
+          "title_original": "Project Pilot： Can AI control a drone？",
+          "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/project-pilot",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T15:25:45.300000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9739,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T15:25:45.300000Z",
+      "latest_at": "2026-07-24T15:25:45.300000Z",
+      "primary_item": {
+        "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
+        "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
+        "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+        "title_en": "Project Pilot： Can AI control a drone？",
+        "title_original": "Project Pilot： Can AI control a drone？",
+        "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/project-pilot",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T17:16:28.075638Z"
+      }
+    },
+    {
+      "story_id": "story_6f64216575d4",
+      "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+      "url": "https://x.com/satyanadella/status/2080646162483417097",
+      "primary_url": "https://x.com/satyanadella/status/2080646162483417097",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
+          "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "title_zh": "微软阐述开源模型助力美国竞争力路径",
+          "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/satyanadella/status/2080646162483417097",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:27:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
+          "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "title_zh": "微软阐述开源模型助力美国竞争力路径",
+          "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/satyanadella/status/2080646162483417097",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:27:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9467,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T13:27:56Z",
+      "latest_at": "2026-07-24T13:27:56Z",
+      "primary_item": {
+        "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
+        "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+        "title_zh": "微软阐述开源模型助力美国竞争力路径",
+        "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+        "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+        "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/satyanadella/status/2080646162483417097",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T17:16:28.075638Z"
+      }
+    },
+    {
+      "story_id": "story_b10cb29baa4b",
+      "title": "FLUX 3 x mimic：新一代视频动作模型",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "primary_url": "https://bfl.ai/blog/flux-3-mimic",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
+          "title": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_en": null,
+          "title_original": "FLUX 3 x mimic：新一代视频动作模型",
+          "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
+          "recommend_reason_zh": null,
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T11:55:45.885000Z"
+        },
+        {
+          "id": "d9d8a3a19c48f68d00c49361a52d4242cbdaae6e",
+          "title": "FLUX 3 x mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_en": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "title_original": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T09:31:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
+          "title": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_en": null,
+          "title_original": "FLUX 3 x mimic：新一代视频动作模型",
+          "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
+          "recommend_reason_zh": null,
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T11:55:45.885000Z"
+        },
+        {
+          "id": "d9d8a3a19c48f68d00c49361a52d4242cbdaae6e",
+          "title": "FLUX 3 x mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_en": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "title_original": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T09:31:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9259,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T09:31:48Z",
+      "latest_at": "2026-07-24T11:55:45.885000Z",
+      "primary_item": {
+        "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
+        "title": "FLUX 3 x mimic：新一代视频动作模型",
+        "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+        "title_en": null,
+        "title_original": "FLUX 3 x mimic：新一代视频动作模型",
+        "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
+        "recommend_reason_zh": null,
+        "url": "https://bfl.ai/blog/flux-3-mimic",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T17:16:28.075638Z"
       }
     },
     {
@@ -519,15 +1073,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8341,
+        "recency": 0.7425,
         "story_heat": 0.0
       },
       "category": "official",
@@ -554,7 +1108,169 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
+        "scored_at": "2026-07-24T17:16:28.075638Z"
+      }
+    },
+    {
+      "story_id": "story_31e9766f60d4",
+      "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+      "url": "https://www.ithome.com/0/981/137.htm",
+      "primary_url": "https://www.ithome.com/0/981/137.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "title_zh": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "title_en": null,
+          "title_original": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/981/137.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T06:48:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "title_zh": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "title_en": null,
+          "title_original": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/981/137.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T06:48:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8598,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T06:48:04Z",
+      "latest_at": "2026-07-24T06:48:04Z",
+      "primary_item": {
+        "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+        "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+        "title_zh": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+        "title_en": null,
+        "title_original": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+        "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/981/137.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T17:16:28.075638Z"
+      }
+    },
+    {
+      "story_id": "story_066596f2dc30",
+      "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+      "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+      "primary_url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+      "source": "公众号：百度智能云（文心）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
+          "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "title_zh": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "title_en": null,
+          "title_original": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "summary": "百度搭子在近期AI Day上推出多项升级，支持电脑与手机双端互联，同步任务上下文与执行进度，用户可跨设备接力完成复杂工作。桌面端内嵌浏览器正式上线，能自动打开多个网页执行调研、下载等操作，手机端支持云端远程操控。智能路由自动匹配任务模式，平均任务耗时降低20%，Token利用率提升25%；简单任务完成度达100%，复杂任务高交付率94%，积分消耗最高降低75%。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+          "source": "公众号：百度智能云（文心）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T12:28:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：百度智能云（文心）"
+      ],
+      "items": [
+        {
+          "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
+          "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "title_zh": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "title_en": null,
+          "title_original": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "summary": "百度搭子在近期AI Day上推出多项升级，支持电脑与手机双端互联，同步任务上下文与执行进度，用户可跨设备接力完成复杂工作。桌面端内嵌浏览器正式上线，能自动打开多个网页执行调研、下载等操作，手机端支持云端远程操控。智能路由自动匹配任务模式，平均任务耗时降低20%，Token利用率提升25%；简单任务完成度达100%，复杂任务高交付率94%，积分消耗最高降低75%。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+          "source": "公众号：百度智能云（文心）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T12:28:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9332,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T12:28:24Z",
+      "latest_at": "2026-07-24T12:28:24Z",
+      "primary_item": {
+        "id": "9dfb04799b08d1104c703b3b7a11eb2b33fb90bc",
+        "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+        "title_zh": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+        "title_en": null,
+        "title_original": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+        "summary": "百度搭子在近期AI Day上推出多项升级，支持电脑与手机双端互联，同步任务上下文与执行进度，用户可跨设备接力完成复杂工作。桌面端内嵌浏览器正式上线，能自动打开多个网页执行调研、下载等操作，手机端支持云端远程操控。智能路由自动匹配任务模式，平均任务耗时降低20%，Token利用率提升25%；简单任务完成度达100%，复杂任务高交付率94%，积分消耗最高降低75%。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
+        "source": "公众号：百度智能云（文心）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T17:16:28.075638Z"
       }
     },
     {
@@ -602,21 +1318,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8231,
+        "recency": 0.7326,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T19:43:04Z",
       "latest_at": "2026-07-23T19:43:04Z",
@@ -636,230 +1351,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
+        "scored_at": "2026-07-24T17:16:28.075638Z"
       }
     },
     {
-      "story_id": "story_63e67b950746",
-      "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google closes in on another billion- user product with Gemini",
-      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-      "primary_url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_8f786c0e22cb",
+      "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+      "url": "https://www.aibase.com/news/29879",
+      "primary_url": "https://www.aibase.com/news/29879",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google closes in on another billion- user product with Gemini",
-          "title_zh": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-          "title_en": "Google closes in on another billion- user product with Gemini",
-          "title_original": "Google closes in on another billion- user product with Gemini",
-          "summary": "Google 在 Q2 2026 财报电话会上宣布，AI 助手 Gemini 月活跃用户已超过 9.5 亿，用户数较去年增长三倍。Gemini 正与月活突破 10 亿的 ChatGPT 展开更直接竞争，其 AI 搜索模式用户也已超过 10 亿。Sensor Tower 报告显示，Gemini 在 AI 助手市场份额升至 27.7%，而 ChatGPT 份额首次跌破 50%。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:52:44Z"
-        },
-        {
-          "id": "474065204c1f6c5657392f12803762152e55500c",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google’s Gemini nears billion-user milestone",
-          "title_zh": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-          "title_en": "Google’s Gemini nears billion-user milestone",
-          "title_original": "Google’s Gemini nears billion-user milestone",
+          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "title_en": null,
+          "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:52:44Z"
+          "url": "https://www.aibase.com/news/29879",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T17:15:39.258006Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google closes in on another billion- user product with Gemini",
-          "title_zh": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-          "title_en": "Google closes in on another billion- user product with Gemini",
-          "title_original": "Google closes in on another billion- user product with Gemini",
-          "summary": "Google 在 Q2 2026 财报电话会上宣布，AI 助手 Gemini 月活跃用户已超过 9.5 亿，用户数较去年增长三倍。Gemini 正与月活突破 10 亿的 ChatGPT 展开更直接竞争，其 AI 搜索模式用户也已超过 10 亿。Sensor Tower 报告显示，Gemini 在 AI 助手市场份额升至 27.7%，而 ChatGPT 份额首次跌破 50%。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:52:44Z"
-        },
-        {
-          "id": "474065204c1f6c5657392f12803762152e55500c",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google’s Gemini nears billion-user milestone",
-          "title_zh": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-          "title_en": "Google’s Gemini nears billion-user milestone",
-          "title_original": "Google’s Gemini nears billion-user milestone",
+          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "title_en": null,
+          "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:52:44Z"
+          "url": "https://www.aibase.com/news/29879",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T17:15:39.258006Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7675,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T14:52:44Z",
-      "latest_at": "2026-07-23T14:52:44Z",
+      "earliest_at": "2026-07-24T17:15:39.258006Z",
+      "latest_at": "2026-07-24T17:15:39.258006Z",
       "primary_item": {
-        "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
-        "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google closes in on another billion- user product with Gemini",
-        "title_zh": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-        "title_en": "Google closes in on another billion- user product with Gemini",
-        "title_original": "Google closes in on another billion- user product with Gemini",
-        "summary": "Google 在 Q2 2026 财报电话会上宣布，AI 助手 Gemini 月活跃用户已超过 9.5 亿，用户数较去年增长三倍。Gemini 正与月活突破 10 亿的 ChatGPT 展开更直接竞争，其 AI 搜索模式用户也已超过 10 亿。Sensor Tower 报告显示，Gemini 在 AI 助手市场份额升至 27.7%，而 ChatGPT 份额首次跌破 50%。",
+        "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+        "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+        "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+        "title_en": null,
+        "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/29879",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
-      }
-    },
-    {
-      "story_id": "story_2d16f31e4c0e",
-      "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "primary_url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "794df629b7a6322acb25902743aaec5346a26e71",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "title_en": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_original": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:00:00Z"
-        },
-        {
-          "id": "2d4fc4509f6b2b68ee8e0e251439b8df2901292b",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "title_en": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_original": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "794df629b7a6322acb25902743aaec5346a26e71",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "title_en": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_original": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:00:00Z"
-        },
-        {
-          "id": "2d4fc4509f6b2b68ee8e0e251439b8df2901292b",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "title_en": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "title_original": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7578,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T14:00:00Z",
-      "latest_at": "2026-07-23T14:00:00Z",
-      "primary_item": {
-        "id": "794df629b7a6322acb25902743aaec5346a26e71",
-        "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-        "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
-        "title_en": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-        "title_original": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
-        "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
+        "scored_at": "2026-07-24T17:16:28.075638Z"
       }
     },
     {
@@ -907,15 +1481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8255,
+        "recency": 0.7348,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -940,170 +1514,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
-      }
-    },
-    {
-      "story_id": "story_92dd58586306",
-      "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-      "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
-          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-          "title_zh": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-          "title_en": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-          "title_original": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-          "summary": "阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。新功能包括细粒度内联标签控制（如【whisper】、【angry】）、自然语言风格控制、支持16种语言，以及一次生成长达3分钟的长文本。该模型目前在Artificial Analysis TTS排行榜上排名第一。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T12:33:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
-          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-          "title_zh": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-          "title_en": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-          "title_original": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-          "summary": "阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。新功能包括细粒度内联标签控制（如【whisper】、【angry】）、自然语言风格控制、支持16种语言，以及一次生成长达3分钟的长文本。该模型目前在Artificial Analysis TTS排行榜上排名第一。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T12:33:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7422,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T12:33:27Z",
-      "latest_at": "2026-07-23T12:33:27Z",
-      "primary_item": {
-        "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
-        "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-        "title_zh": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-        "title_en": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-        "title_original": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-        "summary": "阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。新功能包括细粒度内联标签控制（如【whisper】、【angry】）、自然语言风格控制、支持16种语言，以及一次生成长达3分钟的长文本。该模型目前在Artificial Analysis TTS排行榜上排名第一。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
-      }
-    },
-    {
-      "story_id": "story_2b29fdc342a6",
-      "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-      "url": "https://www.aibase.com/news/29868",
-      "primary_url": "https://www.aibase.com/news/29868",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-          "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-          "title_zh": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-          "title_en": null,
-          "title_original": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29868",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:12:08.378636Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-          "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-          "title_zh": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-          "title_en": null,
-          "title_original": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29868",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:12:08.378636Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T09:12:08.378636Z",
-      "latest_at": "2026-07-24T09:12:08.378636Z",
-      "primary_item": {
-        "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-        "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-        "title_zh": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-        "title_en": null,
-        "title_original": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29868",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
+        "scored_at": "2026-07-24T17:16:28.075638Z"
       }
     },
     {
@@ -1151,21 +1562,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8694,
+        "recency": 0.7739,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T23:30:43Z",
       "latest_at": "2026-07-23T23:30:43Z",
@@ -1185,169 +1595,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
+        "scored_at": "2026-07-24T17:16:28.075638Z"
       }
     },
     {
-      "story_id": "story_79c2ff005240",
-      "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-      "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-      "primary_url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_84ccf0281166",
+      "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+      "url": "https://www.aibase.com/news/29880",
+      "primary_url": "https://www.aibase.com/news/29880",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "39ca60e336078bc560f5427e1deef672799be840",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-          "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
+          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
+          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "title_en": null,
+          "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:01:30Z"
+          "url": "https://www.aibase.com/news/29880",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T17:15:39.258006Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "39ca60e336078bc560f5427e1deef672799be840",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-          "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
+          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
+          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "title_en": null,
+          "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:01:30Z"
+          "url": "https://www.aibase.com/news/29880",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T17:15:39.258006Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7917,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-23T17:01:30Z",
-      "latest_at": "2026-07-23T17:01:30Z",
+      "earliest_at": "2026-07-24T17:15:39.258006Z",
+      "latest_at": "2026-07-24T17:15:39.258006Z",
       "primary_item": {
-        "id": "39ca60e336078bc560f5427e1deef672799be840",
-        "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-        "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-        "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-        "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-        "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
+        "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
+        "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+        "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+        "title_en": null,
+        "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/29880",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
-      }
-    },
-    {
-      "story_id": "story_8e78ef3b778a",
-      "title": "ChatGPT 向美国用户推出健康功能 / Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-      "url": "https://x.com/gdb/status/2080351159638704615",
-      "primary_url": "https://x.com/gdb/status/2080351159638704615",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
-          "title": "ChatGPT 向美国用户推出健康功能 / Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "title_zh": "ChatGPT 向美国用户推出健康功能",
-          "title_en": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "title_original": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "summary": "OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2080351159638704615",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:55:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
-          "title": "ChatGPT 向美国用户推出健康功能 / Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "title_zh": "ChatGPT 向美国用户推出健康功能",
-          "title_en": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "title_original": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "summary": "OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2080351159638704615",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:55:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.723,
-      "importance": 0.723,
-      "importance_score": 0.723,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8021,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T17:55:42Z",
-      "latest_at": "2026-07-23T17:55:42Z",
-      "primary_item": {
-        "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
-        "title": "ChatGPT 向美国用户推出健康功能 / Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-        "title_zh": "ChatGPT 向美国用户推出健康功能",
-        "title_en": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-        "title_original": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-        "summary": "OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/gdb/status/2080351159638704615",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
+        "scored_at": "2026-07-24T17:16:28.075638Z"
       }
     },
     {
@@ -1395,15 +1725,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8066,
+        "recency": 0.718,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1430,335 +1760,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
-      }
-    },
-    {
-      "story_id": "story_5024eb5536d2",
-      "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "primary_url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_en": null,
-          "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
-          "recommend_reason_zh": null,
-          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T18:35:29.016000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_en": null,
-          "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
-          "recommend_reason_zh": null,
-          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T18:35:29.016000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8098,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T18:35:29.016000Z",
-      "latest_at": "2026-07-23T18:35:29.016000Z",
-      "primary_item": {
-        "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-        "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "title_en": null,
-        "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
-        "recommend_reason_zh": null,
-        "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
-      }
-    },
-    {
-      "story_id": "story_c257e68c6c12",
-      "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-      "url": "https://www.aibase.com/news/29867",
-      "primary_url": "https://www.aibase.com/news/29867",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5f020cfb8e3d775d434548b60935ca452d2c05c7",
-          "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-          "title_zh": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-          "title_en": null,
-          "title_original": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29867",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:12:08.378636Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5f020cfb8e3d775d434548b60935ca452d2c05c7",
-          "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-          "title_zh": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-          "title_en": null,
-          "title_original": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29867",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:12:08.378636Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T09:12:08.378636Z",
-      "latest_at": "2026-07-24T09:12:08.378636Z",
-      "primary_item": {
-        "id": "5f020cfb8e3d775d434548b60935ca452d2c05c7",
-        "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-        "title_zh": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-        "title_en": null,
-        "title_original": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29867",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
-      }
-    },
-    {
-      "story_id": "story_1650bfbff40b",
-      "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-          "title_zh": "公共预览版中的 GitHub 问题中的代理自动化控制",
-          "title_en": "Agent automation controls in GitHub Issues in public preview",
-          "title_original": "Agent automation controls in GitHub Issues in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T15:30:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-          "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-          "title_zh": "公共预览版中的 GitHub 问题中的代理自动化控制",
-          "title_en": "Agent automation controls in GitHub Issues in public preview",
-          "title_original": "Agent automation controls in GitHub Issues in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T15:30:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7745,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T15:30:29Z",
-      "latest_at": "2026-07-23T15:30:29Z",
-      "primary_item": {
-        "id": "bc43672efad43350530cee56250f555e6a0d9b73",
-        "title": "公共预览版中的 GitHub 问题中的代理自动化控制 / Agent automation controls in GitHub Issues in public preview",
-        "title_zh": "公共预览版中的 GitHub 问题中的代理自动化控制",
-        "title_en": "Agent automation controls in GitHub Issues in public preview",
-        "title_original": "Agent automation controls in GitHub Issues in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
-      }
-    },
-    {
-      "story_id": "story_e8f0a452a534",
-      "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-      "url": "https://www.aibase.com/news/29870",
-      "primary_url": "https://www.aibase.com/news/29870",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "title_en": null,
-          "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29870",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:12:08.378636Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "title_en": null,
-          "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29870",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:12:08.378636Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T09:12:08.378636Z",
-      "latest_at": "2026-07-24T09:12:08.378636Z",
-      "primary_item": {
-        "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-        "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-        "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-        "title_en": null,
-        "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29870",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:13:15.287126Z"
+        "scored_at": "2026-07-24T17:16:28.075638Z"
       }
     }
   ]
