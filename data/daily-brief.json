@@ -1,11 +1,94 @@
 {
-  "generated_at": "2026-07-24T17:15:39.258006Z",
+  "generated_at": "2026-07-24T23:41:35.302088Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_fdc1a7916c66",
+      "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
+          "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
+          "title_zh": "Claude Opus 5 现已在 GitHub Copilot 中提供",
+          "title_en": "Claude Opus 5 is now available in GitHub Copilot",
+          "title_original": "Claude Opus 5 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-24T16:40:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
+          "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
+          "title_zh": "Claude Opus 5 现已在 GitHub Copilot 中提供",
+          "title_en": "Claude Opus 5 is now available in GitHub Copilot",
+          "title_original": "Claude Opus 5 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-24T16:40:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8426,
+      "importance": 0.8426,
+      "importance_score": 0.8426,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9035,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T16:40:04Z",
+      "latest_at": "2026-07-24T16:40:04Z",
+      "primary_item": {
+        "id": "99719984c257f5a2a60ae433e2420f724a945b33",
+        "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
+        "title_zh": "Claude Opus 5 现已在 GitHub Copilot 中提供",
+        "title_en": "Claude Opus 5 is now available in GitHub Copilot",
+        "title_original": "Claude Opus 5 is now available in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T23:42:25.990208Z"
+      }
+    },
+    {
       "story_id": "story_884b6719295f",
-      "title": "Claude作品 5 简介 / Introducing Claude Opus 5",
+      "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "primary_url": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Anthropic News",
@@ -13,8 +96,8 @@
       "sources": [
         {
           "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
-          "title": "Claude作品 5 简介 / Introducing Claude Opus 5",
-          "title_zh": "Claude作品 5 简介",
+          "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
           "title_en": "Introducing Claude Opus 5",
           "title_original": "Introducing Claude Opus 5",
           "summary": null,
@@ -27,8 +110,8 @@
         },
         {
           "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
-          "title": "Claude Opus 5",
-          "title_zh": null,
+          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
           "title_en": "Claude Opus 5",
           "title_original": "Claude Opus 5",
           "summary": null,
@@ -48,8 +131,8 @@
       "items": [
         {
           "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
-          "title": "Claude作品 5 简介 / Introducing Claude Opus 5",
-          "title_zh": "Claude作品 5 简介",
+          "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
           "title_en": "Introducing Claude Opus 5",
           "title_original": "Introducing Claude Opus 5",
           "summary": null,
@@ -62,8 +145,8 @@
         },
         {
           "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
-          "title": "Claude Opus 5",
-          "title_zh": null,
+          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
           "title_en": "Claude Opus 5",
           "title_original": "Claude Opus 5",
           "summary": null,
@@ -77,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8453,
-      "importance": 0.8453,
-      "importance_score": 0.8453,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7794,
+        "recency": 0.7102,
         "story_heat": 0.25
       },
       "category": "official",
@@ -99,8 +182,8 @@
       "latest_at": "2026-07-24T16:55:26Z",
       "primary_item": {
         "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
-        "title": "Claude作品 5 简介 / Introducing Claude Opus 5",
-        "title_zh": "Claude作品 5 简介",
+        "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+        "title_zh": "Anthropic 发布 Claude Opus 5",
         "title_en": "Introducing Claude Opus 5",
         "title_original": "Introducing Claude Opus 5",
         "summary": null,
@@ -113,90 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
-      }
-    },
-    {
-      "story_id": "story_542d81ae471d",
-      "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-          "title_zh": "Linear 的 Copilot 云代理现已全面上市",
-          "title_en": "Copilot cloud agent for Linear is now generally available",
-          "title_original": "Copilot cloud agent for Linear is now generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T22:32:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-          "title_zh": "Linear 的 Copilot 云代理现已全面上市",
-          "title_en": "Copilot cloud agent for Linear is now generally available",
-          "title_original": "Copilot cloud agent for Linear is now generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T22:32:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7631,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T22:32:23Z",
-      "latest_at": "2026-07-23T22:32:23Z",
-      "primary_item": {
-        "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-        "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-        "title_zh": "Linear 的 Copilot 云代理现已全面上市",
-        "title_en": "Copilot cloud agent for Linear is now generally available",
-        "title_original": "Copilot cloud agent for Linear is now generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9495,
+        "recency": 0.8652,
         "story_heat": 0.0
       },
       "category": "official",
@@ -278,7 +278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     },
     {
@@ -355,15 +355,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8978,
+        "recency": 0.8181,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -390,90 +390,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     },
     {
-      "story_id": "story_11ed83f3e906",
-      "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_59b2266d0512",
+      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
+      "url": "https://updates.midjourney.com/version-8-2",
+      "primary_url": "https://updates.midjourney.com/version-8-2",
+      "source": "Midjourney：Updates（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
-          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "summary": null,
+          "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
+          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
+          "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+          "title_en": "Version 8.2",
+          "title_original": "Version 8.2",
+          "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
+          "url": "https://updates.midjourney.com/version-8-2",
+          "source": "Midjourney：Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T22:18:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Midjourney：Updates（RSS）"
       ],
       "items": [
         {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
-          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "summary": null,
+          "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
+          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
+          "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+          "title_en": "Version 8.2",
+          "title_original": "Version 8.2",
+          "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
+          "url": "https://updates.midjourney.com/version-8-2",
+          "source": "Midjourney：Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T22:18:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
-      "importance_label": "官方更新",
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7335,
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9803,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T19:47:58Z",
-      "latest_at": "2026-07-23T19:47:58Z",
+      "earliest_at": "2026-07-24T22:18:48Z",
+      "latest_at": "2026-07-24T22:18:48Z",
       "primary_item": {
-        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-        "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
-        "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "summary": null,
+        "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
+        "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
+        "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+        "title_en": "Version 8.2",
+        "title_original": "Version 8.2",
+        "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://updates.midjourney.com/version-8-2",
+        "source": "Midjourney：Updates（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     },
     {
@@ -550,15 +549,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.898,
+        "recency": 0.8183,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -585,89 +584,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
-      }
-    },
-    {
-      "story_id": "story_29cdb0f6765b",
-      "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-      "url": "https://www.aibase.com/news/29881",
-      "primary_url": "https://www.aibase.com/news/29881",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_en": null,
-          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T17:15:39.258006Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_en": null,
-          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T17:15:39.258006Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T17:15:39.258006Z",
-      "latest_at": "2026-07-24T17:15:39.258006Z",
-      "primary_item": {
-        "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-        "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "title_en": null,
-        "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29881",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     },
     {
@@ -715,15 +632,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9495,
+        "recency": 0.8653,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -749,7 +666,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
+      }
+    },
+    {
+      "story_id": "story_29cdb0f6765b",
+      "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+      "url": "https://www.aibase.com/news/29881",
+      "primary_url": "https://www.aibase.com/news/29881",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "title_en": null,
+          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29881",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T17:15:39.258006Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "title_en": null,
+          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29881",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T17:15:39.258006Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9113,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T17:15:39.258006Z",
+      "latest_at": "2026-07-24T17:15:39.258006Z",
+      "primary_item": {
+        "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+        "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+        "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+        "title_en": null,
+        "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29881",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     },
     {
@@ -797,15 +796,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.8875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -831,7 +830,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     },
     {
@@ -879,21 +878,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9467,
+        "recency": 0.8627,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T13:27:56Z",
       "latest_at": "2026-07-24T13:27:56Z",
@@ -913,7 +911,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     },
     {
@@ -990,15 +988,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9259,
+        "recency": 0.8438,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1025,90 +1023,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
-      }
-    },
-    {
-      "story_id": "story_1950d49db06a",
-      "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-      "primary_url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-          "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-          "title_zh": "GitHub MCP 服务器支持下一个 MCP 规范",
-          "title_en": "GitHub MCP Server supports the next MCP specification",
-          "title_original": "GitHub MCP Server supports the next MCP specification",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T20:38:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-          "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-          "title_zh": "GitHub MCP 服务器支持下一个 MCP 规范",
-          "title_en": "GitHub MCP Server supports the next MCP specification",
-          "title_original": "GitHub MCP Server supports the next MCP specification",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T20:38:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7425,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T20:38:22Z",
-      "latest_at": "2026-07-23T20:38:22Z",
-      "primary_item": {
-        "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-        "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-        "title_zh": "GitHub MCP 服务器支持下一个 MCP 规范",
-        "title_en": "GitHub MCP Server supports the next MCP specification",
-        "title_original": "GitHub MCP Server supports the next MCP specification",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     },
     {
@@ -1156,15 +1071,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8598,
+        "recency": 0.7835,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1189,7 +1104,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
+      }
+    },
+    {
+      "story_id": "story_7d231e7bb6a8",
+      "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
+          "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T17:25:50.349000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
+          "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T17:25:50.349000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.731,
+      "importance": 0.731,
+      "importance_score": 0.731,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9135,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T17:25:50.349000Z",
+      "latest_at": "2026-07-24T17:25:50.349000Z",
+      "primary_item": {
+        "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
+        "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
+        "title_zh": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
+        "title_en": "The new rules of context engineering for Claude 5 generation models",
+        "title_original": "The new rules of context engineering for Claude 5 generation models",
+        "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     },
     {
@@ -1237,15 +1233,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9332,
+        "recency": 0.8504,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1270,88 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
-      }
-    },
-    {
-      "story_id": "story_f9f7c09a26a3",
-      "title": "ChatGPT 桌面版上线语音控制多智能体 / ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
-      "url": "https://x.com/OpenAI/status/2080378182469857576",
-      "primary_url": "https://x.com/OpenAI/status/2080378182469857576",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ca78f89ce07d3e329a5f0e5b085de37423eed476",
-          "title": "ChatGPT 桌面版上线语音控制多智能体 / ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
-          "title_zh": "ChatGPT 桌面版上线语音控制多智能体",
-          "title_en": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
-          "title_original": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
-          "summary": "ChatGPT 语音功能现已登陆桌面应用。\n\n只需使用语音，即可控制你的电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体。\n\n该功能由 GPT-Live 驱动，因此它能够同时在该应用中说话、聆听并协调工作。\n\n今日起，面向 macOS 和 Windows 平台的 Plus、Pro、Business、Edu 及 Enterprise 计划用户全球推送。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2080378182469857576",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T19:43:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "ca78f89ce07d3e329a5f0e5b085de37423eed476",
-          "title": "ChatGPT 桌面版上线语音控制多智能体 / ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
-          "title_zh": "ChatGPT 桌面版上线语音控制多智能体",
-          "title_en": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
-          "title_original": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
-          "summary": "ChatGPT 语音功能现已登陆桌面应用。\n\n只需使用语音，即可控制你的电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体。\n\n该功能由 GPT-Live 驱动，因此它能够同时在该应用中说话、聆听并协调工作。\n\n今日起，面向 macOS 和 Windows 平台的 Plus、Pro、Business、Edu 及 Enterprise 计划用户全球推送。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2080378182469857576",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T19:43:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7326,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T19:43:04Z",
-      "latest_at": "2026-07-23T19:43:04Z",
-      "primary_item": {
-        "id": "ca78f89ce07d3e329a5f0e5b085de37423eed476",
-        "title": "ChatGPT 桌面版上线语音控制多智能体 / ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
-        "title_zh": "ChatGPT 桌面版上线语音控制多智能体",
-        "title_en": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
-        "title_original": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
-        "summary": "ChatGPT 语音功能现已登陆桌面应用。\n\n只需使用语音，即可控制你的电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体。\n\n该功能由 GPT-Live 驱动，因此它能够同时在该应用中说话、聆听并协调工作。\n\n今日起，面向 macOS 和 Windows 平台的 Plus、Pro、Business、Edu 及 Enterprise 计划用户全球推送。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAI/status/2080378182469857576",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     },
     {
@@ -1399,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1433,169 +1348,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     },
     {
-      "story_id": "story_f7953cfa68b7",
-      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言 / Think through hard problems in voice mode",
-      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-      "primary_url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-      "source": "Claude：Blog（网页）",
+      "story_id": "story_2efffce5d7af",
+      "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "primary_url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
-          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言 / Think through hard problems in voice mode",
-          "title_zh": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-          "title_en": "Think through hard problems in voice mode",
-          "title_original": "Think through hard problems in voice mode",
-          "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
+          "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
+          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+          "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+          "title_en": null,
+          "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+          "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-          "source": "Claude：Blog（网页）",
+          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T19:55:29.530000Z"
+          "published_at": "2026-07-24T19:07:52.324000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
-          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言 / Think through hard problems in voice mode",
-          "title_zh": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-          "title_en": "Think through hard problems in voice mode",
-          "title_original": "Think through hard problems in voice mode",
-          "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
+          "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
+          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+          "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+          "title_en": null,
+          "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+          "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-          "source": "Claude：Blog（网页）",
+          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T19:55:29.530000Z"
+          "published_at": "2026-07-24T19:07:52.324000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7348,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T19:55:29.530000Z",
-      "latest_at": "2026-07-23T19:55:29.530000Z",
-      "primary_item": {
-        "id": "9d6ffb88b43b1ad6fc9582bd235a7a9cc787f9cd",
-        "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言 / Think through hard problems in voice mode",
-        "title_zh": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-        "title_en": "Think through hard problems in voice mode",
-        "title_original": "Think through hard problems in voice mode",
-        "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
-        "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
-      }
-    },
-    {
-      "story_id": "story_8df1b0bf002d",
-      "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-      "url": "https://www.ithome.com/0/980/890.htm",
-      "primary_url": "https://www.ithome.com/0/980/890.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "title_zh": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "title_en": null,
-          "title_original": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "summary": "美国佛罗里达州 55 岁男子 Scott Winters 起诉 OpenAI，称 ChatGPT-4o 多次建议其无需就医，导致其因双肺血栓引发大面积肺栓塞，一度濒临死亡。诉状指控 OpenAI 存在疏忽和\"无证行医\"行为，要求经济赔偿并暂停 ChatGPT Health 服务。OpenAI 回应称 ChatGPT 不是医生，不应替代专业医疗护理。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/980/890.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T23:30:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "title_zh": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "title_en": null,
-          "title_original": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "summary": "美国佛罗里达州 55 岁男子 Scott Winters 起诉 OpenAI，称 ChatGPT-4o 多次建议其无需就医，导致其因双肺血栓引发大面积肺栓塞，一度濒临死亡。诉状指控 OpenAI 存在疏忽和\"无证行医\"行为，要求经济赔偿并暂停 ChatGPT Health 服务。OpenAI 回应称 ChatGPT 不是医生，不应替代专业医疗护理。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/980/890.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T23:30:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7739,
+        "recency": 0.9362,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-23T23:30:43Z",
-      "latest_at": "2026-07-23T23:30:43Z",
+      "earliest_at": "2026-07-24T19:07:52.324000Z",
+      "latest_at": "2026-07-24T19:07:52.324000Z",
       "primary_item": {
-        "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-        "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-        "title_zh": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+        "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
+        "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+        "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
         "title_en": null,
-        "title_original": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-        "summary": "美国佛罗里达州 55 岁男子 Scott Winters 起诉 OpenAI，称 ChatGPT-4o 多次建议其无需就医，导致其因双肺血栓引发大面积肺栓塞，一度濒临死亡。诉状指控 OpenAI 存在疏忽和\"无证行医\"行为，要求经济赔偿并暂停 ChatGPT Health 服务。OpenAI 回应称 ChatGPT 不是医生，不应替代专业医疗护理。",
+        "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+        "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/980/890.htm",
-        "source": "IT之家（RSS）",
+        "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     },
     {
@@ -1643,15 +1478,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1677,90 +1512,279 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     },
     {
-      "story_id": "story_2f6f9986db3e",
-      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_6cb5ddccc39e",
+      "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m",
+      "primary_url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "title_zh": "公共预览版中项目和问题的多选字段",
-          "title_en": "Multi-select fields for Projects and Issues in public preview",
-          "title_original": "Multi-select fields for Projects and Issues in public preview",
+          "id": "d0507f0fd3ba506c128d735751d6ad60f2f085ab",
+          "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "title_zh": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
+          "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-24T22:25:58Z"
+        },
+        {
+          "id": "54d94f9c7ccc5826d80ff42e7406415da68416f5",
+          "title": "由 Reid Hoffman 和 Marc Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+          "title_zh": "由 Reid Hoffman 和 Marc Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
+          "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+          "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T22:25:58Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "TechCrunch",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "title_zh": "公共预览版中项目和问题的多选字段",
-          "title_en": "Multi-select fields for Projects and Issues in public preview",
-          "title_original": "Multi-select fields for Projects and Issues in public preview",
+          "id": "d0507f0fd3ba506c128d735751d6ad60f2f085ab",
+          "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "title_zh": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
+          "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-24T22:25:58Z"
+        },
+        {
+          "id": "54d94f9c7ccc5826d80ff42e7406415da68416f5",
+          "title": "由 Reid Hoffman 和 Marc Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+          "title_zh": "由 Reid Hoffman 和 Marc Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
+          "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+          "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T22:25:58Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6455,
+      "importance": 0.6455,
+      "importance_score": 0.6455,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.718,
-        "story_heat": 0.0
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.982,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-23T18:19:14Z",
-      "latest_at": "2026-07-23T18:19:14Z",
+      "earliest_at": "2026-07-24T22:25:58Z",
+      "latest_at": "2026-07-24T22:25:58Z",
       "primary_item": {
-        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-        "title_zh": "公共预览版中项目和问题的多选字段",
-        "title_en": "Multi-select fields for Projects and Issues in public preview",
-        "title_original": "Multi-select fields for Projects and Issues in public preview",
+        "id": "d0507f0fd3ba506c128d735751d6ad60f2f085ab",
+        "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "title_zh": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
+        "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "title_original": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T17:16:28.075638Z"
+        "scored_at": "2026-07-24T23:42:25.990208Z"
+      }
+    },
+    {
+      "story_id": "story_b5d4c2ab6c52",
+      "title": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+      "url": "https://www.aibase.com/news/29863",
+      "primary_url": "https://www.aibase.com/news/29863",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4ef1aeff61248ba37a1eda260ccfa8aa426bb49c",
+          "title": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+          "title_zh": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+          "title_en": null,
+          "title_original": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29863",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T09:12:08.378636Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4ef1aeff61248ba37a1eda260ccfa8aa426bb49c",
+          "title": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+          "title_zh": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+          "title_en": null,
+          "title_original": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29863",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T09:12:08.378636Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8112,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T09:12:08.378636Z",
+      "latest_at": "2026-07-24T09:12:08.378636Z",
+      "primary_item": {
+        "id": "4ef1aeff61248ba37a1eda260ccfa8aa426bb49c",
+        "title": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+        "title_zh": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+        "title_en": null,
+        "title_original": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29863",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T23:42:25.990208Z"
+      }
+    },
+    {
+      "story_id": "story_2b29fdc342a6",
+      "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
+      "url": "https://www.aibase.com/news/29868",
+      "primary_url": "https://www.aibase.com/news/29868",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
+          "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
+          "title_zh": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
+          "title_en": null,
+          "title_original": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29868",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T09:12:08.378636Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
+          "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
+          "title_zh": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
+          "title_en": null,
+          "title_original": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29868",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T09:12:08.378636Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8112,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T09:12:08.378636Z",
+      "latest_at": "2026-07-24T09:12:08.378636Z",
+      "primary_item": {
+        "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
+        "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
+        "title_zh": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
+        "title_en": null,
+        "title_original": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29868",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T23:42:25.990208Z"
       }
     }
   ]
