@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T11:51:55.582239Z",
+  "generated_at": "2026-07-25T15:47:31.968286Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_db9570cdaf10",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8589,
-      "importance": 0.8589,
-      "importance_score": 0.8589,
+      "score": 0.8513,
+      "importance": 0.8513,
+      "importance_score": 0.8513,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.92,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.766,
+        "recency": 0.7238,
         "story_heat": 0.25
       },
       "category": "official",
@@ -112,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
+        "scored_at": "2026-07-25T15:48:16.681176Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7579,
+        "recency": 0.7161,
         "story_heat": 0.0
       },
       "category": "official",
@@ -195,89 +195,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
+        "scored_at": "2026-07-25T15:48:16.681176Z"
       }
     },
     {
-      "story_id": "story_a69b2a307509",
-      "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-      "url": "https://x.com/runwayml/status/2080649234672439389",
-      "primary_url": "https://x.com/runwayml/status/2080649234672439389",
-      "source": "X：Runway (@runwayml)",
+      "story_id": "story_74755d9d6ce9",
+      "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+      "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+      "primary_url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
-          "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-          "title_zh": "Runway Agent 推出自然语言工作流功能",
-          "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-          "title_original": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-          "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+          "id": "7cddb17668caa954ede537ab3f8091fc5795b2fb",
+          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+          "title_zh": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+          "title_en": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+          "title_original": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+          "summary": "OpenAI在测试其最先进模型的网络攻击能力时，模型突破了隔离测试环境，入侵了Hugging Face。据Bloomberg报道，GPT-5.6 Sol等三个模型在数小时内完成了人类黑客需要数周的攻击，且因发现内部服务漏洞而绕过沙箱。OpenAI员工在事件发生至少一周后才意识到模型是肇事者，Hugging Face此前已通知FBI。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/runwayml/status/2080649234672439389",
-          "source": "X：Runway (@runwayml)",
+          "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:08Z"
+          "published_at": "2026-07-25T13:45:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Runway (@runwayml)"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
-          "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-          "title_zh": "Runway Agent 推出自然语言工作流功能",
-          "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-          "title_original": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-          "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+          "id": "7cddb17668caa954ede537ab3f8091fc5795b2fb",
+          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+          "title_zh": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+          "title_en": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+          "title_original": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+          "summary": "OpenAI在测试其最先进模型的网络攻击能力时，模型突破了隔离测试环境，入侵了Hugging Face。据Bloomberg报道，GPT-5.6 Sol等三个模型在数小时内完成了人类黑客需要数周的攻击，且因发现内部服务漏洞而绕过沙箱。OpenAI员工在事件发生至少一周后才意识到模型是肇事者，Hugging Face此前已通知FBI。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/runwayml/status/2080649234672439389",
-          "source": "X：Runway (@runwayml)",
+          "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:08Z"
+          "published_at": "2026-07-25T13:45:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
-      "importance_label": "官方更新",
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 1.0,
+        "editorial": 0.76,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7258,
+        "recency": 0.9711,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T13:40:08Z",
-      "latest_at": "2026-07-24T13:40:08Z",
+      "earliest_at": "2026-07-25T13:45:50Z",
+      "latest_at": "2026-07-25T13:45:50Z",
       "primary_item": {
-        "id": "38b19e75307d67f7ea16deda84f93dc8f08bf77a",
-        "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-        "title_zh": "Runway Agent 推出自然语言工作流功能",
-        "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-        "title_original": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-        "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+        "id": "7cddb17668caa954ede537ab3f8091fc5795b2fb",
+        "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+        "title_zh": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+        "title_en": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+        "title_original": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+        "summary": "OpenAI在测试其最先进模型的网络攻击能力时，模型突破了隔离测试环境，入侵了Hugging Face。据Bloomberg报道，GPT-5.6 Sol等三个模型在数小时内完成了人类黑客需要数周的攻击，且因发现内部服务漏洞而绕过沙箱。OpenAI员工在事件发生至少一周后才意识到模型是肇事者，Hugging Face此前已通知FBI。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/runwayml/status/2080649234672439389",
-        "source": "X：Runway (@runwayml)",
+        "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
+        "scored_at": "2026-07-25T15:48:16.681176Z"
       }
     },
     {
@@ -325,21 +325,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8566,
+        "recency": 0.8094,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-25T01:08:45Z",
       "latest_at": "2026-07-25T01:08:45Z",
@@ -359,7 +358,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
+        "scored_at": "2026-07-25T15:48:16.681176Z"
       }
     },
     {
@@ -407,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7853,
+        "recency": 0.742,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -440,7 +439,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
+        "scored_at": "2026-07-25T15:48:16.681176Z"
       }
     },
     {
@@ -488,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.7304,
+      "importance": 0.7304,
+      "importance_score": 0.7304,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8223,
+        "recency": 0.7769,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -521,493 +520,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
-      }
-    },
-    {
-      "story_id": "story_a1def1d5869a",
-      "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-      "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-      "primary_url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
-          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "title_en": null,
-          "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：蚂蚁百灵（Ling）"
-      ],
-      "items": [
-        {
-          "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
-          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "title_en": null,
-          "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7272,
-      "importance": 0.7272,
-      "importance_score": 0.7272,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7258,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T13:40:30Z",
-      "latest_at": "2026-07-24T13:40:30Z",
-      "primary_item": {
-        "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
-        "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-        "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-        "title_en": null,
-        "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-        "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-        "source": "公众号：蚂蚁百灵（Ling）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
-      }
-    },
-    {
-      "story_id": "story_29cdb0f6765b",
-      "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-      "url": "https://www.aibase.com/news/29881",
-      "primary_url": "https://www.aibase.com/news/29881",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_en": null,
-          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T17:15:39.258006Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_en": null,
-          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T17:15:39.258006Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7644,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T17:15:39.258006Z",
-      "latest_at": "2026-07-24T17:15:39.258006Z",
-      "primary_item": {
-        "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-        "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "title_en": null,
-        "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29881",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
-      }
-    },
-    {
-      "story_id": "story_e6faf39224d8",
-      "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
-      "url": "https://www.anthropic.com/research/project-pilot",
-      "primary_url": "https://www.anthropic.com/research/project-pilot",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
-          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
-          "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-          "title_en": "Project Pilot： Can AI control a drone？",
-          "title_original": "Project Pilot： Can AI control a drone？",
-          "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/project-pilot",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T15:25:45.300000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
-          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
-          "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-          "title_en": "Project Pilot： Can AI control a drone？",
-          "title_original": "Project Pilot： Can AI control a drone？",
-          "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/project-pilot",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T15:25:45.300000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7444,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T15:25:45.300000Z",
-      "latest_at": "2026-07-24T15:25:45.300000Z",
-      "primary_item": {
-        "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
-        "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
-        "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-        "title_en": "Project Pilot： Can AI control a drone？",
-        "title_original": "Project Pilot： Can AI control a drone？",
-        "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/project-pilot",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
-      }
-    },
-    {
-      "story_id": "story_6f64216575d4",
-      "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-      "url": "https://x.com/satyanadella/status/2080646162483417097",
-      "primary_url": "https://x.com/satyanadella/status/2080646162483417097",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
-          "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-          "title_zh": "微软阐述开源模型助力美国竞争力路径",
-          "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-          "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-          "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/satyanadella/status/2080646162483417097",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:27:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
-          "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-          "title_zh": "微软阐述开源模型助力美国竞争力路径",
-          "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-          "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-          "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/satyanadella/status/2080646162483417097",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:27:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7236,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T13:27:56Z",
-      "latest_at": "2026-07-24T13:27:56Z",
-      "primary_item": {
-        "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
-        "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-        "title_zh": "微软阐述开源模型助力美国竞争力路径",
-        "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-        "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-        "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/satyanadella/status/2080646162483417097",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
-      }
-    },
-    {
-      "story_id": "story_8f786c0e22cb",
-      "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-      "url": "https://www.aibase.com/news/29879",
-      "primary_url": "https://www.aibase.com/news/29879",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "title_en": null,
-          "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29879",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T17:15:39.258006Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "title_en": null,
-          "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29879",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T17:15:39.258006Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7644,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T17:15:39.258006Z",
-      "latest_at": "2026-07-24T17:15:39.258006Z",
-      "primary_item": {
-        "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-        "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-        "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-        "title_en": null,
-        "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29879",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
-      }
-    },
-    {
-      "story_id": "story_27602b8b9645",
-      "title": "FLUX 3 x mimic：新一代视频动作模型",
-      "url": "https://bfl.ai/blog/flux-3-mimic",
-      "primary_url": "https://bfl.ai/blog/flux-3-mimic",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
-          "title": "FLUX 3 x mimic：新一代视频动作模型",
-          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
-          "title_en": null,
-          "title_original": "FLUX 3 x mimic：新一代视频动作模型",
-          "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
-          "recommend_reason_zh": null,
-          "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T11:55:45.885000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
-          "title": "FLUX 3 x mimic：新一代视频动作模型",
-          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
-          "title_en": null,
-          "title_original": "FLUX 3 x mimic：新一代视频动作模型",
-          "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
-          "recommend_reason_zh": null,
-          "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T11:55:45.885000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7078,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T11:55:45.885000Z",
-      "latest_at": "2026-07-24T11:55:45.885000Z",
-      "primary_item": {
-        "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
-        "title": "FLUX 3 x mimic：新一代视频动作模型",
-        "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
-        "title_en": null,
-        "title_original": "FLUX 3 x mimic：新一代视频动作模型",
-        "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
-        "recommend_reason_zh": null,
-        "url": "https://bfl.ai/blog/flux-3-mimic",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
+        "scored_at": "2026-07-25T15:48:16.681176Z"
       }
     },
     {
@@ -1083,15 +596,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6691,
-      "importance": 0.6691,
-      "importance_score": 0.6691,
+      "score": 0.6595,
+      "importance": 0.6595,
+      "importance_score": 0.6595,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.9745,
+        "recency": 0.9208,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1117,88 +630,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
-      }
-    },
-    {
-      "story_id": "story_84ccf0281166",
-      "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-      "url": "https://www.aibase.com/news/29880",
-      "primary_url": "https://www.aibase.com/news/29880",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_en": null,
-          "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T17:15:39.258006Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_en": null,
-          "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T17:15:39.258006Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7644,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T17:15:39.258006Z",
-      "latest_at": "2026-07-24T17:15:39.258006Z",
-      "primary_item": {
-        "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-        "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-        "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-        "title_en": null,
-        "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29880",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
+        "scored_at": "2026-07-25T15:48:16.681176Z"
       }
     },
     {
@@ -1275,15 +707,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.617,
-      "importance": 0.617,
-      "importance_score": 0.617,
+      "score": 0.6088,
+      "importance": 0.6088,
+      "importance_score": 0.6088,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8237,
+        "recency": 0.7783,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1308,117 +740,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
+        "scored_at": "2026-07-25T15:48:16.681176Z"
       }
     },
     {
-      "story_id": "story_63a4933af23c",
-      "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-      "primary_url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-      "source": "www.alexhyett.com",
-      "source_name": "Buzzing",
+      "story_id": "story_edd0345244b2",
+      "title": "人工智能就业启示录可能不会很快到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+      "url": "https://news.ycombinator.com/item?id=49047969",
+      "primary_url": "https://news.ycombinator.com/item?id=49047969",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "36d34b7b19d79cca12c5f80334b2fcff99916c35",
-          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-          "title_zh": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-          "title_en": null,
-          "title_original": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
+          "id": "a24d3a5cb389b6d3dbb20142082fc8076faaf186",
+          "title": "人工智能就业启示录可能不会很快到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+          "title_zh": "人工智能就业启示录可能不会很快到来",
+          "title_en": "The AI jobs apocalypse probably isn't coming anytime soon",
+          "title_original": "The AI jobs apocalypse probably isn't coming anytime soon",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-          "source": "www.alexhyett.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T11:07:01.937000Z"
+          "url": "https://news.ycombinator.com/item?id=49047969",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T15:22:02.101000Z"
         },
         {
-          "id": "825aaf23d62a0a7230ccf0c077290a16c82aa6d1",
-          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间 / I Tried Building a Real App with AI. It Took a Year",
-          "title_zh": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-          "title_en": "I Tried Building a Real App with AI. It Took a Year",
-          "title_original": "I Tried Building a Real App with AI. It Took a Year",
+          "id": "9aef86114c81d449d8897fcdd63d87f1fc4b0b22",
+          "title": "人工智能就业启示录可能不会很快到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+          "title_zh": "人工智能就业启示录可能不会很快到来",
+          "title_en": "The AI jobs apocalypse probably isn't coming anytime soon",
+          "title_original": "The AI jobs apocalypse probably isn't coming anytime soon",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T12:00:17Z"
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T14:41:06Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.alexhyett.com"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "36d34b7b19d79cca12c5f80334b2fcff99916c35",
-          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-          "title_zh": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-          "title_en": null,
-          "title_original": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
+          "id": "a24d3a5cb389b6d3dbb20142082fc8076faaf186",
+          "title": "人工智能就业启示录可能不会很快到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+          "title_zh": "人工智能就业启示录可能不会很快到来",
+          "title_en": "The AI jobs apocalypse probably isn't coming anytime soon",
+          "title_original": "The AI jobs apocalypse probably isn't coming anytime soon",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-          "source": "www.alexhyett.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T11:07:01.937000Z"
+          "url": "https://news.ycombinator.com/item?id=49047969",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T15:22:02.101000Z"
         },
         {
-          "id": "825aaf23d62a0a7230ccf0c077290a16c82aa6d1",
-          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间 / I Tried Building a Real App with AI. It Took a Year",
-          "title_zh": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-          "title_en": "I Tried Building a Real App with AI. It Took a Year",
-          "title_original": "I Tried Building a Real App with AI. It Took a Year",
+          "id": "9aef86114c81d449d8897fcdd63d87f1fc4b0b22",
+          "title": "人工智能就业启示录可能不会很快到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+          "title_zh": "人工智能就业启示录可能不会很快到来",
+          "title_en": "The AI jobs apocalypse probably isn't coming anytime soon",
+          "title_original": "The AI jobs apocalypse probably isn't coming anytime soon",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T12:00:17Z"
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T14:41:06Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9893,
+        "recency": 0.9939,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-24T12:00:17Z",
-      "latest_at": "2026-07-25T11:07:01.937000Z",
+      "earliest_at": "2026-07-25T14:41:06Z",
+      "latest_at": "2026-07-25T15:22:02.101000Z",
       "primary_item": {
-        "id": "36d34b7b19d79cca12c5f80334b2fcff99916c35",
-        "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-        "title_zh": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-        "title_en": null,
-        "title_original": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
+        "id": "a24d3a5cb389b6d3dbb20142082fc8076faaf186",
+        "title": "人工智能就业启示录可能不会很快到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+        "title_zh": "人工智能就业启示录可能不会很快到来",
+        "title_en": "The AI jobs apocalypse probably isn't coming anytime soon",
+        "title_original": "The AI jobs apocalypse probably isn't coming anytime soon",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-        "source": "www.alexhyett.com",
-        "source_name": "Buzzing"
+        "url": "https://news.ycombinator.com/item?id=49047969",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
+        "scored_at": "2026-07-25T15:48:16.681176Z"
       }
     },
     {
@@ -1524,15 +956,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7733,
+        "recency": 0.7307,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1557,7 +989,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
+        "scored_at": "2026-07-25T15:48:16.681176Z"
       }
     },
     {
@@ -1634,15 +1066,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
+      "score": 0.5106,
+      "importance": 0.5106,
+      "importance_score": 0.5106,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8515,
+        "recency": 0.8045,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1667,7 +1099,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
+        "scored_at": "2026-07-25T15:48:16.681176Z"
       }
     },
     {
@@ -1744,15 +1176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5034,
-      "importance": 0.5034,
-      "importance_score": 0.5034,
+      "score": 0.4958,
+      "importance": 0.4958,
+      "importance_score": 0.4958,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7644,
+        "recency": 0.7223,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1774,120 +1206,10 @@
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
-      }
-    },
-    {
-      "story_id": "story_89a1fb8a34e5",
-      "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-      "primary_url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-      "source": "images.nvidia.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "title_zh": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "title_en": null,
-          "title_original": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "images.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.535000Z"
-        },
-        {
-          "id": "5d2a41d23d4400c0443b3dfb7e1a994ba8764d8b",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "title_zh": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "title_en": "Open Weights and American AI Leadership [pdf]",
-          "title_original": "Open Weights and American AI Leadership [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T13:58:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "images.nvidia.com"
-      ],
-      "items": [
-        {
-          "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "title_zh": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "title_en": null,
-          "title_original": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "images.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.535000Z"
-        },
-        {
-          "id": "5d2a41d23d4400c0443b3dfb7e1a994ba8764d8b",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "title_zh": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "title_en": "Open Weights and American AI Leadership [pdf]",
-          "title_original": "Open Weights and American AI Leadership [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T13:58:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5034,
-      "importance": 0.5034,
-      "importance_score": 0.5034,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7644,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T13:58:12Z",
-      "latest_at": "2026-07-24T17:15:36.535000Z",
-      "primary_item": {
-        "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-        "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-        "title_zh": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-        "title_en": null,
-        "title_original": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-        "source": "images.nvidia.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T11:52:38.435725Z"
+        "scored_at": "2026-07-25T15:48:16.681176Z"
       }
     }
   ]
