@@ -1,203 +1,8 @@
 {
-  "generated_at": "2026-07-25T15:47:31.968286Z",
+  "generated_at": "2026-07-25T20:14:02.953571Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 6,
   "items": [
-    {
-      "story_id": "story_db9570cdaf10",
-      "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "primary_url": "https://www.anthropic.com/news/claude-opus-5",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
-          "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
-          "title_zh": "Anthropic 发布 Claude Opus 5",
-          "title_en": "Introducing Claude Opus 5",
-          "title_original": "Introducing Claude Opus 5",
-          "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T17:24:25.589000Z"
-        },
-        {
-          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
-          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
-          "title_zh": "Anthropic 发布 Claude Opus 5",
-          "title_en": "Claude Opus 5",
-          "title_original": "Claude Opus 5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T16:55:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "Hacker News (黑客新闻)"
-      ],
-      "items": [
-        {
-          "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
-          "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
-          "title_zh": "Anthropic 发布 Claude Opus 5",
-          "title_en": "Introducing Claude Opus 5",
-          "title_original": "Introducing Claude Opus 5",
-          "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T17:24:25.589000Z"
-        },
-        {
-          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
-          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
-          "title_zh": "Anthropic 发布 Claude Opus 5",
-          "title_en": "Claude Opus 5",
-          "title_original": "Claude Opus 5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T16:55:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8513,
-      "importance": 0.8513,
-      "importance_score": 0.8513,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.92,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7238,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T16:55:26Z",
-      "latest_at": "2026-07-24T17:24:25.589000Z",
-      "primary_item": {
-        "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
-        "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
-        "title_zh": "Anthropic 发布 Claude Opus 5",
-        "title_en": "Introducing Claude Opus 5",
-        "title_original": "Introducing Claude Opus 5",
-        "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/news/claude-opus-5",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T15:48:16.681176Z"
-      }
-    },
-    {
-      "story_id": "story_fdc1a7916c66",
-      "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-          "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
-          "title_zh": "Claude Opus 5 现已在 GitHub Copilot 中提供",
-          "title_en": "Claude Opus 5 is now available in GitHub Copilot",
-          "title_original": "Claude Opus 5 is now available in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-24T16:40:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-          "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
-          "title_zh": "Claude Opus 5 现已在 GitHub Copilot 中提供",
-          "title_en": "Claude Opus 5 is now available in GitHub Copilot",
-          "title_original": "Claude Opus 5 is now available in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-24T16:40:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7161,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T16:40:04Z",
-      "latest_at": "2026-07-24T16:40:04Z",
-      "primary_item": {
-        "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-        "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
-        "title_zh": "Claude Opus 5 现已在 GitHub Copilot 中提供",
-        "title_en": "Claude Opus 5 is now available in GitHub Copilot",
-        "title_original": "Claude Opus 5 is now available in GitHub Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T15:48:16.681176Z"
-      }
-    },
     {
       "story_id": "story_74755d9d6ce9",
       "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
@@ -243,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9711,
+        "recency": 0.9108,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -277,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T15:48:16.681176Z"
+        "scored_at": "2026-07-25T20:14:50.760699Z"
       }
     },
     {
@@ -325,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8094,
+        "recency": 0.7591,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -358,88 +163,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T15:48:16.681176Z"
-      }
-    },
-    {
-      "story_id": "story_2efffce5d7af",
-      "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "primary_url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
-          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "title_en": null,
-          "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T19:07:52.324000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
-          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "title_en": null,
-          "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T19:07:52.324000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.742,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T19:07:52.324000Z",
-      "latest_at": "2026-07-24T19:07:52.324000Z",
-      "primary_item": {
-        "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
-        "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-        "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-        "title_en": null,
-        "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-        "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
-        "recommend_reason_zh": null,
-        "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T15:48:16.681176Z"
+        "scored_at": "2026-07-25T20:14:50.760699Z"
       }
     },
     {
@@ -487,15 +211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7769,
+        "recency": 0.7287,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -520,117 +244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T15:48:16.681176Z"
-      }
-    },
-    {
-      "story_id": "story_1b6fa8de7ae9",
-      "title": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-      "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-      "primary_url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-      "source": "The Decoder AI News",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "bcdeb2b9386f095faaff8320b61d5e7afaa855ba",
-          "title": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_zh": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能",
-          "title_en": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_original": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-25T10:04:42Z"
-        },
-        {
-          "id": "cd4d82b93243982b6f87df1a82dc7397086ee84c",
-          "title": "Anthropic 声称其新的 Claude Opus 5 以一半的代币价格提供了接近 Fable 5 的性能 / Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_zh": "Anthropic 声称其新的 Claude Opus 5 以一半的代币价格提供了接近 Fable 5 的性能",
-          "title_en": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_original": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-24T18:36:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News"
-      ],
-      "items": [
-        {
-          "id": "bcdeb2b9386f095faaff8320b61d5e7afaa855ba",
-          "title": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_zh": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能",
-          "title_en": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_original": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-25T10:04:42Z"
-        },
-        {
-          "id": "cd4d82b93243982b6f87df1a82dc7397086ee84c",
-          "title": "Anthropic 声称其新的 Claude Opus 5 以一半的代币价格提供了接近 Fable 5 的性能 / Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_zh": "Anthropic 声称其新的 Claude Opus 5 以一半的代币价格提供了接近 Fable 5 的性能",
-          "title_en": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "title_original": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-24T18:36:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6595,
-      "importance": 0.6595,
-      "importance_score": 0.6595,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.9208,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T18:36:42Z",
-      "latest_at": "2026-07-25T10:04:42Z",
-      "primary_item": {
-        "id": "bcdeb2b9386f095faaff8320b61d5e7afaa855ba",
-        "title": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-        "title_zh": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能",
-        "title_en": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-        "title_original": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-        "source": "The Decoder AI News",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T15:48:16.681176Z"
+        "scored_at": "2026-07-25T20:14:50.760699Z"
       }
     },
     {
@@ -707,15 +321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6088,
-      "importance": 0.6088,
-      "importance_score": 0.6088,
+      "score": 0.6001,
+      "importance": 0.6001,
+      "importance_score": 0.6001,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7783,
+        "recency": 0.7299,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -740,7 +354,175 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T15:48:16.681176Z"
+        "scored_at": "2026-07-25T20:14:50.760699Z"
+      }
+    },
+    {
+      "story_id": "story_f8a62f174fa0",
+      "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+      "url": "https://news.ycombinator.com/item?id=49048034",
+      "primary_url": "https://news.ycombinator.com/item?id=49048034",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
+          "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+          "title_zh": "开放重量人工智能正在迎来 Kubernetes 时刻",
+          "title_en": "Open-weight AI is having its Kubernetes moment",
+          "title_original": "Open-weight AI is having its Kubernetes moment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T19:52:41.945000Z"
+        },
+        {
+          "id": "dd5f887f8703d55c609774556a346f21beafa37e",
+          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_zh": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_en": null,
+          "title_original": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "tobi.knaup.me",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T18:19:01.763000Z"
+        },
+        {
+          "id": "88c737a3a01b84780895c5873a1200fca6e52247",
+          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment",
+          "title_zh": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_en": "Open-weight AI is having its Kubernetes moment",
+          "title_original": "Open-weight AI is having its Kubernetes moment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T14:49:49Z"
+        },
+        {
+          "id": "4e62948af92d373080027f26ab003504047b04ee",
+          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_zh": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_en": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_original": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T14:49:49Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "tobi.knaup.me"
+      ],
+      "items": [
+        {
+          "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
+          "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+          "title_zh": "开放重量人工智能正在迎来 Kubernetes 时刻",
+          "title_en": "Open-weight AI is having its Kubernetes moment",
+          "title_original": "Open-weight AI is having its Kubernetes moment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T19:52:41.945000Z"
+        },
+        {
+          "id": "dd5f887f8703d55c609774556a346f21beafa37e",
+          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_zh": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_en": null,
+          "title_original": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "tobi.knaup.me",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T18:19:01.763000Z"
+        },
+        {
+          "id": "88c737a3a01b84780895c5873a1200fca6e52247",
+          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment",
+          "title_zh": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_en": "Open-weight AI is having its Kubernetes moment",
+          "title_original": "Open-weight AI is having its Kubernetes moment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T14:49:49Z"
+        },
+        {
+          "id": "4e62948af92d373080027f26ab003504047b04ee",
+          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_zh": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
+          "title_en": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_original": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T14:49:49Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5949,
+      "importance": 0.5949,
+      "importance_score": 0.5949,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9949,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T14:49:49Z",
+      "latest_at": "2026-07-25T19:52:41.945000Z",
+      "primary_item": {
+        "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
+        "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+        "title_zh": "开放重量人工智能正在迎来 Kubernetes 时刻",
+        "title_en": "Open-weight AI is having its Kubernetes moment",
+        "title_original": "Open-weight AI is having its Kubernetes moment",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49048034",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-25T20:14:50.760699Z"
       }
     },
     {
@@ -817,15 +599,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9939,
+        "recency": 0.9321,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -850,366 +632,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T15:48:16.681176Z"
-      }
-    },
-    {
-      "story_id": "story_c2ad13a854f3",
-      "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "primary_url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
-          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "title_en": null,
-          "title_original": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T18:03:38.315000Z"
-        },
-        {
-          "id": "6789045bbad9da5f6137bd2c45a04d41965f7f7e",
-          "title": "对 OpenAI 的流氓黑客代理故事持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
-          "title_zh": "对 OpenAI 的流氓黑客代理故事持怀疑态度",
-          "title_en": "Be skeptical of OpenAI's rogue hacker agent story",
-          "title_original": "Be skeptical of OpenAI's rogue hacker agent story",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49038060",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T17:16:02.295000Z"
-        },
-        {
-          "id": "81b41f41108b32d7858d78a125b32bc7ab6a54f3",
-          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
-          "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "title_en": "Be skeptical of OpenAI's rogue hacker agent story",
-          "title_original": "Be skeptical of OpenAI's rogue hacker agent story",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T16:33:31Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
-          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "title_en": null,
-          "title_original": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T18:03:38.315000Z"
-        },
-        {
-          "id": "6789045bbad9da5f6137bd2c45a04d41965f7f7e",
-          "title": "对 OpenAI 的流氓黑客代理故事持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
-          "title_zh": "对 OpenAI 的流氓黑客代理故事持怀疑态度",
-          "title_en": "Be skeptical of OpenAI's rogue hacker agent story",
-          "title_original": "Be skeptical of OpenAI's rogue hacker agent story",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49038060",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T17:16:02.295000Z"
-        },
-        {
-          "id": "81b41f41108b32d7858d78a125b32bc7ab6a54f3",
-          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
-          "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "title_en": "Be skeptical of OpenAI's rogue hacker agent story",
-          "title_original": "Be skeptical of OpenAI's rogue hacker agent story",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T16:33:31Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7307,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T16:33:31Z",
-      "latest_at": "2026-07-24T18:03:38.315000Z",
-      "primary_item": {
-        "id": "b7cee266358674bbfa115907e1fa668565616cbb",
-        "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-        "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-        "title_en": null,
-        "title_original": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T15:48:16.681176Z"
-      }
-    },
-    {
-      "story_id": "story_be3a93aeaea2",
-      "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-      "url": "https://artificialanalysis.ai/models",
-      "primary_url": "https://artificialanalysis.ai/models",
-      "source": "artificialanalysis.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "78990e7317fc8e606d2991350d8f49291b5c0e5a",
-          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-          "title_zh": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-          "title_en": null,
-          "title_original": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T00:43:56.309000Z"
-        },
-        {
-          "id": "f20451c1356dfba53bf83bedcce072baff3eb01f",
-          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首 / Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-          "title_zh": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-          "title_en": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-          "title_original": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T19:45:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "artificialanalysis.ai"
-      ],
-      "items": [
-        {
-          "id": "78990e7317fc8e606d2991350d8f49291b5c0e5a",
-          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-          "title_zh": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-          "title_en": null,
-          "title_original": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T00:43:56.309000Z"
-        },
-        {
-          "id": "f20451c1356dfba53bf83bedcce072baff3eb01f",
-          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首 / Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-          "title_zh": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-          "title_en": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-          "title_original": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T19:45:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5106,
-      "importance": 0.5106,
-      "importance_score": 0.5106,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8045,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T19:45:10Z",
-      "latest_at": "2026-07-25T00:43:56.309000Z",
-      "primary_item": {
-        "id": "78990e7317fc8e606d2991350d8f49291b5c0e5a",
-        "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-        "title_zh": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-        "title_en": null,
-        "title_original": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://artificialanalysis.ai/models",
-        "source": "artificialanalysis.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T15:48:16.681176Z"
-      }
-    },
-    {
-      "story_id": "story_0eeaaa42e633",
-      "title": "克劳德 作品第5号",
-      "url": "https://www.anthropic.com/claude-opus-5-system-card",
-      "primary_url": "https://www.anthropic.com/claude-opus-5-system-card",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "634a5eaf6c720d0e8d6f3a0eb57d46bc2ea8bc69",
-          "title": "克劳德 作品第5号",
-          "title_zh": "克劳德 作品第5号",
-          "title_en": null,
-          "title_original": "克劳德 作品第5号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-opus-5-system-card",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.658000Z"
-        },
-        {
-          "id": "37da8234f5b7c597a6be00c80e971ede2abf6f90",
-          "title": "Claude 作品第5号 / Claude Opus 5",
-          "title_zh": "Claude 作品第5号",
-          "title_en": "Claude Opus 5",
-          "title_original": "Claude Opus 5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-opus-5-system-card",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T16:57:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "634a5eaf6c720d0e8d6f3a0eb57d46bc2ea8bc69",
-          "title": "克劳德 作品第5号",
-          "title_zh": "克劳德 作品第5号",
-          "title_en": null,
-          "title_original": "克劳德 作品第5号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-opus-5-system-card",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.658000Z"
-        },
-        {
-          "id": "37da8234f5b7c597a6be00c80e971ede2abf6f90",
-          "title": "Claude 作品第5号 / Claude Opus 5",
-          "title_zh": "Claude 作品第5号",
-          "title_en": "Claude Opus 5",
-          "title_original": "Claude Opus 5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-opus-5-system-card",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T16:57:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4958,
-      "importance": 0.4958,
-      "importance_score": 0.4958,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7223,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T16:57:41Z",
-      "latest_at": "2026-07-24T17:15:36.658000Z",
-      "primary_item": {
-        "id": "634a5eaf6c720d0e8d6f3a0eb57d46bc2ea8bc69",
-        "title": "克劳德 作品第5号",
-        "title_zh": "克劳德 作品第5号",
-        "title_en": null,
-        "title_original": "克劳德 作品第5号",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/claude-opus-5-system-card",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T15:48:16.681176Z"
+        "scored_at": "2026-07-25T20:14:50.760699Z"
       }
     }
   ]
