@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-26T15:47:39.943272Z",
+  "generated_at": "2026-07-26T20:16:28.969853Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
-      "story_id": "story_fd83d61e5894",
+      "story_id": "story_12116ef69e35",
       "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
       "url": "https://github.com/slvDev/esp32-ai",
       "primary_url": "https://github.com/slvDev/esp32-ai",
@@ -38,25 +38,10 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_zh": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "github.com"
       ],
@@ -88,42 +73,28 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_zh": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8424,
-        "story_heat": 0.5
+        "recency": 0.7896,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-25T18:59:50Z",
+      "earliest_at": "2026-07-26T03:54:52.332000Z",
       "latest_at": "2026-07-26T03:54:52.332000Z",
       "primary_item": {
         "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
@@ -141,7 +112,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:48:18.056733Z"
+        "scored_at": "2026-07-26T20:17:18.539026Z"
+      }
+    },
+    {
+      "story_id": "story_b171ba4f1505",
+      "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+      "url": "https://x.com/suno/status/2081443050312843765",
+      "primary_url": "https://x.com/suno/status/2081443050312843765",
+      "source": "X：Suno (@suno)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
+          "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "title_zh": "Suno 推出多项新功能，含MIDI导出等",
+          "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/suno/status/2081443050312843765",
+          "source": "X：Suno (@suno)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T18:14:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Suno (@suno)"
+      ],
+      "items": [
+        {
+          "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
+          "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "title_zh": "Suno 推出多项新功能，含MIDI导出等",
+          "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/suno/status/2081443050312843765",
+          "source": "X：Suno (@suno)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T18:14:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9711,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-26T18:14:29Z",
+      "latest_at": "2026-07-26T18:14:29Z",
+      "primary_item": {
+        "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
+        "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+        "title_zh": "Suno 推出多项新功能，含MIDI导出等",
+        "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+        "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+        "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/suno/status/2081443050312843765",
+        "source": "X：Suno (@suno)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-26T20:17:18.539026Z"
       }
     },
     {
@@ -189,21 +242,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9592,
+        "recency": 0.8991,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-26T12:54:28Z",
       "latest_at": "2026-07-26T12:54:28Z",
@@ -223,7 +275,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:48:18.056733Z"
+        "scored_at": "2026-07-26T20:17:18.539026Z"
       }
     },
     {
@@ -271,21 +323,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9013,
+        "recency": 0.8448,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-26T08:35:49Z",
       "latest_at": "2026-07-26T08:35:49Z",
@@ -305,88 +356,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:48:18.056733Z"
-      }
-    },
-    {
-      "story_id": "story_373076a10218",
-      "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
-      "url": "https://x.com/elonmusk/status/2081174079969632347",
-      "primary_url": "https://x.com/elonmusk/status/2081174079969632347",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ead983ec445354837fda616f660a0314129158f",
-          "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
-          "title_zh": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-          "title_en": "Download Grok Build and type /tutorial http://X.ai/cli",
-          "title_original": "Download Grok Build and type /tutorial http://X.ai/cli",
-          "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2081174079969632347",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T00:25:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "6ead983ec445354837fda616f660a0314129158f",
-          "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
-          "title_zh": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-          "title_en": "Download Grok Build and type /tutorial http://X.ai/cli",
-          "title_original": "Download Grok Build and type /tutorial http://X.ai/cli",
-          "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2081174079969632347",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T00:25:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7228,
-      "importance": 0.7228,
-      "importance_score": 0.7228,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.801,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-26T00:25:41Z",
-      "latest_at": "2026-07-26T00:25:41Z",
-      "primary_item": {
-        "id": "6ead983ec445354837fda616f660a0314129158f",
-        "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
-        "title_zh": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-        "title_en": "Download Grok Build and type /tutorial http://X.ai/cli",
-        "title_original": "Download Grok Build and type /tutorial http://X.ai/cli",
-        "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/elonmusk/status/2081174079969632347",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:48:18.056733Z"
+        "scored_at": "2026-07-26T20:17:18.539026Z"
       }
     },
     {
@@ -434,15 +404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8626,
+        "recency": 0.8086,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -467,17 +437,31 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:48:18.056733Z"
+        "scored_at": "2026-07-26T20:17:18.539026Z"
       }
     },
     {
       "story_id": "story_62361e6c3c72",
-      "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-      "url": "https://news.ycombinator.com/item?id=49058669",
-      "primary_url": "https://news.ycombinator.com/item?id=49058669",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "伦敦盖特威克机场的“Park by Robot”服务",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+      "primary_url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+      "source": "aerospaceglobalnews.com",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "c587265a466725b1c337d817a8f4656bc09439b0",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_en": null,
+          "title_original": "伦敦盖特威克机场的“Park by Robot”服务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "aerospaceglobalnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T16:42:46.682000Z"
+        },
         {
           "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
           "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
@@ -494,8 +478,8 @@
         },
         {
           "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "title_zh": "伦敦盖特威克机场的机器人停车",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
+          "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
           "title_en": "Park by Robot at London Gatwick Airport",
           "title_original": "Park by Robot at London Gatwick Airport",
           "summary": null,
@@ -507,12 +491,27 @@
           "published_at": "2026-07-26T14:40:27Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
+        "aerospaceglobalnews.com",
         "hackernews"
       ],
       "items": [
+        {
+          "id": "c587265a466725b1c337d817a8f4656bc09439b0",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_en": null,
+          "title_original": "伦敦盖特威克机场的“Park by Robot”服务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "aerospaceglobalnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T16:42:46.682000Z"
+        },
         {
           "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
           "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
@@ -529,8 +528,8 @@
         },
         {
           "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "title_zh": "伦敦盖特威克机场的机器人停车",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
+          "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
           "title_en": "Park by Robot at London Gatwick Airport",
           "title_original": "Park by Robot at London Gatwick Airport",
           "summary": null,
@@ -540,6 +539,116 @@
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-07-26T14:40:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5618,
+      "importance": 0.5618,
+      "importance_score": 0.5618,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9499,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T14:40:27Z",
+      "latest_at": "2026-07-26T16:42:46.682000Z",
+      "primary_item": {
+        "id": "c587265a466725b1c337d817a8f4656bc09439b0",
+        "title": "伦敦盖特威克机场的“Park by Robot”服务",
+        "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
+        "title_en": null,
+        "title_original": "伦敦盖特威克机场的“Park by Robot”服务",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+        "source": "aerospaceglobalnews.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-26T20:17:18.539026Z"
+      }
+    },
+    {
+      "story_id": "story_d8d5f7f780b2",
+      "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+      "url": "https://news.ycombinator.com/item?id=49061015",
+      "primary_url": "https://news.ycombinator.com/item?id=49061015",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+          "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_zh": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心",
+          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49061015",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T19:56:21.857000Z"
+        },
+        {
+          "id": "0e05a478cbb759c9f0ec057b80780a9b8b8ebb05",
+          "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_zh": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心",
+          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/hertz-ai/HARTOS",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T18:40:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+          "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_zh": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心",
+          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49061015",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T19:56:21.857000Z"
+        },
+        {
+          "id": "0e05a478cbb759c9f0ec057b80780a9b8b8ebb05",
+          "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_zh": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心",
+          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/hertz-ai/HARTOS",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T18:40:08Z"
         }
       ],
       "item_count": 2,
@@ -552,24 +661,24 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9947,
+        "recency": 0.9952,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T14:40:27Z",
-      "latest_at": "2026-07-26T15:25:44.678000Z",
+      "earliest_at": "2026-07-26T18:40:08Z",
+      "latest_at": "2026-07-26T19:56:21.857000Z",
       "primary_item": {
-        "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-        "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-        "title_zh": "伦敦盖特威克机场的机器人停车",
-        "title_en": "Park by Robot at London Gatwick Airport",
-        "title_original": "Park by Robot at London Gatwick Airport",
+        "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+        "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+        "title_zh": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心",
+        "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+        "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49058669",
+        "url": "https://news.ycombinator.com/item?id=49061015",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -577,7 +686,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:48:18.056733Z"
+        "scored_at": "2026-07-26T20:17:18.539026Z"
       }
     },
     {
@@ -654,15 +763,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.534,
-      "importance": 0.534,
-      "importance_score": 0.534,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9346,
+        "recency": 0.8761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -687,7 +796,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:48:18.056733Z"
+        "scored_at": "2026-07-26T20:17:18.539026Z"
       }
     },
     {
@@ -764,15 +873,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
+      "score": 0.5164,
+      "importance": 0.5164,
+      "importance_score": 0.5164,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8924,
+        "recency": 0.8365,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -797,7 +906,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:48:18.056733Z"
+        "scored_at": "2026-07-26T20:17:18.539026Z"
       }
     },
     {
@@ -823,7 +932,7 @@
           "published_at": "2026-07-26T07:38:53.861000Z"
         },
         {
-          "id": "49a2b799efdc859150bd76035d48aa0aa53aece1",
+          "id": "282dbd4ec66043d7dffac55bce9bf5442c733001",
           "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
           "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
           "title_en": "Inflect-Micro-v2: complete voice in 9.36M parameters",
@@ -831,15 +940,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-26T00:36:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "huggingface.co"
       ],
       "items": [
@@ -858,7 +967,7 @@
           "published_at": "2026-07-26T07:38:53.861000Z"
         },
         {
-          "id": "49a2b799efdc859150bd76035d48aa0aa53aece1",
+          "id": "282dbd4ec66043d7dffac55bce9bf5442c733001",
           "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
           "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
           "title_en": "Inflect-Micro-v2: complete voice in 9.36M parameters",
@@ -866,23 +975,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-26T00:36:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5258,
-      "importance": 0.5258,
-      "importance_score": 0.5258,
+      "score": 0.5158,
+      "importance": 0.5158,
+      "importance_score": 0.5158,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.889,
+        "recency": 0.8333,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -907,117 +1016,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:48:18.056733Z"
-      }
-    },
-    {
-      "story_id": "story_13b542be9a05",
-      "title": "Debian 中 LLM 的应用：三项提案",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-          "title": "Debian 中 LLM 的应用：三项提案",
-          "title_zh": "Debian 中 LLM 的应用：三项提案",
-          "title_en": null,
-          "title_original": "Debian 中 LLM 的应用：三项提案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.336000Z"
-        },
-        {
-          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
-          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
-          "title_zh": "Debian 中 LLM 的应用：三项提案",
-          "title_en": "LLM Usage in Debian: Three Proposals",
-          "title_original": "LLM Usage in Debian: Three Proposals",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-          "title": "Debian 中 LLM 的应用：三项提案",
-          "title_zh": "Debian 中 LLM 的应用：三项提案",
-          "title_en": null,
-          "title_original": "Debian 中 LLM 的应用：三项提案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.336000Z"
-        },
-        {
-          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
-          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
-          "title_zh": "Debian 中 LLM 的应用：三项提案",
-          "title_en": "LLM Usage in Debian: Three Proposals",
-          "title_original": "LLM Usage in Debian: Three Proposals",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5174,
-      "importance": 0.5174,
-      "importance_score": 0.5174,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8424,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T19:44:39Z",
-      "latest_at": "2026-07-26T03:54:52.336000Z",
-      "primary_item": {
-        "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-        "title": "Debian 中 LLM 的应用：三项提案",
-        "title_zh": "Debian 中 LLM 的应用：三项提案",
-        "title_en": null,
-        "title_original": "Debian 中 LLM 的应用：三项提案",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:48:18.056733Z"
+        "scored_at": "2026-07-26T20:17:18.539026Z"
       }
     },
     {
@@ -1043,7 +1042,7 @@
           "published_at": "2026-07-26T03:54:52.690000Z"
         },
         {
-          "id": "0dedc15929b175f9d0203d2c31d410eaad8abaa8",
+          "id": "5e6ad59fb9400db7b7946b5c0251a9489142f675",
           "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
           "title_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
           "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
@@ -1051,15 +1050,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-25T23:32:50Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "github.com"
       ],
       "items": [
@@ -1078,7 +1077,7 @@
           "published_at": "2026-07-26T03:54:52.690000Z"
         },
         {
-          "id": "0dedc15929b175f9d0203d2c31d410eaad8abaa8",
+          "id": "5e6ad59fb9400db7b7946b5c0251a9489142f675",
           "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
           "title_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
           "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
@@ -1086,23 +1085,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-25T23:32:50Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5174,
-      "importance": 0.5174,
-      "importance_score": 0.5174,
+      "score": 0.5079,
+      "importance": 0.5079,
+      "importance_score": 0.5079,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8424,
+        "recency": 0.7896,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1127,7 +1126,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:48:18.056733Z"
+        "scored_at": "2026-07-26T20:17:18.539026Z"
       }
     },
     {
@@ -1204,15 +1203,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9947,
+        "recency": 0.9324,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1237,7 +1236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:48:18.056733Z"
+        "scored_at": "2026-07-26T20:17:18.539026Z"
       }
     },
     {
@@ -1314,15 +1313,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5078,
-      "importance": 0.5078,
-      "importance_score": 0.5078,
+      "score": 0.4989,
+      "importance": 0.4989,
+      "importance_score": 0.4989,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.789,
+        "recency": 0.7396,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1344,120 +1343,10 @@
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:48:18.056733Z"
-      }
-    },
-    {
-      "story_id": "story_2fe9abb9e4dd",
-      "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-      "primary_url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
-          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_zh": "“人工智能狂热正在彻底改变全球决策”",
-          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T21:18:06Z"
-        },
-        {
-          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
-          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
-          "title_zh": "“人工智能狂热正在彻底改变全球决策”",
-          "title_en": "‘AI Mania Is Eviscerating Global Decision-Making’",
-          "title_original": "‘AI Mania Is Eviscerating Global Decision-Making’",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T18:15:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Daring Fireball",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
-          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_zh": "“人工智能狂热正在彻底改变全球决策”",
-          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T21:18:06Z"
-        },
-        {
-          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
-          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
-          "title_zh": "“人工智能狂热正在彻底改变全球决策”",
-          "title_en": "‘AI Mania Is Eviscerating Global Decision-Making’",
-          "title_original": "‘AI Mania Is Eviscerating Global Decision-Making’",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T18:15:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5036,
-      "importance": 0.5036,
-      "importance_score": 0.5036,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7656,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T18:15:12Z",
-      "latest_at": "2026-07-25T21:18:06Z",
-      "primary_item": {
-        "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
-        "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-        "title_zh": "“人工智能狂热正在彻底改变全球决策”",
-        "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
-        "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T15:48:18.056733Z"
+        "scored_at": "2026-07-26T20:17:18.539026Z"
       }
     }
   ]
