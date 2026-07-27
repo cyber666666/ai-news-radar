@@ -1,174 +1,636 @@
 {
-  "generated_at": "2026-07-26T20:16:28.969853Z",
+  "generated_at": "2026-07-27T12:40:40.858495Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_12116ef69e35",
-      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "primary_url": "https://github.com/slvDev/esp32-ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_eb297d743217",
+      "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "primary_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "title_zh": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "title_en": null,
-          "title_original": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "summary": "开发者成功在售价约 8 美元的 ESP32-S3 微控制器上运行了一个 28.9M 参数的大语言模型，完全在芯片本地运行，无需连接服务器，生成速度约 9.5 tok/s。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
-          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
-          "title_zh": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
-          "title_en": null,
-          "title_original": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+          "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
+          "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "title_zh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟",
+          "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.332000Z"
+          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T09:32:20Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "title_zh": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "title_en": null,
-          "title_original": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "summary": "开发者成功在售价约 8 美元的 ESP32-S3 微控制器上运行了一个 28.9M 参数的大语言模型，完全在芯片本地运行，无需连接服务器，生成速度约 9.5 tok/s。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
-          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
-          "title_zh": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
-          "title_en": null,
-          "title_original": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+          "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
+          "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "title_zh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟",
+          "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.332000Z"
+          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T09:32:20Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9557,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T09:32:20Z",
+      "latest_at": "2026-07-27T09:32:20Z",
+      "primary_item": {
+        "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
+        "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+        "title_zh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟",
+        "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+        "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T12:41:27.965088Z"
+      }
+    },
+    {
+      "story_id": "story_2c891351a310",
+      "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "primary_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
+          "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+          "title_zh": "人工智能如何扩展人们的工作范围",
+          "title_en": "How AI is expanding what people do at work",
+          "title_original": "How AI is expanding what people do at work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T03:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
+          "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+          "title_zh": "人工智能如何扩展人们的工作范围",
+          "title_en": "How AI is expanding what people do at work",
+          "title_original": "How AI is expanding what people do at work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T03:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8759,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T03:30:00Z",
+      "latest_at": "2026-07-27T03:30:00Z",
+      "primary_item": {
+        "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
+        "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+        "title_zh": "人工智能如何扩展人们的工作范围",
+        "title_en": "How AI is expanding what people do at work",
+        "title_original": "How AI is expanding what people do at work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T12:41:27.965088Z"
+      }
+    },
+    {
+      "story_id": "story_b6a9a859e99e",
+      "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+      "url": "https://www.aibase.com/news/29910",
+      "primary_url": "https://www.aibase.com/news/29910",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
+          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_en": null,
+          "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29910",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
+          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_en": null,
+          "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29910",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T12:40:40.858495Z",
+      "latest_at": "2026-07-27T12:40:40.858495Z",
+      "primary_item": {
+        "id": "8c21edfd378c931f752d0362621f4df294ed011d",
+        "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+        "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+        "title_en": null,
+        "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29910",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T12:41:27.965088Z"
+      }
+    },
+    {
+      "story_id": "story_0907ce5e66ea",
+      "title": "用AI Skill自动生成可协作HTML PPT",
+      "url": "https://x.com/vista8/status/2081568902241513786",
+      "primary_url": "https://x.com/vista8/status/2081568902241513786",
+      "source": "X：Vista (@vista8)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "29e61cc109f21b35c2460b50e409520ec711253b",
+          "title": "用AI Skill自动生成可协作HTML PPT",
+          "title_zh": "用AI Skill自动生成可协作HTML PPT",
+          "title_en": null,
+          "title_original": "用AI Skill自动生成可协作HTML PPT",
+          "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/vista8/status/2081568902241513786",
+          "source": "X：Vista (@vista8)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T02:34:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Vista (@vista8)"
+      ],
+      "items": [
+        {
+          "id": "29e61cc109f21b35c2460b50e409520ec711253b",
+          "title": "用AI Skill自动生成可协作HTML PPT",
+          "title_zh": "用AI Skill自动生成可协作HTML PPT",
+          "title_en": null,
+          "title_original": "用AI Skill自动生成可协作HTML PPT",
+          "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/vista8/status/2081568902241513786",
+          "source": "X：Vista (@vista8)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T02:34:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7896,
-        "story_heat": 0.25
+        "recency": 0.8643,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-26T03:54:52.332000Z",
-      "latest_at": "2026-07-26T03:54:52.332000Z",
+      "earliest_at": "2026-07-27T02:34:34Z",
+      "latest_at": "2026-07-27T02:34:34Z",
       "primary_item": {
-        "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
-        "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-        "title_zh": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+        "id": "29e61cc109f21b35c2460b50e409520ec711253b",
+        "title": "用AI Skill自动生成可协作HTML PPT",
+        "title_zh": "用AI Skill自动生成可协作HTML PPT",
         "title_en": null,
-        "title_original": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-        "summary": "开发者成功在售价约 8 美元的 ESP32-S3 微控制器上运行了一个 28.9M 参数的大语言模型，完全在芯片本地运行，无需连接服务器，生成速度约 9.5 tok/s。",
+        "title_original": "用AI Skill自动生成可协作HTML PPT",
+        "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
         "recommend_reason_zh": null,
-        "url": "https://github.com/slvDev/esp32-ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://x.com/vista8/status/2081568902241513786",
+        "source": "X：Vista (@vista8)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T20:17:18.539026Z"
+        "scored_at": "2026-07-27T12:41:27.965088Z"
       }
     },
     {
-      "story_id": "story_b171ba4f1505",
-      "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-      "url": "https://x.com/suno/status/2081443050312843765",
-      "primary_url": "https://x.com/suno/status/2081443050312843765",
-      "source": "X：Suno (@suno)",
-      "source_name": "AI HOT",
+      "story_id": "story_1ea579ee44b6",
+      "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+      "url": "https://www.aibase.com/news/29917",
+      "primary_url": "https://www.aibase.com/news/29917",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
-          "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "title_zh": "Suno 推出多项新功能，含MIDI导出等",
-          "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_en": null,
+          "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/suno/status/2081443050312843765",
-          "source": "X：Suno (@suno)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T18:14:29Z"
+          "url": "https://www.aibase.com/news/29917",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Suno (@suno)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
-          "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "title_zh": "Suno 推出多项新功能，含MIDI导出等",
-          "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_en": null,
+          "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/suno/status/2081443050312843765",
-          "source": "X：Suno (@suno)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T18:14:29Z"
+          "url": "https://www.aibase.com/news/29917",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T12:40:40.858495Z",
+      "latest_at": "2026-07-27T12:40:40.858495Z",
+      "primary_item": {
+        "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+        "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+        "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+        "title_en": null,
+        "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29917",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T12:41:27.965088Z"
+      }
+    },
+    {
+      "story_id": "story_630a5caa233a",
+      "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架 / When Coding Stops Being the Bottleneck",
+      "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+      "primary_url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+      "source": "Berkeley RDI：Blog（AI 安全与评测）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "99c7a0611b8c3fcfdaa290acf333dfad7eb62c9c",
+          "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架 / When Coding Stops Being the Bottleneck",
+          "title_zh": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
+          "title_en": "When Coding Stops Being the Bottleneck",
+          "title_original": "When Coding Stops Being the Bottleneck",
+          "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
+          "recommend_reason_zh": null,
+          "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+          "source": "Berkeley RDI：Blog（AI 安全与评测）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T07:51:26.272000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Berkeley RDI：Blog（AI 安全与评测）"
+      ],
+      "items": [
+        {
+          "id": "99c7a0611b8c3fcfdaa290acf333dfad7eb62c9c",
+          "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架 / When Coding Stops Being the Bottleneck",
+          "title_zh": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
+          "title_en": "When Coding Stops Being the Bottleneck",
+          "title_original": "When Coding Stops Being the Bottleneck",
+          "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
+          "recommend_reason_zh": null,
+          "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+          "source": "Berkeley RDI：Blog（AI 安全与评测）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T07:51:26.272000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9328,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T07:51:26.272000Z",
+      "latest_at": "2026-07-27T07:51:26.272000Z",
+      "primary_item": {
+        "id": "99c7a0611b8c3fcfdaa290acf333dfad7eb62c9c",
+        "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架 / When Coding Stops Being the Bottleneck",
+        "title_zh": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
+        "title_en": "When Coding Stops Being the Bottleneck",
+        "title_original": "When Coding Stops Being the Bottleneck",
+        "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
+        "recommend_reason_zh": null,
+        "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+        "source": "Berkeley RDI：Blog（AI 安全与评测）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T12:41:27.965088Z"
+      }
+    },
+    {
+      "story_id": "story_87f4abb6708f",
+      "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+      "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
+      "primary_url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0f2e7fb1dbe93ed3aa7faa7e5f2aa6ad50744917",
+          "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+          "title_zh": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+          "title_en": null,
+          "title_original": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+          "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T00:12:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "0f2e7fb1dbe93ed3aa7faa7e5f2aa6ad50744917",
+          "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+          "title_zh": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+          "title_en": null,
+          "title_original": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+          "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T00:12:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9711,
+        "recency": 0.8351,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T00:12:00Z",
+      "latest_at": "2026-07-27T00:12:00Z",
+      "primary_item": {
+        "id": "0f2e7fb1dbe93ed3aa7faa7e5f2aa6ad50744917",
+        "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+        "title_zh": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+        "title_en": null,
+        "title_original": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+        "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T12:41:27.965088Z"
+      }
+    },
+    {
+      "story_id": "story_78c20dc62353",
+      "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+      "url": "https://www.aibase.com/news/29914",
+      "primary_url": "https://www.aibase.com/news/29914",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
+          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "title_en": null,
+          "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29914",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
+          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "title_en": null,
+          "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29914",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -176,268 +638,934 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-26T18:14:29Z",
-      "latest_at": "2026-07-26T18:14:29Z",
+      "earliest_at": "2026-07-27T12:40:40.858495Z",
+      "latest_at": "2026-07-27T12:40:40.858495Z",
       "primary_item": {
-        "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
-        "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-        "title_zh": "Suno 推出多项新功能，含MIDI导出等",
-        "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-        "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-        "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/suno/status/2081443050312843765",
-        "source": "X：Suno (@suno)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T20:17:18.539026Z"
-      }
-    },
-    {
-      "story_id": "story_9a66534a1fc0",
-      "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-      "url": "https://www.ithome.com/0/981/797.htm",
-      "primary_url": "https://www.ithome.com/0/981/797.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
-          "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "title_zh": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "title_en": null,
-          "title_original": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "summary": "OpenAI 与 Anthropic 正游说美国监管机构限制中国开源 AI 模型，认为开放开发过于危险。英伟达 CEO 黄仁勋、微软 CEO 纳德拉、马斯克及扎克伯格等人公开支持开源，签署联名信反对限制。近 200 家硅谷创业公司也敦促特朗普政府不要限制获取中国开源模型，美国官员倾向于将此事作为国家安全问题单独处理。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/797.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T12:54:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
-          "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "title_zh": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "title_en": null,
-          "title_original": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "summary": "OpenAI 与 Anthropic 正游说美国监管机构限制中国开源 AI 模型，认为开放开发过于危险。英伟达 CEO 黄仁勋、微软 CEO 纳德拉、马斯克及扎克伯格等人公开支持开源，签署联名信反对限制。近 200 家硅谷创业公司也敦促特朗普政府不要限制获取中国开源模型，美国官员倾向于将此事作为国家安全问题单独处理。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/797.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T12:54:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8991,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-26T12:54:28Z",
-      "latest_at": "2026-07-26T12:54:28Z",
-      "primary_item": {
-        "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
-        "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-        "title_zh": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+        "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
+        "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+        "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
         "title_en": null,
-        "title_original": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-        "summary": "OpenAI 与 Anthropic 正游说美国监管机构限制中国开源 AI 模型，认为开放开发过于危险。英伟达 CEO 黄仁勋、微软 CEO 纳德拉、马斯克及扎克伯格等人公开支持开源，签署联名信反对限制。近 200 家硅谷创业公司也敦促特朗普政府不要限制获取中国开源模型，美国官员倾向于将此事作为国家安全问题单独处理。",
+        "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/981/797.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/29914",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T20:17:18.539026Z"
+        "scored_at": "2026-07-27T12:41:27.965088Z"
       }
     },
     {
-      "story_id": "story_542487498bc6",
-      "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南 / Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-      "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-      "primary_url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_830e0635b3bc",
+      "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+      "url": "https://www.aibase.com/news/29903",
+      "primary_url": "https://www.aibase.com/news/29903",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "f34c5f8938e737f61226a3a0dc451a972cd5b3db",
-          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南 / Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-          "title_zh": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
-          "title_en": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-          "title_original": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-          "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
+          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
+          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+          "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+          "title_en": null,
+          "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T08:35:49Z"
+          "url": "https://www.aibase.com/news/29903",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "f34c5f8938e737f61226a3a0dc451a972cd5b3db",
-          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南 / Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-          "title_zh": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
-          "title_en": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-          "title_original": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-          "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
+          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
+          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+          "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+          "title_en": null,
+          "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T08:35:49Z"
+          "url": "https://www.aibase.com/news/29903",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8448,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T08:35:49Z",
-      "latest_at": "2026-07-26T08:35:49Z",
+      "earliest_at": "2026-07-27T12:40:40.858495Z",
+      "latest_at": "2026-07-27T12:40:40.858495Z",
       "primary_item": {
-        "id": "f34c5f8938e737f61226a3a0dc451a972cd5b3db",
-        "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南 / Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-        "title_zh": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
-        "title_en": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-        "title_original": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-        "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T20:17:18.539026Z"
-      }
-    },
-    {
-      "story_id": "story_a3ff96779b04",
-      "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-      "url": "https://www.ithome.com/0/981/688.htm",
-      "primary_url": "https://www.ithome.com/0/981/688.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
-          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "title_en": null,
-          "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/688.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T05:33:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
-          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "title_en": null,
-          "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/688.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T05:33:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7271,
-      "importance": 0.7271,
-      "importance_score": 0.7271,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8086,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-26T05:33:44Z",
-      "latest_at": "2026-07-26T05:33:44Z",
-      "primary_item": {
-        "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
-        "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-        "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+        "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
+        "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+        "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
         "title_en": null,
-        "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-        "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
+        "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/981/688.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/29903",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T20:17:18.539026Z"
+        "scored_at": "2026-07-27T12:41:27.965088Z"
+      }
+    },
+    {
+      "story_id": "story_b1ab2dbdc211",
+      "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+      "url": "https://www.aibase.com/news/29904",
+      "primary_url": "https://www.aibase.com/news/29904",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
+          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+          "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+          "title_en": null,
+          "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29904",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
+          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+          "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+          "title_en": null,
+          "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29904",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T12:40:40.858495Z",
+      "latest_at": "2026-07-27T12:40:40.858495Z",
+      "primary_item": {
+        "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
+        "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+        "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+        "title_en": null,
+        "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29904",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T12:41:27.965088Z"
+      }
+    },
+    {
+      "story_id": "story_2f2bb8073ae3",
+      "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+      "url": "https://www.aibase.com/news/29908",
+      "primary_url": "https://www.aibase.com/news/29908",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
+          "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+          "title_zh": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+          "title_en": null,
+          "title_original": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29908",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
+          "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+          "title_zh": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+          "title_en": null,
+          "title_original": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29908",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T12:40:40.858495Z",
+      "latest_at": "2026-07-27T12:40:40.858495Z",
+      "primary_item": {
+        "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
+        "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+        "title_zh": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+        "title_en": null,
+        "title_original": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29908",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T12:41:27.965088Z"
+      }
+    },
+    {
+      "story_id": "story_6e37e0c3ca13",
+      "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+      "url": "https://www.aibase.com/news/29905",
+      "primary_url": "https://www.aibase.com/news/29905",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "17d11038163f823192d508995e9fc61f94746787",
+          "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+          "title_zh": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+          "title_en": null,
+          "title_original": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29905",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "17d11038163f823192d508995e9fc61f94746787",
+          "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+          "title_zh": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+          "title_en": null,
+          "title_original": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29905",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T12:40:40.858495Z",
+      "latest_at": "2026-07-27T12:40:40.858495Z",
+      "primary_item": {
+        "id": "17d11038163f823192d508995e9fc61f94746787",
+        "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+        "title_zh": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+        "title_en": null,
+        "title_original": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29905",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T12:41:27.965088Z"
+      }
+    },
+    {
+      "story_id": "story_6086e14c411f",
+      "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
+      "url": "https://news.ycombinator.com/item?id=49068029",
+      "primary_url": "https://news.ycombinator.com/item?id=49068029",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "96be110416a0b5c77ba5f5837e25e2aca4315471",
+          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
+          "title_zh": "Claude Opus 5 上的错误增加",
+          "title_en": "Elevated errors on Claude Opus 5",
+          "title_original": "Elevated errors on Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49068029",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T12:17:03.428000Z"
+        },
+        {
+          "id": "63c5eb8dd391036d7752e7691ffb154c6b4e6686",
+          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
+          "title_zh": "Claude Opus 5 上的错误增加",
+          "title_en": "Elevated errors on Claude Opus 5",
+          "title_original": "Elevated errors on Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T11:32:32Z"
+        },
+        {
+          "id": "0c5e0c400b84872915e36b61935e326db6a55c04",
+          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
+          "title_zh": "Claude Opus 5 上的错误增加",
+          "title_en": "Elevated errors on Claude Opus 5",
+          "title_original": "Elevated errors on Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T08:20:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "96be110416a0b5c77ba5f5837e25e2aca4315471",
+          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
+          "title_zh": "Claude Opus 5 上的错误增加",
+          "title_en": "Elevated errors on Claude Opus 5",
+          "title_original": "Elevated errors on Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49068029",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T12:17:03.428000Z"
+        },
+        {
+          "id": "63c5eb8dd391036d7752e7691ffb154c6b4e6686",
+          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
+          "title_zh": "Claude Opus 5 上的错误增加",
+          "title_en": "Elevated errors on Claude Opus 5",
+          "title_original": "Elevated errors on Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T11:32:32Z"
+        },
+        {
+          "id": "0c5e0c400b84872915e36b61935e326db6a55c04",
+          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
+          "title_zh": "Claude Opus 5 上的错误增加",
+          "title_en": "Elevated errors on Claude Opus 5",
+          "title_original": "Elevated errors on Claude Opus 5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T08:20:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9943,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T08:20:06Z",
+      "latest_at": "2026-07-27T12:17:03.428000Z",
+      "primary_item": {
+        "id": "96be110416a0b5c77ba5f5837e25e2aca4315471",
+        "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
+        "title_zh": "Claude Opus 5 上的错误增加",
+        "title_en": "Elevated errors on Claude Opus 5",
+        "title_original": "Elevated errors on Claude Opus 5",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49068029",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T12:41:27.965088Z"
+      }
+    },
+    {
+      "story_id": "story_620ebb8c9c5b",
+      "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+      "url": "https://www.aibase.com/news/29916",
+      "primary_url": "https://www.aibase.com/news/29916",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "326261f775bd97b90c695a2a62309932378bfecc",
+          "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+          "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+          "title_en": null,
+          "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29916",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "326261f775bd97b90c695a2a62309932378bfecc",
+          "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+          "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+          "title_en": null,
+          "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29916",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T12:40:40.858495Z",
+      "latest_at": "2026-07-27T12:40:40.858495Z",
+      "primary_item": {
+        "id": "326261f775bd97b90c695a2a62309932378bfecc",
+        "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+        "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+        "title_en": null,
+        "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29916",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T12:41:27.965088Z"
+      }
+    },
+    {
+      "story_id": "story_2d4e47d50fc6",
+      "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+      "url": "https://news.ycombinator.com/item?id=49065752",
+      "primary_url": "https://news.ycombinator.com/item?id=49065752",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
+          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
+          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
+          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49065752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T12:17:03.428000Z"
+        },
+        {
+          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_en": null,
+          "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T08:09:26.811000Z"
+        },
+        {
+          "id": "436d18c01c7bae7b2d15ac94ed347b9d8b1a0a29",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
+          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T06:18:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "huggingface.co"
+      ],
+      "items": [
+        {
+          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
+          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
+          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
+          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49065752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T12:17:03.428000Z"
+        },
+        {
+          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_en": null,
+          "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T08:09:26.811000Z"
+        },
+        {
+          "id": "436d18c01c7bae7b2d15ac94ed347b9d8b1a0a29",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
+          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T06:18:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9943,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T06:18:10Z",
+      "latest_at": "2026-07-27T12:17:03.428000Z",
+      "primary_item": {
+        "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
+        "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+        "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
+        "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
+        "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49065752",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T12:41:27.965088Z"
+      }
+    },
+    {
+      "story_id": "story_635975c99eb1",
+      "title": "人工智能的新“超能力”：专注与坚持到底",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "primary_url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "source": "www.rickmanelius.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a4f694c70e32b8740533b72da76cfb4abc0767b5",
+          "title": "人工智能的新“超能力”：专注与坚持到底",
+          "title_zh": "人工智能的新“超能力”：专注与坚持到底",
+          "title_en": null,
+          "title_original": "人工智能的新“超能力”：专注与坚持到底",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "www.rickmanelius.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T21:46:07.121000Z"
+        },
+        {
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "新的人工智能超级大国：专注和跟进",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:25:44.678000Z"
+        },
+        {
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "人工智能的新“超能力”：专注与坚持到底 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "人工智能的新“超能力”：专注与坚持到底",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.rickmanelius.com"
+      ],
+      "items": [
+        {
+          "id": "a4f694c70e32b8740533b72da76cfb4abc0767b5",
+          "title": "人工智能的新“超能力”：专注与坚持到底",
+          "title_zh": "人工智能的新“超能力”：专注与坚持到底",
+          "title_en": null,
+          "title_original": "人工智能的新“超能力”：专注与坚持到底",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "www.rickmanelius.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T21:46:07.121000Z"
+        },
+        {
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "新的人工智能超级大国：专注和跟进",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:25:44.678000Z"
+        },
+        {
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "人工智能的新“超能力”：专注与坚持到底 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "人工智能的新“超能力”：专注与坚持到底",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8063,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T13:13:03Z",
+      "latest_at": "2026-07-26T21:46:07.121000Z",
+      "primary_item": {
+        "id": "a4f694c70e32b8740533b72da76cfb4abc0767b5",
+        "title": "人工智能的新“超能力”：专注与坚持到底",
+        "title_zh": "人工智能的新“超能力”：专注与坚持到底",
+        "title_en": null,
+        "title_original": "人工智能的新“超能力”：专注与坚持到底",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+        "source": "www.rickmanelius.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T12:41:27.965088Z"
+      }
+    },
+    {
+      "story_id": "story_9bc7ee932d09",
+      "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+      "url": "https://www.aibase.com/news/29909",
+      "primary_url": "https://www.aibase.com/news/29909",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
+          "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "title_zh": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "title_en": null,
+          "title_original": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29909",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
+          "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "title_zh": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "title_en": null,
+          "title_original": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29909",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T12:40:40.858495Z",
+      "latest_at": "2026-07-27T12:40:40.858495Z",
+      "primary_item": {
+        "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
+        "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+        "title_zh": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+        "title_en": null,
+        "title_original": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29909",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T12:41:27.965088Z"
       }
     },
     {
@@ -543,15 +1671,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5618,
-      "importance": 0.5618,
-      "importance_score": 0.5618,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9499,
+        "recency": 0.7495,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -576,777 +1704,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T20:17:18.539026Z"
+        "scored_at": "2026-07-27T12:41:27.965088Z"
       }
     },
     {
-      "story_id": "story_d8d5f7f780b2",
-      "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-      "url": "https://news.ycombinator.com/item?id=49061015",
-      "primary_url": "https://news.ycombinator.com/item?id=49061015",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_ff35d4d39822",
+      "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
+      "url": "https://www.aibase.com/news/29901",
+      "primary_url": "https://www.aibase.com/news/29901",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
-          "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "title_zh": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心",
-          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "id": "5c5c368e4dea3a734230876fbc80e22c3404f6ce",
+          "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
+          "title_zh": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
+          "title_en": null,
+          "title_original": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49061015",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T19:56:21.857000Z"
-        },
-        {
-          "id": "0e05a478cbb759c9f0ec057b80780a9b8b8ebb05",
-          "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "title_zh": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心",
-          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/hertz-ai/HARTOS",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T18:40:08Z"
+          "url": "https://www.aibase.com/news/29901",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
-          "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "title_zh": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心",
-          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49061015",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T19:56:21.857000Z"
-        },
-        {
-          "id": "0e05a478cbb759c9f0ec057b80780a9b8b8ebb05",
-          "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "title_zh": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心",
-          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/hertz-ai/HARTOS",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T18:40:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9952,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T18:40:08Z",
-      "latest_at": "2026-07-26T19:56:21.857000Z",
-      "primary_item": {
-        "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
-        "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-        "title_zh": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心",
-        "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-        "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49061015",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T20:17:18.539026Z"
-      }
-    },
-    {
-      "story_id": "story_f87d3f1e3314",
-      "title": "就业形势如何？区分人工智能的炒作与现实",
-      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-      "primary_url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-      "source": "siepr.stanford.edu",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9e67b2d4f917e46139f675935ffb37c31f33b857",
-          "title": "就业形势如何？区分人工智能的炒作与现实",
-          "title_zh": "就业形势如何？区分人工智能的炒作与现实",
+          "id": "5c5c368e4dea3a734230876fbc80e22c3404f6ce",
+          "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
+          "title_zh": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
           "title_en": null,
-          "title_original": "就业形势如何？区分人工智能的炒作与现实",
+          "title_original": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-          "source": "siepr.stanford.edu",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T11:06:49.887000Z"
-        },
-        {
-          "id": "b94c39ffbed50009079b6ba3090b0928aa8eed84",
-          "title": "就业形势如何？区分人工智能的炒作与现实 / What is happening to jobs? Separating AI hype from reality",
-          "title_zh": "就业形势如何？区分人工智能的炒作与现实",
-          "title_en": "What is happening to jobs? Separating AI hype from reality",
-          "title_original": "What is happening to jobs? Separating AI hype from reality",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T22:51:10Z"
+          "url": "https://www.aibase.com/news/29901",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
         }
       ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "siepr.stanford.edu"
-      ],
-      "items": [
-        {
-          "id": "9e67b2d4f917e46139f675935ffb37c31f33b857",
-          "title": "就业形势如何？区分人工智能的炒作与现实",
-          "title_zh": "就业形势如何？区分人工智能的炒作与现实",
-          "title_en": null,
-          "title_original": "就业形势如何？区分人工智能的炒作与现实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-          "source": "siepr.stanford.edu",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T11:06:49.887000Z"
-        },
-        {
-          "id": "b94c39ffbed50009079b6ba3090b0928aa8eed84",
-          "title": "就业形势如何？区分人工智能的炒作与现实 / What is happening to jobs? Separating AI hype from reality",
-          "title_zh": "就业形势如何？区分人工智能的炒作与现实",
-          "title_en": "What is happening to jobs? Separating AI hype from reality",
-          "title_original": "What is happening to jobs? Separating AI hype from reality",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T22:51:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8761,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-25T22:51:10Z",
-      "latest_at": "2026-07-26T11:06:49.887000Z",
+      "earliest_at": "2026-07-27T12:40:40.858495Z",
+      "latest_at": "2026-07-27T12:40:40.858495Z",
       "primary_item": {
-        "id": "9e67b2d4f917e46139f675935ffb37c31f33b857",
-        "title": "就业形势如何？区分人工智能的炒作与现实",
-        "title_zh": "就业形势如何？区分人工智能的炒作与现实",
+        "id": "5c5c368e4dea3a734230876fbc80e22c3404f6ce",
+        "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
+        "title_zh": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
         "title_en": null,
-        "title_original": "就业形势如何？区分人工智能的炒作与现实",
+        "title_original": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-        "source": "siepr.stanford.edu",
-        "source_name": "Buzzing"
+        "url": "https://www.aibase.com/news/29901",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T20:17:18.539026Z"
+        "scored_at": "2026-07-27T12:41:27.965088Z"
       }
     },
     {
-      "story_id": "story_053563a28f71",
-      "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-      "primary_url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-      "source": "blog.cloudflare.com",
-      "source_name": "Buzzing",
+      "story_id": "story_d7c0ebfdd22e",
+      "title": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
+      "url": "https://www.aibase.com/news/29899",
+      "primary_url": "https://www.aibase.com/news/29899",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "ca789375d6785f531fef17d4ac34cc2b4ac2de69",
-          "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
-          "title_zh": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
+          "id": "b5e4795c042a9a1dbcf893fd460f1061f33f7acb",
+          "title": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
+          "title_zh": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
           "title_en": null,
-          "title_original": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
+          "title_original": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "blog.cloudflare.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T07:54:52.835000Z"
-        },
-        {
-          "id": "2d1e732658f9db304dfc22de572764252c7c2efa",
-          "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项 / Cloudflare's new AI traffic options for customers",
-          "title_zh": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
-          "title_en": "Cloudflare's new AI traffic options for customers",
-          "title_original": "Cloudflare's new AI traffic options for customers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T22:50:49Z"
+          "url": "https://www.aibase.com/news/29899",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "blog.cloudflare.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "ca789375d6785f531fef17d4ac34cc2b4ac2de69",
-          "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
-          "title_zh": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
+          "id": "b5e4795c042a9a1dbcf893fd460f1061f33f7acb",
+          "title": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
+          "title_zh": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
           "title_en": null,
-          "title_original": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
+          "title_original": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "blog.cloudflare.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T07:54:52.835000Z"
-        },
-        {
-          "id": "2d1e732658f9db304dfc22de572764252c7c2efa",
-          "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项 / Cloudflare's new AI traffic options for customers",
-          "title_zh": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
-          "title_en": "Cloudflare's new AI traffic options for customers",
-          "title_original": "Cloudflare's new AI traffic options for customers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T22:50:49Z"
+          "url": "https://www.aibase.com/news/29899",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:40:40.858495Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5164,
-      "importance": 0.5164,
-      "importance_score": 0.5164,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8365,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-25T22:50:49Z",
-      "latest_at": "2026-07-26T07:54:52.835000Z",
+      "earliest_at": "2026-07-27T12:40:40.858495Z",
+      "latest_at": "2026-07-27T12:40:40.858495Z",
       "primary_item": {
-        "id": "ca789375d6785f531fef17d4ac34cc2b4ac2de69",
-        "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
-        "title_zh": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
+        "id": "b5e4795c042a9a1dbcf893fd460f1061f33f7acb",
+        "title": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
+        "title_zh": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
         "title_en": null,
-        "title_original": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
+        "title_original": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-        "source": "blog.cloudflare.com",
-        "source_name": "Buzzing"
+        "url": "https://www.aibase.com/news/29899",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T20:17:18.539026Z"
-      }
-    },
-    {
-      "story_id": "story_56214f7f40b3",
-      "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "primary_url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "source": "huggingface.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "74fc0950094ef9f90ad2b4aae8185807c57fa58c",
-          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "title_en": null,
-          "title_original": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T07:38:53.861000Z"
-        },
-        {
-          "id": "282dbd4ec66043d7dffac55bce9bf5442c733001",
-          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "title_en": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "title_original": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T00:36:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "huggingface.co"
-      ],
-      "items": [
-        {
-          "id": "74fc0950094ef9f90ad2b4aae8185807c57fa58c",
-          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "title_en": null,
-          "title_original": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T07:38:53.861000Z"
-        },
-        {
-          "id": "282dbd4ec66043d7dffac55bce9bf5442c733001",
-          "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-          "title_en": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "title_original": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T00:36:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5158,
-      "importance": 0.5158,
-      "importance_score": 0.5158,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8333,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T00:36:30Z",
-      "latest_at": "2026-07-26T07:38:53.861000Z",
-      "primary_item": {
-        "id": "74fc0950094ef9f90ad2b4aae8185807c57fa58c",
-        "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-        "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-        "title_en": null,
-        "title_original": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-        "source": "huggingface.co",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T20:17:18.539026Z"
-      }
-    },
-    {
-      "story_id": "story_213f8ad1a1a3",
-      "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "primary_url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6701328e205a2b0fa38156d13c431358070662ea",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "title_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "title_en": null,
-          "title_original": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.690000Z"
-        },
-        {
-          "id": "5e6ad59fb9400db7b7946b5c0251a9489142f675",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "title_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "title_original": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T23:32:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "6701328e205a2b0fa38156d13c431358070662ea",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "title_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "title_en": null,
-          "title_original": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.690000Z"
-        },
-        {
-          "id": "5e6ad59fb9400db7b7946b5c0251a9489142f675",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "title_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "title_original": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T23:32:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5079,
-      "importance": 0.5079,
-      "importance_score": 0.5079,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7896,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T23:32:50Z",
-      "latest_at": "2026-07-26T03:54:52.690000Z",
-      "primary_item": {
-        "id": "6701328e205a2b0fa38156d13c431358070662ea",
-        "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-        "title_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-        "title_en": null,
-        "title_original": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T20:17:18.539026Z"
-      }
-    },
-    {
-      "story_id": "story_635975c99eb1",
-      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-      "url": "https://news.ycombinator.com/item?id=49057877",
-      "primary_url": "https://news.ycombinator.com/item?id=49057877",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的人工智能超级大国：专注和跟进",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49057877",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:25:44.678000Z"
-        },
-        {
-          "id": "05b39220b5c869b6b921ca427001f0f621e5f2ce",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的人工智能超级大国：专注和跟进",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T13:13:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的人工智能超级大国：专注和跟进",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49057877",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:25:44.678000Z"
-        },
-        {
-          "id": "05b39220b5c869b6b921ca427001f0f621e5f2ce",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的人工智能超级大国：专注和跟进",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T13:13:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9324,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T13:13:03Z",
-      "latest_at": "2026-07-26T15:25:44.678000Z",
-      "primary_item": {
-        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-        "title_zh": "新的人工智能超级大国：专注和跟进",
-        "title_en": "The New AI Superpowers: Focus and Followthrough",
-        "title_original": "The New AI Superpowers: Focus and Followthrough",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49057877",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T20:17:18.539026Z"
-      }
-    },
-    {
-      "story_id": "story_7d231e7bb6a8",
-      "title": "Claude 5 生成模型的上下文工程新规则",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "source": "claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-          "title": "Claude 5 生成模型的上下文工程新规则",
-          "title_zh": "Claude 5 生成模型的上下文工程新规则",
-          "title_en": null,
-          "title_original": "Claude 5 生成模型的上下文工程新规则",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T23:23:09.413000Z"
-        },
-        {
-          "id": "b29d63d16c40b219fb2e29ee30bdd9fc299b9abc",
-          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5 生成模型的上下文工程新规则",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T20:42:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "claude.com"
-      ],
-      "items": [
-        {
-          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-          "title": "Claude 5 生成模型的上下文工程新规则",
-          "title_zh": "Claude 5 生成模型的上下文工程新规则",
-          "title_en": null,
-          "title_original": "Claude 5 生成模型的上下文工程新规则",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T23:23:09.413000Z"
-        },
-        {
-          "id": "b29d63d16c40b219fb2e29ee30bdd9fc299b9abc",
-          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5 生成模型的上下文工程新规则",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T20:42:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4989,
-      "importance": 0.4989,
-      "importance_score": 0.4989,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7396,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T20:42:35Z",
-      "latest_at": "2026-07-25T23:23:09.413000Z",
-      "primary_item": {
-        "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-        "title": "Claude 5 生成模型的上下文工程新规则",
-        "title_zh": "Claude 5 生成模型的上下文工程新规则",
-        "title_en": null,
-        "title_original": "Claude 5 生成模型的上下文工程新规则",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "source": "claude.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T20:17:18.539026Z"
+        "scored_at": "2026-07-27T12:41:27.965088Z"
       }
     }
   ]
