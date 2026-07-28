@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T20:51:37.313208Z",
+  "generated_at": "2026-07-28T09:49:28.412709Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8648,
-      "importance": 0.8648,
-      "importance_score": 0.8648,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9322,
+        "recency": 0.7731,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,63 +113,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
+        "scored_at": "2026-07-28T09:50:16.755499Z"
       }
     },
     {
-      "story_id": "story_eb297d743217",
-      "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "primary_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "source": "Hugging Face Blog",
+      "story_id": "story_8540d88057a6",
+      "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+      "primary_url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
-          "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-          "title_zh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟",
-          "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-          "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
+          "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-          "source": "Hugging Face Blog",
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T09:32:20Z"
+          "published_at": "2026-07-28T01:23:10Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
-          "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-          "title_zh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟",
-          "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-          "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
+          "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-          "source": "Hugging Face Blog",
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T09:32:20Z"
+          "published_at": "2026-07-28T01:23:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8429,
-      "importance": 0.8429,
-      "importance_score": 0.8429,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.8492,
+        "ai_relevance": 0.91,
+        "recency": 0.8853,
         "story_heat": 0.0
       },
       "category": "official",
@@ -178,25 +178,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T09:32:20Z",
-      "latest_at": "2026-07-27T09:32:20Z",
+      "earliest_at": "2026-07-28T01:23:10Z",
+      "latest_at": "2026-07-28T01:23:10Z",
       "primary_item": {
-        "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
-        "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-        "title_zh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟",
-        "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-        "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+        "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+        "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
+        "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-        "source": "Hugging Face Blog",
+        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
+        "scored_at": "2026-07-28T09:50:16.755499Z"
       }
     },
     {
@@ -273,15 +273,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8617,
-      "importance": 0.8617,
-      "importance_score": 0.8617,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9595,
+        "recency": 0.7957,
         "story_heat": 0.25
       },
       "category": "official",
@@ -309,63 +309,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
+        "scored_at": "2026-07-28T09:50:16.755499Z"
       }
     },
     {
-      "story_id": "story_2c891351a310",
-      "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "primary_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "source": "OpenAI News",
+      "story_id": "story_3aa98e967d5f",
+      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
-          "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
-          "title_zh": "人工智能如何扩展人们的工作范围",
-          "title_en": "How AI is expanding what people do at work",
-          "title_original": "How AI is expanding what people do at work",
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T03:30:00Z"
+          "published_at": "2026-07-27T20:43:37Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
-          "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
-          "title_zh": "人工智能如何扩展人们的工作范围",
-          "title_en": "How AI is expanding what people do at work",
-          "title_original": "How AI is expanding what people do at work",
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T03:30:00Z"
+          "published_at": "2026-07-27T20:43:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8121,
-      "importance": 0.8121,
-      "importance_score": 0.8121,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7783,
+        "recency": 0.8277,
         "story_heat": 0.0
       },
       "category": "official",
@@ -374,25 +374,301 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T03:30:00Z",
-      "latest_at": "2026-07-27T03:30:00Z",
+      "earliest_at": "2026-07-27T20:43:37Z",
+      "latest_at": "2026-07-27T20:43:37Z",
       "primary_item": {
-        "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
-        "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
-        "title_zh": "人工智能如何扩展人们的工作范围",
-        "title_en": "How AI is expanding what people do at work",
-        "title_original": "How AI is expanding what people do at work",
+        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+        "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+        "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+        "title_original": "Manage GitHub Copilot app access with a dedicated policy",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-        "source": "OpenAI News",
+        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
+        "scored_at": "2026-07-28T09:50:16.755499Z"
+      }
+    },
+    {
+      "story_id": "story_f4def218d9f8",
+      "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试 / Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "primary_url": "https://www.anthropic.com/news/position-open-weights-models",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c59039e4b5041b6c295f648239b3d03a0d1597e9",
+          "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试 / Our position on open-weights models",
+          "title_zh": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试",
+          "title_en": "Our position on open-weights models",
+          "title_original": "Our position on open-weights models",
+          "summary": "Anthropic CEO Dario Amodei 明确表示公司从未主张禁止开源权重模型，并认为不具备危险能力的开源权重模型是公共产品。他提出三项实际措施：对华芯片出口管制、打击工业级知识蒸馏、对所有足够强大的模型进行强制性安全测试。Amodei 指出，保护主义禁令无法解决其最担忧的国家安全威胁，包括威权政府利用更强大 AI 实现军事优势或深度监控。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T22:26:00.307000Z"
+        },
+        {
+          "id": "1e38e3c6070d650d5540774fe8d29249e29be460",
+          "title": "我们对开放重量级车型的立场",
+          "title_zh": "我们对开放重量级车型的立场",
+          "title_en": null,
+          "title_original": "我们对开放重量级车型的立场",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T22:49:24.268000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "c59039e4b5041b6c295f648239b3d03a0d1597e9",
+          "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试 / Our position on open-weights models",
+          "title_zh": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试",
+          "title_en": "Our position on open-weights models",
+          "title_original": "Our position on open-weights models",
+          "summary": "Anthropic CEO Dario Amodei 明确表示公司从未主张禁止开源权重模型，并认为不具备危险能力的开源权重模型是公共产品。他提出三项实际措施：对华芯片出口管制、打击工业级知识蒸馏、对所有足够强大的模型进行强制性安全测试。Amodei 指出，保护主义禁令无法解决其最担忧的国家安全威胁，包括威权政府利用更强大 AI 实现军事优势或深度监控。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T22:26:00.307000Z"
+        },
+        {
+          "id": "1e38e3c6070d650d5540774fe8d29249e29be460",
+          "title": "我们对开放重量级车型的立场",
+          "title_zh": "我们对开放重量级车型的立场",
+          "title_en": null,
+          "title_original": "我们对开放重量级车型的立场",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T22:49:24.268000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.8483,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T22:26:00.307000Z",
+      "latest_at": "2026-07-27T22:49:24.268000Z",
+      "primary_item": {
+        "id": "c59039e4b5041b6c295f648239b3d03a0d1597e9",
+        "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试 / Our position on open-weights models",
+        "title_zh": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试",
+        "title_en": "Our position on open-weights models",
+        "title_original": "Our position on open-weights models",
+        "summary": "Anthropic CEO Dario Amodei 明确表示公司从未主张禁止开源权重模型，并认为不具备危险能力的开源权重模型是公共产品。他提出三项实际措施：对华芯片出口管制、打击工业级知识蒸馏、对所有足够强大的模型进行强制性安全测试。Amodei 指出，保护主义禁令无法解决其最担忧的国家安全威胁，包括威权政府利用更强大 AI 实现军事优势或深度监控。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/position-open-weights-models",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T09:50:16.755499Z"
+      }
+    },
+    {
+      "story_id": "story_90ac1b92087a",
+      "title": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+      "url": "https://www.aibase.com/news/29947",
+      "primary_url": "https://www.aibase.com/news/29947",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "66cc2649c07de63ab956af30c1a40632814db8a9",
+          "title": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+          "title_zh": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+          "title_en": null,
+          "title_original": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29947",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:49:28.412709Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "66cc2649c07de63ab956af30c1a40632814db8a9",
+          "title": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+          "title_zh": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+          "title_en": null,
+          "title_original": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29947",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:49:28.412709Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T09:49:28.412709Z",
+      "latest_at": "2026-07-28T09:49:28.412709Z",
+      "primary_item": {
+        "id": "66cc2649c07de63ab956af30c1a40632814db8a9",
+        "title": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+        "title_zh": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+        "title_en": null,
+        "title_original": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29947",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T09:50:16.755499Z"
+      }
+    },
+    {
+      "story_id": "story_c3c7b4228b8c",
+      "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+      "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
+      "primary_url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
+      "source": "公众号：月之暗面（Kimi）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "42526505b55797eaf88ea9c31254fb05a1c963d4",
+          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+          "title_zh": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+          "title_en": null,
+          "title_original": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+          "summary": "月之暗面发布 2.8 万亿参数的混合专家模型 Kimi K3，支持原生视觉理解和 100 万 token 上下文窗口。其规模化效率较 Kimi K2.5 提升 2.5 倍，并同步开源模型权重、技术报告及 MoonEP、FlashKDA、AgentEnv 三项 Infra 技术。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:34:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：月之暗面（Kimi）"
+      ],
+      "items": [
+        {
+          "id": "42526505b55797eaf88ea9c31254fb05a1c963d4",
+          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+          "title_zh": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+          "title_en": null,
+          "title_original": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+          "summary": "月之暗面发布 2.8 万亿参数的混合专家模型 Kimi K3，支持原生视觉理解和 100 万 token 上下文窗口。其规模化效率较 Kimi K2.5 提升 2.5 倍，并同步开源模型权重、技术报告及 MoonEP、FlashKDA、AgentEnv 三项 Infra 技术。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:34:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7684,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T15:34:59Z",
+      "latest_at": "2026-07-27T15:34:59Z",
+      "primary_item": {
+        "id": "42526505b55797eaf88ea9c31254fb05a1c963d4",
+        "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+        "title_zh": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+        "title_en": null,
+        "title_original": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+        "summary": "月之暗面发布 2.8 万亿参数的混合专家模型 Kimi K3，支持原生视觉理解和 100 万 token 上下文窗口。其规模化效率较 Kimi K2.5 提升 2.5 倍，并同步开源模型权重、技术报告及 MoonEP、FlashKDA、AgentEnv 三项 Infra 技术。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
+        "source": "公众号：月之暗面（Kimi）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T09:50:16.755499Z"
       }
     },
     {
@@ -469,15 +745,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9316,
+        "recency": 0.7725,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -504,7 +780,336 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
+        "scored_at": "2026-07-28T09:50:16.755499Z"
+      }
+    },
+    {
+      "story_id": "story_e4609f14fbba",
+      "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+      "url": "https://www.ithome.com/0/982/520.htm",
+      "primary_url": "https://www.ithome.com/0/982/520.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d82c1df7f7c81ef1bf167b70c59ad38b65351f88",
+          "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+          "title_zh": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+          "title_en": null,
+          "title_original": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+          "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/982/520.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T06:21:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d82c1df7f7c81ef1bf167b70c59ad38b65351f88",
+          "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+          "title_zh": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+          "title_en": null,
+          "title_original": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+          "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/982/520.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T06:21:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9511,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T06:21:07Z",
+      "latest_at": "2026-07-28T06:21:07Z",
+      "primary_item": {
+        "id": "d82c1df7f7c81ef1bf167b70c59ad38b65351f88",
+        "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+        "title_zh": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+        "title_en": null,
+        "title_original": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+        "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/982/520.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T09:50:16.755499Z"
+      }
+    },
+    {
+      "story_id": "story_869b1b15cdb0",
+      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+      "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+      "primary_url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f766c74ef4c51667bffb3da594152f025b50442",
+          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "title_zh": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+          "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "title_original": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "summary": "Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T08:33:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6f766c74ef4c51667bffb3da594152f025b50442",
+          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "title_zh": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+          "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "title_original": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "summary": "Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T08:33:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9819,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T08:33:30Z",
+      "latest_at": "2026-07-28T08:33:30Z",
+      "primary_item": {
+        "id": "6f766c74ef4c51667bffb3da594152f025b50442",
+        "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+        "title_zh": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+        "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+        "title_original": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+        "summary": "Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T09:50:16.755499Z"
+      }
+    },
+    {
+      "story_id": "story_7284fe0b61a4",
+      "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
+          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
+          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.7844,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T17:00:35Z",
+      "latest_at": "2026-07-27T17:00:35Z",
+      "primary_item": {
+        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+        "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
+        "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T09:50:16.755499Z"
+      }
+    },
+    {
+      "story_id": "story_6f0358447e62",
+      "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+      "url": "https://usefeyn.com/blog/feynobg",
+      "primary_url": "https://usefeyn.com/blog/feynobg",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
+          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "title_en": null,
+          "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
+          "recommend_reason_zh": null,
+          "url": "https://usefeyn.com/blog/feynobg",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T04:57:13.190000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
+          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "title_en": null,
+          "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
+          "recommend_reason_zh": null,
+          "url": "https://usefeyn.com/blog/feynobg",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T04:57:13.190000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9321,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T04:57:13.190000Z",
+      "latest_at": "2026-07-28T04:57:13.190000Z",
+      "primary_item": {
+        "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
+        "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+        "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+        "title_en": null,
+        "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+        "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
+        "recommend_reason_zh": null,
+        "url": "https://usefeyn.com/blog/feynobg",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T09:50:16.755499Z"
       }
     },
     {
@@ -552,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7806,
-      "importance": 0.7806,
-      "importance_score": 0.7806,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9221,
+        "recency": 0.7647,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -586,63 +1191,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
+        "scored_at": "2026-07-28T09:50:16.755499Z"
       }
     },
     {
-      "story_id": "story_ebe3ddd20f67",
-      "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
-      "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
-      "primary_url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_d1e2d40dd895",
+      "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+      "url": "https://www.aibase.com/news/29934",
+      "primary_url": "https://www.aibase.com/news/29934",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "3679876fae19f4c7430979f3189354450f102f86",
-          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
-          "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
-          "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
-          "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
-          "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
+          "id": "497017980a6f12ca52c184fb969c297cea804980",
+          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "title_zh": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "title_en": null,
+          "title_original": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:08:24Z"
+          "url": "https://www.aibase.com/news/29934",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:49:28.412709Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "3679876fae19f4c7430979f3189354450f102f86",
-          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
-          "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
-          "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
-          "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
-          "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
+          "id": "497017980a6f12ca52c184fb969c297cea804980",
+          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "title_zh": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "title_en": null,
+          "title_original": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:08:24Z"
+          "url": "https://www.aibase.com/news/29934",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:49:28.412709Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9615,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -650,25 +1255,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T18:08:24Z",
-      "latest_at": "2026-07-27T18:08:24Z",
+      "earliest_at": "2026-07-28T09:49:28.412709Z",
+      "latest_at": "2026-07-28T09:49:28.412709Z",
       "primary_item": {
-        "id": "3679876fae19f4c7430979f3189354450f102f86",
-        "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
-        "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
-        "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
-        "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
-        "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
+        "id": "497017980a6f12ca52c184fb969c297cea804980",
+        "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+        "title_zh": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+        "title_en": null,
+        "title_original": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/29934",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
+        "scored_at": "2026-07-28T09:50:16.755499Z"
       }
     },
     {
@@ -716,21 +1321,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9573,
+        "recency": 0.7939,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T17:50:17.260000Z",
       "latest_at": "2026-07-27T17:50:17.260000Z",
@@ -750,7 +1354,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
+        "scored_at": "2026-07-28T09:50:16.755499Z"
       }
     },
     {
@@ -798,21 +1402,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9756,
+        "recency": 0.809,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T19:08:51Z",
       "latest_at": "2026-07-27T19:08:51Z",
@@ -832,30 +1435,111 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
+        "scored_at": "2026-07-28T09:50:16.755499Z"
       }
     },
     {
-      "story_id": "story_b6a9a859e99e",
-      "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-      "url": "https://www.aibase.com/news/29910",
-      "primary_url": "https://www.aibase.com/news/29910",
+      "story_id": "story_3d28a7a92444",
+      "title": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能 / How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+      "url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+      "primary_url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5ac8d76f69949d45ec573062b377590c70893901",
+          "title": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能 / How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "title_zh": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能",
+          "title_en": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "title_original": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "summary": "同一模型在不同提供商端点上的表现因基础设施、量化、负载处理和路由默认设置而异。评估需测量延迟、吞吐量、正常运行时间和精度，并将测量结果转化为路由策略。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5ac8d76f69949d45ec573062b377590c70893901",
+          "title": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能 / How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "title_zh": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能",
+          "title_en": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "title_original": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "summary": "同一模型在不同提供商端点上的表现因基础设施、量化、负载处理和路由默认设置而异。评估需测量延迟、吞吐量、正常运行时间和精度，并将测量结果转化为路由策略。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7228,
+      "importance": 0.7228,
+      "importance_score": 0.7228,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8677,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T00:00:00Z",
+      "latest_at": "2026-07-28T00:00:00Z",
+      "primary_item": {
+        "id": "5ac8d76f69949d45ec573062b377590c70893901",
+        "title": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能 / How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+        "title_zh": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能",
+        "title_en": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+        "title_original": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+        "summary": "同一模型在不同提供商端点上的表现因基础设施、量化、负载处理和路由默认设置而异。评估需测量延迟、吞吐量、正常运行时间和精度，并将测量结果转化为路由策略。",
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T09:50:16.755499Z"
+      }
+    },
+    {
+      "story_id": "story_fc9b09202d6e",
+      "title": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
+      "url": "https://www.aibase.com/news/29951",
+      "primary_url": "https://www.aibase.com/news/29951",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "id": "9bd032c61640d337b686f01a212df6f32fbbf561",
+          "title": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
+          "title_zh": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
           "title_en": null,
-          "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_original": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29910",
+          "url": "https://www.aibase.com/news/29951",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T12:40:40.858495Z"
+          "published_at": "2026-07-28T09:49:28.412709Z"
         }
       ],
       "source_count": 1,
@@ -864,48 +1548,49 @@
       ],
       "items": [
         {
-          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "id": "9bd032c61640d337b686f01a212df6f32fbbf561",
+          "title": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
+          "title_zh": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
           "title_en": null,
-          "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_original": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29910",
+          "url": "https://www.aibase.com/news/29951",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T12:40:40.858495Z"
+          "published_at": "2026-07-28T09:49:28.412709Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8886,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-27T12:40:40.858495Z",
-      "latest_at": "2026-07-27T12:40:40.858495Z",
+      "earliest_at": "2026-07-28T09:49:28.412709Z",
+      "latest_at": "2026-07-28T09:49:28.412709Z",
       "primary_item": {
-        "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-        "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-        "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+        "id": "9bd032c61640d337b686f01a212df6f32fbbf561",
+        "title": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
+        "title_zh": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
         "title_en": null,
-        "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+        "title_original": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29910",
+        "url": "https://www.aibase.com/news/29951",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -913,88 +1598,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
-      }
-    },
-    {
-      "story_id": "story_0907ce5e66ea",
-      "title": "用AI Skill自动生成可协作HTML PPT",
-      "url": "https://x.com/vista8/status/2081568902241513786",
-      "primary_url": "https://x.com/vista8/status/2081568902241513786",
-      "source": "X：Vista (@vista8)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "29e61cc109f21b35c2460b50e409520ec711253b",
-          "title": "用AI Skill自动生成可协作HTML PPT",
-          "title_zh": "用AI Skill自动生成可协作HTML PPT",
-          "title_en": null,
-          "title_original": "用AI Skill自动生成可协作HTML PPT",
-          "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/vista8/status/2081568902241513786",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T02:34:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Vista (@vista8)"
-      ],
-      "items": [
-        {
-          "id": "29e61cc109f21b35c2460b50e409520ec711253b",
-          "title": "用AI Skill自动生成可协作HTML PPT",
-          "title_zh": "用AI Skill自动生成可协作HTML PPT",
-          "title_en": null,
-          "title_original": "用AI Skill自动生成可协作HTML PPT",
-          "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/vista8/status/2081568902241513786",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T02:34:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7679,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T02:34:34Z",
-      "latest_at": "2026-07-27T02:34:34Z",
-      "primary_item": {
-        "id": "29e61cc109f21b35c2460b50e409520ec711253b",
-        "title": "用AI Skill自动生成可协作HTML PPT",
-        "title_zh": "用AI Skill自动生成可协作HTML PPT",
-        "title_en": null,
-        "title_original": "用AI Skill自动生成可协作HTML PPT",
-        "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/vista8/status/2081568902241513786",
-        "source": "X：Vista (@vista8)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
+        "scored_at": "2026-07-28T09:50:16.755499Z"
       }
     },
     {
@@ -1042,21 +1646,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9701,
+        "recency": 0.8044,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T18:45:20Z",
       "latest_at": "2026-07-27T18:45:20Z",
@@ -1076,770 +1679,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
+        "scored_at": "2026-07-28T09:50:16.755499Z"
       }
     },
     {
-      "story_id": "story_1ea579ee44b6",
-      "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-      "url": "https://www.aibase.com/news/29917",
-      "primary_url": "https://www.aibase.com/news/29917",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_ebe3ddd20f67",
+      "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+      "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+      "primary_url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
-          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "title_en": null,
-          "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "summary": null,
+          "id": "3679876fae19f4c7430979f3189354450f102f86",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
+          "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29917",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T12:40:40.858495Z"
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:08:24Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
-          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "title_en": null,
-          "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "summary": null,
+          "id": "3679876fae19f4c7430979f3189354450f102f86",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
+          "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+          "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29917",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T12:40:40.858495Z"
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:08:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8886,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-27T12:40:40.858495Z",
-      "latest_at": "2026-07-27T12:40:40.858495Z",
+      "earliest_at": "2026-07-27T18:08:24Z",
+      "latest_at": "2026-07-27T18:08:24Z",
       "primary_item": {
-        "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
-        "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-        "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-        "title_en": null,
-        "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-        "summary": null,
+        "id": "3679876fae19f4c7430979f3189354450f102f86",
+        "title": "用Claude和Python构建技能驱动的金融分析智能体 / Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+        "title_zh": "用Claude和Python构建技能驱动的金融分析智能体",
+        "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+        "title_original": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
+        "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29917",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
-      }
-    },
-    {
-      "story_id": "story_e85da4d1892f",
-      "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-      "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-          "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-          "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
-          "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-          "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-          "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:44:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-          "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-          "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
-          "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-          "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-          "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:44:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9287,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T15:44:05Z",
-      "latest_at": "2026-07-27T15:44:05Z",
-      "primary_item": {
-        "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-        "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-        "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
-        "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-        "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
-        "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
-      }
-    },
-    {
-      "story_id": "story_78c20dc62353",
-      "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-      "url": "https://www.aibase.com/news/29914",
-      "primary_url": "https://www.aibase.com/news/29914",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
-          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "title_en": null,
-          "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29914",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T12:40:40.858495Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
-          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "title_en": null,
-          "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29914",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T12:40:40.858495Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8886,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T12:40:40.858495Z",
-      "latest_at": "2026-07-27T12:40:40.858495Z",
-      "primary_item": {
-        "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
-        "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-        "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-        "title_en": null,
-        "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29914",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
-      }
-    },
-    {
-      "story_id": "story_830e0635b3bc",
-      "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-      "url": "https://www.aibase.com/news/29903",
-      "primary_url": "https://www.aibase.com/news/29903",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "title_en": null,
-          "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29903",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T12:40:40.858495Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "title_en": null,
-          "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29903",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T12:40:40.858495Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8886,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T12:40:40.858495Z",
-      "latest_at": "2026-07-27T12:40:40.858495Z",
-      "primary_item": {
-        "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-        "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-        "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-        "title_en": null,
-        "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29903",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
-      }
-    },
-    {
-      "story_id": "story_45205b48cfd8",
-      "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-          "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
-          "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:25:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-          "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
-          "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:25:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9246,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T15:25:45Z",
-      "latest_at": "2026-07-27T15:25:45Z",
-      "primary_item": {
-        "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-        "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-        "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
-        "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-        "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-        "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
-      }
-    },
-    {
-      "story_id": "story_b1ab2dbdc211",
-      "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-      "url": "https://www.aibase.com/news/29904",
-      "primary_url": "https://www.aibase.com/news/29904",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_en": null,
-          "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29904",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T12:40:40.858495Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_en": null,
-          "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29904",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T12:40:40.858495Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8886,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T12:40:40.858495Z",
-      "latest_at": "2026-07-27T12:40:40.858495Z",
-      "primary_item": {
-        "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-        "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-        "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-        "title_en": null,
-        "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29904",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
-      }
-    },
-    {
-      "story_id": "story_2d4e47d50fc6",
-      "title": "Kimi-K3 on HuggingFace",
-      "url": "https://news.ycombinator.com/item?id=49065752",
-      "primary_url": "https://news.ycombinator.com/item?id=49065752",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
-          "title": "Kimi-K3 on HuggingFace",
-          "title_zh": null,
-          "title_en": "Kimi-K3 on HuggingFace",
-          "title_original": "Kimi-K3 on HuggingFace",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T20:51:59.562000Z"
-        },
-        {
-          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T12:17:03.428000Z"
-        },
-        {
-          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": null,
-          "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T08:09:26.811000Z"
-        },
-        {
-          "id": "436d18c01c7bae7b2d15ac94ed347b9d8b1a0a29",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T06:18:10Z"
-        },
-        {
-          "id": "03d4def794bcdda6e8136fe808b398aba9d2cd0b",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 on HuggingFace",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": "Kimi-K3 on HuggingFace",
-          "title_original": "Kimi-K3 on HuggingFace",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T06:18:10Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "huggingface.co"
-      ],
-      "items": [
-        {
-          "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
-          "title": "Kimi-K3 on HuggingFace",
-          "title_zh": null,
-          "title_en": "Kimi-K3 on HuggingFace",
-          "title_original": "Kimi-K3 on HuggingFace",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T20:51:59.562000Z"
-        },
-        {
-          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T12:17:03.428000Z"
-        },
-        {
-          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": null,
-          "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T08:09:26.811000Z"
-        },
-        {
-          "id": "436d18c01c7bae7b2d15ac94ed347b9d8b1a0a29",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T06:18:10Z"
-        },
-        {
-          "id": "03d4def794bcdda6e8136fe808b398aba9d2cd0b",
-          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 on HuggingFace",
-          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-          "title_en": "Kimi-K3 on HuggingFace",
-          "title_original": "Kimi-K3 on HuggingFace",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T06:18:10Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6208,
-      "importance": 0.6208,
-      "importance_score": 0.6208,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T06:18:10Z",
-      "latest_at": "2026-07-27T20:51:59.562000Z",
-      "primary_item": {
-        "id": "3fa6196fd6e9b153c1de557a839b96ff3fff0f94",
-        "title": "Kimi-K3 on HuggingFace",
-        "title_zh": null,
-        "title_en": "Kimi-K3 on HuggingFace",
-        "title_original": "Kimi-K3 on HuggingFace",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49065752",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
-      }
-    },
-    {
-      "story_id": "story_2f2bb8073ae3",
-      "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-      "url": "https://www.aibase.com/news/29908",
-      "primary_url": "https://www.aibase.com/news/29908",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
-          "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-          "title_zh": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-          "title_en": null,
-          "title_original": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29908",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T12:40:40.858495Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
-          "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-          "title_zh": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-          "title_en": null,
-          "title_original": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29908",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T12:40:40.858495Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8886,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T12:40:40.858495Z",
-      "latest_at": "2026-07-27T12:40:40.858495Z",
-      "primary_item": {
-        "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
-        "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-        "title_zh": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-        "title_en": null,
-        "title_original": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29908",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T20:52:29.041995Z"
+        "scored_at": "2026-07-28T09:50:16.755499Z"
       }
     }
   ]
