@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T15:42:50.070873Z",
+  "generated_at": "2026-08-01T20:13:26.653498Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-01T15:42:50.070873Z",
-      "latest_at": "2026-08-01T15:42:50.070873Z",
+      "earliest_at": "2026-08-01T20:13:26.653498Z",
+      "latest_at": "2026-08-01T20:13:26.653498Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
+        "scored_at": "2026-08-01T20:14:05.955325Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.797,
+        "recency": 0.7467,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,260 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
-      }
-    },
-    {
-      "story_id": "story_31ed9d2f74da",
-      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "title_zh": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用",
-          "title_en": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "title_original": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T20:04:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "title_zh": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用",
-          "title_en": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "title_original": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T20:04:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.753,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T20:04:01Z",
-      "latest_at": "2026-07-31T20:04:01Z",
-      "primary_item": {
-        "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-        "title_zh": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用",
-        "title_en": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-        "title_original": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
-      }
-    },
-    {
-      "story_id": "story_cfe2847cb76d",
-      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "primary_url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "086ab5b93578ee816486b17186f5647a99496989",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "3445eb71333debbe6a7ffa4df431b1cf8f4e77cc",
-          "title": "Tailscale 并没有阻止 Hugging Face 的入侵 / Tailscale didn't stop the Hugging Face intrusion",
-          "title_zh": "Tailscale 并没有阻止 Hugging Face 的入侵",
-          "title_en": "Tailscale didn't stop the Hugging Face intrusion",
-          "title_original": "Tailscale didn't stop the Hugging Face intrusion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49127306",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T23:22:38.560000Z"
-        },
-        {
-          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "tailscale.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "5598868dae222b2b59cfb7d0dc2e3f5b5edbc2a6",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘 / Tailscale didn't stop the Hugging Face intrusion",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_en": "Tailscale didn't stop the Hugging Face intrusion",
-          "title_original": "Tailscale didn't stop the Hugging Face intrusion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T19:03:45Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "tailscale.com"
-      ],
-      "items": [
-        {
-          "id": "086ab5b93578ee816486b17186f5647a99496989",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "3445eb71333debbe6a7ffa4df431b1cf8f4e77cc",
-          "title": "Tailscale 并没有阻止 Hugging Face 的入侵 / Tailscale didn't stop the Hugging Face intrusion",
-          "title_zh": "Tailscale 并没有阻止 Hugging Face 的入侵",
-          "title_en": "Tailscale didn't stop the Hugging Face intrusion",
-          "title_original": "Tailscale didn't stop the Hugging Face intrusion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49127306",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T23:22:38.560000Z"
-        },
-        {
-          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "tailscale.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "5598868dae222b2b59cfb7d0dc2e3f5b5edbc2a6",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘 / Tailscale didn't stop the Hugging Face intrusion",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_en": "Tailscale didn't stop the Hugging Face intrusion",
-          "title_original": "Tailscale didn't stop the Hugging Face intrusion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T19:03:45Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7569,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T19:03:45Z",
-      "latest_at": "2026-07-31T23:22:38.560000Z",
-      "primary_item": {
-        "id": "086ab5b93578ee816486b17186f5647a99496989",
-        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "title_en": null,
-        "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
-        "recommend_reason_zh": null,
-        "url": "https://tailscale.com/blog/hugging-face-intrusion",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
+        "scored_at": "2026-08-01T20:14:05.955325Z"
       }
     },
     {
@@ -526,15 +273,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.783,
-      "importance": 0.783,
-      "importance_score": 0.783,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9299,
+        "recency": 0.8713,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -561,90 +308,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
-      }
-    },
-    {
-      "story_id": "story_f3f30fdb88a1",
-      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "title_zh": "企业团队在公共预览版中对策略定位进行建模",
-          "title_en": "Enterprise teams model policy targeting in public preview",
-          "title_original": "Enterprise teams model policy targeting in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "title_zh": "企业团队在公共预览版中对策略定位进行建模",
-          "title_en": "Enterprise teams model policy targeting in public preview",
-          "title_original": "Enterprise teams model policy targeting in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7329,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T18:11:50Z",
-      "latest_at": "2026-07-31T18:11:50Z",
-      "primary_item": {
-        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-        "title_zh": "企业团队在公共预览版中对策略定位进行建模",
-        "title_en": "Enterprise teams model policy targeting in public preview",
-        "title_original": "Enterprise teams model policy targeting in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
+        "scored_at": "2026-08-01T20:14:05.955325Z"
       }
     },
     {
@@ -721,22 +385,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.766,
+        "recency": 0.7177,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-31T21:15:23Z",
       "latest_at": "2026-07-31T21:15:23Z",
@@ -756,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
+        "scored_at": "2026-08-01T20:14:05.955325Z"
       }
     },
     {
@@ -804,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8438,
+        "recency": 0.7906,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -837,7 +500,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
+        "scored_at": "2026-08-01T20:14:05.955325Z"
       }
     },
     {
@@ -885,15 +548,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7702,
+        "recency": 0.7217,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -918,7 +581,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
+        "scored_at": "2026-08-01T20:14:05.955325Z"
+      }
+    },
+    {
+      "story_id": "story_e153a884bfe4",
+      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "primary_url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "086ab5b93578ee816486b17186f5647a99496989",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "title_en": null,
+          "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
+          "recommend_reason_zh": null,
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T20:25:20.686000Z"
+        },
+        {
+          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
+          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "title_en": null,
+          "title_original": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "tailscale.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T20:25:20.686000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "tailscale.com"
+      ],
+      "items": [
+        {
+          "id": "086ab5b93578ee816486b17186f5647a99496989",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "title_en": null,
+          "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
+          "recommend_reason_zh": null,
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T20:25:20.686000Z"
+        },
+        {
+          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
+          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "title_en": null,
+          "title_original": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "tailscale.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T20:25:20.686000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7091,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T20:25:20.686000Z",
+      "latest_at": "2026-07-31T20:25:20.686000Z",
+      "primary_item": {
+        "id": "086ab5b93578ee816486b17186f5647a99496989",
+        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+        "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+        "title_en": null,
+        "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+        "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
+        "recommend_reason_zh": null,
+        "url": "https://tailscale.com/blog/hugging-face-intrusion",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T20:14:05.955325Z"
       }
     },
     {
@@ -966,15 +740,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8901,
+        "recency": 0.834,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -999,280 +773,424 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
+        "scored_at": "2026-08-01T20:14:05.955325Z"
       }
     },
     {
-      "story_id": "story_934172c730ea",
-      "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_817116dbd893",
+      "title": "Cursor从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+      "url": "https://news.ycombinator.com/item?id=49135257",
+      "primary_url": "https://news.ycombinator.com/item?id=49135257",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-          "title_zh": "限制 npmbypass-2FA 粒度访问令牌",
-          "title_en": "Restricting npm bypass-2FA granular access tokens",
-          "title_original": "Restricting npm bypass-2FA granular access tokens",
+          "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
+          "title": "Cursor从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "title_zh": "Cursor从使用页面和 CSV 导出中删除了成本信息",
+          "title_en": "Cursor removed cost information from the usage page and CSV export",
+          "title_original": "Cursor removed cost information from the usage page and CSV export",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-          "title_zh": "限制 npmbypass-2FA 粒度访问令牌",
-          "title_en": "Restricting npm bypass-2FA granular access tokens",
-          "title_original": "Restricting npm bypass-2FA granular access tokens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7179,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T16:45:50Z",
-      "latest_at": "2026-07-31T16:45:50Z",
-      "primary_item": {
-        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-        "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-        "title_zh": "限制 npmbypass-2FA 粒度访问令牌",
-        "title_en": "Restricting npm bypass-2FA granular access tokens",
-        "title_original": "Restricting npm bypass-2FA granular access tokens",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
-      }
-    },
-    {
-      "story_id": "story_c38e05787678",
-      "title": "animated-voiceover 开源：一人干翻动画工作室",
-      "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-      "primary_url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2eb387d7832df603b86c5364d32bd8318dfcbcea",
-          "title": "animated-voiceover 开源：一人干翻动画工作室",
-          "title_zh": "animated-voiceover 开源：一人干翻动画工作室",
-          "title_en": null,
-          "title_original": "animated-voiceover 开源：一人干翻动画工作室",
-          "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T16:01:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "2eb387d7832df603b86c5364d32bd8318dfcbcea",
-          "title": "animated-voiceover 开源：一人干翻动画工作室",
-          "title_zh": "animated-voiceover 开源：一人干翻动画工作室",
-          "title_en": null,
-          "title_original": "animated-voiceover 开源：一人干翻动画工作室",
-          "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T16:01:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7245,
-      "importance": 0.7245,
-      "importance_score": 0.7245,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7104,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T16:01:51Z",
-      "latest_at": "2026-07-31T16:01:51Z",
-      "primary_item": {
-        "id": "2eb387d7832df603b86c5364d32bd8318dfcbcea",
-        "title": "animated-voiceover 开源：一人干翻动画工作室",
-        "title_zh": "animated-voiceover 开源：一人干翻动画工作室",
-        "title_en": null,
-        "title_original": "animated-voiceover 开源：一人干翻动画工作室",
-        "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
-      }
-    },
-    {
-      "story_id": "story_165311a6ce61",
-      "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth&#8217;s AI deepfake tool only lasted one day",
-      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "primary_url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "73605be6da82bbfa56693b799e1711f6217e63c6",
-          "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "title_zh": "谷歌地球的AI Deepfake工具只持续了一天",
-          "title_en": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "title_original": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-31T19:13:29Z"
+          "url": "https://news.ycombinator.com/item?id=49135257",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T19:54:18.542000Z"
         },
         {
-          "id": "994b4743425d72fc610fea8e3467735bb65bca57",
-          "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth’s AI deepfake tool only lasted one day",
-          "title_zh": "谷歌地球的AI Deepfake工具只持续了一天",
-          "title_en": "Google Earth’s AI deepfake tool only lasted one day",
-          "title_original": "Google Earth’s AI deepfake tool only lasted one day",
+          "id": "e90b4afc2008713009e131f5b452c20b0078a47c",
+          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "title_en": null,
+          "title_original": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-          "source": "The Verge",
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+          "source": "forum.cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T17:29:19.514000Z"
+        },
+        {
+          "id": "f6b7e33694d28407978eecc77a104a45c3ba21d2",
+          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "title_en": "Cursor removed cost information from the usage page and CSV export",
+          "title_original": "Cursor removed cost information from the usage page and CSV export",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-31T19:13:29Z"
+          "published_at": "2026-08-01T15:25:21Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "The Verge"
+        "Hacker News",
+        "forum.cursor.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "73605be6da82bbfa56693b799e1711f6217e63c6",
-          "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "title_zh": "谷歌地球的AI Deepfake工具只持续了一天",
-          "title_en": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "title_original": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+          "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
+          "title": "Cursor从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "title_zh": "Cursor从使用页面和 CSV 导出中删除了成本信息",
+          "title_en": "Cursor removed cost information from the usage page and CSV export",
+          "title_original": "Cursor removed cost information from the usage page and CSV export",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-31T19:13:29Z"
+          "url": "https://news.ycombinator.com/item?id=49135257",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T19:54:18.542000Z"
         },
         {
-          "id": "994b4743425d72fc610fea8e3467735bb65bca57",
-          "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth’s AI deepfake tool only lasted one day",
-          "title_zh": "谷歌地球的AI Deepfake工具只持续了一天",
-          "title_en": "Google Earth’s AI deepfake tool only lasted one day",
-          "title_original": "Google Earth’s AI deepfake tool only lasted one day",
+          "id": "e90b4afc2008713009e131f5b452c20b0078a47c",
+          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "title_en": null,
+          "title_original": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-          "source": "The Verge",
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+          "source": "forum.cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T17:29:19.514000Z"
+        },
+        {
+          "id": "f6b7e33694d28407978eecc77a104a45c3ba21d2",
+          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "title_en": "Cursor removed cost information from the usage page and CSV export",
+          "title_original": "Cursor removed cost information from the usage page and CSV export",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-31T19:13:29Z"
+          "published_at": "2026-08-01T15:25:21Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5694,
-      "importance": 0.5694,
-      "importance_score": 0.5694,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.57,
+      "importance": 0.57,
+      "importance_score": 0.57,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7439,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9954,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-31T19:13:29Z",
-      "latest_at": "2026-07-31T19:13:29Z",
+      "earliest_at": "2026-08-01T15:25:21Z",
+      "latest_at": "2026-08-01T19:54:18.542000Z",
       "primary_item": {
-        "id": "73605be6da82bbfa56693b799e1711f6217e63c6",
-        "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth&#8217;s AI deepfake tool only lasted one day",
-        "title_zh": "谷歌地球的AI Deepfake工具只持续了一天",
-        "title_en": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-        "title_original": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+        "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
+        "title": "Cursor从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+        "title_zh": "Cursor从使用页面和 CSV 导出中删除了成本信息",
+        "title_en": "Cursor removed cost information from the usage page and CSV export",
+        "title_original": "Cursor removed cost information from the usage page and CSV export",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://news.ycombinator.com/item?id=49135257",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
+        "scored_at": "2026-08-01T20:14:05.955325Z"
+      }
+    },
+    {
+      "story_id": "story_83ab2fec2032",
+      "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "primary_url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "source": "www.antipope.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_en": null,
+          "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "www.antipope.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T18:17:24.719000Z"
+        },
+        {
+          "id": "e56b4b6c24d29b3abecbdde7dc615fa6de5ecce4",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T12:56:54Z"
+        },
+        {
+          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_en": "On the non-use of AI in my writing process",
+          "title_original": "On the non-use of AI in my writing process",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T12:56:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "www.antipope.org"
+      ],
+      "items": [
+        {
+          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_en": null,
+          "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "www.antipope.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T18:17:24.719000Z"
+        },
+        {
+          "id": "e56b4b6c24d29b3abecbdde7dc615fa6de5ecce4",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T12:56:54Z"
+        },
+        {
+          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_en": "On the non-use of AI in my writing process",
+          "title_original": "On the non-use of AI in my writing process",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T12:56:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5658,
+      "importance": 0.5658,
+      "importance_score": 0.5658,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9725,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T12:56:54Z",
+      "latest_at": "2026-08-01T18:17:24.719000Z",
+      "primary_item": {
+        "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+        "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+        "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+        "title_en": null,
+        "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+        "source": "www.antipope.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T20:14:05.955325Z"
+      }
+    },
+    {
+      "story_id": "story_03b9f05044c9",
+      "title": "Flint：面向人工智能时代的可视化语言",
+      "url": "https://microsoft.github.io/flint-chart",
+      "primary_url": "https://microsoft.github.io/flint-chart",
+      "source": "microsoft.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+          "title": "Flint：面向人工智能时代的可视化语言",
+          "title_zh": "Flint：面向人工智能时代的可视化语言",
+          "title_en": null,
+          "title_original": "Flint：面向人工智能时代的可视化语言",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "microsoft.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T08:41:23.781000Z"
+        },
+        {
+          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
+          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "title_zh": "Flint：AI时代的可视化语言",
+          "title_en": "Flint: A Visualization Language for the AI Era",
+          "title_original": "Flint: A Visualization Language for the AI Era",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49130604",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T07:54:18.779000Z"
+        },
+        {
+          "id": "ed35827006d0817c480f3ca25d737c19b8b90564",
+          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "title_zh": "Flint：面向人工智能时代的可视化语言",
+          "title_en": "Flint: A Visualization Language for the AI Era",
+          "title_original": "Flint: A Visualization Language for the AI Era",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T02:45:09Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "microsoft.github.io"
+      ],
+      "items": [
+        {
+          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+          "title": "Flint：面向人工智能时代的可视化语言",
+          "title_zh": "Flint：面向人工智能时代的可视化语言",
+          "title_en": null,
+          "title_original": "Flint：面向人工智能时代的可视化语言",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "microsoft.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T08:41:23.781000Z"
+        },
+        {
+          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
+          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "title_zh": "Flint：AI时代的可视化语言",
+          "title_en": "Flint: A Visualization Language for the AI Era",
+          "title_original": "Flint: A Visualization Language for the AI Era",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49130604",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T07:54:18.779000Z"
+        },
+        {
+          "id": "ed35827006d0817c480f3ca25d737c19b8b90564",
+          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "title_zh": "Flint：面向人工智能时代的可视化语言",
+          "title_en": "Flint: A Visualization Language for the AI Era",
+          "title_original": "Flint: A Visualization Language for the AI Era",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T02:45:09Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8466,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T02:45:09Z",
+      "latest_at": "2026-08-01T08:41:23.781000Z",
+      "primary_item": {
+        "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+        "title": "Flint：面向人工智能时代的可视化语言",
+        "title_zh": "Flint：面向人工智能时代的可视化语言",
+        "title_en": null,
+        "title_original": "Flint：面向人工智能时代的可视化语言",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://microsoft.github.io/flint-chart",
+        "source": "microsoft.github.io",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T20:14:05.955325Z"
       }
     },
     {
@@ -1378,15 +1296,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5605,
-      "importance": 0.5605,
-      "importance_score": 0.5605,
+      "score": 0.5498,
+      "importance": 0.5498,
+      "importance_score": 0.5498,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9428,
+        "recency": 0.8833,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1411,285 +1329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
-      }
-    },
-    {
-      "story_id": "story_03b9f05044c9",
-      "title": "Flint：面向人工智能时代的可视化语言",
-      "url": "https://microsoft.github.io/flint-chart",
-      "primary_url": "https://microsoft.github.io/flint-chart",
-      "source": "microsoft.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
-          "title": "Flint：面向人工智能时代的可视化语言",
-          "title_zh": "Flint：面向人工智能时代的可视化语言",
-          "title_en": null,
-          "title_original": "Flint：面向人工智能时代的可视化语言",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "microsoft.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T08:41:23.781000Z"
-        },
-        {
-          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
-          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "title_zh": "Flint：AI时代的可视化语言",
-          "title_en": "Flint: A Visualization Language for the AI Era",
-          "title_original": "Flint: A Visualization Language for the AI Era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49130604",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T07:54:18.779000Z"
-        },
-        {
-          "id": "a0c1c63603f2363a96e0f45f9d9fbeab30867423",
-          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "title_zh": "Flint：面向人工智能时代的可视化语言",
-          "title_en": "Flint: A Visualization Language for the AI Era",
-          "title_original": "Flint: A Visualization Language for the AI Era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T02:45:09Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "microsoft.github.io"
-      ],
-      "items": [
-        {
-          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
-          "title": "Flint：面向人工智能时代的可视化语言",
-          "title_zh": "Flint：面向人工智能时代的可视化语言",
-          "title_en": null,
-          "title_original": "Flint：面向人工智能时代的可视化语言",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "microsoft.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T08:41:23.781000Z"
-        },
-        {
-          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
-          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "title_zh": "Flint：AI时代的可视化语言",
-          "title_en": "Flint: A Visualization Language for the AI Era",
-          "title_original": "Flint: A Visualization Language for the AI Era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49130604",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T07:54:18.779000Z"
-        },
-        {
-          "id": "a0c1c63603f2363a96e0f45f9d9fbeab30867423",
-          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "title_zh": "Flint：面向人工智能时代的可视化语言",
-          "title_en": "Flint: A Visualization Language for the AI Era",
-          "title_original": "Flint: A Visualization Language for the AI Era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T02:45:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5534,
-      "importance": 0.5534,
-      "importance_score": 0.5534,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9035,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T02:45:09Z",
-      "latest_at": "2026-08-01T08:41:23.781000Z",
-      "primary_item": {
-        "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
-        "title": "Flint：面向人工智能时代的可视化语言",
-        "title_zh": "Flint：面向人工智能时代的可视化语言",
-        "title_en": null,
-        "title_original": "Flint：面向人工智能时代的可视化语言",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://microsoft.github.io/flint-chart",
-        "source": "microsoft.github.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
-      }
-    },
-    {
-      "story_id": "story_831ec0929405",
-      "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-      "primary_url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-      "source": "manifest.build",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "title_en": null,
-          "title_original": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "manifest.build",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T03:21:33.850000Z"
-        },
-        {
-          "id": "5c98dc6841203e555006f0945ed5f9774ce61522",
-          "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "title_zh": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器",
-          "title_en": "Everyone is building LLM routers, we deprecated ours",
-          "title_original": "Everyone is building LLM routers, we deprecated ours",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49126630",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T23:22:38.560000Z"
-        },
-        {
-          "id": "ea169d12fe409871c6f4c3b99ae4f4752711fce0",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "title_en": "Everyone is building LLM routers, we deprecated ours",
-          "title_original": "Everyone is building LLM routers, we deprecated ours",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T18:06:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "manifest.build"
-      ],
-      "items": [
-        {
-          "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "title_en": null,
-          "title_original": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "manifest.build",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T03:21:33.850000Z"
-        },
-        {
-          "id": "5c98dc6841203e555006f0945ed5f9774ce61522",
-          "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "title_zh": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器",
-          "title_en": "Everyone is building LLM routers, we deprecated ours",
-          "title_original": "Everyone is building LLM routers, we deprecated ours",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49126630",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T23:22:38.560000Z"
-        },
-        {
-          "id": "ea169d12fe409871c6f4c3b99ae4f4752711fce0",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "title_en": "Everyone is building LLM routers, we deprecated ours",
-          "title_original": "Everyone is building LLM routers, we deprecated ours",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T18:06:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8366,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T18:06:39Z",
-      "latest_at": "2026-08-01T03:21:33.850000Z",
-      "primary_item": {
-        "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
-        "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-        "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-        "title_en": null,
-        "title_original": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-        "source": "manifest.build",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
+        "scored_at": "2026-08-01T20:14:05.955325Z"
       }
     },
     {
@@ -1766,15 +1406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5229,
-      "importance": 0.5229,
-      "importance_score": 0.5229,
+      "score": 0.513,
+      "importance": 0.513,
+      "importance_score": 0.513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8729,
+        "recency": 0.8179,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1799,227 +1439,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
-      }
-    },
-    {
-      "story_id": "story_b49f835a8373",
-      "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-      "url": "https://news.ycombinator.com/item?id=49127874",
-      "primary_url": "https://news.ycombinator.com/item?id=49127874",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-          "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49127874",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T23:22:38.560000Z"
-        },
-        {
-          "id": "a341146f76fd95fbc17e2721391e09ef138d13a5",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-          "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-31T19:55:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-          "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49127874",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T23:22:38.560000Z"
-        },
-        {
-          "id": "a341146f76fd95fbc17e2721391e09ef138d13a5",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-          "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-31T19:55:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.508,
-      "importance": 0.508,
-      "importance_score": 0.508,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7899,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T19:55:41Z",
-      "latest_at": "2026-07-31T23:22:38.560000Z",
-      "primary_item": {
-        "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
-        "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-        "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-        "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-        "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49127874",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
-      }
-    },
-    {
-      "story_id": "story_8d7113d4fb75",
-      "title": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图 / Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-      "url": "https://news.ycombinator.com/item?id=49124733",
-      "primary_url": "https://news.ycombinator.com/item?id=49124733",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "8b261f39540d5bf525a363634a61781df80fd10b",
-          "title": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图 / Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-          "title_zh": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图",
-          "title_en": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-          "title_original": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49124733",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T16:51:37.581000Z"
-        },
-        {
-          "id": "9f6b3e281eada1dd5691294210ee4c9312deec12",
-          "title": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图 / Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-          "title_zh": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图",
-          "title_en": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-          "title_original": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://uml.gpmai.workers.dev",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-31T15:58:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8b261f39540d5bf525a363634a61781df80fd10b",
-          "title": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图 / Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-          "title_zh": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图",
-          "title_en": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-          "title_original": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49124733",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T16:51:37.581000Z"
-        },
-        {
-          "id": "9f6b3e281eada1dd5691294210ee4c9312deec12",
-          "title": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图 / Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-          "title_zh": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图",
-          "title_en": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-          "title_original": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://uml.gpmai.workers.dev",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-31T15:58:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4952,
-      "importance": 0.4952,
-      "importance_score": 0.4952,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7189,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T15:58:01Z",
-      "latest_at": "2026-07-31T16:51:37.581000Z",
-      "primary_item": {
-        "id": "8b261f39540d5bf525a363634a61781df80fd10b",
-        "title": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图 / Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-        "title_zh": "显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图",
-        "title_en": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-        "title_original": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49124733",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:43:31.815433Z"
+        "scored_at": "2026-08-01T20:14:05.955325Z"
       }
     }
   ]
