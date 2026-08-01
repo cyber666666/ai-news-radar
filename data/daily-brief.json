@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T07:53:56.885697Z",
+  "generated_at": "2026-08-01T11:49:12.638514Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-01T07:53:56.885697Z",
-      "latest_at": "2026-08-01T07:53:56.885697Z",
+      "earliest_at": "2026-08-01T11:49:12.638514Z",
+      "latest_at": "2026-08-01T11:49:12.638514Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
+      }
+    },
+    {
+      "story_id": "story_10739ae4d797",
+      "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": "Ten advances in mathematics and theoretical computer science",
+          "title_original": "Ten advances in mathematics and theoretical computer science",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-01T00:00:00Z"
+        },
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": null,
+          "title_original": "数学与理论计算机科学领域的十大进展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": "Ten advances in mathematics and theoretical computer science",
+          "title_original": "Ten advances in mathematics and theoretical computer science",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-01T00:00:00Z"
+        },
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": null,
+          "title_original": "数学与理论计算机科学领域的十大进展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8488,
+      "importance": 0.8488,
+      "importance_score": 0.8488,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8431,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-01T00:00:00Z",
+      "latest_at": "2026-08-01T10:17:30.122000Z",
+      "primary_item": {
+        "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+        "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+        "title_zh": "数学与理论计算机科学领域的十大进展",
+        "title_en": "Ten advances in mathematics and theoretical computer science",
+        "title_original": "Ten advances in mathematics and theoretical computer science",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
@@ -131,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8429,
+        "recency": 0.7965,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
@@ -301,15 +414,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8473,
+        "recency": 0.8006,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -336,90 +449,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
-      "story_id": "story_10739ae4d797",
-      "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_e2eeec323e5b",
+      "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+      "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+      "primary_url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-          "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "title_zh": "数学和理论计算机科学的十大进展",
-          "title_en": "Ten advances in mathematics and theoretical computer science",
-          "title_original": "Ten advances in mathematics and theoretical computer science",
+          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T10:40:50Z"
+        },
+        {
+          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "title_en": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "title_original": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-01T00:00:00Z"
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-01T10:40:50Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-          "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "title_zh": "数学和理论计算机科学的十大进展",
-          "title_en": "Ten advances in mathematics and theoretical computer science",
-          "title_original": "Ten advances in mathematics and theoretical computer science",
+          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T10:40:50Z"
+        },
+        {
+          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "title_en": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "title_original": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-01T00:00:00Z"
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-01T10:40:50Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8922,
-        "story_heat": 0.0
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9837,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-01T00:00:00Z",
-      "latest_at": "2026-08-01T00:00:00Z",
+      "earliest_at": "2026-08-01T10:40:50Z",
+      "latest_at": "2026-08-01T10:40:50Z",
       "primary_item": {
-        "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-        "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-        "title_zh": "数学和理论计算机科学的十大进展",
-        "title_en": "Ten advances in mathematics and theoretical computer science",
-        "title_original": "Ten advances in mathematics and theoretical computer science",
-        "summary": null,
+        "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+        "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+        "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+        "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+        "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+        "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/ten-advances-in-mathematics",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
@@ -467,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8205,
+        "recency": 0.7753,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +644,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
+      }
+    },
+    {
+      "story_id": "story_d85b98c3abe3",
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "primary_url": "https://openai.com/index/building-abundant-intelligence",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+          "title": "Building abundant intelligence",
+          "title_zh": null,
+          "title_en": "Building abundant intelligence",
+          "title_original": "Building abundant intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T15:00:00Z"
+        },
+        {
+          "id": "63783678b17eb65944ded4d1e4c7bdf91d0b1398",
+          "title": "OpenAI 服务超过 10 亿活跃用户 / OpenAI serves more than one billion active users",
+          "title_zh": "OpenAI 服务超过 10 亿活跃用户",
+          "title_en": "OpenAI serves more than one billion active users",
+          "title_original": "OpenAI serves more than one billion active users",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T19:42:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+          "title": "Building abundant intelligence",
+          "title_zh": null,
+          "title_en": "Building abundant intelligence",
+          "title_original": "Building abundant intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T15:00:00Z"
+        },
+        {
+          "id": "63783678b17eb65944ded4d1e4c7bdf91d0b1398",
+          "title": "OpenAI 服务超过 10 亿活跃用户 / OpenAI serves more than one billion active users",
+          "title_zh": "OpenAI 服务超过 10 亿活跃用户",
+          "title_en": "OpenAI serves more than one billion active users",
+          "title_original": "OpenAI serves more than one billion active users",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T19:42:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7403,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T15:00:00Z",
+      "latest_at": "2026-07-31T19:42:35Z",
+      "primary_item": {
+        "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+        "title": "Building abundant intelligence",
+        "title_zh": null,
+        "title_en": "Building abundant intelligence",
+        "title_original": "Building abundant intelligence",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/building-abundant-intelligence",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
@@ -579,15 +834,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8575,
+        "recency": 0.8103,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -614,7 +869,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
@@ -662,15 +917,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9446,
+        "recency": 0.8926,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -696,7 +951,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
@@ -744,15 +999,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8622,
+        "recency": 0.8148,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -778,90 +1033,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
-      "story_id": "story_d85b98c3abe3",
-      "title": "Building abundant intelligence",
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "primary_url": "https://openai.com/index/building-abundant-intelligence",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_5f7b5ebc21a9",
+      "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+      "url": "https://x.com/gdb/status/2083457463337287721",
+      "primary_url": "https://x.com/gdb/status/2083457463337287721",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
-          "title": "Building abundant intelligence",
-          "title_zh": null,
-          "title_en": "Building abundant intelligence",
-          "title_original": "Building abundant intelligence",
-          "summary": null,
+          "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
+          "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+          "title_zh": "OpenAI Astra 以约2000美元证明10项数学难题",
+          "title_en": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+          "title_original": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+          "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/building-abundant-intelligence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T15:00:00Z"
+          "url": "https://x.com/gdb/status/2083457463337287721",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T07:39:02Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：Greg Brockman (@gdb)"
       ],
       "items": [
         {
-          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
-          "title": "Building abundant intelligence",
-          "title_zh": null,
-          "title_en": "Building abundant intelligence",
-          "title_original": "Building abundant intelligence",
-          "summary": null,
+          "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
+          "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+          "title_zh": "OpenAI Astra 以约2000美元证明10项数学难题",
+          "title_en": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+          "title_original": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+          "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/building-abundant-intelligence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T15:00:00Z"
+          "url": "https://x.com/gdb/status/2083457463337287721",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T07:39:02Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
-      "importance_label": "官方更新",
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7835,
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9416,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T15:00:00Z",
-      "latest_at": "2026-07-31T15:00:00Z",
+      "earliest_at": "2026-08-01T07:39:02Z",
+      "latest_at": "2026-08-01T07:39:02Z",
       "primary_item": {
-        "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
-        "title": "Building abundant intelligence",
-        "title_zh": null,
-        "title_en": "Building abundant intelligence",
-        "title_original": "Building abundant intelligence",
-        "summary": null,
+        "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
+        "title": "OpenAI Astra 以约2000美元证明10项数学难题 / ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+        "title_zh": "OpenAI Astra 以约2000美元证明10项数学难题",
+        "title_en": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+        "title_original": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+        "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/building-abundant-intelligence",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/gdb/status/2083457463337287721",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
@@ -909,15 +1163,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8037,
+        "recency": 0.7594,
         "story_heat": 0.0
       },
       "category": "official",
@@ -944,88 +1198,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
-      }
-    },
-    {
-      "story_id": "story_559c84081a7e",
-      "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-      "url": "https://www.minimax.io/blog/minimax-h3",
-      "primary_url": "https://www.minimax.io/blog/minimax-h3",
-      "source": "MiniMax：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
-          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-          "title_zh": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-          "title_en": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-          "title_original": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-          "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
-          "recommend_reason_zh": null,
-          "url": "https://www.minimax.io/blog/minimax-h3",
-          "source": "MiniMax：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:59:02.996000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MiniMax：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
-          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-          "title_zh": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-          "title_en": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-          "title_original": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-          "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
-          "recommend_reason_zh": null,
-          "url": "https://www.minimax.io/blog/minimax-h3",
-          "source": "MiniMax：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:59:02.996000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7287,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T09:59:02.996000Z",
-      "latest_at": "2026-07-31T09:59:02.996000Z",
-      "primary_item": {
-        "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
-        "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-        "title_zh": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-        "title_en": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-        "title_original": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-        "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
-        "recommend_reason_zh": null,
-        "url": "https://www.minimax.io/blog/minimax-h3",
-        "source": "MiniMax：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
@@ -1073,15 +1246,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7612,
+        "recency": 0.7193,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1106,88 +1279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
-      }
-    },
-    {
-      "story_id": "story_d54f864593f0",
-      "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-      "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-      "primary_url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ab0635703e0933894481269c608233802bd21ae6",
-          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-          "title_zh": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-          "title_en": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-          "title_original": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-          "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T10:57:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ab0635703e0933894481269c608233802bd21ae6",
-          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-          "title_zh": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-          "title_en": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-          "title_original": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-          "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T10:57:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7266,
-      "importance": 0.7266,
-      "importance_score": 0.7266,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7391,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T10:57:37Z",
-      "latest_at": "2026-07-31T10:57:37Z",
-      "primary_item": {
-        "id": "ab0635703e0933894481269c608233802bd21ae6",
-        "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-        "title_zh": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-        "title_en": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-        "title_original": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-        "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
@@ -1235,15 +1327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7835,
+        "recency": 0.7403,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1270,88 +1362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
-      }
-    },
-    {
-      "story_id": "story_03f0da12a10c",
-      "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-      "url": "https://www.ithome.com/0/984/365.htm",
-      "primary_url": "https://www.ithome.com/0/984/365.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
-          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "title_zh": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "title_en": null,
-          "title_original": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/984/365.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:40:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
-          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "title_zh": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "title_en": null,
-          "title_original": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/984/365.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:40:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7467,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T11:40:12Z",
-      "latest_at": "2026-07-31T11:40:12Z",
-      "primary_item": {
-        "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
-        "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-        "title_zh": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-        "title_en": null,
-        "title_original": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-        "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/984/365.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
@@ -1399,15 +1410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "score": 0.7319,
+      "importance": 0.7319,
+      "importance_score": 0.7319,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7952,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1432,88 +1443,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
-      }
-    },
-    {
-      "story_id": "story_1719034ca604",
-      "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分 / DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-      "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
-          "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分 / DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-          "title_zh": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-          "title_en": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-          "title_original": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-          "summary": "DeepSeek V4 Flash 0731 在 Artificial Analysis 智能指数上得 50 分，较 4 月版提升 10 分，领先 V4 Pro 6 分，并进入智能与成本帕累托前沿。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:30:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
-          "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分 / DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-          "title_zh": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-          "title_en": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-          "title_original": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-          "summary": "DeepSeek V4 Flash 0731 在 Artificial Analysis 智能指数上得 50 分，较 4 月版提升 10 分，领先 V4 Pro 6 分，并进入智能与成本帕累托前沿。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:30:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7238,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T09:30:43Z",
-      "latest_at": "2026-07-31T09:30:43Z",
-      "primary_item": {
-        "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
-        "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分 / DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-        "title_zh": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-        "title_en": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-        "title_original": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-        "summary": "DeepSeek V4 Flash 0731 在 Artificial Analysis 智能指数上得 50 分，较 4 月版提升 10 分，领先 V4 Pro 6 分，并进入智能与成本帕累托前沿。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
@@ -1589,15 +1519,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5854,
-      "importance": 0.5854,
-      "importance_score": 0.5854,
+      "score": 0.5771,
+      "importance": 0.5771,
+      "importance_score": 0.5771,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8327,
+        "recency": 0.7869,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1622,7 +1552,285 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
+      }
+    },
+    {
+      "story_id": "story_38cfb64c6a71",
+      "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+      "url": "https://news.ycombinator.com/item?id=49132130",
+      "primary_url": "https://news.ycombinator.com/item?id=49132130",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "0327dc4de97b5e0cb0ae3765b12eee1bdb53f4f0",
+          "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+          "title_zh": "人工智能不会生成可用的产品，这仍然是你的工作",
+          "title_en": "AI doesn't generate working products, that's still your job",
+          "title_original": "AI doesn't generate working products, that's still your job",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49132130",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T11:38:04.391000Z"
+        },
+        {
+          "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_en": null,
+          "title_original": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "weeraman.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T11:05:25.825000Z"
+        },
+        {
+          "id": "981f4ee7d929ae5c25cb848ee4feaa223eda6fb1",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_en": "AI doesn't generate working products, that's still your job",
+          "title_original": "AI doesn't generate working products, that's still your job",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T07:52:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "weeraman.com"
+      ],
+      "items": [
+        {
+          "id": "0327dc4de97b5e0cb0ae3765b12eee1bdb53f4f0",
+          "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+          "title_zh": "人工智能不会生成可用的产品，这仍然是你的工作",
+          "title_en": "AI doesn't generate working products, that's still your job",
+          "title_original": "AI doesn't generate working products, that's still your job",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49132130",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T11:38:04.391000Z"
+        },
+        {
+          "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_en": null,
+          "title_original": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "weeraman.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T11:05:25.825000Z"
+        },
+        {
+          "id": "981f4ee7d929ae5c25cb848ee4feaa223eda6fb1",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_en": "AI doesn't generate working products, that's still your job",
+          "title_original": "AI doesn't generate working products, that's still your job",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T07:52:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9973,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T07:52:10Z",
+      "latest_at": "2026-08-01T11:38:04.391000Z",
+      "primary_item": {
+        "id": "0327dc4de97b5e0cb0ae3765b12eee1bdb53f4f0",
+        "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+        "title_zh": "人工智能不会生成可用的产品，这仍然是你的工作",
+        "title_en": "AI doesn't generate working products, that's still your job",
+        "title_original": "AI doesn't generate working products, that's still your job",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49132130",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T11:49:57.435753Z"
+      }
+    },
+    {
+      "story_id": "story_03b9f05044c9",
+      "title": "Flint：面向人工智能时代的可视化语言",
+      "url": "https://microsoft.github.io/flint-chart",
+      "primary_url": "https://microsoft.github.io/flint-chart",
+      "source": "microsoft.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+          "title": "Flint：面向人工智能时代的可视化语言",
+          "title_zh": "Flint：面向人工智能时代的可视化语言",
+          "title_en": null,
+          "title_original": "Flint：面向人工智能时代的可视化语言",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "microsoft.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T08:41:23.781000Z"
+        },
+        {
+          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
+          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "title_zh": "Flint：AI时代的可视化语言",
+          "title_en": "Flint: A Visualization Language for the AI Era",
+          "title_original": "Flint: A Visualization Language for the AI Era",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49130604",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T07:54:18.779000Z"
+        },
+        {
+          "id": "a0c1c63603f2363a96e0f45f9d9fbeab30867423",
+          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "title_zh": "Flint：面向人工智能时代的可视化语言",
+          "title_en": "Flint: A Visualization Language for the AI Era",
+          "title_original": "Flint: A Visualization Language for the AI Era",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T02:45:09Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "microsoft.github.io"
+      ],
+      "items": [
+        {
+          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+          "title": "Flint：面向人工智能时代的可视化语言",
+          "title_zh": "Flint：面向人工智能时代的可视化语言",
+          "title_en": null,
+          "title_original": "Flint：面向人工智能时代的可视化语言",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "microsoft.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T08:41:23.781000Z"
+        },
+        {
+          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
+          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "title_zh": "Flint：AI时代的可视化语言",
+          "title_en": "Flint: A Visualization Language for the AI Era",
+          "title_original": "Flint: A Visualization Language for the AI Era",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49130604",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T07:54:18.779000Z"
+        },
+        {
+          "id": "a0c1c63603f2363a96e0f45f9d9fbeab30867423",
+          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "title_zh": "Flint：面向人工智能时代的可视化语言",
+          "title_en": "Flint: A Visualization Language for the AI Era",
+          "title_original": "Flint: A Visualization Language for the AI Era",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T02:45:09Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5628,
+      "importance": 0.5628,
+      "importance_score": 0.5628,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9558,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T02:45:09Z",
+      "latest_at": "2026-08-01T08:41:23.781000Z",
+      "primary_item": {
+        "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+        "title": "Flint：面向人工智能时代的可视化语言",
+        "title_zh": "Flint：面向人工智能时代的可视化语言",
+        "title_en": null,
+        "title_original": "Flint：面向人工智能时代的可视化语言",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://microsoft.github.io/flint-chart",
+        "source": "microsoft.github.io",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
@@ -1662,7 +1870,7 @@
           "published_at": "2026-07-31T23:22:38.560000Z"
         },
         {
-          "id": "121dfc536f4e90278c14bef5f4f8f1f8d2e67056",
+          "id": "ea169d12fe409871c6f4c3b99ae4f4752711fce0",
           "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器 / Everyone is building LLM routers, we deprecated ours",
           "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
           "title_en": "Everyone is building LLM routers, we deprecated ours",
@@ -1670,15 +1878,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-31T18:06:39Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews",
         "manifest.build"
       ],
@@ -1712,7 +1920,7 @@
           "published_at": "2026-07-31T23:22:38.560000Z"
         },
         {
-          "id": "121dfc536f4e90278c14bef5f4f8f1f8d2e67056",
+          "id": "ea169d12fe409871c6f4c3b99ae4f4752711fce0",
           "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器 / Everyone is building LLM routers, we deprecated ours",
           "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
           "title_en": "Everyone is building LLM routers, we deprecated ours",
@@ -1720,23 +1928,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-31T18:06:39Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5594,
-      "importance": 0.5594,
-      "importance_score": 0.5594,
+      "score": 0.5501,
+      "importance": 0.5501,
+      "importance_score": 0.5501,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9365,
+        "recency": 0.885,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1761,7 +1969,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     },
     {
@@ -1838,15 +2046,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5543,
-      "importance": 0.5543,
-      "importance_score": 0.5543,
+      "score": 0.5466,
+      "importance": 0.5466,
+      "importance_score": 0.5466,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7811,
+        "recency": 0.7381,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1871,7 +2079,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T07:54:45.914070Z"
+        "scored_at": "2026-08-01T11:49:57.435753Z"
       }
     }
   ]
