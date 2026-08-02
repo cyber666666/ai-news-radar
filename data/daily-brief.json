@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T15:47:24.771679Z",
+  "generated_at": "2026-08-02T20:15:21.293792Z",
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 8,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T15:47:24.771679Z",
-      "latest_at": "2026-08-02T15:47:24.771679Z",
+      "earliest_at": "2026-08-02T20:15:21.293792Z",
+      "latest_at": "2026-08-02T20:15:21.293792Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:48:02.083606Z"
+        "scored_at": "2026-08-02T20:16:00.526797Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.8722,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:48:02.083606Z"
+        "scored_at": "2026-08-02T20:16:00.526797Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8732,
+        "recency": 0.8186,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,17 +246,31 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:48:02.083606Z"
+        "scored_at": "2026-08-02T20:16:00.526797Z"
       }
     },
     {
       "story_id": "story_2686ce80dcaa",
-      "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "url": "https://news.ycombinator.com/item?id=49143001",
-      "primary_url": "https://news.ycombinator.com/item?id=49143001",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "人工智能：《Ars Notoria》与即时知识的承诺",
+      "url": "https://publicdomainreview.org/essay/ars-notoria",
+      "primary_url": "https://publicdomainreview.org/essay/ars-notoria",
+      "source": "publicdomainreview.org",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
+          "title": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "title_en": null,
+          "title_original": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "publicdomainreview.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T19:20:48.057000Z"
+        },
         {
           "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
           "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
@@ -272,27 +286,42 @@
           "published_at": "2026-08-02T11:23:25.394000Z"
         },
         {
-          "id": "448465f8e3efbcbdbc6b0875972fea9f5c7b8c4b",
-          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
+          "id": "0139bdc1a3ad559df6e57656bb2b5beece076bc1",
+          "title": "人工智能：《Ars Notoria》与即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
           "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-02T10:18:24Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "publicdomainreview.org"
       ],
       "items": [
         {
+          "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
+          "title": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "title_en": null,
+          "title_original": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "publicdomainreview.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T19:20:48.057000Z"
+        },
+        {
           "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
           "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
@@ -307,276 +336,166 @@
           "published_at": "2026-08-02T11:23:25.394000Z"
         },
         {
-          "id": "448465f8e3efbcbdbc6b0875972fea9f5c7b8c4b",
-          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
+          "id": "0139bdc1a3ad559df6e57656bb2b5beece076bc1",
+          "title": "人工智能：《Ars Notoria》与即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
           "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-02T10:18:24Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5685,
+      "importance": 0.5685,
+      "importance_score": 0.5685,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9384,
-        "story_heat": 0.25
+        "recency": 0.987,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-08-02T10:18:24Z",
-      "latest_at": "2026-08-02T11:23:25.394000Z",
+      "latest_at": "2026-08-02T19:20:48.057000Z",
       "primary_item": {
-        "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
-        "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-        "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
-        "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-        "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49143001",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:48:02.083606Z"
-      }
-    },
-    {
-      "story_id": "story_e28f2fbd5da2",
-      "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-      "primary_url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-      "source": "www.wafer.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
-          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "title_en": null,
-          "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "www.wafer.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T07:21:18.343000Z"
-        },
-        {
-          "id": "95e23b427b192e05cc5a370652a74c10f28ab940",
-          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "title_original": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T04:21:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "www.wafer.ai"
-      ],
-      "items": [
-        {
-          "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
-          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "title_en": null,
-          "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "www.wafer.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T07:21:18.343000Z"
-        },
-        {
-          "id": "95e23b427b192e05cc5a370652a74c10f28ab940",
-          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "title_original": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T04:21:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5252,
-      "importance": 0.5252,
-      "importance_score": 0.5252,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8853,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T04:21:14Z",
-      "latest_at": "2026-08-02T07:21:18.343000Z",
-      "primary_item": {
-        "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
-        "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-        "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
+        "title": "人工智能：《Ars Notoria》与即时知识的承诺",
+        "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
         "title_en": null,
-        "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "title_original": "人工智能：《Ars Notoria》与即时知识的承诺",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-        "source": "www.wafer.ai",
+        "url": "https://publicdomainreview.org/essay/ars-notoria",
+        "source": "publicdomainreview.org",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:48:02.083606Z"
+        "scored_at": "2026-08-02T20:16:00.526797Z"
       }
     },
     {
-      "story_id": "story_dea1c14a39c0",
-      "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "primary_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "source": "mitsloan.mit.edu",
+      "story_id": "story_08068412d02f",
+      "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+      "url": "https://sprocket-demo.spikonado.com",
+      "primary_url": "https://sprocket-demo.spikonado.com",
+      "source": "sprocket-demo.spikonado.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
           "title_en": null,
-          "title_original": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "mitsloan.mit.edu",
+          "url": "https://sprocket-demo.spikonado.com",
+          "source": "sprocket-demo.spikonado.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-02T00:41:17.348000Z"
+          "published_at": "2026-08-02T19:04:45.454000Z"
         },
         {
-          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "id": "fbc2fc17e6bdb4748a80a9bf092ef9610cd736f7",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理 / Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "title_en": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "title_original": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "url": "https://sprocket-demo.spikonado.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-01T22:25:12Z"
+          "published_at": "2026-08-02T16:26:19Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "mitsloan.mit.edu"
+        "sprocket-demo.spikonado.com"
       ],
       "items": [
         {
-          "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
           "title_en": null,
-          "title_original": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "mitsloan.mit.edu",
+          "url": "https://sprocket-demo.spikonado.com",
+          "source": "sprocket-demo.spikonado.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-02T00:41:17.348000Z"
+          "published_at": "2026-08-02T19:04:45.454000Z"
         },
         {
-          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
-          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "id": "fbc2fc17e6bdb4748a80a9bf092ef9610cd736f7",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理 / Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "title_en": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "title_original": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "url": "https://sprocket-demo.spikonado.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-01T22:25:12Z"
+          "published_at": "2026-08-02T16:26:19Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
+      "score": 0.5428,
+      "importance": 0.5428,
+      "importance_score": 0.5428,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8041,
+        "recency": 0.9832,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T22:25:12Z",
-      "latest_at": "2026-08-02T00:41:17.348000Z",
+      "earliest_at": "2026-08-02T16:26:19Z",
+      "latest_at": "2026-08-02T19:04:45.454000Z",
       "primary_item": {
-        "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
-        "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
-        "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+        "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
+        "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+        "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
         "title_en": null,
-        "title_original": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+        "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-        "source": "mitsloan.mit.edu",
+        "url": "https://sprocket-demo.spikonado.com",
+        "source": "sprocket-demo.spikonado.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:48:02.083606Z"
+        "scored_at": "2026-08-02T20:16:00.526797Z"
       }
     },
     {
@@ -653,15 +572,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8928,
+        "recency": 0.837,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -686,7 +605,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:48:02.083606Z"
+        "scored_at": "2026-08-02T20:16:00.526797Z"
+      }
+    },
+    {
+      "story_id": "story_e28f2fbd5da2",
+      "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "primary_url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "source": "www.wafer.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_en": null,
+          "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T07:21:18.343000Z"
+        },
+        {
+          "id": "32875495637ba4a81f2a31fa16f5dc0f1b30a531",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "title_original": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T04:21:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.wafer.ai"
+      ],
+      "items": [
+        {
+          "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_en": null,
+          "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T07:21:18.343000Z"
+        },
+        {
+          "id": "32875495637ba4a81f2a31fa16f5dc0f1b30a531",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "title_original": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T04:21:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.83,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T04:21:14Z",
+      "latest_at": "2026-08-02T07:21:18.343000Z",
+      "primary_item": {
+        "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
+        "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "title_en": null,
+        "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+        "source": "www.wafer.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T20:16:00.526797Z"
+      }
+    },
+    {
+      "story_id": "story_dea1c14a39c0",
+      "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "primary_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "source": "mitsloan.mit.edu",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": null,
+          "title_original": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "mitsloan.mit.edu",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T00:41:17.348000Z"
+        },
+        {
+          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T22:25:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "mitsloan.mit.edu"
+      ],
+      "items": [
+        {
+          "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": null,
+          "title_original": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "mitsloan.mit.edu",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T00:41:17.348000Z"
+        },
+        {
+          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
+          "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T22:25:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5015,
+      "importance": 0.5015,
+      "importance_score": 0.5015,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7538,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T22:25:12Z",
+      "latest_at": "2026-08-02T00:41:17.348000Z",
+      "primary_item": {
+        "id": "0e1018d749979b50e90fe930365a1bc914b6ff1b",
+        "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+        "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+        "title_en": null,
+        "title_original": "只要问对问题，AI提供的理财建议其实出乎意料地好",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+        "source": "mitsloan.mit.edu",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T20:16:00.526797Z"
       }
     }
   ]
