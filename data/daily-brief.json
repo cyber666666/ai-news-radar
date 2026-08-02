@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T07:55:37.307181Z",
+  "generated_at": "2026-08-02T11:45:52.127524Z",
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 9,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T07:55:37.307181Z",
-      "latest_at": "2026-08-02T07:55:37.307181Z",
+      "earliest_at": "2026-08-02T11:45:52.127524Z",
+      "latest_at": "2026-08-02T11:45:52.127524Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T07:56:23.598771Z"
+        "scored_at": "2026-08-02T11:46:35.375786Z"
+      }
+    },
+    {
+      "story_id": "story_df555478b2e0",
+      "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+      "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+      "primary_url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
+          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "title_zh": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "title_en": null,
+          "title_original": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T10:47:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
+          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "title_zh": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "title_en": null,
+          "title_original": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T10:47:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.986,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-02T10:47:27Z",
+      "latest_at": "2026-08-02T10:47:27Z",
+      "primary_item": {
+        "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
+        "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+        "title_zh": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+        "title_en": null,
+        "title_original": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+        "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T11:46:35.375786Z"
       }
     },
     {
@@ -131,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9782,
+        "recency": 0.9254,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,155 +247,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T07:56:23.598771Z"
+        "scored_at": "2026-08-02T11:46:35.375786Z"
       }
     },
     {
-      "story_id": "story_e2eeec323e5b",
-      "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-      "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-      "primary_url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T10:40:50Z"
-        },
-        {
-          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "title_en": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "title_original": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-01T10:40:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T10:40:50Z"
-        },
-        {
-          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "title_en": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "title_original": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-01T10:40:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7358,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-01T10:40:50Z",
-      "latest_at": "2026-08-01T10:40:50Z",
-      "primary_item": {
-        "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
-        "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-        "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-        "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-        "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-        "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T07:56:23.598771Z"
-      }
-    },
-    {
-      "story_id": "story_2aa8e79a0b19",
-      "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-      "url": "https://news.ycombinator.com/item?id=49140340",
-      "primary_url": "https://news.ycombinator.com/item?id=49140340",
+      "story_id": "story_2686ce80dcaa",
+      "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "url": "https://news.ycombinator.com/item?id=49143001",
+      "primary_url": "https://news.ycombinator.com/item?id=49143001",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "206af265b950be5f12e82285bf43bfc57041e321",
-          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
-          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49140340",
+          "url": "https://news.ycombinator.com/item?id=49143001",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T07:56:03.453000Z"
+          "published_at": "2026-08-02T11:23:25.394000Z"
         },
         {
-          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
-          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
-          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "id": "448465f8e3efbcbdbc6b0875972fea9f5c7b8c4b",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://costperprompt.com",
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T01:56:44Z"
+          "published_at": "2026-08-02T10:18:24Z"
         }
       ],
       "source_count": 2,
@@ -323,62 +294,62 @@
       ],
       "items": [
         {
-          "id": "206af265b950be5f12e82285bf43bfc57041e321",
-          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
-          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49140340",
+          "url": "https://news.ycombinator.com/item?id=49143001",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T07:56:03.453000Z"
+          "published_at": "2026-08-02T11:23:25.394000Z"
         },
         {
-          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
-          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
-          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "id": "448465f8e3efbcbdbc6b0875972fea9f5c7b8c4b",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://costperprompt.com",
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T01:56:44Z"
+          "published_at": "2026-08-02T10:18:24Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9946,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T01:56:44Z",
-      "latest_at": "2026-08-02T07:56:03.453000Z",
+      "earliest_at": "2026-08-02T10:18:24Z",
+      "latest_at": "2026-08-02T11:23:25.394000Z",
       "primary_item": {
-        "id": "206af265b950be5f12e82285bf43bfc57041e321",
-        "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-        "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
-        "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-        "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+        "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+        "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+        "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
+        "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+        "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49140340",
+        "url": "https://news.ycombinator.com/item?id=49143001",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -386,7 +357,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T07:56:23.598771Z"
+        "scored_at": "2026-08-02T11:46:35.375786Z"
       }
     },
     {
@@ -463,15 +434,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9918,
+        "recency": 0.9383,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -496,7 +467,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T07:56:23.598771Z"
+        "scored_at": "2026-08-02T11:46:35.375786Z"
       }
     },
     {
@@ -602,15 +573,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8213,
+        "recency": 0.777,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -635,7 +606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T07:56:23.598771Z"
+        "scored_at": "2026-08-02T11:46:35.375786Z"
       }
     },
     {
@@ -712,15 +683,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5192,
+      "importance": 0.5192,
+      "importance_score": 0.5192,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9007,
+        "recency": 0.8522,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -745,7 +716,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T07:56:23.598771Z"
+        "scored_at": "2026-08-02T11:46:35.375786Z"
+      }
+    },
+    {
+      "story_id": "story_2aa8e79a0b19",
+      "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+      "url": "https://news.ycombinator.com/item?id=49140340",
+      "primary_url": "https://news.ycombinator.com/item?id=49140340",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "206af265b950be5f12e82285bf43bfc57041e321",
+          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
+          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49140340",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T07:56:03.453000Z"
+        },
+        {
+          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
+          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
+          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://costperprompt.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T01:56:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "206af265b950be5f12e82285bf43bfc57041e321",
+          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
+          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49140340",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T07:56:03.453000Z"
+        },
+        {
+          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
+          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
+          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://costperprompt.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T01:56:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9462,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T01:56:44Z",
+      "latest_at": "2026-08-02T07:56:03.453000Z",
+      "primary_item": {
+        "id": "206af265b950be5f12e82285bf43bfc57041e321",
+        "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+        "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
+        "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+        "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49140340",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T11:46:35.375786Z"
       }
     },
     {
@@ -785,7 +866,7 @@
           "published_at": "2026-08-01T17:29:19.514000Z"
         },
         {
-          "id": "f6b7e33694d28407978eecc77a104a45c3ba21d2",
+          "id": "de573c10b33e0a6db03369843a6dd7ee7a027e5c",
           "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息 / Cursor removed cost information from the usage page and CSV export",
           "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
           "title_en": "Cursor removed cost information from the usage page and CSV export",
@@ -793,15 +874,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-01T15:25:21Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "forum.cursor.com",
         "hackernews"
       ],
@@ -835,7 +916,7 @@
           "published_at": "2026-08-01T17:29:19.514000Z"
         },
         {
-          "id": "f6b7e33694d28407978eecc77a104a45c3ba21d2",
+          "id": "de573c10b33e0a6db03369843a6dd7ee7a027e5c",
           "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息 / Cursor removed cost information from the usage page and CSV export",
           "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
           "title_en": "Cursor removed cost information from the usage page and CSV export",
@@ -843,23 +924,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-01T15:25:21Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8406,
+        "recency": 0.7953,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -884,7 +965,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T07:56:23.598771Z"
+        "scored_at": "2026-08-02T11:46:35.375786Z"
       }
     }
   ]
