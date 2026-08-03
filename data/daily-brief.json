@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T12:40:37.854384Z",
+  "generated_at": "2026-08-03T20:41:39.572196Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T12:40:37.854384Z",
-      "latest_at": "2026-08-03T12:40:37.854384Z",
+      "earliest_at": "2026-08-03T20:41:39.572196Z",
+      "latest_at": "2026-08-03T20:41:39.572196Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
+        "scored_at": "2026-08-03T20:42:17.760709Z"
+      }
+    },
+    {
+      "story_id": "story_63bd4def256d",
+      "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "primary_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+          "title_zh": "分类角色可以绕过问题创建限制",
+          "title_en": "Triage role can bypass issue creation restrictions",
+          "title_original": "Triage role can bypass issue creation restrictions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T17:04:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+          "title_zh": "分类角色可以绕过问题创建限制",
+          "title_en": "Triage role can bypass issue creation restrictions",
+          "title_original": "Triage role can bypass issue creation restrictions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T17:04:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9491,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T17:04:32Z",
+      "latest_at": "2026-08-03T17:04:32Z",
+      "primary_item": {
+        "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+        "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
+        "title_zh": "分类角色可以绕过问题创建限制",
+        "title_en": "Triage role can bypass issue creation restrictions",
+        "title_original": "Triage role can bypass issue creation restrictions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:42:17.760709Z"
       }
     },
     {
@@ -189,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8429,
-      "importance": 0.8429,
-      "importance_score": 0.8429,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8571,
+        "recency": 0.7634,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -224,7 +307,426 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
+        "scored_at": "2026-08-03T20:42:17.760709Z"
+      }
+    },
+    {
+      "story_id": "story_268138d2f7c5",
+      "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+      "url": "https://github.com/lyogavin/airllm",
+      "primary_url": "https://github.com/lyogavin/airllm",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_en": null,
+          "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "2717965917d799ff11365290c89986375891fad3",
+          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_en": null,
+          "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
+          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_en": "AirLLM 70B inference with single 4GB GPU",
+          "title_original": "AirLLM 70B inference with single 4GB GPU",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-03T11:15:48Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_en": null,
+          "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "2717965917d799ff11365290c89986375891fad3",
+          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_en": null,
+          "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
+          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_en": "AirLLM 70B inference with single 4GB GPU",
+          "title_original": "AirLLM 70B inference with single 4GB GPU",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-03T11:15:48Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.94,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T11:15:48Z",
+      "latest_at": "2026-08-03T16:24:45.027000Z",
+      "primary_item": {
+        "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+        "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+        "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+        "title_en": null,
+        "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+        "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:42:17.760709Z"
+      }
+    },
+    {
+      "story_id": "story_cef962707d08",
+      "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_zh": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
+          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_zh": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
+          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.942,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T16:33:13Z",
+      "latest_at": "2026-08-03T16:33:13Z",
+      "primary_item": {
+        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+        "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "title_zh": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
+        "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:42:17.760709Z"
+      }
+    },
+    {
+      "story_id": "story_59233e31a45d",
+      "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "primary_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
+          "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
+          "title_zh": "我们如何在六个月内构建响应式语音 AI 实时系统",
+          "title_en": "How we built a realtime system for responsive voice AI in six months",
+          "title_original": "How we built a realtime system for responsive voice AI in six months",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
+          "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
+          "title_zh": "我们如何在六个月内构建响应式语音 AI 实时系统",
+          "title_en": "How we built a realtime system for responsive voice AI in six months",
+          "title_original": "How we built a realtime system for responsive voice AI in six months",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8206,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T07:00:00Z",
+      "latest_at": "2026-08-03T07:00:00Z",
+      "primary_item": {
+        "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
+        "title": "我们如何在六个月内构建响应式语音 AI 实时系统 / How we built a realtime system for responsive voice AI in six months",
+        "title_zh": "我们如何在六个月内构建响应式语音 AI 实时系统",
+        "title_en": "How we built a realtime system for responsive voice AI in six months",
+        "title_original": "How we built a realtime system for responsive voice AI in six months",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:42:17.760709Z"
+      }
+    },
+    {
+      "story_id": "story_c812f9375d11",
+      "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe's AI labeling and transparency rules are now in effect",
+          "title_original": "Europe's AI labeling and transparency rules are now in effect",
+          "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T17:38:45Z"
+        },
+        {
+          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe’s AI labeling and transparency rules are now in effect",
+          "title_original": "Europe’s AI labeling and transparency rules are now in effect",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T17:38:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe's AI labeling and transparency rules are now in effect",
+          "title_original": "Europe's AI labeling and transparency rules are now in effect",
+          "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T17:38:45Z"
+        },
+        {
+          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe’s AI labeling and transparency rules are now in effect",
+          "title_original": "Europe’s AI labeling and transparency rules are now in effect",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T17:38:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9569,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T17:38:45Z",
+      "latest_at": "2026-08-03T17:38:45Z",
+      "primary_item": {
+        "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+        "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+        "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+        "title_en": "Europe's AI labeling and transparency rules are now in effect",
+        "title_original": "Europe's AI labeling and transparency rules are now in effect",
+        "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:42:17.760709Z"
       }
     },
     {
@@ -272,21 +774,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8907,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T12:40:37.854384Z",
       "latest_at": "2026-08-03T12:40:37.854384Z",
@@ -306,7 +807,412 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
+        "scored_at": "2026-08-03T20:42:17.760709Z"
+      }
+    },
+    {
+      "story_id": "story_de40722d372d",
+      "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界 / How EA Is Bringing Generative AI Into Living， Playable Worlds",
+      "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
+      "primary_url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
+      "source": "Runway：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
+          "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界 / How EA Is Bringing Generative AI Into Living， Playable Worlds",
+          "title_zh": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
+          "title_en": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
+          "title_original": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
+          "summary": "EA 首席战略官 Mihir Vaidya 认为，游戏是 AI 的试验场，但生成式 AI 进入游戏面临 60 帧/秒、数千玩家同步和低延迟等严苛约束，不能只追求\"看起来真实\"，而必须\"行为正确\"。他主张采用神经符号架构，在生成能力之外保留确定性与可控性，并称\"控制是下一个前沿\"。EA 将 AI 影响分为效率、扩展和转型三个层面，其中《模拟人生》已服务超 5 亿玩家，拥有近万亿种游玩排列组合。",
+          "recommend_reason_zh": null,
+          "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
+          "source": "Runway：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T20:12:03.229000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Runway：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
+          "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界 / How EA Is Bringing Generative AI Into Living， Playable Worlds",
+          "title_zh": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
+          "title_en": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
+          "title_original": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
+          "summary": "EA 首席战略官 Mihir Vaidya 认为，游戏是 AI 的试验场，但生成式 AI 进入游戏面临 60 帧/秒、数千玩家同步和低延迟等严苛约束，不能只追求\"看起来真实\"，而必须\"行为正确\"。他主张采用神经符号架构，在生成能力之外保留确定性与可控性，并称\"控制是下一个前沿\"。EA 将 AI 影响分为效率、扩展和转型三个层面，其中《模拟人生》已服务超 5 亿玩家，拥有近万亿种游玩排列组合。",
+          "recommend_reason_zh": null,
+          "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
+          "source": "Runway：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T20:12:03.229000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9929,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T20:12:03.229000Z",
+      "latest_at": "2026-08-03T20:12:03.229000Z",
+      "primary_item": {
+        "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
+        "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界 / How EA Is Bringing Generative AI Into Living， Playable Worlds",
+        "title_zh": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
+        "title_en": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
+        "title_original": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
+        "summary": "EA 首席战略官 Mihir Vaidya 认为，游戏是 AI 的试验场，但生成式 AI 进入游戏面临 60 帧/秒、数千玩家同步和低延迟等严苛约束，不能只追求\"看起来真实\"，而必须\"行为正确\"。他主张采用神经符号架构，在生成能力之外保留确定性与可控性，并称\"控制是下一个前沿\"。EA 将 AI 影响分为效率、扩展和转型三个层面，其中《模拟人生》已服务超 5 亿玩家，拥有近万亿种游玩排列组合。",
+        "recommend_reason_zh": null,
+        "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
+        "source": "Runway：News（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:42:17.760709Z"
+      }
+    },
+    {
+      "story_id": "story_315ee5f98a4b",
+      "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+      "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+      "primary_url": "https://x.com/MSFTResearch/status/2084364547142418722",
+      "source": "X：Microsoft Research (@MSFTResearch)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
+          "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "title_zh": "微软开源 Orchard 智能体训练框架",
+          "title_en": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "title_original": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T19:43:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Microsoft Research (@MSFTResearch)"
+      ],
+      "items": [
+        {
+          "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
+          "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "title_zh": "微软开源 Orchard 智能体训练框架",
+          "title_en": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "title_original": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T19:43:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9861,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T19:43:28Z",
+      "latest_at": "2026-08-03T19:43:28Z",
+      "primary_item": {
+        "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
+        "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+        "title_zh": "微软开源 Orchard 智能体训练框架",
+        "title_en": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+        "title_original": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+        "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+        "source": "X：Microsoft Research (@MSFTResearch)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:42:17.760709Z"
+      }
+    },
+    {
+      "story_id": "story_c9252b48ad86",
+      "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性 / Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
+      "url": "https://blog.cloudflare.com/billable-usage-api",
+      "primary_url": "https://blog.cloudflare.com/billable-usage-api",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
+          "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性 / Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
+          "title_zh": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+          "title_en": "Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
+          "title_original": "Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
+          "summary": "Cloudflare 发布 Billable Usage API，为自助账户提供单一端点，一次调用即可返回按产品和计费周期拆分的用量与成本，覆盖 Workers、R2、D1、Workers AI、Vectorize、Images 和 Stream。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/billable-usage-api",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cloudflare Blog"
+      ],
+      "items": [
+        {
+          "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
+          "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性 / Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
+          "title_zh": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+          "title_en": "Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
+          "title_original": "Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
+          "summary": "Cloudflare 发布 Billable Usage API，为自助账户提供单一端点，一次调用即可返回按产品和计费周期拆分的用量与成本，覆盖 Workers、R2、D1、Workers AI、Vectorize、Images 和 Stream。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/billable-usage-api",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8948,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T13:00:00Z",
+      "latest_at": "2026-08-03T13:00:00Z",
+      "primary_item": {
+        "id": "7d132557b16f97c759ccf326479eb425d7cec46e",
+        "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性 / Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
+        "title_zh": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+        "title_en": "Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
+        "title_original": "Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
+        "summary": "Cloudflare 发布 Billable Usage API，为自助账户提供单一端点，一次调用即可返回按产品和计费周期拆分的用量与成本，覆盖 Workers、R2、D1、Workers AI、Vectorize、Images 和 Stream。",
+        "recommend_reason_zh": null,
+        "url": "https://blog.cloudflare.com/billable-usage-api",
+        "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:42:17.760709Z"
+      }
+    },
+    {
+      "story_id": "story_f8f3a56ad08e",
+      "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+      "url": "https://x.com/OpenRouter/status/2084301100078027143",
+      "primary_url": "https://x.com/OpenRouter/status/2084301100078027143",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
+          "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
+          "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2084301100078027143",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T15:31:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
+          "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
+          "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2084301100078027143",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T15:31:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.928,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T15:31:21Z",
+      "latest_at": "2026-08-03T15:31:21Z",
+      "primary_item": {
+        "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
+        "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+        "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
+        "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+        "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+        "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2084301100078027143",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:42:17.760709Z"
+      }
+    },
+    {
+      "story_id": "story_3d9273103737",
+      "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+      "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+      "primary_url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "635756b0e74e1a8aa32edee0ffc2b3cc8a42ec23",
+          "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+          "title_zh": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
+          "title_en": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+          "title_original": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+          "summary": "商汤推出 SenseNova U1.5-Lite-Preview，一个基于 NEO-Unify 架构的轻量级原生统一多模态模型，仅 8B-MoT 参数即可达到商业闭源模型的生成与编辑质量。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T14:40:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：商汤 SenseTime (@SenseTime_AI)"
+      ],
+      "items": [
+        {
+          "id": "635756b0e74e1a8aa32edee0ffc2b3cc8a42ec23",
+          "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+          "title_zh": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
+          "title_en": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+          "title_original": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+          "summary": "商汤推出 SenseNova U1.5-Lite-Preview，一个基于 NEO-Unify 架构的轻量级原生统一多模态模型，仅 8B-MoT 参数即可达到商业闭源模型的生成与编辑质量。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T14:40:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9169,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T14:40:59Z",
+      "latest_at": "2026-08-03T14:40:59Z",
+      "primary_item": {
+        "id": "635756b0e74e1a8aa32edee0ffc2b3cc8a42ec23",
+        "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+        "title_zh": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
+        "title_en": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+        "title_original": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+        "summary": "商汤推出 SenseNova U1.5-Lite-Preview，一个基于 NEO-Unify 架构的轻量级原生统一多模态模型，仅 8B-MoT 参数即可达到商业闭源模型的生成与编辑质量。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+        "source": "X：商汤 SenseTime (@SenseTime_AI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:42:17.760709Z"
       }
     },
     {
@@ -354,21 +1260,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9883,
+        "recency": 0.8803,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:51:51Z",
       "latest_at": "2026-08-03T11:51:51Z",
@@ -388,7 +1293,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
+        "scored_at": "2026-08-03T20:42:17.760709Z"
+      }
+    },
+    {
+      "story_id": "story_0116c410b28a",
+      "title": "Google Agent Skills 幕后：如何构建、测试与规模化 / Behind the scenes： How we build， test， and scale Google Agent Skills",
+      "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
+      "primary_url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "91f220893f2400bc27c184837617352ac1befa1d",
+          "title": "Google Agent Skills 幕后：如何构建、测试与规模化 / Behind the scenes： How we build， test， and scale Google Agent Skills",
+          "title_zh": "Google Agent Skills 幕后：如何构建、测试与规模化",
+          "title_en": "Behind the scenes： How we build， test， and scale Google Agent Skills",
+          "title_original": "Behind the scenes： How we build， test， and scale Google Agent Skills",
+          "summary": "Google Agent Skills 团队详解其开源技能库的构建与治理流程：项目始于 Google Cloud Next 2026 前的\"swarm\"冲刺，发布后 GitHub 星标超 15，000。为保证规模化下的质量，每个技能须通过标准化目录结构、CI/CD 流水线（含 linter、链接检查、AI 辅助清单）及提交时与每周的持续评估，并优先引用远程 MCP 工具。",
+          "recommend_reason_zh": null,
+          "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T14:33:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI：DEV 作者专属（RSS）"
+      ],
+      "items": [
+        {
+          "id": "91f220893f2400bc27c184837617352ac1befa1d",
+          "title": "Google Agent Skills 幕后：如何构建、测试与规模化 / Behind the scenes： How we build， test， and scale Google Agent Skills",
+          "title_zh": "Google Agent Skills 幕后：如何构建、测试与规模化",
+          "title_en": "Behind the scenes： How we build， test， and scale Google Agent Skills",
+          "title_original": "Behind the scenes： How we build， test， and scale Google Agent Skills",
+          "summary": "Google Agent Skills 团队详解其开源技能库的构建与治理流程：项目始于 Google Cloud Next 2026 前的\"swarm\"冲刺，发布后 GitHub 星标超 15，000。为保证规模化下的质量，每个技能须通过标准化目录结构、CI/CD 流水线（含 linter、链接检查、AI 辅助清单）及提交时与每周的持续评估，并优先引用远程 MCP 工具。",
+          "recommend_reason_zh": null,
+          "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T14:33:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7253,
+      "importance": 0.7253,
+      "importance_score": 0.7253,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9152,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T14:33:20Z",
+      "latest_at": "2026-08-03T14:33:20Z",
+      "primary_item": {
+        "id": "91f220893f2400bc27c184837617352ac1befa1d",
+        "title": "Google Agent Skills 幕后：如何构建、测试与规模化 / Behind the scenes： How we build， test， and scale Google Agent Skills",
+        "title_zh": "Google Agent Skills 幕后：如何构建、测试与规模化",
+        "title_en": "Behind the scenes： How we build， test， and scale Google Agent Skills",
+        "title_original": "Behind the scenes： How we build， test， and scale Google Agent Skills",
+        "summary": "Google Agent Skills 团队详解其开源技能库的构建与治理流程：项目始于 Google Cloud Next 2026 前的\"swarm\"冲刺，发布后 GitHub 星标超 15，000。为保证规模化下的质量，每个技能须通过标准化目录结构、CI/CD 流水线（含 linter、链接检查、AI 辅助清单）及提交时与每周的持续评估，并优先引用远程 MCP 工具。",
+        "recommend_reason_zh": null,
+        "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
+        "source": "Google AI：DEV 作者专属（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:42:17.760709Z"
       }
     },
     {
@@ -465,15 +1451,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7232,
+      "importance": 0.7232,
+      "importance_score": 0.7232,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8023,
+        "recency": 0.7146,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -499,7 +1485,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
+        "scored_at": "2026-08-03T20:42:17.760709Z"
       }
     },
     {
@@ -547,21 +1533,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8907,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T12:40:37.854384Z",
       "latest_at": "2026-08-03T12:40:37.854384Z",
@@ -581,7 +1566,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
+        "scored_at": "2026-08-03T20:42:17.760709Z"
+      }
+    },
+    {
+      "story_id": "story_69bc7ebc36d0",
+      "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境 / Your agent needs a computer， not a container - introducing @cloudflare/computer",
+      "url": "https://blog.cloudflare.com/cloudflare-computer",
+      "primary_url": "https://blog.cloudflare.com/cloudflare-computer",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9874b290d806248194911e23c5f40476c3a608d3",
+          "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境 / Your agent needs a computer， not a container - introducing @cloudflare/computer",
+          "title_zh": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+          "title_en": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
+          "title_original": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
+          "summary": "Cloudflare 发布 @cloudflare/computer 早期预览版，这是一个开源智能体运行时，为每个智能体提供虚拟文件系统，并支持在 isolate、容器沙箱或浏览器中执行代码。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/cloudflare-computer",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:15:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cloudflare Blog"
+      ],
+      "items": [
+        {
+          "id": "9874b290d806248194911e23c5f40476c3a608d3",
+          "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境 / Your agent needs a computer， not a container - introducing @cloudflare/computer",
+          "title_zh": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+          "title_en": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
+          "title_original": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
+          "summary": "Cloudflare 发布 @cloudflare/computer 早期预览版，这是一个开源智能体运行时，为每个智能体提供虚拟文件系统，并支持在 isolate、容器沙箱或浏览器中执行代码。",
+          "recommend_reason_zh": null,
+          "url": "https://blog.cloudflare.com/cloudflare-computer",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T13:15:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8982,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T13:15:24Z",
+      "latest_at": "2026-08-03T13:15:24Z",
+      "primary_item": {
+        "id": "9874b290d806248194911e23c5f40476c3a608d3",
+        "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境 / Your agent needs a computer， not a container - introducing @cloudflare/computer",
+        "title_zh": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+        "title_en": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
+        "title_original": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
+        "summary": "Cloudflare 发布 @cloudflare/computer 早期预览版，这是一个开源智能体运行时，为每个智能体提供虚拟文件系统，并支持在 isolate、容器沙箱或浏览器中执行代码。",
+        "recommend_reason_zh": null,
+        "url": "https://blog.cloudflare.com/cloudflare-computer",
+        "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:42:17.760709Z"
       }
     },
     {
@@ -629,21 +1695,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8907,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T12:40:37.854384Z",
       "latest_at": "2026-08-03T12:40:37.854384Z",
@@ -663,7 +1728,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
+        "scored_at": "2026-08-03T20:42:17.760709Z"
       }
     },
     {
@@ -711,21 +1776,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8907,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T12:40:37.854384Z",
       "latest_at": "2026-08-03T12:40:37.854384Z",
@@ -745,1215 +1809,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
-      }
-    },
-    {
-      "story_id": "story_0ef8d19ed489",
-      "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-      "url": "https://www.aibase.com/news/30078",
-      "primary_url": "https://www.aibase.com/news/30078",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c5357842007b62e9404544dc1119ed664675d994",
-          "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "title_en": null,
-          "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30078",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T12:40:37.854384Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c5357842007b62e9404544dc1119ed664675d994",
-          "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "title_en": null,
-          "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30078",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T12:40:37.854384Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T12:40:37.854384Z",
-      "latest_at": "2026-08-03T12:40:37.854384Z",
-      "primary_item": {
-        "id": "c5357842007b62e9404544dc1119ed664675d994",
-        "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-        "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-        "title_en": null,
-        "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30078",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
-      }
-    },
-    {
-      "story_id": "story_13f269c0a486",
-      "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-      "url": "https://www.aibase.com/news/30081",
-      "primary_url": "https://www.aibase.com/news/30081",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
-          "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "title_zh": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "title_en": null,
-          "title_original": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30081",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T12:40:37.854384Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
-          "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "title_zh": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "title_en": null,
-          "title_original": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30081",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T12:40:37.854384Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T12:40:37.854384Z",
-      "latest_at": "2026-08-03T12:40:37.854384Z",
-      "primary_item": {
-        "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
-        "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-        "title_zh": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-        "title_en": null,
-        "title_original": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30081",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
-      }
-    },
-    {
-      "story_id": "story_4b4ef74657f2",
-      "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
-          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-          "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
-          "title_en": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-          "title_original": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-03T11:01:11Z"
-        },
-        {
-          "id": "f4d8a698df9099499471bc6183bfc49d8a8c745d",
-          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China’s Alibaba takes another swipe at America’s AI supremacy",
-          "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
-          "title_en": "China’s Alibaba takes another swipe at America’s AI supremacy",
-          "title_original": "China’s Alibaba takes another swipe at America’s AI supremacy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T11:01:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
-          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-          "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
-          "title_en": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-          "title_original": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-03T11:01:11Z"
-        },
-        {
-          "id": "f4d8a698df9099499471bc6183bfc49d8a8c745d",
-          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China’s Alibaba takes another swipe at America’s AI supremacy",
-          "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
-          "title_en": "China’s Alibaba takes another swipe at America’s AI supremacy",
-          "title_original": "China’s Alibaba takes another swipe at America’s AI supremacy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T11:01:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6112,
-      "importance": 0.6112,
-      "importance_score": 0.6112,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.9763,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T11:01:11Z",
-      "latest_at": "2026-08-03T11:01:11Z",
-      "primary_item": {
-        "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
-        "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-        "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
-        "title_en": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-        "title_original": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
-      }
-    },
-    {
-      "story_id": "story_4d6c238ed8d7",
-      "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-      "url": "https://www.aibase.com/news/30067",
-      "primary_url": "https://www.aibase.com/news/30067",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
-          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-          "title_zh": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-          "title_en": null,
-          "title_original": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30067",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T12:40:37.854384Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
-          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-          "title_zh": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-          "title_en": null,
-          "title_original": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30067",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T12:40:37.854384Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T12:40:37.854384Z",
-      "latest_at": "2026-08-03T12:40:37.854384Z",
-      "primary_item": {
-        "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
-        "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-        "title_zh": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-        "title_en": null,
-        "title_original": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30067",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
-      }
-    },
-    {
-      "story_id": "story_70cc08e0a26a",
-      "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://news.ycombinator.com/item?id=49153374",
-      "primary_url": "https://news.ycombinator.com/item?id=49153374",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
-          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_zh": "通过手动重新输入 LLM 生成的代码来防止认知债务",
-          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49153374",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T12:13:37.199000Z"
-        },
-        {
-          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "title_en": null,
-          "title_original": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "ankursethi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T12:09:10.975000Z"
-        },
-        {
-          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:32:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "ankursethi.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
-          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_zh": "通过手动重新输入 LLM 生成的代码来防止认知债务",
-          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49153374",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T12:13:37.199000Z"
-        },
-        {
-          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "title_en": null,
-          "title_original": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "ankursethi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T12:09:10.975000Z"
-        },
-        {
-          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:32:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9935,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T09:32:07Z",
-      "latest_at": "2026-08-03T12:13:37.199000Z",
-      "primary_item": {
-        "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
-        "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-        "title_zh": "通过手动重新输入 LLM 生成的代码来防止认知债务",
-        "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
-        "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49153374",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
-      }
-    },
-    {
-      "story_id": "story_013951fb56c6",
-      "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-      "url": "https://www.aibase.com/news/30066",
-      "primary_url": "https://www.aibase.com/news/30066",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
-          "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-          "title_zh": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-          "title_en": null,
-          "title_original": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30066",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T12:40:37.854384Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
-          "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-          "title_zh": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-          "title_en": null,
-          "title_original": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30066",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T12:40:37.854384Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T12:40:37.854384Z",
-      "latest_at": "2026-08-03T12:40:37.854384Z",
-      "primary_item": {
-        "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
-        "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-        "title_zh": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-        "title_en": null,
-        "title_original": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30066",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
-      }
-    },
-    {
-      "story_id": "story_4797ec632e82",
-      "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-      "primary_url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-      "source": "www.modelrepublic.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1df375caf2242069944c372fb478134ce40d4667",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "title_zh": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "title_en": null,
-          "title_original": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "www.modelrepublic.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T05:44:58.273000Z"
-        },
-        {
-          "id": "92658c15f576130012e41e8bcd733b5f2982a26a",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "title_zh": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "title_original": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T02:30:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.modelrepublic.org"
-      ],
-      "items": [
-        {
-          "id": "1df375caf2242069944c372fb478134ce40d4667",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "title_zh": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "title_en": null,
-          "title_original": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "www.modelrepublic.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T05:44:58.273000Z"
-        },
-        {
-          "id": "92658c15f576130012e41e8bcd733b5f2982a26a",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "title_zh": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "title_original": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T02:30:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9048,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T02:30:30Z",
-      "latest_at": "2026-08-03T05:44:58.273000Z",
-      "primary_item": {
-        "id": "1df375caf2242069944c372fb478134ce40d4667",
-        "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-        "title_zh": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-        "title_en": null,
-        "title_original": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-        "source": "www.modelrepublic.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
-      }
-    },
-    {
-      "story_id": "story_1435bdc2b70b",
-      "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-      "url": "https://www.aibase.com/news/30079",
-      "primary_url": "https://www.aibase.com/news/30079",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
-          "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "title_zh": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "title_en": null,
-          "title_original": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30079",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T12:40:37.854384Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
-          "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "title_zh": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "title_en": null,
-          "title_original": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30079",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T12:40:37.854384Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T12:40:37.854384Z",
-      "latest_at": "2026-08-03T12:40:37.854384Z",
-      "primary_item": {
-        "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
-        "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-        "title_zh": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-        "title_en": null,
-        "title_original": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30079",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
-      }
-    },
-    {
-      "story_id": "story_2c02212e1cd8",
-      "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-      "url": "https://frogs.vaguespac.es",
-      "primary_url": "https://frogs.vaguespac.es",
-      "source": "frogs.vaguespac.es",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": null,
-          "title_original": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
-        },
-        {
-          "id": "85c464d06f44c53ea531320315e322572052549d",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "frogs.vaguespac.es"
-      ],
-      "items": [
-        {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": null,
-          "title_original": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
-        },
-        {
-          "id": "85c464d06f44c53ea531320315e322572052549d",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5195,
-      "importance": 0.5195,
-      "importance_score": 0.5195,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.854,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T19:42:08Z",
-      "latest_at": "2026-08-03T01:44:49.130000Z",
-      "primary_item": {
-        "id": "4edaaec810850620669c5112868bb919b9b9706c",
-        "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-        "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-        "title_en": null,
-        "title_original": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://frogs.vaguespac.es",
-        "source": "frogs.vaguespac.es",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
-      }
-    },
-    {
-      "story_id": "story_5e37a2bfe3ac",
-      "title": "AI海报在俄亥俄州博览会上获奖",
-      "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-      "primary_url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-      "source": "www.ohiostatefair.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "228ad5508c6f118f1b0277b76977ba9c4c7e3a3d",
-          "title": "AI海报在俄亥俄州博览会上获奖",
-          "title_zh": "AI海报在俄亥俄州博览会上获奖",
-          "title_en": null,
-          "title_original": "AI海报在俄亥俄州博览会上获奖",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-          "source": "www.ohiostatefair.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T00:56:46.069000Z"
-        },
-        {
-          "id": "570e262588563c580f7876bb7283f82d53ec8d70",
-          "title": "AI海报在俄亥俄州博览会上获奖 / AI poster wins Ohio State Fair contest",
-          "title_zh": "AI海报在俄亥俄州博览会上获奖",
-          "title_en": "AI poster wins Ohio State Fair contest",
-          "title_original": "AI poster wins Ohio State Fair contest",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T22:43:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.ohiostatefair.com"
-      ],
-      "items": [
-        {
-          "id": "228ad5508c6f118f1b0277b76977ba9c4c7e3a3d",
-          "title": "AI海报在俄亥俄州博览会上获奖",
-          "title_zh": "AI海报在俄亥俄州博览会上获奖",
-          "title_en": null,
-          "title_original": "AI海报在俄亥俄州博览会上获奖",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-          "source": "www.ohiostatefair.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T00:56:46.069000Z"
-        },
-        {
-          "id": "570e262588563c580f7876bb7283f82d53ec8d70",
-          "title": "AI海报在俄亥俄州博览会上获奖 / AI poster wins Ohio State Fair contest",
-          "title_zh": "AI海报在俄亥俄州博览会上获奖",
-          "title_en": "AI poster wins Ohio State Fair contest",
-          "title_original": "AI poster wins Ohio State Fair contest",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T22:43:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8442,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T22:43:47Z",
-      "latest_at": "2026-08-03T00:56:46.069000Z",
-      "primary_item": {
-        "id": "228ad5508c6f118f1b0277b76977ba9c4c7e3a3d",
-        "title": "AI海报在俄亥俄州博览会上获奖",
-        "title_zh": "AI海报在俄亥俄州博览会上获奖",
-        "title_en": null,
-        "title_original": "AI海报在俄亥俄州博览会上获奖",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-        "source": "www.ohiostatefair.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
-      }
-    },
-    {
-      "story_id": "story_f0285d98edc7",
-      "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-      "url": "https://news.ycombinator.com/item?id=49153029",
-      "primary_url": "https://news.ycombinator.com/item?id=49153029",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0840bc3de3b6d4946adc19151cea4b884d64194f",
-          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_zh": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息",
-          "title_en": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_original": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49153029",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T12:13:37.199000Z"
-        },
-        {
-          "id": "0f53f632ca9617441366b3bfa4b3cbc50d7d4d46",
-          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_zh": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息",
-          "title_en": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_original": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T08:54:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0840bc3de3b6d4946adc19151cea4b884d64194f",
-          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_zh": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息",
-          "title_en": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_original": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49153029",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T12:13:37.199000Z"
-        },
-        {
-          "id": "0f53f632ca9617441366b3bfa4b3cbc50d7d4d46",
-          "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_zh": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息",
-          "title_en": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "title_original": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T08:54:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9935,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T08:54:00Z",
-      "latest_at": "2026-08-03T12:13:37.199000Z",
-      "primary_item": {
-        "id": "0840bc3de3b6d4946adc19151cea4b884d64194f",
-        "title": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息 / PISIGuard: Protect your personal and sensitive info when you chat with AI",
-        "title_zh": "PISIGuard：与 AI 聊天时保护您的个人和敏感信息",
-        "title_en": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-        "title_original": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49153029",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
-      }
-    },
-    {
-      "story_id": "story_08068412d02f",
-      "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-      "url": "https://sprocket-demo.spikonado.com",
-      "primary_url": "https://sprocket-demo.spikonado.com",
-      "source": "sprocket-demo.spikonado.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
-          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "title_en": null,
-          "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sprocket-demo.spikonado.com",
-          "source": "sprocket-demo.spikonado.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T19:04:45.454000Z"
-        },
-        {
-          "id": "fbc2fc17e6bdb4748a80a9bf092ef9610cd736f7",
-          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理 / Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "title_en": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-          "title_original": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sprocket-demo.spikonado.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T16:26:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "sprocket-demo.spikonado.com"
-      ],
-      "items": [
-        {
-          "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
-          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "title_en": null,
-          "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sprocket-demo.spikonado.com",
-          "source": "sprocket-demo.spikonado.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T19:04:45.454000Z"
-        },
-        {
-          "id": "fbc2fc17e6bdb4748a80a9bf092ef9610cd736f7",
-          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理 / Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-          "title_en": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-          "title_original": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sprocket-demo.spikonado.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T16:26:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5054,
-      "importance": 0.5054,
-      "importance_score": 0.5054,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7756,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T16:26:19Z",
-      "latest_at": "2026-08-02T19:04:45.454000Z",
-      "primary_item": {
-        "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
-        "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-        "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-        "title_en": null,
-        "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://sprocket-demo.spikonado.com",
-        "source": "sprocket-demo.spikonado.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T12:41:19.476828Z"
+        "scored_at": "2026-08-03T20:42:17.760709Z"
       }
     }
   ]
