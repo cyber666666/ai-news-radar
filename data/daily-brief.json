@@ -1,8 +1,287 @@
 {
-  "generated_at": "2026-08-04T18:14:37.633555Z",
+  "generated_at": "2026-08-04T23:39:47.444634Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0e23ce0343ea",
+      "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "primary_url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "56547598ec4d3c59330bc56ab8fade3ecbd44a26",
+          "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+          "title_zh": "涉及 OpenAI 模型的第三方网络评估",
+          "title_en": "Third-party cyber evaluations involving OpenAI models",
+          "title_original": "Third-party cyber evaluations involving OpenAI models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T19:00:00Z"
+        },
+        {
+          "id": "bf5b333699fa8cee02a68c8fe27dd01158d97587",
+          "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+          "title_zh": "涉及 OpenAI 模型的第三方网络评估",
+          "title_en": "Third-party cyber evaluations involving OpenAI models",
+          "title_original": "Third-party cyber evaluations involving OpenAI models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49175248",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-04T23:40:06.456000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "56547598ec4d3c59330bc56ab8fade3ecbd44a26",
+          "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+          "title_zh": "涉及 OpenAI 模型的第三方网络评估",
+          "title_en": "Third-party cyber evaluations involving OpenAI models",
+          "title_original": "Third-party cyber evaluations involving OpenAI models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T19:00:00Z"
+        },
+        {
+          "id": "bf5b333699fa8cee02a68c8fe27dd01158d97587",
+          "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+          "title_zh": "涉及 OpenAI 模型的第三方网络评估",
+          "title_en": "Third-party cyber evaluations involving OpenAI models",
+          "title_original": "Third-party cyber evaluations involving OpenAI models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49175248",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-04T23:40:06.456000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8773,
+      "importance": 0.8773,
+      "importance_score": 0.8773,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.97,
+        "recency": 0.9349,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T19:00:00Z",
+      "latest_at": "2026-08-04T23:40:06.456000Z",
+      "primary_item": {
+        "id": "56547598ec4d3c59330bc56ab8fade3ecbd44a26",
+        "title": "涉及 OpenAI 模型的第三方网络评估 / Third-party cyber evaluations involving OpenAI models",
+        "title_zh": "涉及 OpenAI 模型的第三方网络评估",
+        "title_en": "Third-party cyber evaluations involving OpenAI models",
+        "title_original": "Third-party cyber evaluations involving OpenAI models",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T23:40:27.793316Z"
+      }
+    },
+    {
+      "story_id": "story_48546ed95685",
+      "title": "停用 Copilot Billing Preview 应用程序 / Retiring the Copilot Billing Preview app",
+      "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
+      "primary_url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "290625e14a04e8c6d27f72643d25958f483f7d08",
+          "title": "停用 Copilot Billing Preview 应用程序 / Retiring the Copilot Billing Preview app",
+          "title_zh": "停用 Copilot Billing Preview 应用程序",
+          "title_en": "Retiring the Copilot Billing Preview app",
+          "title_original": "Retiring the Copilot Billing Preview app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T19:09:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "290625e14a04e8c6d27f72643d25958f483f7d08",
+          "title": "停用 Copilot Billing Preview 应用程序 / Retiring the Copilot Billing Preview app",
+          "title_zh": "停用 Copilot Billing Preview 应用程序",
+          "title_en": "Retiring the Copilot Billing Preview app",
+          "title_original": "Retiring the Copilot Billing Preview app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T19:09:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.937,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T19:09:32Z",
+      "latest_at": "2026-08-04T19:09:32Z",
+      "primary_item": {
+        "id": "290625e14a04e8c6d27f72643d25958f483f7d08",
+        "title": "停用 Copilot Billing Preview 应用程序 / Retiring the Copilot Billing Preview app",
+        "title_zh": "停用 Copilot Billing Preview 应用程序",
+        "title_en": "Retiring the Copilot Billing Preview app",
+        "title_original": "Retiring the Copilot Billing Preview app",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T23:40:27.793316Z"
+      }
+    },
+    {
+      "story_id": "story_6e902da88317",
+      "title": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8e1f0456d179c18a9cfa1b3f5d22973d5efcc1d6",
+          "title": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
+          "title_zh": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程",
+          "title_en": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+          "title_original": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T19:02:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "8e1f0456d179c18a9cfa1b3f5d22973d5efcc1d6",
+          "title": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
+          "title_zh": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程",
+          "title_en": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+          "title_original": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T19:02:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9355,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T19:02:34Z",
+      "latest_at": "2026-08-04T19:02:34Z",
+      "primary_item": {
+        "id": "8e1f0456d179c18a9cfa1b3f5d22973d5efcc1d6",
+        "title": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
+        "title_zh": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程",
+        "title_en": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+        "title_original": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T23:40:27.793316Z"
+      }
+    },
     {
       "story_id": "story_bcfdafe93ce8",
       "title": "使用 LFM2.5-2.6B 随处部署本地代理 / Deploy local agents everywhere with LFM2.5-2.6B",
@@ -48,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8492,
-      "importance": 0.8492,
-      "importance_score": 0.8492,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9402,
+        "recency": 0.8694,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,203 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
-      }
-    },
-    {
-      "story_id": "story_e5db5b8745de",
-      "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
-      "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-      "primary_url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
-          "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
-          "title_zh": "github.com 上的 GitHub Spark 即将弃用",
-          "title_en": "Upcoming deprecation of GitHub Spark on github.com",
-          "title_original": "Upcoming deprecation of GitHub Spark on github.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T15:54:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
-          "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
-          "title_zh": "github.com 上的 GitHub Spark 即将弃用",
-          "title_en": "Upcoming deprecation of GitHub Spark on github.com",
-          "title_original": "Upcoming deprecation of GitHub Spark on github.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T15:54:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9669,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T15:54:47Z",
-      "latest_at": "2026-08-04T15:54:47Z",
-      "primary_item": {
-        "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
-        "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
-        "title_zh": "github.com 上的 GitHub Spark 即将弃用",
-        "title_en": "Upcoming deprecation of GitHub Spark on github.com",
-        "title_original": "Upcoming deprecation of GitHub Spark on github.com",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
-      }
-    },
-    {
-      "story_id": "story_579f66b7beb0",
-      "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "primary_url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": "Apple is getting this wrong",
-          "title_original": "Apple is getting this wrong",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T22:00:00Z"
-        },
-        {
-          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
-          "title": "苹果在这件事上搞错了",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": null,
-          "title_original": "苹果在这件事上搞错了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-04T07:20:54.985000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": "Apple is getting this wrong",
-          "title_original": "Apple is getting this wrong",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T22:00:00Z"
-        },
-        {
-          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
-          "title": "苹果在这件事上搞错了",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": null,
-          "title_original": "苹果在这件事上搞错了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-04T07:20:54.985000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7465,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T22:00:00Z",
-      "latest_at": "2026-08-04T07:20:54.985000Z",
-      "primary_item": {
-        "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-        "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-        "title_zh": "苹果在这件事上搞错了",
-        "title_en": "Apple is getting this wrong",
-        "title_original": "Apple is getting this wrong",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/apple-is-getting-this-wrong",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
+        "scored_at": "2026-08-04T23:40:27.793316Z"
       }
     },
     {
@@ -327,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8183,
+      "importance": 0.8183,
+      "importance_score": 0.8183,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9271,
+        "recency": 0.8573,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,30 +445,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
+        "scored_at": "2026-08-04T23:40:27.793316Z"
       }
     },
     {
-      "story_id": "story_51a68e6b77ff",
-      "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
-      "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
-      "primary_url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+      "story_id": "story_f27a36bb1d59",
+      "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
+      "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
+      "primary_url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
-          "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
-          "title_zh": "自定义 Dependabot 拉取请求分支名称",
-          "title_en": "Customize Dependabot pull request branch names",
-          "title_original": "Customize Dependabot pull request branch names",
+          "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
+          "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
+          "title_zh": "大规模自定义代码扫描默认设置",
+          "title_en": "Customize code scanning default setup at scale",
+          "title_original": "Customize code scanning default setup at scale",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+          "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-04T12:57:18Z"
+          "published_at": "2026-08-04T19:15:23Z"
         }
       ],
       "source_count": 1,
@@ -394,31 +477,31 @@
       ],
       "items": [
         {
-          "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
-          "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
-          "title_zh": "自定义 Dependabot 拉取请求分支名称",
-          "title_en": "Customize Dependabot pull request branch names",
-          "title_original": "Customize Dependabot pull request branch names",
+          "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
+          "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
+          "title_zh": "大规模自定义代码扫描默认设置",
+          "title_en": "Customize code scanning default setup at scale",
+          "title_original": "Customize code scanning default setup at scale",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+          "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-04T12:57:18Z"
+          "published_at": "2026-08-04T19:15:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9265,
+        "recency": 0.9383,
         "story_heat": 0.0
       },
       "category": "official",
@@ -427,17 +510,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T12:57:18Z",
-      "latest_at": "2026-08-04T12:57:18Z",
+      "earliest_at": "2026-08-04T19:15:23Z",
+      "latest_at": "2026-08-04T19:15:23Z",
       "primary_item": {
-        "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
-        "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
-        "title_zh": "自定义 Dependabot 拉取请求分支名称",
-        "title_en": "Customize Dependabot pull request branch names",
-        "title_original": "Customize Dependabot pull request branch names",
+        "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
+        "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
+        "title_zh": "大规模自定义代码扫描默认设置",
+        "title_en": "Customize code scanning default setup at scale",
+        "title_original": "Customize code scanning default setup at scale",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+        "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -445,7 +528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
+        "scored_at": "2026-08-04T23:40:27.793316Z"
       }
     },
     {
@@ -493,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7684,
+        "recency": 0.7106,
         "story_heat": 0.0
       },
       "category": "official",
@@ -528,92 +611,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
+        "scored_at": "2026-08-04T23:40:27.793316Z"
       }
     },
     {
-      "story_id": "story_05bcbbcf4f82",
-      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "primary_url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "story_id": "story_07b0df6b2011",
+      "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "primary_url": "https://github.com/MakazhanAlpamys/Soup",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+          "id": "8d5499bc41b144977a04da7896ca72402e875895",
+          "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+          "title_zh": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
           "title_en": null,
-          "title_original": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "summary": "一个开源仓库提供了在单颗 AMD MI300X 上生产运行 DeepSeek-V4-Flash-0731 的完整配置与补丁，无需额外量化或权重卸载。该 304B 参数模型在 192 GB HBM 上实现单流 168.6 tok/s 解码、8 并发流 542 tok/s 聚合吞吐，并验证了 256K 上下文。",
+          "title_original": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+          "summary": "Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。",
           "recommend_reason_zh": null,
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T12:56:45.712000Z"
+          "published_at": "2026-08-04T18:17:29.648000Z"
         },
         {
-          "id": "1dc5cb276aab8e0592de6e5f7a70da7e3aefdaa9",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash / DeepSeek V4 Flash on a Single AMD MI300X",
-          "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "title_en": "DeepSeek V4 Flash on a Single AMD MI300X",
-          "title_original": "DeepSeek V4 Flash on a Single AMD MI300X",
+          "id": "9f2d4c348aab2a43964ff7b92286fad78830e4e8",
+          "title": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
+          "title_zh": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
+          "title_en": null,
+          "title_original": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-04T10:00:55Z"
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-04T18:17:29.648000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
       ],
       "items": [
         {
-          "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+          "id": "8d5499bc41b144977a04da7896ca72402e875895",
+          "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+          "title_zh": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
           "title_en": null,
-          "title_original": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "summary": "一个开源仓库提供了在单颗 AMD MI300X 上生产运行 DeepSeek-V4-Flash-0731 的完整配置与补丁，无需额外量化或权重卸载。该 304B 参数模型在 192 GB HBM 上实现单流 168.6 tok/s 解码、8 并发流 542 tok/s 聚合吞吐，并验证了 256K 上下文。",
+          "title_original": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+          "summary": "Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。",
           "recommend_reason_zh": null,
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T12:56:45.712000Z"
+          "published_at": "2026-08-04T18:17:29.648000Z"
         },
         {
-          "id": "1dc5cb276aab8e0592de6e5f7a70da7e3aefdaa9",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash / DeepSeek V4 Flash on a Single AMD MI300X",
-          "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "title_en": "DeepSeek V4 Flash on a Single AMD MI300X",
-          "title_original": "DeepSeek V4 Flash on a Single AMD MI300X",
+          "id": "9f2d4c348aab2a43964ff7b92286fad78830e4e8",
+          "title": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
+          "title_zh": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
+          "title_en": null,
+          "title_original": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-04T10:00:55Z"
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-04T18:17:29.648000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.9254,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -622,17 +705,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T10:00:55Z",
-      "latest_at": "2026-08-04T12:56:45.712000Z",
+      "earliest_at": "2026-08-04T18:17:29.648000Z",
+      "latest_at": "2026-08-04T18:17:29.648000Z",
       "primary_item": {
-        "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
-        "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-        "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+        "id": "8d5499bc41b144977a04da7896ca72402e875895",
+        "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+        "title_zh": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
         "title_en": null,
-        "title_original": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-        "summary": "一个开源仓库提供了在单颗 AMD MI300X 上生产运行 DeepSeek-V4-Flash-0731 的完整配置与补丁，无需额外量化或权重卸载。该 304B 参数模型在 192 GB HBM 上实现单流 168.6 tok/s 解码、8 并发流 542 tok/s 聚合吞吐，并验证了 256K 上下文。",
+        "title_original": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+        "summary": "Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。",
         "recommend_reason_zh": null,
-        "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+        "url": "https://github.com/MakazhanAlpamys/Soup",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
@@ -640,89 +723,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
-      }
-    },
-    {
-      "story_id": "story_b2c075d30098",
-      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-      "primary_url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
-          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-          "title_en": "A unified API for AI model routing",
-          "title_original": "A unified API for AI model routing",
-          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:45:02.138000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
-          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-          "title_en": "A unified API for AI model routing",
-          "title_original": "A unified API for AI model routing",
-          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:45:02.138000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9787,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T16:45:02.138000Z",
-      "latest_at": "2026-08-04T16:45:02.138000Z",
-      "primary_item": {
-        "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
-        "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-        "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-        "title_en": "A unified API for AI model routing",
-        "title_original": "A unified API for AI model routing",
-        "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-        "recommend_reason_zh": null,
-        "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
+        "scored_at": "2026-08-04T23:40:27.793316Z"
       }
     },
     {
@@ -799,15 +800,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8181,
+        "recency": 0.7565,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -834,7 +835,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
+        "scored_at": "2026-08-04T23:40:27.793316Z"
+      }
+    },
+    {
+      "story_id": "story_b2c075d30098",
+      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+      "primary_url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
+          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+          "title_en": "A unified API for AI model routing",
+          "title_original": "A unified API for AI model routing",
+          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T16:45:02.138000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
+          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+          "title_en": "A unified API for AI model routing",
+          "title_original": "A unified API for AI model routing",
+          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+          "recommend_reason_zh": null,
+          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T16:45:02.138000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.905,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T16:45:02.138000Z",
+      "latest_at": "2026-08-04T16:45:02.138000Z",
+      "primary_item": {
+        "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
+        "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+        "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+        "title_en": "A unified API for AI model routing",
+        "title_original": "A unified API for AI model routing",
+        "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+        "recommend_reason_zh": null,
+        "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T23:40:27.793316Z"
+      }
+    },
+    {
+      "story_id": "story_e5db5b8745de",
+      "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
+      "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
+      "primary_url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
+          "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
+          "title_zh": "github.com 上的 GitHub Spark 即将弃用",
+          "title_en": "Upcoming deprecation of GitHub Spark on github.com",
+          "title_original": "Upcoming deprecation of GitHub Spark on github.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T15:54:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
+          "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
+          "title_zh": "github.com 上的 GitHub Spark 即将弃用",
+          "title_en": "Upcoming deprecation of GitHub Spark on github.com",
+          "title_original": "Upcoming deprecation of GitHub Spark on github.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T15:54:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8941,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T15:54:47Z",
+      "latest_at": "2026-08-04T15:54:47Z",
+      "primary_item": {
+        "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
+        "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
+        "title_zh": "github.com 上的 GitHub Spark 即将弃用",
+        "title_en": "Upcoming deprecation of GitHub Spark on github.com",
+        "title_original": "Upcoming deprecation of GitHub Spark on github.com",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T23:40:27.793316Z"
       }
     },
     {
@@ -882,15 +1048,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9539,
+        "recency": 0.8821,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -916,146 +1082,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
+        "scored_at": "2026-08-04T23:40:27.793316Z"
       }
     },
     {
-      "story_id": "story_0c09902a6425",
-      "title": "代码质量设置中的代码覆盖率自动启用 / Code coverage automatic enablement in Code Quality settings",
-      "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
-      "primary_url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
-          "title": "代码质量设置中的代码覆盖率自动启用 / Code coverage automatic enablement in Code Quality settings",
-          "title_zh": "代码质量设置中的代码覆盖率自动启用",
-          "title_en": "Code coverage automatic enablement in Code Quality settings",
-          "title_original": "Code coverage automatic enablement in Code Quality settings",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T12:36:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
-          "title": "代码质量设置中的代码覆盖率自动启用 / Code coverage automatic enablement in Code Quality settings",
-          "title_zh": "代码质量设置中的代码覆盖率自动启用",
-          "title_en": "Code coverage automatic enablement in Code Quality settings",
-          "title_original": "Code coverage automatic enablement in Code Quality settings",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T12:36:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8299,
-      "importance": 0.8299,
-      "importance_score": 0.8299,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9219,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T12:36:32Z",
-      "latest_at": "2026-08-04T12:36:32Z",
-      "primary_item": {
-        "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
-        "title": "代码质量设置中的代码覆盖率自动启用 / Code coverage automatic enablement in Code Quality settings",
-        "title_zh": "代码质量设置中的代码覆盖率自动启用",
-        "title_en": "Code coverage automatic enablement in Code Quality settings",
-        "title_original": "Code coverage automatic enablement in Code Quality settings",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
-      }
-    },
-    {
-      "story_id": "story_54e1a837c8df",
-      "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
-      "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
-      "primary_url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "story_id": "story_6ca45c4a72d9",
+      "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行 / PipeNetwork/minimax-h3-mlx",
+      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
+      "primary_url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
+      "source": "Simon Willison 博客",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "537c29b0abf56586efea8cf148192c5b5a35c2a0",
-          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
-          "title_zh": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
-          "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
-          "title_original": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
-          "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+          "id": "c75bf49805b56e7bf9b19e9f534894d6a1304dbc",
+          "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行 / PipeNetwork/minimax-h3-mlx",
+          "title_zh": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
+          "title_en": "PipeNetwork/minimax-h3-mlx",
+          "title_original": "PipeNetwork/minimax-h3-mlx",
+          "summary": "MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。",
           "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
+          "source": "Simon Willison 博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T17:51:09.590000Z"
+          "published_at": "2026-08-04T19:10:09Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
+        "Simon Willison 博客"
       ],
       "items": [
         {
-          "id": "537c29b0abf56586efea8cf148192c5b5a35c2a0",
-          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
-          "title_zh": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
-          "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
-          "title_original": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
-          "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+          "id": "c75bf49805b56e7bf9b19e9f534894d6a1304dbc",
+          "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行 / PipeNetwork/minimax-h3-mlx",
+          "title_zh": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
+          "title_en": "PipeNetwork/minimax-h3-mlx",
+          "title_original": "PipeNetwork/minimax-h3-mlx",
+          "summary": "MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。",
           "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
+          "source": "Simon Willison 博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T17:51:09.590000Z"
+          "published_at": "2026-08-04T19:10:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9944,
+        "recency": 0.9372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1063,25 +1146,107 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T17:51:09.590000Z",
-      "latest_at": "2026-08-04T17:51:09.590000Z",
+      "earliest_at": "2026-08-04T19:10:09Z",
+      "latest_at": "2026-08-04T19:10:09Z",
       "primary_item": {
-        "id": "537c29b0abf56586efea8cf148192c5b5a35c2a0",
-        "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
-        "title_zh": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
-        "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
-        "title_original": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
-        "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+        "id": "c75bf49805b56e7bf9b19e9f534894d6a1304dbc",
+        "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行 / PipeNetwork/minimax-h3-mlx",
+        "title_zh": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
+        "title_en": "PipeNetwork/minimax-h3-mlx",
+        "title_original": "PipeNetwork/minimax-h3-mlx",
+        "summary": "MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。",
         "recommend_reason_zh": null,
-        "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
+        "source": "Simon Willison 博客",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
+        "scored_at": "2026-08-04T23:40:27.793316Z"
+      }
+    },
+    {
+      "story_id": "story_48187a538519",
+      "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+      "url": "https://x.com/Replit/status/2084761337570144424",
+      "primary_url": "https://x.com/Replit/status/2084761337570144424",
+      "source": "X：Replit (@Replit)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bb9042948d345786f700efe61ab211a4b2f753a8",
+          "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "title_zh": "Replit 环境智能：免提示词自动生成设计",
+          "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "title_original": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Replit/status/2084761337570144424",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T22:00:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Replit (@Replit)"
+      ],
+      "items": [
+        {
+          "id": "bb9042948d345786f700efe61ab211a4b2f753a8",
+          "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "title_zh": "Replit 环境智能：免提示词自动生成设计",
+          "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "title_original": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+          "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Replit/status/2084761337570144424",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T22:00:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9763,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T22:00:10Z",
+      "latest_at": "2026-08-04T22:00:10Z",
+      "primary_item": {
+        "id": "bb9042948d345786f700efe61ab211a4b2f753a8",
+        "title": "Replit 环境智能：免提示词自动生成设计 / You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+        "title_zh": "Replit 环境智能：免提示词自动生成设计",
+        "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+        "title_original": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+        "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Replit/status/2084761337570144424",
+        "source": "X：Replit (@Replit)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T23:40:27.793316Z"
       }
     },
     {
@@ -1129,15 +1294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8746,
+        "recency": 0.8087,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1163,7 +1328,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
+        "scored_at": "2026-08-04T23:40:27.793316Z"
+      }
+    },
+    {
+      "story_id": "story_54e1a837c8df",
+      "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+      "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "537c29b0abf56586efea8cf148192c5b5a35c2a0",
+          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "title_zh": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+          "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "title_original": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T17:51:09.590000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "537c29b0abf56586efea8cf148192c5b5a35c2a0",
+          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "title_zh": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+          "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "title_original": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+          "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T17:51:09.590000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9195,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T17:51:09.590000Z",
+      "latest_at": "2026-08-04T17:51:09.590000Z",
+      "primary_item": {
+        "id": "537c29b0abf56586efea8cf148192c5b5a35c2a0",
+        "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+        "title_zh": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+        "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+        "title_original": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+        "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+        "recommend_reason_zh": null,
+        "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T23:40:27.793316Z"
+      }
+    },
+    {
+      "story_id": "story_05bcbbcf4f82",
+      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "primary_url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
+          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+          "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+          "title_en": null,
+          "title_original": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+          "summary": "一个开源仓库提供了在单颗 AMD MI300X 上生产运行 DeepSeek-V4-Flash-0731 的完整配置与补丁，无需额外量化或权重卸载。该 304B 参数模型在 192 GB HBM 上实现单流 168.6 tok/s 解码、8 并发流 542 tok/s 聚合吞吐，并验证了 256K 上下文。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T12:56:45.712000Z"
+        },
+        {
+          "id": "1dc5cb276aab8e0592de6e5f7a70da7e3aefdaa9",
+          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash / DeepSeek V4 Flash on a Single AMD MI300X",
+          "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+          "title_en": "DeepSeek V4 Flash on a Single AMD MI300X",
+          "title_original": "DeepSeek V4 Flash on a Single AMD MI300X",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-04T10:00:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
+          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+          "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+          "title_en": null,
+          "title_original": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+          "summary": "一个开源仓库提供了在单颗 AMD MI300X 上生产运行 DeepSeek-V4-Flash-0731 的完整配置与补丁，无需额外量化或权重卸载。该 304B 参数模型在 192 GB HBM 上实现单流 168.6 tok/s 解码、8 并发流 542 tok/s 聚合吞吐，并验证了 256K 上下文。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T12:56:45.712000Z"
+        },
+        {
+          "id": "1dc5cb276aab8e0592de6e5f7a70da7e3aefdaa9",
+          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash / DeepSeek V4 Flash on a Single AMD MI300X",
+          "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+          "title_en": "DeepSeek V4 Flash on a Single AMD MI300X",
+          "title_original": "DeepSeek V4 Flash on a Single AMD MI300X",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-04T10:00:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8566,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T10:00:55Z",
+      "latest_at": "2026-08-04T12:56:45.712000Z",
+      "primary_item": {
+        "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
+        "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+        "title_zh": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+        "title_en": null,
+        "title_original": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+        "summary": "一个开源仓库提供了在单颗 AMD MI300X 上生产运行 DeepSeek-V4-Flash-0731 的完整配置与补丁，无需额外量化或权重卸载。该 304B 参数模型在 192 GB HBM 上实现单流 168.6 tok/s 解码、8 并发流 542 tok/s 聚合吞吐，并验证了 256K 上下文。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-04T23:40:27.793316Z"
       }
     },
     {
@@ -1211,15 +1570,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8103,
-      "importance": 0.8103,
-      "importance_score": 0.8103,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7684,
+        "recency": 0.7106,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1246,169 +1605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
-      }
-    },
-    {
-      "story_id": "story_47a4968ace58",
-      "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
-      "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
-      "primary_url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5bbd704c039678235c03af8acfb0faaede3289c0",
-          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
-          "title_zh": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
-          "title_en": "Turn one giant AI-generated pull request to a reviewable stack",
-          "title_original": "Turn one giant AI-generated pull request to a reviewable stack",
-          "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:47:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "5bbd704c039678235c03af8acfb0faaede3289c0",
-          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
-          "title_zh": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
-          "title_en": "Turn one giant AI-generated pull request to a reviewable stack",
-          "title_original": "Turn one giant AI-generated pull request to a reviewable stack",
-          "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:47:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9792,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T16:47:18Z",
-      "latest_at": "2026-08-04T16:47:18Z",
-      "primary_item": {
-        "id": "5bbd704c039678235c03af8acfb0faaede3289c0",
-        "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
-        "title_zh": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
-        "title_en": "Turn one giant AI-generated pull request to a reviewable stack",
-        "title_original": "Turn one giant AI-generated pull request to a reviewable stack",
-        "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
-      }
-    },
-    {
-      "story_id": "story_9cb1dda99735",
-      "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-      "url": "https://x.com/OpenRouter/status/2084699413898027064",
-      "primary_url": "https://x.com/OpenRouter/status/2084699413898027064",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2809224f4448239865410581bb52afce9bd9196f",
-          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-          "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2084699413898027064",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T17:54:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "2809224f4448239865410581bb52afce9bd9196f",
-          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-          "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-          "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2084699413898027064",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T17:54:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9951,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T17:54:06Z",
-      "latest_at": "2026-08-04T17:54:06Z",
-      "primary_item": {
-        "id": "2809224f4448239865410581bb52afce9bd9196f",
-        "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型 / FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-        "title_zh": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-        "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-        "title_original": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-        "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2084699413898027064",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
+        "scored_at": "2026-08-04T23:40:27.793316Z"
       }
     },
     {
@@ -1456,15 +1653,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
+        "recency": 0.8241,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1489,250 +1686,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
+        "scored_at": "2026-08-04T23:40:27.793316Z"
       }
     },
     {
-      "story_id": "story_52842039f734",
-      "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型 / NVIDIA Alpamayo 2 Super， the Frontier Open Model for Robotaxis and Autonomous Vehicles， Now Available for Commercial Use",
-      "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-      "primary_url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-      "source": "NVIDIA Blog（RSS）",
+      "story_id": "story_47a4968ace58",
+      "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
+      "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+      "primary_url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+      "source": "GitHub Blog",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "07dcde98c7158d25fc97789a2ae8feff480ab171",
-          "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型 / NVIDIA Alpamayo 2 Super， the Frontier Open Model for Robotaxis and Autonomous Vehicles， Now Available for Commercial Use",
-          "title_zh": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
-          "title_en": "NVIDIA Alpamayo 2 Super， the Frontier Open Model for Robotaxis and Autonomous Vehicles， Now Available for Commercial Use",
-          "title_original": "NVIDIA Alpamayo 2 Super， the Frontier Open Model for Robotaxis and Autonomous Vehicles， Now Available for Commercial Use",
-          "summary": "NVIDIA Alpamayo 2 Super 现已开放商用，基于 Cosmos 3 Super Reasoner 构建，采用强化学习后训练，支持轨迹预测、因果链推理、元动作、自动标注及视觉问答等多任务输出。",
+          "id": "5bbd704c039678235c03af8acfb0faaede3289c0",
+          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
+          "title_zh": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+          "title_en": "Turn one giant AI-generated pull request to a reviewable stack",
+          "title_original": "Turn one giant AI-generated pull request to a reviewable stack",
+          "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
           "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-          "source": "NVIDIA Blog（RSS）",
+          "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+          "source": "GitHub Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T15:00:49Z"
+          "published_at": "2026-08-04T16:47:18Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "NVIDIA Blog（RSS）"
+        "GitHub Blog"
       ],
       "items": [
         {
-          "id": "07dcde98c7158d25fc97789a2ae8feff480ab171",
-          "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型 / NVIDIA Alpamayo 2 Super， the Frontier Open Model for Robotaxis and Autonomous Vehicles， Now Available for Commercial Use",
-          "title_zh": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
-          "title_en": "NVIDIA Alpamayo 2 Super， the Frontier Open Model for Robotaxis and Autonomous Vehicles， Now Available for Commercial Use",
-          "title_original": "NVIDIA Alpamayo 2 Super， the Frontier Open Model for Robotaxis and Autonomous Vehicles， Now Available for Commercial Use",
-          "summary": "NVIDIA Alpamayo 2 Super 现已开放商用，基于 Cosmos 3 Super Reasoner 构建，采用强化学习后训练，支持轨迹预测、因果链推理、元动作、自动标注及视觉问答等多任务输出。",
+          "id": "5bbd704c039678235c03af8acfb0faaede3289c0",
+          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
+          "title_zh": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+          "title_en": "Turn one giant AI-generated pull request to a reviewable stack",
+          "title_original": "Turn one giant AI-generated pull request to a reviewable stack",
+          "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
           "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-          "source": "NVIDIA Blog（RSS）",
+          "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+          "source": "GitHub Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T15:00:49Z"
+          "published_at": "2026-08-04T16:47:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9544,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T15:00:49Z",
-      "latest_at": "2026-08-04T15:00:49Z",
-      "primary_item": {
-        "id": "07dcde98c7158d25fc97789a2ae8feff480ab171",
-        "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型 / NVIDIA Alpamayo 2 Super， the Frontier Open Model for Robotaxis and Autonomous Vehicles， Now Available for Commercial Use",
-        "title_zh": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
-        "title_en": "NVIDIA Alpamayo 2 Super， the Frontier Open Model for Robotaxis and Autonomous Vehicles， Now Available for Commercial Use",
-        "title_original": "NVIDIA Alpamayo 2 Super， the Frontier Open Model for Robotaxis and Autonomous Vehicles， Now Available for Commercial Use",
-        "summary": "NVIDIA Alpamayo 2 Super 现已开放商用，基于 Cosmos 3 Super Reasoner 构建，采用强化学习后训练，支持轨迹预测、因果链推理、元动作、自动标注及视觉问答等多任务输出。",
-        "recommend_reason_zh": null,
-        "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
-      }
-    },
-    {
-      "story_id": "story_417741cd5bf0",
-      "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-      "url": "https://www.ithome.com/0/985/665.htm",
-      "primary_url": "https://www.ithome.com/0/985/665.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
-          "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-          "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-          "title_en": null,
-          "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-          "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/985/665.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T11:06:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
-          "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-          "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-          "title_en": null,
-          "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-          "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/985/665.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T11:06:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9021,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T11:06:29Z",
-      "latest_at": "2026-08-04T11:06:29Z",
-      "primary_item": {
-        "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
-        "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-        "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-        "title_en": null,
-        "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-        "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/985/665.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
-      }
-    },
-    {
-      "story_id": "story_a1900aa9ec52",
-      "title": "商汤 SenseNova U1 开源：统一推理与图像生成 / Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
-      "url": "https://x.com/SenseTime_AI/status/2084667189479837741",
-      "primary_url": "https://x.com/SenseTime_AI/status/2084667189479837741",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d047a35ba1e7e916bc985110e00818508a1580f0",
-          "title": "商汤 SenseNova U1 开源：统一推理与图像生成 / Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
-          "title_zh": "商汤 SenseNova U1 开源：统一推理与图像生成",
-          "title_en": "Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
-          "title_original": "Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
-          "summary": "商汤发布开源模型 SenseNova U1，可在统一流程中同时进行推理与图像生成。其信息图模式可将单条提示词转为结构化幻灯片，交错模式则逐步生成图文内容，如演示六步画龙教程。模型已上线 SenseNova Studio、HuggingFace 及 GitHub。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/SenseTime_AI/status/2084667189479837741",
-          "source": "X：商汤 SenseTime (@SenseTime_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T15:46:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：商汤 SenseTime (@SenseTime_AI)"
-      ],
-      "items": [
-        {
-          "id": "d047a35ba1e7e916bc985110e00818508a1580f0",
-          "title": "商汤 SenseNova U1 开源：统一推理与图像生成 / Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
-          "title_zh": "商汤 SenseNova U1 开源：统一推理与图像生成",
-          "title_en": "Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
-          "title_original": "Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
-          "summary": "商汤发布开源模型 SenseNova U1，可在统一流程中同时进行推理与图像生成。其信息图模式可将单条提示词转为结构化幻灯片，交错模式则逐步生成图文内容，如演示六步画龙教程。模型已上线 SenseNova Studio、HuggingFace 及 GitHub。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/SenseTime_AI/status/2084667189479837741",
-          "source": "X：商汤 SenseTime (@SenseTime_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T15:46:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9649,
+        "recency": 0.9055,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-04T15:46:03Z",
-      "latest_at": "2026-08-04T15:46:03Z",
+      "earliest_at": "2026-08-04T16:47:18Z",
+      "latest_at": "2026-08-04T16:47:18Z",
       "primary_item": {
-        "id": "d047a35ba1e7e916bc985110e00818508a1580f0",
-        "title": "商汤 SenseNova U1 开源：统一推理与图像生成 / Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
-        "title_zh": "商汤 SenseNova U1 开源：统一推理与图像生成",
-        "title_en": "Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
-        "title_original": "Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
-        "summary": "商汤发布开源模型 SenseNova U1，可在统一流程中同时进行推理与图像生成。其信息图模式可将单条提示词转为结构化幻灯片，交错模式则逐步生成图文内容，如演示六步画龙教程。模型已上线 SenseNova Studio、HuggingFace 及 GitHub。",
+        "id": "5bbd704c039678235c03af8acfb0faaede3289c0",
+        "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码 / Turn one giant AI-generated pull request to a reviewable stack",
+        "title_zh": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+        "title_en": "Turn one giant AI-generated pull request to a reviewable stack",
+        "title_original": "Turn one giant AI-generated pull request to a reviewable stack",
+        "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/SenseTime_AI/status/2084667189479837741",
-        "source": "X：商汤 SenseTime (@SenseTime_AI)",
+        "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+        "source": "GitHub Blog",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-04T18:15:19.165316Z"
+        "scored_at": "2026-08-04T23:40:27.793316Z"
       }
     }
   ]
