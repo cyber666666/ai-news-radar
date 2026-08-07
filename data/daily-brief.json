@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:38:26.014036Z",
+  "generated_at": "2026-08-07T15:12:10.462284Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
+      "score": 0.8366,
+      "importance": 0.8366,
+      "importance_score": 0.8366,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9766,
+        "recency": 0.9143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
+      "score": 0.8305,
+      "importance": 0.8305,
+      "importance_score": 0.8305,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8576,
+        "recency": 0.8029,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
+      }
+    },
+    {
+      "story_id": "story_465b756b89aa",
+      "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+      "url": "https://x.com/runwayml/status/2085684483366523193",
+      "primary_url": "https://x.com/runwayml/status/2085684483366523193",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
+          "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+          "title_zh": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+          "title_en": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+          "title_original": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+          "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/runwayml/status/2085684483366523193",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T11:08:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
+          "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+          "title_zh": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+          "title_en": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+          "title_original": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+          "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/runwayml/status/2085684483366523193",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T11:08:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.943,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T11:08:25Z",
+      "latest_at": "2026-08-07T11:08:25Z",
+      "primary_item": {
+        "id": "28c93cc8846354121274c053b5fea471b8ee8c99",
+        "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考 / Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+        "title_zh": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+        "title_en": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+        "title_original": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+        "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/runwayml/status/2085684483366523193",
+        "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
@@ -214,15 +296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8074,
+        "recency": 0.7559,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,30 +331,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
-      "story_id": "story_67de54450aab",
-      "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+      "story_id": "story_2395f91ba6f9",
+      "title": "在组织级别设置拉取请求限制 / Set pull request limits at the organization level",
+      "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
+      "primary_url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-          "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
-          "title_zh": "Kimi K3 现已在 GitHub Copilot 中提供",
-          "title_en": "Kimi K3 is now available in GitHub Copilot",
-          "title_original": "Kimi K3 is now available in GitHub Copilot",
+          "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
+          "title": "在组织级别设置拉取请求限制 / Set pull request limits at the organization level",
+          "title_zh": "在组织级别设置拉取请求限制",
+          "title_en": "Set pull request limits at the organization level",
+          "title_original": "Set pull request limits at the organization level",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-06T17:27:25Z"
+          "published_at": "2026-08-06T23:46:17Z"
         }
       ],
       "source_count": 1,
@@ -281,31 +363,31 @@
       ],
       "items": [
         {
-          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-          "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
-          "title_zh": "Kimi K3 现已在 GitHub Copilot 中提供",
-          "title_en": "Kimi K3 is now available in GitHub Copilot",
-          "title_original": "Kimi K3 is now available in GitHub Copilot",
+          "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
+          "title": "在组织级别设置拉取请求限制 / Set pull request limits at the organization level",
+          "title_zh": "在组织级别设置拉取请求限制",
+          "title_en": "Set pull request limits at the organization level",
+          "title_original": "Set pull request limits at the organization level",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-06T17:27:25Z"
+          "published_at": "2026-08-06T23:46:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7802,
+        "ai_relevance": 0.87,
+        "recency": 0.8002,
         "story_heat": 0.0
       },
       "category": "official",
@@ -314,17 +396,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T17:27:25Z",
-      "latest_at": "2026-08-06T17:27:25Z",
+      "earliest_at": "2026-08-06T23:46:17Z",
+      "latest_at": "2026-08-06T23:46:17Z",
       "primary_item": {
-        "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-        "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
-        "title_zh": "Kimi K3 现已在 GitHub Copilot 中提供",
-        "title_en": "Kimi K3 is now available in GitHub Copilot",
-        "title_original": "Kimi K3 is now available in GitHub Copilot",
+        "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
+        "title": "在组织级别设置拉取请求限制 / Set pull request limits at the organization level",
+        "title_zh": "在组织级别设置拉取请求限制",
+        "title_en": "Set pull request limits at the organization level",
+        "title_original": "Set pull request limits at the organization level",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+        "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -332,90 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
-      }
-    },
-    {
-      "story_id": "story_dd46f65cd54a",
-      "title": "WeatherNext：人工智能模型在预测气旋方面取得突破 / WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-      "primary_url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "73293ce8911f57401ccc4ac460cfd9ffb8c040ed",
-          "title": "WeatherNext：人工智能模型在预测气旋方面取得突破 / WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "title_zh": "WeatherNext：人工智能模型在预测气旋方面取得突破",
-          "title_en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "title_original": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T15:06:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "73293ce8911f57401ccc4ac460cfd9ffb8c040ed",
-          "title": "WeatherNext：人工智能模型在预测气旋方面取得突破 / WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "title_zh": "WeatherNext：人工智能模型在预测气旋方面取得突破",
-          "title_en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "title_original": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T15:06:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7542,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T15:06:15Z",
-      "latest_at": "2026-08-06T15:06:15Z",
-      "primary_item": {
-        "id": "73293ce8911f57401ccc4ac460cfd9ffb8c040ed",
-        "title": "WeatherNext：人工智能模型在预测气旋方面取得突破 / WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-        "title_zh": "WeatherNext：人工智能模型在预测气旋方面取得突破",
-        "title_en": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-        "title_original": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
@@ -521,15 +520,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7958,
-      "importance": 0.7958,
-      "importance_score": 0.7958,
+      "score": 0.7861,
+      "importance": 0.7861,
+      "importance_score": 0.7861,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8456,
+        "recency": 0.7917,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -556,7 +555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
@@ -604,15 +603,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7843,
-      "importance": 0.7843,
-      "importance_score": 0.7843,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7739,
+        "recency": 0.7245,
         "story_heat": 0.0
       },
       "category": "official",
@@ -638,7 +637,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
+      }
+    },
+    {
+      "story_id": "story_67de54450aab",
+      "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
+          "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
+          "title_zh": "Kimi K3 现已在 GitHub Copilot 中提供",
+          "title_en": "Kimi K3 is now available in GitHub Copilot",
+          "title_original": "Kimi K3 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T17:27:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
+          "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
+          "title_zh": "Kimi K3 现已在 GitHub Copilot 中提供",
+          "title_en": "Kimi K3 is now available in GitHub Copilot",
+          "title_original": "Kimi K3 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T17:27:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7305,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T17:27:25Z",
+      "latest_at": "2026-08-06T17:27:25Z",
+      "primary_item": {
+        "id": "c855fc44324bb924734d7afac3b08a717102aa19",
+        "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
+        "title_zh": "Kimi K3 现已在 GitHub Copilot 中提供",
+        "title_en": "Kimi K3 is now available in GitHub Copilot",
+        "title_original": "Kimi K3 is now available in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
@@ -686,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.783,
-      "importance": 0.783,
-      "importance_score": 0.783,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9356,
+        "recency": 0.8759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -720,7 +802,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
+      }
+    },
+    {
+      "story_id": "story_bea4ca41292c",
+      "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+      "source": "公众号：蚂蚁百灵（Ling）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
+          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "title_zh": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "title_en": null,
+          "title_original": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T12:02:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：蚂蚁百灵（Ling）"
+      ],
+      "items": [
+        {
+          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
+          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "title_zh": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "title_en": null,
+          "title_original": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T12:02:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9553,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T12:02:16Z",
+      "latest_at": "2026-08-07T12:02:16Z",
+      "primary_item": {
+        "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
+        "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+        "title_zh": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+        "title_en": null,
+        "title_original": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+        "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+        "source": "公众号：蚂蚁百灵（Ling）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
@@ -768,15 +932,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8916,
+        "recency": 0.8348,
         "story_heat": 0.0
       },
       "category": "official",
@@ -802,7 +966,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
@@ -879,15 +1043,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9161,
+        "recency": 0.8577,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -914,7 +1078,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
+      }
+    },
+    {
+      "story_id": "story_e915d74e806f",
+      "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+      "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+      "primary_url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "28bff8f1f685bdb0dfcf5df333a380775792bbe2",
+          "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+          "title_zh": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
+          "title_en": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+          "title_original": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+          "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T12:50:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "28bff8f1f685bdb0dfcf5df333a380775792bbe2",
+          "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+          "title_zh": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
+          "title_en": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+          "title_original": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+          "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T12:50:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9666,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T12:50:56Z",
+      "latest_at": "2026-08-07T12:50:56Z",
+      "primary_item": {
+        "id": "28bff8f1f685bdb0dfcf5df333a380775792bbe2",
+        "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌 / Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+        "title_zh": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
+        "title_en": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+        "title_original": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+        "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
@@ -962,21 +1208,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9557,
+        "recency": 0.8948,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-07T07:30:06Z",
       "latest_at": "2026-08-07T07:30:06Z",
@@ -996,119 +1241,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
-      "story_id": "story_4e92eb162308",
-      "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google's big AI shakeup",
-      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "primary_url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "source": "The Verge：AI（RSS）",
+      "story_id": "story_167ce8dd0aba",
+      "title": "Suno移动端上线Voices功能 / Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+      "url": "https://x.com/suno/status/2085731234970227145",
+      "primary_url": "https://x.com/suno/status/2085731234970227145",
+      "source": "X：Suno (@suno)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "20e1ea2d2f5dabb7eef8d7ca4ae09cbe85abae41",
-          "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google's big AI shakeup",
-          "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
-          "title_en": "The messy politics behind Google's big AI shakeup",
-          "title_original": "The messy politics behind Google's big AI shakeup",
-          "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
+          "id": "207616256ade5b4fff07f9b51ba6522a4f3ae84d",
+          "title": "Suno移动端上线Voices功能 / Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "title_zh": "Suno移动端上线Voices功能",
+          "title_en": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "title_original": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-          "source": "The Verge：AI（RSS）",
+          "url": "https://x.com/suno/status/2085731234970227145",
+          "source": "X：Suno (@suno)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-06T13:26:42Z"
-        },
-        {
-          "id": "db2dfe391b681ee0abf62920fe827d6aaea37b68",
-          "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google’s big AI shakeup",
-          "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
-          "title_en": "The messy politics behind Google’s big AI shakeup",
-          "title_original": "The messy politics behind Google’s big AI shakeup",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T13:26:42Z"
+          "published_at": "2026-08-07T14:14:12Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
+        "X：Suno (@suno)"
       ],
       "items": [
         {
-          "id": "20e1ea2d2f5dabb7eef8d7ca4ae09cbe85abae41",
-          "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google's big AI shakeup",
-          "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
-          "title_en": "The messy politics behind Google's big AI shakeup",
-          "title_original": "The messy politics behind Google's big AI shakeup",
-          "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
+          "id": "207616256ade5b4fff07f9b51ba6522a4f3ae84d",
+          "title": "Suno移动端上线Voices功能 / Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "title_zh": "Suno移动端上线Voices功能",
+          "title_en": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "title_original": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+          "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-          "source": "The Verge：AI（RSS）",
+          "url": "https://x.com/suno/status/2085731234970227145",
+          "source": "X：Suno (@suno)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-06T13:26:42Z"
-        },
-        {
-          "id": "db2dfe391b681ee0abf62920fe827d6aaea37b68",
-          "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google’s big AI shakeup",
-          "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
-          "title_en": "The messy politics behind Google’s big AI shakeup",
-          "title_original": "The messy politics behind Google’s big AI shakeup",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T13:26:42Z"
+          "published_at": "2026-08-07T14:14:12Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7363,
-        "story_heat": 0.25
+        "recency": 0.9861,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-06T13:26:42Z",
-      "latest_at": "2026-08-06T13:26:42Z",
+      "earliest_at": "2026-08-07T14:14:12Z",
+      "latest_at": "2026-08-07T14:14:12Z",
       "primary_item": {
-        "id": "20e1ea2d2f5dabb7eef8d7ca4ae09cbe85abae41",
-        "title": "Google 大规模 AI 组织调整背后的混乱政治 / The messy politics behind Google's big AI shakeup",
-        "title_zh": "Google 大规模 AI 组织调整背后的混乱政治",
-        "title_en": "The messy politics behind Google's big AI shakeup",
-        "title_original": "The messy politics behind Google's big AI shakeup",
-        "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
+        "id": "207616256ade5b4fff07f9b51ba6522a4f3ae84d",
+        "title": "Suno移动端上线Voices功能 / Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+        "title_zh": "Suno移动端上线Voices功能",
+        "title_en": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+        "title_original": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+        "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-        "source": "The Verge：AI（RSS）",
+        "url": "https://x.com/suno/status/2085731234970227145",
+        "source": "X：Suno (@suno)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
@@ -1156,21 +1370,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9377,
+        "recency": 0.8779,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-07T06:11:01Z",
       "latest_at": "2026-08-07T06:11:01Z",
@@ -1190,88 +1403,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
-      }
-    },
-    {
-      "story_id": "story_260b0bc7cb8e",
-      "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
-          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "title_en": null,
-          "title_original": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T09:59:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
-          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "title_en": null,
-          "title_original": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-          "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T09:59:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9906,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T09:59:00Z",
-      "latest_at": "2026-08-07T09:59:00Z",
-      "primary_item": {
-        "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
-        "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-        "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-        "title_en": null,
-        "title_original": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-        "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
@@ -1319,15 +1451,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8032,
+        "recency": 0.752,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1352,118 +1484,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
-      "story_id": "story_5f734901624b",
-      "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case",
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-      "primary_url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_260b0bc7cb8e",
+      "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+      "source": "公众号：小红书技术（dots.llm）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "91463b6541ab56758d178be890db78c54ba82fc8",
-          "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case",
-          "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
-          "title_en": "OpenAI says Apple's own security practices undermine its trade secrets case",
-          "title_original": "OpenAI says Apple's own security practices undermine its trade secrets case",
-          "summary": "OpenAI 在驳回苹果商业机密诉讼的动议中辩称，苹果允许员工用个人 iCloud 处理工作且离职后未正确撤销访问权限，相关信息不构成受法律保护的商业机密。OpenAI 还指苹果未指明具体被窃取的机密，并称其借诉讼阻碍竞争对手在 AI 硬件领域创新。",
+          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
+          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "title_en": null,
+          "title_original": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-          "source": "TechCrunch：AI（RSS）",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+          "source": "公众号：小红书技术（dots.llm）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-06T15:10:32Z"
-        },
-        {
-          "id": "0391a7f1364ca716afc9ca6ecc4e295133160365",
-          "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
-          "title_en": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "title_original": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-06T15:10:32Z"
+          "published_at": "2026-08-07T09:59:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "公众号：小红书技术（dots.llm）"
       ],
       "items": [
         {
-          "id": "91463b6541ab56758d178be890db78c54ba82fc8",
-          "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case",
-          "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
-          "title_en": "OpenAI says Apple's own security practices undermine its trade secrets case",
-          "title_original": "OpenAI says Apple's own security practices undermine its trade secrets case",
-          "summary": "OpenAI 在驳回苹果商业机密诉讼的动议中辩称，苹果允许员工用个人 iCloud 处理工作且离职后未正确撤销访问权限，相关信息不构成受法律保护的商业机密。OpenAI 还指苹果未指明具体被窃取的机密，并称其借诉讼阻碍竞争对手在 AI 硬件领域创新。",
+          "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
+          "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "title_en": null,
+          "title_original": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+          "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-          "source": "TechCrunch：AI（RSS）",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+          "source": "公众号：小红书技术（dots.llm）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-06T15:10:32Z"
-        },
-        {
-          "id": "0391a7f1364ca716afc9ca6ecc4e295133160365",
-          "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
-          "title_en": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "title_original": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-06T15:10:32Z"
+          "published_at": "2026-08-07T09:59:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.755,
-        "story_heat": 0.25
+        "recency": 0.9274,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-06T15:10:32Z",
-      "latest_at": "2026-08-06T15:10:32Z",
+      "earliest_at": "2026-08-07T09:59:00Z",
+      "latest_at": "2026-08-07T09:59:00Z",
       "primary_item": {
-        "id": "91463b6541ab56758d178be890db78c54ba82fc8",
-        "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼 / OpenAI says Apple's own security practices undermine its trade secrets case",
-        "title_zh": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
-        "title_en": "OpenAI says Apple's own security practices undermine its trade secrets case",
-        "title_original": "OpenAI says Apple's own security practices undermine its trade secrets case",
-        "summary": "OpenAI 在驳回苹果商业机密诉讼的动议中辩称，苹果允许员工用个人 iCloud 处理工作且离职后未正确撤销访问权限，相关信息不构成受法律保护的商业机密。OpenAI 还指苹果未指明具体被窃取的机密，并称其借诉讼阻碍竞争对手在 AI 硬件领域创新。",
+        "id": "c2e0ad32857b9ad4cff6e70f1c62a42bd11ea88a",
+        "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+        "title_zh": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+        "title_en": null,
+        "title_original": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+        "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-        "source": "TechCrunch：AI（RSS）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+        "source": "公众号：小红书技术（dots.llm）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
@@ -1511,15 +1613,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9362,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1545,88 +1647,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
-      }
-    },
-    {
-      "story_id": "story_1ca7c864082b",
-      "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-      "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d55f0933f44c18ce01f98eb0c92b2de2444a1ebb",
-          "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "title_zh": "微软首次披露OpenAI贡献七成AI收入",
-          "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "title_original": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T14:12:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "d55f0933f44c18ce01f98eb0c92b2de2444a1ebb",
-          "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "title_zh": "微软首次披露OpenAI贡献七成AI收入",
-          "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "title_original": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-          "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T14:12:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7445,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-06T14:12:19Z",
-      "latest_at": "2026-08-06T14:12:19Z",
-      "primary_item": {
-        "id": "d55f0933f44c18ce01f98eb0c92b2de2444a1ebb",
-        "title": "微软首次披露OpenAI贡献七成AI收入 / Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-        "title_zh": "微软首次披露OpenAI贡献七成AI收入",
-        "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-        "title_original": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-        "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     },
     {
@@ -1674,15 +1695,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9445,
+        "recency": 0.8843,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1707,88 +1728,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
-      }
-    },
-    {
-      "story_id": "story_2e63b996319c",
-      "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
-      "source": "公众号：千问APP（阿里）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
-          "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
-          "title_zh": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
-          "title_en": null,
-          "title_original": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
-          "summary": "千问今日上线多项新功能，并支持最新旗舰模型 Qwen3.8-MAX。其中\"思考研究\"在原\"深度思考\"基础上升级，强化复杂推理与工具调用；\"定时任务\"可预设执行时间自动完成行业简报梳理等周期工作；\"办公助理\"能连接备忘录、日历等应用并操作电脑浏览器，直接输出可用的 Office 文档。语音通话支持 7x24 小时多场景，智能体广场首批覆盖物流、房产等十多个领域。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T02:04:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：千问APP（阿里）"
-      ],
-      "items": [
-        {
-          "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
-          "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
-          "title_zh": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
-          "title_en": null,
-          "title_original": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
-          "summary": "千问今日上线多项新功能，并支持最新旗舰模型 Qwen3.8-MAX。其中\"思考研究\"在原\"深度思考\"基础上升级，强化复杂推理与工具调用；\"定时任务\"可预设执行时间自动完成行业简报梳理等周期工作；\"办公助理\"能连接备忘录、日历等应用并操作电脑浏览器，直接输出可用的 Office 文档。语音通话支持 7x24 小时多场景，智能体广场首批覆盖物流、房产等十多个领域。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T02:04:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8837,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T02:04:51Z",
-      "latest_at": "2026-08-07T02:04:51Z",
-      "primary_item": {
-        "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
-        "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
-        "title_zh": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
-        "title_en": null,
-        "title_original": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
-        "summary": "千问今日上线多项新功能，并支持最新旗舰模型 Qwen3.8-MAX。其中\"思考研究\"在原\"深度思考\"基础上升级，强化复杂推理与工具调用；\"定时任务\"可预设执行时间自动完成行业简报梳理等周期工作；\"办公助理\"能连接备忘录、日历等应用并操作电脑浏览器，直接输出可用的 Office 文档。语音通话支持 7x24 小时多场景，智能体广场首批覆盖物流、房产等十多个领域。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
-        "source": "公众号：千问APP（阿里）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T10:39:00.718384Z"
+        "scored_at": "2026-08-07T15:14:19.663033Z"
       }
     }
   ]
