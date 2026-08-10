@@ -1,29 +1,277 @@
 {
-  "generated_at": "2026-08-10T05:11:08.648284Z",
+  "generated_at": "2026-08-10T11:31:46.954710Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_9e6aa6c559d9",
-      "title": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
-      "url": "https://www.aibase.com/news/30213",
-      "primary_url": "https://www.aibase.com/news/30213",
+      "story_id": "story_1c29972a7c81",
+      "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
+          "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "title_zh": "使知识蒸馏足够便宜以进行大规模运行",
+          "title_en": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "title_original": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T10:05:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
+          "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "title_zh": "使知识蒸馏足够便宜以进行大规模运行",
+          "title_en": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "title_original": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T10:05:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8563,
+      "importance": 0.8563,
+      "importance_score": 0.8563,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9795,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T10:05:36Z",
+      "latest_at": "2026-08-10T10:05:36Z",
+      "primary_item": {
+        "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
+        "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
+        "title_zh": "使知识蒸馏足够便宜以进行大规模运行",
+        "title_en": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+        "title_original": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T11:32:22.151530Z"
+      }
+    },
+    {
+      "story_id": "story_895e60ee83c3",
+      "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "primary_url": "https://huggingface.co/blog/muse-glimmer",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
+          "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
+          "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/muse-glimmer",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
+          "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
+          "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/muse-glimmer",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8466,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T00:00:00Z",
+      "latest_at": "2026-08-10T00:00:00Z",
+      "primary_item": {
+        "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
+        "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+        "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
+        "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+        "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/muse-glimmer",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T11:32:22.151530Z"
+      }
+    },
+    {
+      "story_id": "story_376615090e56",
+      "title": "Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+      "url": "https://x.com/alexandr_wang/status/2086756152034066792",
+      "primary_url": "https://x.com/alexandr_wang/status/2086756152034066792",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7a1d176abd8a43e84fd375862e58907e1fd4ee0",
+          "title": "Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+          "title_zh": "Scale AI 开源 Muse 系列模型",
+          "title_en": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+          "title_original": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+          "summary": "1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。\n\n同时，我们还将发布 Muse Glimmer--一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。Muse Glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/alexandr_wang/status/2086756152034066792",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T10:06:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
+      ],
+      "items": [
+        {
+          "id": "b7a1d176abd8a43e84fd375862e58907e1fd4ee0",
+          "title": "Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+          "title_zh": "Scale AI 开源 Muse 系列模型",
+          "title_en": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+          "title_original": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+          "summary": "1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。\n\n同时，我们还将发布 Muse Glimmer--一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。Muse Glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/alexandr_wang/status/2086756152034066792",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T10:06:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9798,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T10:06:51Z",
+      "latest_at": "2026-08-10T10:06:51Z",
+      "primary_item": {
+        "id": "b7a1d176abd8a43e84fd375862e58907e1fd4ee0",
+        "title": "Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+        "title_zh": "Scale AI 开源 Muse 系列模型",
+        "title_en": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+        "title_original": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+        "summary": "1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。\n\n同时，我们还将发布 Muse Glimmer--一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。Muse Glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/alexandr_wang/status/2086756152034066792",
+        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T11:32:22.151530Z"
+      }
+    },
+    {
+      "story_id": "story_9891276daf63",
+      "title": "AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受",
+      "url": "https://www.aibase.com/news/30216",
+      "primary_url": "https://www.aibase.com/news/30216",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3e0d965d381fc4ab0bb548f39cc9ec50b821a17f",
-          "title": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
-          "title_zh": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+          "id": "3f548bd2ec8832b414c23b887d5f4d7304dbf1f1",
+          "title": "AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受",
+          "title_zh": "AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受",
           "title_en": null,
-          "title_original": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+          "title_original": "AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30213",
+          "url": "https://www.aibase.com/news/30216",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
+          "published_at": "2026-08-10T11:31:46.954710Z"
         }
       ],
       "source_count": 1,
@@ -32,18 +280,18 @@
       ],
       "items": [
         {
-          "id": "3e0d965d381fc4ab0bb548f39cc9ec50b821a17f",
-          "title": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
-          "title_zh": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+          "id": "3f548bd2ec8832b414c23b887d5f4d7304dbf1f1",
+          "title": "AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受",
+          "title_zh": "AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受",
           "title_en": null,
-          "title_original": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+          "title_original": "AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30213",
+          "url": "https://www.aibase.com/news/30216",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
+          "published_at": "2026-08-10T11:31:46.954710Z"
         }
       ],
       "item_count": 1,
@@ -64,17 +312,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T05:11:08.648284Z",
-      "latest_at": "2026-08-10T05:11:08.648284Z",
+      "earliest_at": "2026-08-10T11:31:46.954710Z",
+      "latest_at": "2026-08-10T11:31:46.954710Z",
       "primary_item": {
-        "id": "3e0d965d381fc4ab0bb548f39cc9ec50b821a17f",
-        "title": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
-        "title_zh": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+        "id": "3f548bd2ec8832b414c23b887d5f4d7304dbf1f1",
+        "title": "AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受",
+        "title_zh": "AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受",
         "title_en": null,
-        "title_original": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+        "title_original": "AI 工具致 Linux 7.2 候选版体积异常膨胀，Linus Torvalds 坦言并不兴奋但尚可接受",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30213",
+        "url": "https://www.aibase.com/news/30216",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -82,7 +330,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
+        "scored_at": "2026-08-10T11:32:22.151530Z"
+      }
+    },
+    {
+      "story_id": "story_4b75b6d902d4",
+      "title": "扎克伯格：超级智能应人人可用 / I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
+      "url": "https://x.com/finkd/status/2086754845218726027",
+      "primary_url": "https://x.com/finkd/status/2086754845218726027",
+      "source": "X：Mark Zuckerberg (@finkd)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "62c4817511d361e05c2773b25f45460ea1f44a36",
+          "title": "扎克伯格：超级智能应人人可用 / I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
+          "title_zh": "扎克伯格：超级智能应人人可用",
+          "title_en": "I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
+          "title_original": "I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
+          "summary": "我相信每个人都应能使用超级智能，我撰写了一篇长文，阐述 Meta 为所有人构建积极未来的理念与价值观。http://meta.com/thefutureisforeveryone",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/finkd/status/2086754845218726027",
+          "source": "X：Mark Zuckerberg (@finkd)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T10:01:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Mark Zuckerberg (@finkd)"
+      ],
+      "items": [
+        {
+          "id": "62c4817511d361e05c2773b25f45460ea1f44a36",
+          "title": "扎克伯格：超级智能应人人可用 / I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
+          "title_zh": "扎克伯格：超级智能应人人可用",
+          "title_en": "I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
+          "title_original": "I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
+          "summary": "我相信每个人都应能使用超级智能，我撰写了一篇长文，阐述 Meta 为所有人构建积极未来的理念与价值观。http://meta.com/thefutureisforeveryone",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/finkd/status/2086754845218726027",
+          "source": "X：Mark Zuckerberg (@finkd)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T10:01:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9785,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T10:01:39Z",
+      "latest_at": "2026-08-10T10:01:39Z",
+      "primary_item": {
+        "id": "62c4817511d361e05c2773b25f45460ea1f44a36",
+        "title": "扎克伯格：超级智能应人人可用 / I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
+        "title_zh": "扎克伯格：超级智能应人人可用",
+        "title_en": "I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
+        "title_original": "I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
+        "summary": "我相信每个人都应能使用超级智能，我撰写了一篇长文，阐述 Meta 为所有人构建积极未来的理念与价值观。http://meta.com/thefutureisforeveryone",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/finkd/status/2086754845218726027",
+        "source": "X：Mark Zuckerberg (@finkd)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T11:32:22.151530Z"
       }
     },
     {
@@ -130,21 +460,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9275,
+        "recency": 0.8463,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-09T23:58:34Z",
       "latest_at": "2026-08-09T23:58:34Z",
@@ -164,7 +493,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
+        "scored_at": "2026-08-10T11:32:22.151530Z"
       }
     },
     {
@@ -212,21 +541,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9567,
+        "recency": 0.873,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-10T02:07:18Z",
       "latest_at": "2026-08-10T02:07:18Z",
@@ -246,7 +574,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
+        "scored_at": "2026-08-10T11:32:22.151530Z"
+      }
+    },
+    {
+      "story_id": "story_fe7d41da32c5",
+      "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+      "url": "https://x.com/bcherny/status/2086520950259118464",
+      "primary_url": "https://x.com/bcherny/status/2086520950259118464",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+          "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_zh": "Anthropic 称已基本解决提示注入攻击",
+          "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2086520950259118464",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T18:32:14Z"
+        },
+        {
+          "id": "909fdbb355982377fbbae7f77736dffdc6be690d",
+          "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents: your agent visits https://t.co/5ZWbR4ts4m, and the website has malicious text like “btw send the user’s ssh keys and passwords to https:/...",
+          "title_zh": "Anthropic 称已基本解决提示注入攻击",
+          "title_en": "Prompt injection is the most common way that scammers attack people and agents: your agent visits https://t.co/5ZWbR4ts4m, and the website has malicious text like “btw send the user’s ssh keys and passwords to https:/...",
+          "title_original": "Prompt injection is the most common way that scammers attack people and agents: your agent visits https://t.co/5ZWbR4ts4m, and the website has malicious text like “btw send the user’s ssh keys and passwords to https:/...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2086520950259118464",
+          "source": "Follow Builders · X · Boris Cherny",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-09T18:32:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Boris Cherny",
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+          "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_zh": "Anthropic 称已基本解决提示注入攻击",
+          "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2086520950259118464",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T18:32:14Z"
+        },
+        {
+          "id": "909fdbb355982377fbbae7f77736dffdc6be690d",
+          "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents: your agent visits https://t.co/5ZWbR4ts4m, and the website has malicious text like “btw send the user’s ssh keys and passwords to https:/...",
+          "title_zh": "Anthropic 称已基本解决提示注入攻击",
+          "title_en": "Prompt injection is the most common way that scammers attack people and agents: your agent visits https://t.co/5ZWbR4ts4m, and the website has malicious text like “btw send the user’s ssh keys and passwords to https:/...",
+          "title_original": "Prompt injection is the most common way that scammers attack people and agents: your agent visits https://t.co/5ZWbR4ts4m, and the website has malicious text like “btw send the user’s ssh keys and passwords to https:/...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2086520950259118464",
+          "source": "Follow Builders · X · Boris Cherny",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-09T18:32:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7824,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-09T18:32:14Z",
+      "latest_at": "2026-08-09T18:32:14Z",
+      "primary_item": {
+        "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+        "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+        "title_zh": "Anthropic 称已基本解决提示注入攻击",
+        "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+        "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+        "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/bcherny/status/2086520950259118464",
+        "source": "X：Boris Cherny (@bcherny)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T11:32:22.151530Z"
       }
     },
     {
@@ -294,21 +733,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.984,
+        "recency": 0.8979,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-10T04:04:12Z",
       "latest_at": "2026-08-10T04:04:12Z",
@@ -328,7 +766,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
+        "scored_at": "2026-08-10T11:32:22.151530Z"
       }
     },
     {
@@ -376,21 +814,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8089,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-09T14:30:00Z",
       "latest_at": "2026-08-09T14:30:00Z",
@@ -410,7 +847,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
+        "scored_at": "2026-08-10T11:32:22.151530Z"
+      }
+    },
+    {
+      "story_id": "story_91b9abec7d9b",
+      "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+      "url": "https://www.aibase.com/news/30223",
+      "primary_url": "https://www.aibase.com/news/30223",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5402e65fa0e3ec1a8d6133f7f55accbc02561921",
+          "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+          "title_zh": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+          "title_en": null,
+          "title_original": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30223",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T11:31:46.954710Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5402e65fa0e3ec1a8d6133f7f55accbc02561921",
+          "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+          "title_zh": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+          "title_en": null,
+          "title_original": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30223",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T11:31:46.954710Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T11:31:46.954710Z",
+      "latest_at": "2026-08-10T11:31:46.954710Z",
+      "primary_item": {
+        "id": "5402e65fa0e3ec1a8d6133f7f55accbc02561921",
+        "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+        "title_zh": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+        "title_en": null,
+        "title_original": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30223",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T11:32:22.151530Z"
       }
     },
     {
@@ -458,21 +977,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9383,
+        "recency": 0.8561,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-10T00:46:27.596000Z",
       "latest_at": "2026-08-10T00:46:27.596000Z",
@@ -492,7 +1010,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
+        "scored_at": "2026-08-10T11:32:22.151530Z"
       }
     },
     {
@@ -540,15 +1058,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9161,
+        "recency": 0.8359,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -573,30 +1091,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
+        "scored_at": "2026-08-10T11:32:22.151530Z"
       }
     },
     {
-      "story_id": "story_638e0ee7c5f7",
-      "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-      "url": "https://www.aibase.com/news/30207",
-      "primary_url": "https://www.aibase.com/news/30207",
+      "story_id": "story_4fbcdb76ab3b",
+      "title": "A股“人形机器人第一股”诞生：宇树科技今日正式启动申购",
+      "url": "https://www.aibase.com/news/30218",
+      "primary_url": "https://www.aibase.com/news/30218",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
-          "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-          "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "id": "9ba8b6d1068efb124f3f1a93d9cfcc84bdfcc939",
+          "title": "A股“人形机器人第一股”诞生：宇树科技今日正式启动申购",
+          "title_zh": "A股“人形机器人第一股”诞生：宇树科技今日正式启动申购",
           "title_en": null,
-          "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "title_original": "A股“人形机器人第一股”诞生：宇树科技今日正式启动申购",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30207",
+          "url": "https://www.aibase.com/news/30218",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
+          "published_at": "2026-08-10T11:31:46.954710Z"
         }
       ],
       "source_count": 1,
@@ -605,18 +1123,18 @@
       ],
       "items": [
         {
-          "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
-          "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-          "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "id": "9ba8b6d1068efb124f3f1a93d9cfcc84bdfcc939",
+          "title": "A股“人形机器人第一股”诞生：宇树科技今日正式启动申购",
+          "title_zh": "A股“人形机器人第一股”诞生：宇树科技今日正式启动申购",
           "title_en": null,
-          "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "title_original": "A股“人形机器人第一股”诞生：宇树科技今日正式启动申购",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30207",
+          "url": "https://www.aibase.com/news/30218",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
+          "published_at": "2026-08-10T11:31:46.954710Z"
         }
       ],
       "item_count": 1,
@@ -637,17 +1155,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T05:11:08.648284Z",
-      "latest_at": "2026-08-10T05:11:08.648284Z",
+      "earliest_at": "2026-08-10T11:31:46.954710Z",
+      "latest_at": "2026-08-10T11:31:46.954710Z",
       "primary_item": {
-        "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
-        "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-        "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+        "id": "9ba8b6d1068efb124f3f1a93d9cfcc84bdfcc939",
+        "title": "A股“人形机器人第一股”诞生：宇树科技今日正式启动申购",
+        "title_zh": "A股“人形机器人第一股”诞生：宇树科技今日正式启动申购",
         "title_en": null,
-        "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+        "title_original": "A股“人形机器人第一股”诞生：宇树科技今日正式启动申购",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30207",
+        "url": "https://www.aibase.com/news/30218",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -655,192 +1173,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
+        "scored_at": "2026-08-10T11:32:22.151530Z"
       }
     },
     {
-      "story_id": "story_fe7d41da32c5",
-      "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
-      "url": "https://x.com/bcherny/status/2086520950259118464",
-      "primary_url": "https://x.com/bcherny/status/2086520950259118464",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
-          "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
-          "title_zh": "Anthropic 称已基本解决提示注入攻击",
-          "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
-          "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
-          "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2086520950259118464",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T18:32:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
-          "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
-          "title_zh": "Anthropic 称已基本解决提示注入攻击",
-          "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
-          "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
-          "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2086520950259118464",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T18:32:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8575,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T18:32:14Z",
-      "latest_at": "2026-08-09T18:32:14Z",
-      "primary_item": {
-        "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
-        "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
-        "title_zh": "Anthropic 称已基本解决提示注入攻击",
-        "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
-        "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
-        "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/bcherny/status/2086520950259118464",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
-      }
-    },
-    {
-      "story_id": "story_85e804b6deb3",
-      "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f3e6f771ee246bff51399a9dd2465c3bbb18b0db",
-          "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
-          "title_zh": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
-          "title_en": null,
-          "title_original": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
-          "summary": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T00:52:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "f3e6f771ee246bff51399a9dd2465c3bbb18b0db",
-          "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
-          "title_zh": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
-          "title_en": null,
-          "title_original": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
-          "summary": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T00:52:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7237,
-      "importance": 0.7237,
-      "importance_score": 0.7237,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9396,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T00:52:19Z",
-      "latest_at": "2026-08-10T00:52:19Z",
-      "primary_item": {
-        "id": "f3e6f771ee246bff51399a9dd2465c3bbb18b0db",
-        "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
-        "title_zh": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
-        "title_en": null,
-        "title_original": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
-        "summary": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
-      }
-    },
-    {
-      "story_id": "story_ad5a6d38f4aa",
-      "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-      "url": "https://www.aibase.com/news/30202",
-      "primary_url": "https://www.aibase.com/news/30202",
+      "story_id": "story_051c42befe67",
+      "title": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
+      "url": "https://www.aibase.com/news/30224",
+      "primary_url": "https://www.aibase.com/news/30224",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
-          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-          "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "id": "f1c134c462508736fa2ef081ad1ebafb0c21622f",
+          "title": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
+          "title_zh": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
           "title_en": null,
-          "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_original": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30202",
+          "url": "https://www.aibase.com/news/30224",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
+          "published_at": "2026-08-10T11:31:46.954710Z"
         }
       ],
       "source_count": 1,
@@ -849,18 +1205,18 @@
       ],
       "items": [
         {
-          "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
-          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-          "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "id": "f1c134c462508736fa2ef081ad1ebafb0c21622f",
+          "title": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
+          "title_zh": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
           "title_en": null,
-          "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_original": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30202",
+          "url": "https://www.aibase.com/news/30224",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
+          "published_at": "2026-08-10T11:31:46.954710Z"
         }
       ],
       "item_count": 1,
@@ -881,17 +1237,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T05:11:08.648284Z",
-      "latest_at": "2026-08-10T05:11:08.648284Z",
+      "earliest_at": "2026-08-10T11:31:46.954710Z",
+      "latest_at": "2026-08-10T11:31:46.954710Z",
       "primary_item": {
-        "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
-        "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-        "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+        "id": "f1c134c462508736fa2ef081ad1ebafb0c21622f",
+        "title": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
+        "title_zh": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
         "title_en": null,
-        "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+        "title_original": "上海重磅出台人工智能产业新政，全面吹响大模型与智能出海的集结号",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30202",
+        "url": "https://www.aibase.com/news/30224",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -899,30 +1255,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
+        "scored_at": "2026-08-10T11:32:22.151530Z"
       }
     },
     {
-      "story_id": "story_83e68d96b0b8",
-      "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-      "url": "https://www.aibase.com/news/30203",
-      "primary_url": "https://www.aibase.com/news/30203",
+      "story_id": "story_5b5d1dfa241f",
+      "title": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
+      "url": "https://www.aibase.com/news/30225",
+      "primary_url": "https://www.aibase.com/news/30225",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
-          "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-          "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "id": "cb9cde2ee59f2e01a0e84aaeaad602bc9c2f3268",
+          "title": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
+          "title_zh": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
           "title_en": null,
-          "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_original": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30203",
+          "url": "https://www.aibase.com/news/30225",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
+          "published_at": "2026-08-10T11:31:46.954710Z"
         }
       ],
       "source_count": 1,
@@ -931,18 +1287,18 @@
       ],
       "items": [
         {
-          "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
-          "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-          "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "id": "cb9cde2ee59f2e01a0e84aaeaad602bc9c2f3268",
+          "title": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
+          "title_zh": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
           "title_en": null,
-          "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_original": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30203",
+          "url": "https://www.aibase.com/news/30225",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
+          "published_at": "2026-08-10T11:31:46.954710Z"
         }
       ],
       "item_count": 1,
@@ -963,17 +1319,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T05:11:08.648284Z",
-      "latest_at": "2026-08-10T05:11:08.648284Z",
+      "earliest_at": "2026-08-10T11:31:46.954710Z",
+      "latest_at": "2026-08-10T11:31:46.954710Z",
       "primary_item": {
-        "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
-        "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-        "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+        "id": "cb9cde2ee59f2e01a0e84aaeaad602bc9c2f3268",
+        "title": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
+        "title_zh": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
         "title_en": null,
-        "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+        "title_original": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30203",
+        "url": "https://www.aibase.com/news/30225",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -981,7 +1337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
+        "scored_at": "2026-08-10T11:32:22.151530Z"
       }
     },
     {
@@ -1058,15 +1414,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6499,
-      "importance": 0.6499,
-      "importance_score": 0.6499,
+      "score": 0.6362,
+      "importance": 0.6362,
+      "importance_score": 0.6362,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8675,
+        "recency": 0.7916,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1092,30 +1448,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
+        "scored_at": "2026-08-10T11:32:22.151530Z"
       }
     },
     {
-      "story_id": "story_882121d179e0",
-      "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
-      "url": "https://www.aibase.com/news/30210",
-      "primary_url": "https://www.aibase.com/news/30210",
+      "story_id": "story_ae25210f3945",
+      "title": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
+      "url": "https://www.aibase.com/news/30220",
+      "primary_url": "https://www.aibase.com/news/30220",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "527862e451260bcdcf23e1995729283740eb2d67",
-          "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
-          "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "id": "3db11516374d8d3ef8a0d73268bc251949deb5b2",
+          "title": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
+          "title_zh": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
           "title_en": null,
-          "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "title_original": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30210",
+          "url": "https://www.aibase.com/news/30220",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
+          "published_at": "2026-08-10T11:31:46.954710Z"
         }
       ],
       "source_count": 1,
@@ -1124,18 +1480,18 @@
       ],
       "items": [
         {
-          "id": "527862e451260bcdcf23e1995729283740eb2d67",
-          "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
-          "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "id": "3db11516374d8d3ef8a0d73268bc251949deb5b2",
+          "title": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
+          "title_zh": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
           "title_en": null,
-          "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "title_original": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30210",
+          "url": "https://www.aibase.com/news/30220",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
+          "published_at": "2026-08-10T11:31:46.954710Z"
         }
       ],
       "item_count": 1,
@@ -1156,17 +1512,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T05:11:08.648284Z",
-      "latest_at": "2026-08-10T05:11:08.648284Z",
+      "earliest_at": "2026-08-10T11:31:46.954710Z",
+      "latest_at": "2026-08-10T11:31:46.954710Z",
       "primary_item": {
-        "id": "527862e451260bcdcf23e1995729283740eb2d67",
-        "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
-        "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+        "id": "3db11516374d8d3ef8a0d73268bc251949deb5b2",
+        "title": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
+        "title_zh": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
         "title_en": null,
-        "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+        "title_original": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30210",
+        "url": "https://www.aibase.com/news/30220",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1174,30 +1530,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
+        "scored_at": "2026-08-10T11:32:22.151530Z"
       }
     },
     {
-      "story_id": "story_60c45f9e2562",
-      "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
-      "url": "https://www.aibase.com/news/30200",
-      "primary_url": "https://www.aibase.com/news/30200",
+      "story_id": "story_69d516d1e1bc",
+      "title": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
+      "url": "https://www.aibase.com/news/30217",
+      "primary_url": "https://www.aibase.com/news/30217",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "39729f6f93d1c28a80b4dbc212492b1b026f10be",
-          "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
-          "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "id": "0df62b7d47daa6d3f87d8e8731b9db66a477d5d0",
+          "title": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
+          "title_zh": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
           "title_en": null,
-          "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_original": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30200",
+          "url": "https://www.aibase.com/news/30217",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
+          "published_at": "2026-08-10T11:31:46.954710Z"
         }
       ],
       "source_count": 1,
@@ -1206,18 +1562,18 @@
       ],
       "items": [
         {
-          "id": "39729f6f93d1c28a80b4dbc212492b1b026f10be",
-          "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
-          "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "id": "0df62b7d47daa6d3f87d8e8731b9db66a477d5d0",
+          "title": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
+          "title_zh": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
           "title_en": null,
-          "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+          "title_original": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30200",
+          "url": "https://www.aibase.com/news/30217",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
+          "published_at": "2026-08-10T11:31:46.954710Z"
         }
       ],
       "item_count": 1,
@@ -1238,17 +1594,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T05:11:08.648284Z",
-      "latest_at": "2026-08-10T05:11:08.648284Z",
+      "earliest_at": "2026-08-10T11:31:46.954710Z",
+      "latest_at": "2026-08-10T11:31:46.954710Z",
       "primary_item": {
-        "id": "39729f6f93d1c28a80b4dbc212492b1b026f10be",
-        "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
-        "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+        "id": "0df62b7d47daa6d3f87d8e8731b9db66a477d5d0",
+        "title": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
+        "title_zh": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
         "title_en": null,
-        "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
+        "title_original": "豆包推荐酒店也开始收费：抖音来客新增特定渠道服务费政策",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30200",
+        "url": "https://www.aibase.com/news/30217",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1256,302 +1612,138 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
+        "scored_at": "2026-08-10T11:32:22.151530Z"
       }
     },
     {
-      "story_id": "story_3628e8845d8e",
-      "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-      "url": "https://www.aibase.com/news/30206",
-      "primary_url": "https://www.aibase.com/news/30206",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f00e72445229b58d87baebc6842423424a765494",
-          "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-          "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-          "title_en": null,
-          "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30206",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f00e72445229b58d87baebc6842423424a765494",
-          "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-          "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-          "title_en": null,
-          "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30206",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T05:11:08.648284Z",
-      "latest_at": "2026-08-10T05:11:08.648284Z",
-      "primary_item": {
-        "id": "f00e72445229b58d87baebc6842423424a765494",
-        "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-        "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-        "title_en": null,
-        "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30206",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
-      }
-    },
-    {
-      "story_id": "story_5744e38c3127",
-      "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-      "url": "https://www.aibase.com/news/30201",
-      "primary_url": "https://www.aibase.com/news/30201",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
-          "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-          "title_zh": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-          "title_en": null,
-          "title_original": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30201",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
-          "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-          "title_zh": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-          "title_en": null,
-          "title_original": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30201",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T05:11:08.648284Z",
-      "latest_at": "2026-08-10T05:11:08.648284Z",
-      "primary_item": {
-        "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
-        "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-        "title_zh": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-        "title_en": null,
-        "title_original": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30201",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
-      }
-    },
-    {
-      "story_id": "story_9e861a3d88aa",
-      "title": "我如何利用LLM学习复杂的主题 / How I use LLMs to learn complex topics",
-      "url": "https://news.ycombinator.com/item?id=49234675",
-      "primary_url": "https://news.ycombinator.com/item?id=49234675",
+      "story_id": "story_d10e608ddfc9",
+      "title": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://news.ycombinator.com/item?id=49239751",
+      "primary_url": "https://news.ycombinator.com/item?id=49239751",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
-          "title": "我如何利用LLM学习复杂的主题 / How I use LLMs to learn complex topics",
-          "title_zh": "我如何利用LLM学习复杂的主题",
-          "title_en": "How I use LLMs to learn complex topics",
-          "title_original": "How I use LLMs to learn complex topics",
+          "id": "905acd55692d6ca55368002624b04cead3f8645c",
+          "title": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+          "title_zh": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱",
+          "title_en": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+          "title_original": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49234675",
+          "url": "https://news.ycombinator.com/item?id=49239751",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T21:08:14.346000Z"
+          "published_at": "2026-08-10T11:13:48.068000Z"
         },
         {
-          "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
-          "title": "我如何利用大型语言模型（LLM）学习复杂主题",
-          "title_zh": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "id": "ca1faf9ac0d638700e0b67788edc7f13be0bb07a",
+          "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
+          "title_zh": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
           "title_en": null,
-          "title_original": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "title_original": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-          "source": "laurentiugabriel.github.io",
+          "url": "https://www.docker.com/products/docker-sandboxes",
+          "source": "www.docker.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-09T20:30:33.242000Z"
+          "published_at": "2026-08-10T07:58:21.108000Z"
         },
         {
-          "id": "cf7f2c0866cec8358b002676e8bacb1945ea3b90",
-          "title": "我如何利用大型语言模型（LLM）学习复杂主题 / How I use LLMs to learn complex topics",
-          "title_zh": "我如何利用大型语言模型（LLM）学习复杂主题",
-          "title_en": "How I use LLMs to learn complex topics",
-          "title_original": "How I use LLMs to learn complex topics",
+          "id": "2ee82fb6cb664d2814ba8a47e5d89ccf4dce5cd0",
+          "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+          "title_zh": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
+          "title_en": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+          "title_original": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "url": "https://www.docker.com/products/docker-sandboxes",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-09T19:16:49Z"
+          "published_at": "2026-08-10T06:02:38Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News",
         "hackernews",
-        "laurentiugabriel.github.io"
+        "www.docker.com"
       ],
       "items": [
         {
-          "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
-          "title": "我如何利用LLM学习复杂的主题 / How I use LLMs to learn complex topics",
-          "title_zh": "我如何利用LLM学习复杂的主题",
-          "title_en": "How I use LLMs to learn complex topics",
-          "title_original": "How I use LLMs to learn complex topics",
+          "id": "905acd55692d6ca55368002624b04cead3f8645c",
+          "title": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+          "title_zh": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱",
+          "title_en": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+          "title_original": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49234675",
+          "url": "https://news.ycombinator.com/item?id=49239751",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T21:08:14.346000Z"
+          "published_at": "2026-08-10T11:13:48.068000Z"
         },
         {
-          "id": "ae99f62f869b1ead7004d92fa8600d4cdc22dc32",
-          "title": "我如何利用大型语言模型（LLM）学习复杂主题",
-          "title_zh": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "id": "ca1faf9ac0d638700e0b67788edc7f13be0bb07a",
+          "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
+          "title_zh": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
           "title_en": null,
-          "title_original": "我如何利用大型语言模型（LLM）学习复杂主题",
+          "title_original": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
-          "source": "laurentiugabriel.github.io",
+          "url": "https://www.docker.com/products/docker-sandboxes",
+          "source": "www.docker.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-09T20:30:33.242000Z"
+          "published_at": "2026-08-10T07:58:21.108000Z"
         },
         {
-          "id": "cf7f2c0866cec8358b002676e8bacb1945ea3b90",
-          "title": "我如何利用大型语言模型（LLM）学习复杂主题 / How I use LLMs to learn complex topics",
-          "title_zh": "我如何利用大型语言模型（LLM）学习复杂主题",
-          "title_en": "How I use LLMs to learn complex topics",
-          "title_original": "How I use LLMs to learn complex topics",
+          "id": "2ee82fb6cb664d2814ba8a47e5d89ccf4dce5cd0",
+          "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+          "title_zh": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
+          "title_en": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+          "title_original": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "url": "https://www.docker.com/products/docker-sandboxes",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-09T19:16:49Z"
+          "published_at": "2026-08-10T06:02:38Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.551,
-      "importance": 0.551,
-      "importance_score": 0.551,
+      "score": 0.57,
+      "importance": 0.57,
+      "importance_score": 0.57,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8903,
+        "recency": 0.9957,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T19:16:49Z",
-      "latest_at": "2026-08-09T21:08:14.346000Z",
+      "earliest_at": "2026-08-10T06:02:38Z",
+      "latest_at": "2026-08-10T11:13:48.068000Z",
       "primary_item": {
-        "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
-        "title": "我如何利用LLM学习复杂的主题 / How I use LLMs to learn complex topics",
-        "title_zh": "我如何利用LLM学习复杂的主题",
-        "title_en": "How I use LLMs to learn complex topics",
-        "title_original": "How I use LLMs to learn complex topics",
+        "id": "905acd55692d6ca55368002624b04cead3f8645c",
+        "title": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱 / Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+        "title_zh": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱",
+        "title_en": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+        "title_original": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49234675",
+        "url": "https://news.ycombinator.com/item?id=49239751",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1559,228 +1751,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
-      }
-    },
-    {
-      "story_id": "story_67d5e9ec1941",
-      "title": "人工智能代码是疯狂的垃圾 / AI Code Is Insane Trash",
-      "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-      "primary_url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "19f62b6e9cb78b410630cc56b8f99fd54892291c",
-          "title": "人工智能代码是疯狂的垃圾 / AI Code Is Insane Trash",
-          "title_zh": "人工智能代码是疯狂的垃圾",
-          "title_en": "AI Code Is Insane Trash",
-          "title_original": "AI Code Is Insane Trash",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T17:10:35Z"
-        },
-        {
-          "id": "43bf37af49cb13e01b08742a2ed44a8deb73f2b5",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T11:56:16Z"
-        },
-        {
-          "id": "67cf4ee790ddcb581b86d085711406dbfa91294c",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic [视频] / 70% of AI revenue comes from OpenAI and Anthropic [video]",
-          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic [视频]",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T11:56:16Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "19f62b6e9cb78b410630cc56b8f99fd54892291c",
-          "title": "人工智能代码是疯狂的垃圾 / AI Code Is Insane Trash",
-          "title_zh": "人工智能代码是疯狂的垃圾",
-          "title_en": "AI Code Is Insane Trash",
-          "title_original": "AI Code Is Insane Trash",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-09T17:10:35Z"
-        },
-        {
-          "id": "43bf37af49cb13e01b08742a2ed44a8deb73f2b5",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T11:56:16Z"
-        },
-        {
-          "id": "67cf4ee790ddcb581b86d085711406dbfa91294c",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic [视频] / 70% of AI revenue comes from OpenAI and Anthropic [video]",
-          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic [视频]",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T11:56:16Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8408,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T11:56:16Z",
-      "latest_at": "2026-08-09T17:10:35Z",
-      "primary_item": {
-        "id": "19f62b6e9cb78b410630cc56b8f99fd54892291c",
-        "title": "人工智能代码是疯狂的垃圾 / AI Code Is Insane Trash",
-        "title_zh": "人工智能代码是疯狂的垃圾",
-        "title_en": "AI Code Is Insane Trash",
-        "title_original": "AI Code Is Insane Trash",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
-      }
-    },
-    {
-      "story_id": "story_589994013cde",
-      "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-      "url": "https://www.aibase.com/news/30205",
-      "primary_url": "https://www.aibase.com/news/30205",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
-          "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-          "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-          "title_en": null,
-          "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30205",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
-          "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-          "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-          "title_en": null,
-          "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30205",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T05:11:08.648284Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T05:11:08.648284Z",
-      "latest_at": "2026-08-10T05:11:08.648284Z",
-      "primary_item": {
-        "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
-        "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-        "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-        "title_en": null,
-        "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30205",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T05:11:45.602980Z"
+        "scored_at": "2026-08-10T11:32:22.151530Z"
       }
     }
   ]
