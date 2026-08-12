@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:50:47.218374Z",
+  "generated_at": "2026-08-12T22:23:38.413566Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8578,
-      "importance": 0.8578,
-      "importance_score": 0.8578,
+      "score": 0.8514,
+      "importance": 0.8514,
+      "importance_score": 0.8514,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9879,
+        "recency": 0.9522,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8515,
-      "importance": 0.8515,
-      "importance_score": 0.8515,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9192,
+        "recency": 0.886,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,30 +166,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
-      "story_id": "story_953c86e801a6",
-      "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-      "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+      "story_id": "story_094f6572bd5f",
+      "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-          "title_zh": "公共预览版中组织的规则见解",
-          "title_en": "Rule insights for organizations in public preview",
-          "title_original": "Rule insights for organizations in public preview",
+          "id": "18e5595d096312125c112295fde577991c1afc7c",
+          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
+          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T18:30:28Z"
+          "published_at": "2026-08-12T18:39:11Z"
         }
       ],
       "source_count": 1,
@@ -198,31 +198,31 @@
       ],
       "items": [
         {
-          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-          "title_zh": "公共预览版中组织的规则见解",
-          "title_en": "Rule insights for organizations in public preview",
-          "title_original": "Rule insights for organizations in public preview",
+          "id": "18e5595d096312125c112295fde577991c1afc7c",
+          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
+          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T18:30:28Z"
+          "published_at": "2026-08-12T18:39:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
+      "score": 0.8425,
+      "importance": 0.8425,
+      "importance_score": 0.8425,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9809,
+        "ai_relevance": 0.91,
+        "recency": 0.9474,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,17 +231,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T18:30:28Z",
-      "latest_at": "2026-08-12T18:30:28Z",
+      "earliest_at": "2026-08-12T18:39:11Z",
+      "latest_at": "2026-08-12T18:39:11Z",
       "primary_item": {
-        "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-        "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-        "title_zh": "公共预览版中组织的规则见解",
-        "title_en": "Rule insights for organizations in public preview",
-        "title_original": "Rule insights for organizations in public preview",
+        "id": "18e5595d096312125c112295fde577991c1afc7c",
+        "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
+        "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+        "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9195,
+        "recency": 0.8863,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -387,8 +387,8 @@
         },
         {
           "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "title_zh": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
           "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "title_original": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "summary": null,
@@ -452,8 +452,8 @@
         },
         {
           "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "title_zh": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
           "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "title_original": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "summary": null,
@@ -467,15 +467,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8151,
+        "recency": 0.7857,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -502,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -550,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8509,
-      "importance": 0.8509,
-      "importance_score": 0.8509,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9493,
+        "recency": 0.915,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,7 +585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -633,15 +633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8188,
+        "recency": 0.7892,
         "story_heat": 0.0
       },
       "category": "official",
@@ -668,7 +668,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
+      }
+    },
+    {
+      "story_id": "story_953c86e801a6",
+      "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+      "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+          "title_zh": "公共预览版中组织的规则见解",
+          "title_en": "Rule insights for organizations in public preview",
+          "title_original": "Rule insights for organizations in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:30:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+          "title_zh": "公共预览版中组织的规则见解",
+          "title_en": "Rule insights for organizations in public preview",
+          "title_original": "Rule insights for organizations in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:30:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9454,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T18:30:28Z",
+      "latest_at": "2026-08-12T18:30:28Z",
+      "primary_item": {
+        "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+        "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+        "title_zh": "公共预览版中组织的规则见解",
+        "title_en": "Rule insights for organizations in public preview",
+        "title_original": "Rule insights for organizations in public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -716,15 +799,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.7868,
+      "importance": 0.7868,
+      "importance_score": 0.7868,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9731,
+        "recency": 0.938,
         "story_heat": 0.0
       },
       "category": "official",
@@ -750,63 +833,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
-      "story_id": "story_d21fb74b185b",
-      "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
+      "story_id": "story_4392345a6290",
+      "title": "RingCentral 如何构建从工程到运营的 AI 原生工作 / How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "primary_url": "https://openai.com/index/ringcentral",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "title_zh": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama",
-          "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "id": "53fe5c37c7fa0e621abfb0caf38a619275e0acdd",
+          "title": "RingCentral 如何构建从工程到运营的 AI 原生工作 / How RingCentral builds AI-native work from engineering to ops",
+          "title_zh": "RingCentral 如何构建从工程到运营的 AI 原生工作",
+          "title_en": "How RingCentral builds AI-native work from engineering to ops",
+          "title_original": "How RingCentral builds AI-native work from engineering to ops",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/ringcentral",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-11T20:15:55Z"
+          "published_at": "2026-08-12T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "title_zh": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama",
-          "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-          "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "id": "53fe5c37c7fa0e621abfb0caf38a619275e0acdd",
+          "title": "RingCentral 如何构建从工程到运营的 AI 原生工作 / How RingCentral builds AI-native work from engineering to ops",
+          "title_zh": "RingCentral 如何构建从工程到运营的 AI 原生工作",
+          "title_en": "How RingCentral builds AI-native work from engineering to ops",
+          "title_original": "How RingCentral builds AI-native work from engineering to ops",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/ringcentral",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-11T20:15:55Z"
+          "published_at": "2026-08-12T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.8023,
+      "importance": 0.8023,
+      "importance_score": 0.8023,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7114,
+        "recency": 0.7237,
         "story_heat": 0.0
       },
       "category": "official",
@@ -815,25 +898,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T20:15:55Z",
-      "latest_at": "2026-08-11T20:15:55Z",
+      "earliest_at": "2026-08-12T00:00:00Z",
+      "latest_at": "2026-08-12T00:00:00Z",
       "primary_item": {
-        "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
-        "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-        "title_zh": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama",
-        "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-        "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+        "id": "53fe5c37c7fa0e621abfb0caf38a619275e0acdd",
+        "title": "RingCentral 如何构建从工程到运营的 AI 原生工作 / How RingCentral builds AI-native work from engineering to ops",
+        "title_zh": "RingCentral 如何构建从工程到运营的 AI 原生工作",
+        "title_en": "How RingCentral builds AI-native work from engineering to ops",
+        "title_original": "How RingCentral builds AI-native work from engineering to ops",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
+        "url": "https://openai.com/index/ringcentral",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -881,15 +964,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9483,
+        "recency": 0.914,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -915,7 +998,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -992,15 +1075,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7508,
+        "recency": 0.7237,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1027,7 +1110,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -1075,15 +1158,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1108,7 +1191,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -1156,15 +1239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9737,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1189,7 +1272,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
+      }
+    },
+    {
+      "story_id": "story_5535217c6b3d",
+      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话 / The Claude in Chrome side panel is now Claude Cowork",
+      "url": "https://claude.com/blog/cowork-chrome-side-panel",
+      "primary_url": "https://claude.com/blog/cowork-chrome-side-panel",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话 / The Claude in Chrome side panel is now Claude Cowork",
+          "title_zh": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+          "title_en": "The Claude in Chrome side panel is now Claude Cowork",
+          "title_original": "The Claude in Chrome side panel is now Claude Cowork",
+          "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/cowork-chrome-side-panel",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T20:15:51.977000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话 / The Claude in Chrome side panel is now Claude Cowork",
+          "title_zh": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+          "title_en": "The Claude in Chrome side panel is now Claude Cowork",
+          "title_original": "The Claude in Chrome side panel is now Claude Cowork",
+          "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/cowork-chrome-side-panel",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T20:15:51.977000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9697,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T20:15:51.977000Z",
+      "latest_at": "2026-08-12T20:15:51.977000Z",
+      "primary_item": {
+        "id": "fc9380064c748bd843a4ec5431d78b939970f548",
+        "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话 / The Claude in Chrome side panel is now Claude Cowork",
+        "title_zh": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+        "title_en": "The Claude in Chrome side panel is now Claude Cowork",
+        "title_original": "The Claude in Chrome side panel is now Claude Cowork",
+        "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/blog/cowork-chrome-side-panel",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -1237,15 +1401,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8827,
+        "recency": 0.8508,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1270,7 +1434,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -1318,15 +1482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9462,
+        "recency": 0.912,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1351,171 +1515,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
-      }
-    },
-    {
-      "story_id": "story_f4f6d73ecb41",
-      "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-      "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-      "primary_url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-          "title_zh": "GitHub Enterprise Server 3.22 候选版本",
-          "title_en": "GitHub Enterprise Server 3.22 release candidate",
-          "title_original": "GitHub Enterprise Server 3.22 release candidate",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T20:26:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-          "title_zh": "GitHub Enterprise Server 3.22 候选版本",
-          "title_en": "GitHub Enterprise Server 3.22 release candidate",
-          "title_original": "GitHub Enterprise Server 3.22 release candidate",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T20:26:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7132,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T20:26:26Z",
-      "latest_at": "2026-08-11T20:26:26Z",
-      "primary_item": {
-        "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
-        "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
-        "title_zh": "GitHub Enterprise Server 3.22 候选版本",
-        "title_en": "GitHub Enterprise Server 3.22 release candidate",
-        "title_original": "GitHub Enterprise Server 3.22 release candidate",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
-      }
-    },
-    {
-      "story_id": "story_72a76c10c59d",
-      "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？ / I wrote an AI textbook - how long until AI can do it better？",
-      "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-      "primary_url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-      "source": "Nathan Lambert：Interconnects（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？ / I wrote an AI textbook - how long until AI can do it better？",
-          "title_zh": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-          "title_en": "I wrote an AI textbook - how long until AI can do it better？",
-          "title_original": "I wrote an AI textbook - how long until AI can do it better？",
-          "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
-          "recommend_reason_zh": null,
-          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T13:01:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Nathan Lambert：Interconnects（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-          "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？ / I wrote an AI textbook - how long until AI can do it better？",
-          "title_zh": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-          "title_en": "I wrote an AI textbook - how long until AI can do it better？",
-          "title_original": "I wrote an AI textbook - how long until AI can do it better？",
-          "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
-          "recommend_reason_zh": null,
-          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T13:01:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9061,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T13:01:16Z",
-      "latest_at": "2026-08-12T13:01:16Z",
-      "primary_item": {
-        "id": "9ebbab8acc299b2a6ba84182ed950e6abe29ec7b",
-        "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？ / I wrote an AI textbook - how long until AI can do it better？",
-        "title_zh": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-        "title_en": "I wrote an AI textbook - how long until AI can do it better？",
-        "title_original": "I wrote an AI textbook - how long until AI can do it better？",
-        "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
-        "recommend_reason_zh": null,
-        "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -1563,15 +1563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8827,
+        "recency": 0.8508,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1596,7 +1596,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -1644,15 +1644,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8281,
+        "recency": 0.7981,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1677,7 +1677,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     },
     {
@@ -1725,15 +1725,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8827,
+        "recency": 0.8508,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1758,7 +1758,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T19:52:56.234163Z"
+        "scored_at": "2026-08-12T22:24:16.386889Z"
       }
     }
   ]
