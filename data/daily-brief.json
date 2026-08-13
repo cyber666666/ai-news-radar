@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:23:38.413566Z",
+  "generated_at": "2026-08-13T05:50:32.799576Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8514,
-      "importance": 0.8514,
-      "importance_score": 0.8514,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9522,
+        "recency": 0.8551,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8455,
-      "importance": 0.8455,
-      "importance_score": 0.8455,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.886,
+        "recency": 0.7957,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9474,
+        "recency": 0.8508,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8863,
+        "recency": 0.7959,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,260 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
-      }
-    },
-    {
-      "story_id": "story_49365c8a72d6",
-      "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-      "primary_url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "title_en": null,
-          "title_original": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T05:41:30.137000Z"
-        },
-        {
-          "id": "6902298efece3c7b675fccd584b5df9579576535",
-          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
-          "title_zh": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
-          "title_en": null,
-          "title_original": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "www.404media.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T05:41:30.137000Z"
-        },
-        {
-          "id": "ccd39c0c5d6e3430ab3dd3919f7083c28a3db0ce",
-          "title": "公司提供“100% 人工编写，绝不人工智能” 医学研究是 100% 人工智能 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_zh": "公司提供“100% 人工编写，绝不人工智能” 医学研究是 100% 人工智能",
-          "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_original": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49267057",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T05:32:36.047000Z"
-        },
-        {
-          "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_zh": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
-          "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_original": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T02:05:42Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.404media.co"
-      ],
-      "items": [
-        {
-          "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "title_en": null,
-          "title_original": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T05:41:30.137000Z"
-        },
-        {
-          "id": "6902298efece3c7b675fccd584b5df9579576535",
-          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
-          "title_zh": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
-          "title_en": null,
-          "title_original": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "www.404media.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T05:41:30.137000Z"
-        },
-        {
-          "id": "ccd39c0c5d6e3430ab3dd3919f7083c28a3db0ce",
-          "title": "公司提供“100% 人工编写，绝不人工智能” 医学研究是 100% 人工智能 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_zh": "公司提供“100% 人工编写，绝不人工智能” 医学研究是 100% 人工智能",
-          "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_original": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49267057",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T05:32:36.047000Z"
-        },
-        {
-          "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_zh": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
-          "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "title_original": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T02:05:42Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7857,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T02:05:42Z",
-      "latest_at": "2026-08-12T05:41:30.137000Z",
-      "primary_item": {
-        "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
-        "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-        "title_zh": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-        "title_en": null,
-        "title_original": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-        "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
-        "recommend_reason_zh": null,
-        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
-      }
-    },
-    {
-      "story_id": "story_c2d4ddb5d531",
-      "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
-          "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_zh": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析",
-          "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T16:14:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
-          "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_zh": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析",
-          "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T16:14:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.915,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T16:14:36Z",
-      "latest_at": "2026-08-12T16:14:36Z",
-      "primary_item": {
-        "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
-        "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-        "title_zh": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析",
-        "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-        "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
@@ -633,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7892,
+        "recency": 0.7087,
         "story_heat": 0.0
       },
       "category": "official",
@@ -668,7 +415,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
+      }
+    },
+    {
+      "story_id": "story_c2d4ddb5d531",
+      "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
+          "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "title_zh": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析",
+          "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T16:14:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
+          "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "title_zh": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析",
+          "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T16:14:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8279,
+      "importance": 0.8279,
+      "importance_score": 0.8279,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8217,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T16:14:36Z",
+      "latest_at": "2026-08-12T16:14:36Z",
+      "primary_item": {
+        "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
+        "title": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+        "title_zh": "OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析",
+        "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+        "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
@@ -716,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9454,
+        "recency": 0.849,
         "story_heat": 0.0
       },
       "category": "official",
@@ -751,7 +581,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
+      }
+    },
+    {
+      "story_id": "story_40f7961c06b7",
+      "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multiagent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9d57b112356e13780b596ad2e3b2399f6e5a6a63",
+          "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multiagent systems",
+          "title_zh": "新兴多智能体系统的模式与问题",
+          "title_en": "Patterns and problems in emerging multiagent systems",
+          "title_original": "Patterns and problems in emerging multiagent systems",
+          "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T01:20:54.259000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "9d57b112356e13780b596ad2e3b2399f6e5a6a63",
+          "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multiagent systems",
+          "title_zh": "新兴多智能体系统的模式与问题",
+          "title_en": "Patterns and problems in emerging multiagent systems",
+          "title_original": "Patterns and problems in emerging multiagent systems",
+          "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T01:20:54.259000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9372,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T01:20:54.259000Z",
+      "latest_at": "2026-08-13T01:20:54.259000Z",
+      "primary_item": {
+        "id": "9d57b112356e13780b596ad2e3b2399f6e5a6a63",
+        "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multiagent systems",
+        "title_zh": "新兴多智能体系统的模式与问题",
+        "title_en": "Patterns and problems in emerging multiagent systems",
+        "title_original": "Patterns and problems in emerging multiagent systems",
+        "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/multiagent-systems",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
@@ -799,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7868,
-      "importance": 0.7868,
-      "importance_score": 0.7868,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.938,
+        "recency": 0.8423,
         "story_heat": 0.0
       },
       "category": "official",
@@ -833,90 +745,170 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
-      "story_id": "story_4392345a6290",
-      "title": "RingCentral 如何构建从工程到运营的 AI 原生工作 / How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
-      "primary_url": "https://openai.com/index/ringcentral",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_9d6996b57c59",
+      "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
+      "url": "https://www.aibase.com/news/30310",
+      "primary_url": "https://www.aibase.com/news/30310",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "53fe5c37c7fa0e621abfb0caf38a619275e0acdd",
-          "title": "RingCentral 如何构建从工程到运营的 AI 原生工作 / How RingCentral builds AI-native work from engineering to ops",
-          "title_zh": "RingCentral 如何构建从工程到运营的 AI 原生工作",
-          "title_en": "How RingCentral builds AI-native work from engineering to ops",
-          "title_original": "How RingCentral builds AI-native work from engineering to ops",
+          "id": "2a2b363aa21a6846353082b7e60676fe3dc230da",
+          "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
+          "title_zh": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
+          "title_en": null,
+          "title_original": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ringcentral",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T00:00:00Z"
+          "url": "https://www.aibase.com/news/30310",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T05:50:32.799576Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "53fe5c37c7fa0e621abfb0caf38a619275e0acdd",
-          "title": "RingCentral 如何构建从工程到运营的 AI 原生工作 / How RingCentral builds AI-native work from engineering to ops",
-          "title_zh": "RingCentral 如何构建从工程到运营的 AI 原生工作",
-          "title_en": "How RingCentral builds AI-native work from engineering to ops",
-          "title_original": "How RingCentral builds AI-native work from engineering to ops",
+          "id": "2a2b363aa21a6846353082b7e60676fe3dc230da",
+          "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
+          "title_zh": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
+          "title_en": null,
+          "title_original": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ringcentral",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T00:00:00Z"
+          "url": "https://www.aibase.com/news/30310",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T05:50:32.799576Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7237,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T00:00:00Z",
-      "latest_at": "2026-08-12T00:00:00Z",
+      "earliest_at": "2026-08-13T05:50:32.799576Z",
+      "latest_at": "2026-08-13T05:50:32.799576Z",
       "primary_item": {
-        "id": "53fe5c37c7fa0e621abfb0caf38a619275e0acdd",
-        "title": "RingCentral 如何构建从工程到运营的 AI 原生工作 / How RingCentral builds AI-native work from engineering to ops",
-        "title_zh": "RingCentral 如何构建从工程到运营的 AI 原生工作",
-        "title_en": "How RingCentral builds AI-native work from engineering to ops",
-        "title_original": "How RingCentral builds AI-native work from engineering to ops",
+        "id": "2a2b363aa21a6846353082b7e60676fe3dc230da",
+        "title": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
+        "title_zh": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
+        "title_en": null,
+        "title_original": "90% 高管承认 AI 没提升生产力：裁员后才发现离不开老员工",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/ringcentral",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/30310",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
+      }
+    },
+    {
+      "story_id": "story_f9c6869f48c8",
+      "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
+          "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "title_en": null,
+          "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T04:32:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
+          "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "title_en": null,
+          "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T04:32:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9814,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T04:32:24Z",
+      "latest_at": "2026-08-13T04:32:24Z",
+      "primary_item": {
+        "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
+        "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+        "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+        "title_en": null,
+        "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+        "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
@@ -964,21 +956,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.914,
+        "recency": 0.8208,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T16:10:01Z",
       "latest_at": "2026-08-12T16:10:01Z",
@@ -998,119 +989,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
-      "story_id": "story_81b35863b7b0",
-      "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "primary_url": "https://x.ai/news/grok-4-6",
-      "source": "xAI：News（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_8f837c453dea",
+      "title": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
+      "url": "https://www.aibase.com/news/30297",
+      "primary_url": "https://www.aibase.com/news/30297",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "0ec9764ea66afc16675922c4701012a15bca2c5e",
-          "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6",
-          "title_zh": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
-          "title_en": "Introducing Grok 4.6",
-          "title_original": "Introducing Grok 4.6",
-          "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
-          "recommend_reason_zh": null,
-          "url": "https://x.ai/news/grok-4-6",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T00:00:00Z"
-        },
-        {
-          "id": "7131f9fe498fd654a322d9a1f159d798f8baa9d7",
-          "title": "Grok 4.6",
-          "title_zh": null,
+          "id": "bbda6a1073049b1164ccc22878335f097a927c23",
+          "title": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
+          "title_zh": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
           "title_en": null,
-          "title_original": "Grok 4.6",
+          "title_original": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.ai/news/grok-4-6",
-          "source": "x.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T16:36:26.909000Z"
+          "url": "https://www.aibase.com/news/30297",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T05:50:32.799576Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "x.ai",
-        "xAI：News（网页）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "0ec9764ea66afc16675922c4701012a15bca2c5e",
-          "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6",
-          "title_zh": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
-          "title_en": "Introducing Grok 4.6",
-          "title_original": "Introducing Grok 4.6",
-          "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
-          "recommend_reason_zh": null,
-          "url": "https://x.ai/news/grok-4-6",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T00:00:00Z"
-        },
-        {
-          "id": "7131f9fe498fd654a322d9a1f159d798f8baa9d7",
-          "title": "Grok 4.6",
-          "title_zh": null,
+          "id": "bbda6a1073049b1164ccc22878335f097a927c23",
+          "title": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
+          "title_zh": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
           "title_en": null,
-          "title_original": "Grok 4.6",
+          "title_original": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.ai/news/grok-4-6",
-          "source": "x.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T16:36:26.909000Z"
+          "url": "https://www.aibase.com/news/30297",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T05:50:32.799576Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7237,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T00:00:00Z",
-      "latest_at": "2026-08-12T16:36:26.909000Z",
+      "earliest_at": "2026-08-13T05:50:32.799576Z",
+      "latest_at": "2026-08-13T05:50:32.799576Z",
       "primary_item": {
-        "id": "0ec9764ea66afc16675922c4701012a15bca2c5e",
-        "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力 / Introducing Grok 4.6",
-        "title_zh": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
-        "title_en": "Introducing Grok 4.6",
-        "title_original": "Introducing Grok 4.6",
-        "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
+        "id": "bbda6a1073049b1164ccc22878335f097a927c23",
+        "title": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
+        "title_zh": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
+        "title_en": null,
+        "title_original": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.ai/news/grok-4-6",
-        "source": "xAI：News（网页）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30297",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
@@ -1158,15 +1119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8607,
+        "recency": 0.7729,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1191,7 +1152,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
@@ -1239,15 +1200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9385,
+        "recency": 0.8428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,7 +1233,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
@@ -1320,15 +1281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7233,
+      "importance": 0.7233,
+      "importance_score": 0.7233,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9697,
+        "recency": 0.8708,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1353,192 +1314,111 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
-      "story_id": "story_17d6705d1084",
-      "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-      "url": "https://www.aibase.com/news/30276",
-      "primary_url": "https://www.aibase.com/news/30276",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "19885d82860a200a6c11b27212173a78ac3ba013",
-          "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "title_en": null,
-          "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30276",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T11:12:10.014208Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "19885d82860a200a6c11b27212173a78ac3ba013",
-          "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "title_en": null,
-          "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30276",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T11:12:10.014208Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8508,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T11:12:10.014208Z",
-      "latest_at": "2026-08-12T11:12:10.014208Z",
-      "primary_item": {
-        "id": "19885d82860a200a6c11b27212173a78ac3ba013",
-        "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-        "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-        "title_en": null,
-        "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30276",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
-      }
-    },
-    {
-      "story_id": "story_d8350f7d8fde",
-      "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-      "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
-      "primary_url": "https://x.com/mustafasuleyman/status/2087570047967408396",
-      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "story_id": "story_0fb31292652d",
+      "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
+      "source": "公众号：数字生命卡兹克",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
-          "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-          "title_zh": "微软首发自研推理模型MAI-Thinking-1",
-          "title_en": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-          "title_original": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-          "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+          "id": "3f1affef47eccb197015c754fbe659ea4c1bd736",
+          "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+          "title_zh": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+          "title_en": null,
+          "title_original": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+          "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
-          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-12T16:00:59Z"
+          "published_at": "2026-08-12T22:22:28Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
-          "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-          "title_zh": "微软首发自研推理模型MAI-Thinking-1",
-          "title_en": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-          "title_original": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-          "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+          "id": "3f1affef47eccb197015c754fbe659ea4c1bd736",
+          "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+          "title_zh": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+          "title_en": null,
+          "title_original": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+          "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
-          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-12T16:00:59Z"
+          "published_at": "2026-08-12T22:22:28Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7338,
-      "importance": 0.7338,
-      "importance_score": 0.7338,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.912,
+        "recency": 0.8978,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T16:00:59Z",
-      "latest_at": "2026-08-12T16:00:59Z",
+      "earliest_at": "2026-08-12T22:22:28Z",
+      "latest_at": "2026-08-12T22:22:28Z",
       "primary_item": {
-        "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
-        "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-        "title_zh": "微软首发自研推理模型MAI-Thinking-1",
-        "title_en": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-        "title_original": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-        "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+        "id": "3f1affef47eccb197015c754fbe659ea4c1bd736",
+        "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+        "title_zh": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+        "title_en": null,
+        "title_original": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+        "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
-        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
-      "story_id": "story_a9f021589299",
-      "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-      "url": "https://www.aibase.com/news/30278",
-      "primary_url": "https://www.aibase.com/news/30278",
+      "story_id": "story_40432760e961",
+      "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
+      "url": "https://www.aibase.com/news/30309",
+      "primary_url": "https://www.aibase.com/news/30309",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-          "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "id": "6971695ec11a5b6c16e23403816651f3b26667fb",
+          "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
+          "title_zh": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
           "title_en": null,
-          "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "title_original": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30278",
+          "url": "https://www.aibase.com/news/30309",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T11:12:10.014208Z"
+          "published_at": "2026-08-13T05:50:32.799576Z"
         }
       ],
       "source_count": 1,
@@ -1547,48 +1427,49 @@
       ],
       "items": [
         {
-          "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-          "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "id": "6971695ec11a5b6c16e23403816651f3b26667fb",
+          "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
+          "title_zh": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
           "title_en": null,
-          "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "title_original": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30278",
+          "url": "https://www.aibase.com/news/30309",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T11:12:10.014208Z"
+          "published_at": "2026-08-13T05:50:32.799576Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8508,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-12T11:12:10.014208Z",
-      "latest_at": "2026-08-12T11:12:10.014208Z",
+      "earliest_at": "2026-08-13T05:50:32.799576Z",
+      "latest_at": "2026-08-13T05:50:32.799576Z",
       "primary_item": {
-        "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-        "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-        "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+        "id": "6971695ec11a5b6c16e23403816651f3b26667fb",
+        "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
+        "title_zh": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
         "title_en": null,
-        "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+        "title_original": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30278",
+        "url": "https://www.aibase.com/news/30309",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1596,111 +1477,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     },
     {
-      "story_id": "story_47e0b6570ca0",
-      "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-      "url": "https://www.ithome.com/0/988/766.htm",
-      "primary_url": "https://www.ithome.com/0/988/766.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
-          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-          "title_zh": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-          "title_en": null,
-          "title_original": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-          "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/988/766.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T06:46:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
-          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-          "title_zh": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-          "title_en": null,
-          "title_original": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-          "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/988/766.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T06:46:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7981,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T06:46:51Z",
-      "latest_at": "2026-08-12T06:46:51Z",
-      "primary_item": {
-        "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
-        "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-        "title_zh": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-        "title_en": null,
-        "title_original": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-        "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/988/766.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
-      }
-    },
-    {
-      "story_id": "story_8703bb84c475",
-      "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-      "url": "https://www.aibase.com/news/30277",
-      "primary_url": "https://www.aibase.com/news/30277",
+      "story_id": "story_2ac97bec3be9",
+      "title": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
+      "url": "https://www.aibase.com/news/30304",
+      "primary_url": "https://www.aibase.com/news/30304",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "id": "5c5d59a357b28db2248316e3ff324872d77d8efc",
+          "title": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
+          "title_zh": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
           "title_en": null,
-          "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "title_original": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30277",
+          "url": "https://www.aibase.com/news/30304",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T11:12:10.014208Z"
+          "published_at": "2026-08-13T05:50:32.799576Z"
         }
       ],
       "source_count": 1,
@@ -1709,48 +1509,49 @@
       ],
       "items": [
         {
-          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "id": "5c5d59a357b28db2248316e3ff324872d77d8efc",
+          "title": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
+          "title_zh": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
           "title_en": null,
-          "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "title_original": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30277",
+          "url": "https://www.aibase.com/news/30304",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T11:12:10.014208Z"
+          "published_at": "2026-08-13T05:50:32.799576Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8508,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-12T11:12:10.014208Z",
-      "latest_at": "2026-08-12T11:12:10.014208Z",
+      "earliest_at": "2026-08-13T05:50:32.799576Z",
+      "latest_at": "2026-08-13T05:50:32.799576Z",
       "primary_item": {
-        "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-        "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-        "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "id": "5c5d59a357b28db2248316e3ff324872d77d8efc",
+        "title": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
+        "title_zh": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
         "title_en": null,
-        "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "title_original": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30277",
+        "url": "https://www.aibase.com/news/30304",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1758,7 +1559,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T22:24:16.386889Z"
+        "scored_at": "2026-08-13T05:51:16.309852Z"
+      }
+    },
+    {
+      "story_id": "story_628145e0f8a2",
+      "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它 / Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+      "primary_url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "ba04b292f882d774f76209dc8c842a0dd0159311",
+          "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它 / Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "title_zh": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它",
+          "title_en": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "title_original": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-12T22:26:37Z"
+        },
+        {
+          "id": "ca8495aa3f2663da155feaa9edf5dd84db4ae4e7",
+          "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊 / Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+          "title_zh": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊",
+          "title_en": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+          "title_original": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T22:26:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "ba04b292f882d774f76209dc8c842a0dd0159311",
+          "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它 / Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "title_zh": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它",
+          "title_en": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "title_original": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-12T22:26:37Z"
+        },
+        {
+          "id": "ca8495aa3f2663da155feaa9edf5dd84db4ae4e7",
+          "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊 / Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+          "title_zh": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊",
+          "title_en": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+          "title_original": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-12T22:26:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6555,
+      "importance": 0.6555,
+      "importance_score": 0.6555,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.58,
+        "ai_relevance": 0.82,
+        "recency": 0.8987,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T22:26:37Z",
+      "latest_at": "2026-08-12T22:26:37Z",
+      "primary_item": {
+        "id": "ba04b292f882d774f76209dc8c842a0dd0159311",
+        "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它 / Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "title_zh": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它",
+        "title_en": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "title_original": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T05:51:16.309852Z"
       }
     }
   ]
