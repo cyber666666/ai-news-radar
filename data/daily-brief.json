@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T18:35:17.976989Z",
+  "generated_at": "2026-08-14T20:33:22.135768Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8541,
-      "importance": 0.8541,
-      "importance_score": 0.8541,
+      "score": 0.8493,
+      "importance": 0.8493,
+      "importance_score": 0.8493,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9674,
+        "recency": 0.9403,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,148 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
+      }
+    },
+    {
+      "story_id": "story_b8125cc46db3",
+      "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermark works",
+          "title_original": "How Claude's text watermark works",
+          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T19:22:48.546000Z"
+        },
+        {
+          "id": "fe86574ca496c3a94e40f1684926fedb63bf2118",
+          "title": "Claude的文本水印如何工作 / How Claude's text watermarking works",
+          "title_zh": "Claude的文本水印如何工作",
+          "title_en": "How Claude's text watermarking works",
+          "title_original": "How Claude's text watermarking works",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49303350",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-14T20:06:21.921000Z"
+        },
+        {
+          "id": "c59e078fa3b68cf4bd99df2a40a0052431c8b14c",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermarking works",
+          "title_original": "How Claude's text watermarking works",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T19:15:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermark works",
+          "title_original": "How Claude's text watermark works",
+          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T19:22:48.546000Z"
+        },
+        {
+          "id": "fe86574ca496c3a94e40f1684926fedb63bf2118",
+          "title": "Claude的文本水印如何工作 / How Claude's text watermarking works",
+          "title_zh": "Claude的文本水印如何工作",
+          "title_en": "How Claude's text watermarking works",
+          "title_original": "How Claude's text watermarking works",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49303350",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-14T20:06:21.921000Z"
+        },
+        {
+          "id": "c59e078fa3b68cf4bd99df2a40a0052431c8b14c",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermarking works",
+          "title_original": "How Claude's text watermarking works",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T19:15:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9832,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T19:15:51Z",
+      "latest_at": "2026-08-14T20:06:21.921000Z",
+      "primary_item": {
+        "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+        "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+        "title_zh": "Claude 文本水印机制如何运作",
+        "title_en": "How Claude's text watermark works",
+        "title_original": "How Claude's text watermark works",
+        "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/claude-text-watermark",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -160,15 +301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8426,
-      "importance": 0.8426,
-      "importance_score": 0.8426,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7646,
+        "recency": 0.7432,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -244,15 +385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9633,
+        "recency": 0.9363,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -327,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8015,
+        "recency": 0.779,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -410,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9017,
+        "recency": 0.8765,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -444,7 +585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -492,15 +633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.942,
+        "recency": 0.9157,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -526,7 +667,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -574,15 +715,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9232,
+        "recency": 0.8973,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -608,7 +749,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -656,15 +797,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9501,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,7 +831,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -738,15 +879,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8985,
+        "recency": 0.8733,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -771,7 +912,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -819,15 +960,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9931,
+        "recency": 0.9653,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -852,7 +993,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -900,15 +1041,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.828,
+        "recency": 0.8048,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -933,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -981,15 +1122,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9092,
+        "recency": 0.8838,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,90 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
-      }
-    },
-    {
-      "story_id": "story_8bf1fc5309f6",
-      "title": "许可数据质量改进 / License data quality improvements",
-      "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-      "primary_url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-          "title": "许可数据质量改进 / License data quality improvements",
-          "title_zh": "许可数据质量改进",
-          "title_en": "License data quality improvements",
-          "title_original": "License data quality improvements",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T19:14:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-          "title": "许可数据质量改进 / License data quality improvements",
-          "title_zh": "许可数据质量改进",
-          "title_en": "License data quality improvements",
-          "title_original": "License data quality improvements",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T19:14:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7138,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T19:14:12Z",
-      "latest_at": "2026-08-13T19:14:12Z",
-      "primary_item": {
-        "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-        "title": "许可数据质量改进 / License data quality improvements",
-        "title_zh": "许可数据质量改进",
-        "title_en": "License data quality improvements",
-        "title_original": "License data quality improvements",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -1174,15 +1232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7273,
-      "importance": 0.7273,
-      "importance_score": 0.7273,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7369,
+        "recency": 0.7163,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1208,7 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -1256,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8985,
+        "recency": 0.8733,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1289,90 +1347,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
-      }
-    },
-    {
-      "story_id": "story_1495b257b86c",
-      "title": "阻止用户在个人代码仓库中发表评论 / Block users from comments in personal repositories",
-      "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-      "primary_url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-          "title": "阻止用户在个人代码仓库中发表评论 / Block users from comments in personal repositories",
-          "title_zh": "阻止用户在个人代码仓库中发表评论",
-          "title_en": "Block users from comments in personal repositories",
-          "title_original": "Block users from comments in personal repositories",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T19:02:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-          "title": "阻止用户在个人代码仓库中发表评论 / Block users from comments in personal repositories",
-          "title_zh": "阻止用户在个人代码仓库中发表评论",
-          "title_en": "Block users from comments in personal repositories",
-          "title_original": "Block users from comments in personal repositories",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T19:02:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7118,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T19:02:46Z",
-      "latest_at": "2026-08-13T19:02:46Z",
-      "primary_item": {
-        "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-        "title": "阻止用户在个人代码仓库中发表评论 / Block users from comments in personal repositories",
-        "title_zh": "阻止用户在个人代码仓库中发表评论",
-        "title_en": "Block users from comments in personal repositories",
-        "title_original": "Block users from comments in personal repositories",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -1420,15 +1395,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8985,
+        "recency": 0.8733,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1453,7 +1428,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -1501,15 +1476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8985,
+        "recency": 0.8733,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1534,7 +1509,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
+      }
+    },
+    {
+      "story_id": "story_18cc8e6fbb9e",
+      "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+      "primary_url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "41db97c21c7ec12e29a0218159544d14266d235a",
+          "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
+          "title_zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
+          "title_en": "Google will now allow users to remove visible watermark from its AI generations",
+          "title_original": "Google will now allow users to remove visible watermark from its AI generations",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-14T16:13:40Z"
+        },
+        {
+          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
+          "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
+          "title_zh": "谷歌现在将允许用户从人工智能内容中删除可见水印",
+          "title_en": "Google will now allow users to remove visible watermarks from AI content",
+          "title_original": "Google will now allow users to remove visible watermarks from AI content",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T19:04:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Engadget",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "41db97c21c7ec12e29a0218159544d14266d235a",
+          "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
+          "title_zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
+          "title_en": "Google will now allow users to remove visible watermark from its AI generations",
+          "title_original": "Google will now allow users to remove visible watermark from its AI generations",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-14T16:13:40Z"
+        },
+        {
+          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
+          "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
+          "title_zh": "谷歌现在将允许用户从人工智能内容中删除可见水印",
+          "title_en": "Google will now allow users to remove visible watermarks from AI content",
+          "title_original": "Google will now allow users to remove visible watermarks from AI content",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T19:04:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6379,
+      "importance": 0.6379,
+      "importance_score": 0.6379,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.9394,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T16:13:40Z",
+      "latest_at": "2026-08-14T19:04:42Z",
+      "primary_item": {
+        "id": "41db97c21c7ec12e29a0218159544d14266d235a",
+        "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
+        "title_zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
+        "title_en": "Google will now allow users to remove visible watermark from its AI generations",
+        "title_original": "Google will now allow users to remove visible watermark from its AI generations",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -1582,15 +1667,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8985,
+        "recency": 0.8733,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1615,7 +1700,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     },
     {
@@ -1691,15 +1776,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.623,
-      "importance": 0.623,
-      "importance_score": 0.623,
+      "score": 0.6181,
+      "importance": 0.6181,
+      "importance_score": 0.6181,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9725,
+        "recency": 0.9453,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1724,7 +1809,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T18:35:57.847130Z"
+        "scored_at": "2026-08-14T20:34:09.667179Z"
       }
     }
   ]
