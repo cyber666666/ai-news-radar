@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T16:26:50.900069Z",
+  "generated_at": "2026-08-15T20:24:58.389682Z",
   "window_hours": 24,
   "total_items": 15,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7742,
+        "recency": 0.7311,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,148 +83,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
+        "scored_at": "2026-08-15T20:25:38.044949Z"
       }
     },
     {
-      "story_id": "story_b8125cc46db3",
-      "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
-      "source": "Anthropic：Newsroom（网页）",
+      "story_id": "story_fe87bc97dd0a",
+      "title": "Cursor 正式被 SpaceX 收购",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "primary_url": "https://cursor.com/blog/joining-spacex",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermark works",
-          "title_original": "How Claude's text watermark works",
-          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "title_en": null,
+          "title_original": "Cursor 正式被 SpaceX 收购",
+          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
           "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic：Newsroom（网页）",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48.546000Z"
+          "published_at": "2026-08-15T20:05:54.703000Z"
         },
         {
-          "id": "fe86574ca496c3a94e40f1684926fedb63bf2118",
-          "title": "Claude的文本水印如何工作 / How Claude's text watermarking works",
-          "title_zh": "Claude的文本水印如何工作",
-          "title_en": "How Claude's text watermarking works",
-          "title_original": "How Claude's text watermarking works",
+          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
+          "title": "Cursor 现已成为 SpaceX 的一部分",
+          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
+          "title_en": null,
+          "title_original": "Cursor 现已成为 SpaceX 的一部分",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49303350",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T20:06:21.921000Z"
-        },
-        {
-          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermarking works",
-          "title_original": "How Claude's text watermarking works",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:15:51Z"
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:05:54.703000Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "Hacker News · 24h最热",
-        "hackernews"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cursor.com"
       ],
       "items": [
         {
-          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermark works",
-          "title_original": "How Claude's text watermark works",
-          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "title_en": null,
+          "title_original": "Cursor 正式被 SpaceX 收购",
+          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
           "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic：Newsroom（网页）",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48.546000Z"
+          "published_at": "2026-08-15T20:05:54.703000Z"
         },
         {
-          "id": "fe86574ca496c3a94e40f1684926fedb63bf2118",
-          "title": "Claude的文本水印如何工作 / How Claude's text watermarking works",
-          "title_zh": "Claude的文本水印如何工作",
-          "title_en": "How Claude's text watermarking works",
-          "title_original": "How Claude's text watermarking works",
+          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
+          "title": "Cursor 现已成为 SpaceX 的一部分",
+          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
+          "title_en": null,
+          "title_original": "Cursor 现已成为 SpaceX 的一部分",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49303350",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T20:06:21.921000Z"
-        },
-        {
-          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermarking works",
-          "title_original": "How Claude's text watermarking works",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:15:51Z"
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:05:54.703000Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7978,
-      "importance": 0.7978,
-      "importance_score": 0.7978,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7888,
+      "importance": 0.7888,
+      "importance_score": 0.7888,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 1.0,
+        "editorial": 0.71,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7377,
-        "story_heat": 0.5
+        "recency": 0.9954,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T19:15:51Z",
-      "latest_at": "2026-08-14T20:06:21.921000Z",
+      "earliest_at": "2026-08-15T20:05:54.703000Z",
+      "latest_at": "2026-08-15T20:05:54.703000Z",
       "primary_item": {
-        "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-        "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-        "title_zh": "Claude 文本水印机制如何运作",
-        "title_en": "How Claude's text watermark works",
-        "title_original": "How Claude's text watermark works",
-        "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+        "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+        "title": "Cursor 正式被 SpaceX 收购",
+        "title_zh": "Cursor 正式被 SpaceX 收购",
+        "title_en": null,
+        "title_original": "Cursor 正式被 SpaceX 收购",
+        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
         "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/news/claude-text-watermark",
-        "source": "Anthropic：Newsroom（网页）",
+        "url": "https://cursor.com/blog/joining-spacex",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
+        "scored_at": "2026-08-15T20:25:38.044949Z"
       }
     },
     {
@@ -272,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9245,
+        "recency": 0.873,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -305,116 +276,285 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
+        "scored_at": "2026-08-15T20:25:38.044949Z"
       }
     },
     {
-      "story_id": "story_298c63614044",
-      "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "primary_url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_e676b61085b8",
+      "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "url": "https://news.ycombinator.com/item?id=49312845",
+      "primary_url": "https://news.ycombinator.com/item?id=49312845",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
-          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
-          "title_zh": "您现在可以关闭 Google Gemini 的可见水印",
-          "title_en": "You can now turn off Google Gemini&#8217;s visible watermarks",
-          "title_original": "You can now turn off Google Gemini&#8217;s visible watermarks",
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": "人工智能并不比数学家聪明。它已经超出了记住他们的范围",
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T16:39:32Z"
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:09:30.973000Z"
         },
         {
-          "id": "32b164e7c3dfdb3140aa50a9755dc2b81bf015ad",
-          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini’s visible watermarks",
-          "title_zh": "您现在可以关闭 Google Gemini 的可见水印",
-          "title_en": "You can now turn off Google Gemini’s visible watermarks",
-          "title_original": "You can now turn off Google Gemini’s visible watermarks",
+          "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": null,
+          "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "source": "The Verge",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "davidepiffer.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T19:18:02.348000Z"
+        },
+        {
+          "id": "68b299a36a7875272b55a5ab05c39fb16965da31",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-14T16:39:32Z"
+          "published_at": "2026-08-15T18:13:02Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "The Verge"
+        "Hacker News",
+        "davidepiffer.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
-          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
-          "title_zh": "您现在可以关闭 Google Gemini 的可见水印",
-          "title_en": "You can now turn off Google Gemini&#8217;s visible watermarks",
-          "title_original": "You can now turn off Google Gemini&#8217;s visible watermarks",
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": "人工智能并不比数学家聪明。它已经超出了记住他们的范围",
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T16:39:32Z"
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:09:30.973000Z"
         },
         {
-          "id": "32b164e7c3dfdb3140aa50a9755dc2b81bf015ad",
-          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini’s visible watermarks",
-          "title_zh": "您现在可以关闭 Google Gemini 的可见水印",
-          "title_en": "You can now turn off Google Gemini’s visible watermarks",
-          "title_original": "You can now turn off Google Gemini’s visible watermarks",
+          "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": null,
+          "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "source": "The Verge",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "davidepiffer.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T19:18:02.348000Z"
+        },
+        {
+          "id": "68b299a36a7875272b55a5ab05c39fb16965da31",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-14T16:39:32Z"
+          "published_at": "2026-08-15T18:13:02Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5756,
-      "importance": 0.5756,
-      "importance_score": 0.5756,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5701,
+      "importance": 0.5701,
+      "importance_score": 0.5701,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7093,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9963,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-14T16:39:32Z",
-      "latest_at": "2026-08-14T16:39:32Z",
+      "earliest_at": "2026-08-15T18:13:02Z",
+      "latest_at": "2026-08-15T20:09:30.973000Z",
       "primary_item": {
-        "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
-        "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
-        "title_zh": "您现在可以关闭 Google Gemini 的可见水印",
-        "title_en": "You can now turn off Google Gemini&#8217;s visible watermarks",
-        "title_original": "You can now turn off Google Gemini&#8217;s visible watermarks",
+        "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+        "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+        "title_zh": "人工智能并不比数学家聪明。它已经超出了记住他们的范围",
+        "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+        "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://news.ycombinator.com/item?id=49312845",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
+        "scored_at": "2026-08-15T20:25:38.044949Z"
+      }
+    },
+    {
+      "story_id": "story_461e5611a9d5",
+      "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+      "primary_url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+      "source": "allen.bargi.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "title_en": null,
+          "title_original": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "allen.bargi.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T16:38:01.653000Z"
+        },
+        {
+          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
+          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+          "title_zh": "与人工智能一起工作感觉更像是领导而不是编码",
+          "title_en": "Working with AI Feels More Like Leadership Than Coding",
+          "title_original": "Working with AI Feels More Like Leadership Than Coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49309451",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:08:40.066000Z"
+        },
+        {
+          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI Feels More Like Leadership Than Coding",
+          "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "title_en": "Working with AI Feels More Like Leadership Than Coding",
+          "title_original": "Working with AI Feels More Like Leadership Than Coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T10:39:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "allen.bargi.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "title_en": null,
+          "title_original": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "allen.bargi.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T16:38:01.653000Z"
+        },
+        {
+          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
+          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+          "title_zh": "与人工智能一起工作感觉更像是领导而不是编码",
+          "title_en": "Working with AI Feels More Like Leadership Than Coding",
+          "title_original": "Working with AI Feels More Like Leadership Than Coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49309451",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:08:40.066000Z"
+        },
+        {
+          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI Feels More Like Leadership Than Coding",
+          "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "title_en": "Working with AI Feels More Like Leadership Than Coding",
+          "title_original": "Working with AI Feels More Like Leadership Than Coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T10:39:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5612,
+      "importance": 0.5612,
+      "importance_score": 0.5612,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9468,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T10:39:41Z",
+      "latest_at": "2026-08-15T16:38:01.653000Z",
+      "primary_item": {
+        "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
+        "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+        "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
+        "title_en": null,
+        "title_original": "从事人工智能工作，与其说是编程，不如说是领导工作",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+        "source": "allen.bargi.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T20:25:38.044949Z"
       }
     },
     {
@@ -520,15 +660,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5645,
-      "importance": 0.5645,
-      "importance_score": 0.5645,
+      "score": 0.5548,
+      "importance": 0.5548,
+      "importance_score": 0.5548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9648,
+        "recency": 0.9111,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -553,44 +693,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
+        "scored_at": "2026-08-15T20:25:38.044949Z"
       }
     },
     {
-      "story_id": "story_353de4c443a8",
-      "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-      "url": "https://news.ycombinator.com/item?id=49310495",
-      "primary_url": "https://news.ycombinator.com/item?id=49310495",
+      "story_id": "story_737248ef9162",
+      "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+      "url": "https://news.ycombinator.com/item?id=49313367",
+      "primary_url": "https://news.ycombinator.com/item?id=49313367",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
-          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
-          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么人工智能药物发现到底表现如何？",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310495",
+          "url": "https://news.ycombinator.com/item?id=49313367",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T16:08:40.066000Z"
+          "published_at": "2026-08-15T20:09:30.973000Z"
         },
         {
-          "id": "1f8ae1aef3db19d43c0f47ec3f690e670ae9f436",
-          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
-          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么人工智能药物发现到底表现如何？",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-15T13:43:46Z"
+          "published_at": "2026-08-15T19:12:53Z"
         }
       ],
       "source_count": 2,
@@ -600,62 +740,62 @@
       ],
       "items": [
         {
-          "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
-          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
-          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么人工智能药物发现到底表现如何？",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310495",
+          "url": "https://news.ycombinator.com/item?id=49313367",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T16:08:40.066000Z"
+          "published_at": "2026-08-15T20:09:30.973000Z"
         },
         {
-          "id": "1f8ae1aef3db19d43c0f47ec3f690e670ae9f436",
-          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
-          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
-          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么人工智能药物发现到底表现如何？",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-15T13:43:46Z"
+          "published_at": "2026-08-15T19:12:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9956,
+        "recency": 0.9963,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T13:43:46Z",
-      "latest_at": "2026-08-15T16:08:40.066000Z",
+      "earliest_at": "2026-08-15T19:12:53Z",
+      "latest_at": "2026-08-15T20:09:30.973000Z",
       "primary_item": {
-        "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
-        "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
-        "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
-        "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
-        "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+        "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+        "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+        "title_zh": "那么人工智能药物发现到底表现如何？",
+        "title_en": "So How Is AI Drug Discovery Doing, Really?",
+        "title_original": "So How Is AI Drug Discovery Doing, Really?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49310495",
+        "url": "https://news.ycombinator.com/item?id=49313367",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -663,117 +803,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
-      }
-    },
-    {
-      "story_id": "story_461e5611a9d5",
-      "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
-      "url": "https://news.ycombinator.com/item?id=49309451",
-      "primary_url": "https://news.ycombinator.com/item?id=49309451",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
-          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
-          "title_zh": "与人工智能一起工作感觉更像是领导而不是编码",
-          "title_en": "Working with AI Feels More Like Leadership Than Coding",
-          "title_original": "Working with AI Feels More Like Leadership Than Coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49309451",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:08:40.066000Z"
-        },
-        {
-          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
-          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
-          "title_zh": "与人工智能一起工作感觉更像是领导而不是编码",
-          "title_en": "Working with AI Feels More Like Leadership Than Coding",
-          "title_original": "Working with AI Feels More Like Leadership Than Coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T10:39:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
-          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
-          "title_zh": "与人工智能一起工作感觉更像是领导而不是编码",
-          "title_en": "Working with AI Feels More Like Leadership Than Coding",
-          "title_original": "Working with AI Feels More Like Leadership Than Coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49309451",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:08:40.066000Z"
-        },
-        {
-          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
-          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
-          "title_zh": "与人工智能一起工作感觉更像是领导而不是编码",
-          "title_en": "Working with AI Feels More Like Leadership Than Coding",
-          "title_original": "Working with AI Feels More Like Leadership Than Coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T10:39:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9956,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T10:39:41Z",
-      "latest_at": "2026-08-15T16:08:40.066000Z",
-      "primary_item": {
-        "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
-        "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
-        "title_zh": "与人工智能一起工作感觉更像是领导而不是编码",
-        "title_en": "Working with AI Feels More Like Leadership Than Coding",
-        "title_original": "Working with AI Feels More Like Leadership Than Coding",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49309451",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
+        "scored_at": "2026-08-15T20:25:38.044949Z"
       }
     },
     {
@@ -850,15 +880,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5134,
-      "importance": 0.5134,
-      "importance_score": 0.5134,
+      "score": 0.5052,
+      "importance": 0.5052,
+      "importance_score": 0.5052,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.82,
+        "recency": 0.7743,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -883,7 +913,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
+        "scored_at": "2026-08-15T20:25:38.044949Z"
+      }
+    },
+    {
+      "story_id": "story_353de4c443a8",
+      "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "https://news.ycombinator.com/item?id=49310495",
+      "primary_url": "https://news.ycombinator.com/item?id=49310495",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
+          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
+          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310495",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:08:40.066000Z"
+        },
+        {
+          "id": "1f8ae1aef3db19d43c0f47ec3f690e670ae9f436",
+          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
+          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T13:43:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
+          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
+          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310495",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:08:40.066000Z"
+        },
+        {
+          "id": "1f8ae1aef3db19d43c0f47ec3f690e670ae9f436",
+          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
+          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T13:43:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9402,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T13:43:46Z",
+      "latest_at": "2026-08-15T16:08:40.066000Z",
+      "primary_item": {
+        "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
+        "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
+        "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
+        "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
+        "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49310495",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T20:25:38.044949Z"
       }
     },
     {
@@ -960,15 +1100,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9956,
+        "recency": 0.9402,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -993,7 +1133,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
+        "scored_at": "2026-08-15T20:25:38.044949Z"
       }
     },
     {
@@ -1070,15 +1210,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9956,
+        "recency": 0.9402,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1103,7 +1243,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
+        "scored_at": "2026-08-15T20:25:38.044949Z"
       }
     },
     {
@@ -1180,15 +1320,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9956,
+        "recency": 0.9402,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1213,7 +1353,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
+        "scored_at": "2026-08-15T20:25:38.044949Z"
       }
     },
     {
@@ -1239,7 +1379,7 @@
           "published_at": "2026-08-15T12:41:09.619000Z"
         },
         {
-          "id": "5d40b0e4ac8c0a943027a8c463233c402307a69e",
+          "id": "e87d34022d30c47cf57e217d6741dffe90a85d0f",
           "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
           "title_zh": "Debian 已开始对 AI/LLM 贡献的未来进行投票",
           "title_en": "Debian has begun voting on the future of AI/LLM contributions",
@@ -1247,15 +1387,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T09:20:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1274,7 +1414,7 @@
           "published_at": "2026-08-15T12:41:09.619000Z"
         },
         {
-          "id": "5d40b0e4ac8c0a943027a8c463233c402307a69e",
+          "id": "e87d34022d30c47cf57e217d6741dffe90a85d0f",
           "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
           "title_zh": "Debian 已开始对 AI/LLM 贡献的未来进行投票",
           "title_en": "Debian has begun voting on the future of AI/LLM contributions",
@@ -1282,23 +1422,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T09:20:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9471,
+        "recency": 0.8944,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1323,7 +1463,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
+        "scored_at": "2026-08-15T20:25:38.044949Z"
       }
     },
     {
@@ -1349,7 +1489,7 @@
           "published_at": "2026-08-15T12:41:09.619000Z"
         },
         {
-          "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
+          "id": "62898d884feb1e92e6098d4e2970a33b66410c56",
           "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
           "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
           "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
@@ -1357,15 +1497,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T07:31:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1384,7 +1524,7 @@
           "published_at": "2026-08-15T12:41:09.619000Z"
         },
         {
-          "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
+          "id": "62898d884feb1e92e6098d4e2970a33b66410c56",
           "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
           "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
           "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
@@ -1392,23 +1532,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T07:31:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9471,
+        "recency": 0.8944,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1433,7 +1573,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
+        "scored_at": "2026-08-15T20:25:38.044949Z"
       }
     },
     {
@@ -1459,7 +1599,7 @@
           "published_at": "2026-08-15T08:21:08.889000Z"
         },
         {
-          "id": "21d03b11a1381fa674680da4e209d300ad0d8009",
+          "id": "9e2da1aa3b0c3622691c9553aed24690564828d8",
           "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
           "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
           "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
@@ -1467,15 +1607,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://chenxiachan.github.io/thoughtdag",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-15T04:42:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
@@ -1494,7 +1634,7 @@
           "published_at": "2026-08-15T08:21:08.889000Z"
         },
         {
-          "id": "21d03b11a1381fa674680da4e209d300ad0d8009",
+          "id": "9e2da1aa3b0c3622691c9553aed24690564828d8",
           "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
           "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
           "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
@@ -1502,23 +1642,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://chenxiachan.github.io/thoughtdag",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-15T04:42:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
+      "score": 0.517,
+      "importance": 0.517,
+      "importance_score": 0.517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8897,
+        "recency": 0.8401,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1543,117 +1683,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
-      }
-    },
-    {
-      "story_id": "story_b235d2a8da13",
-      "title": "LLM 生成的 GPU 内核的合同级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "url": "https://news.ycombinator.com/item?id=49301417",
-      "primary_url": "https://news.ycombinator.com/item?id=49301417",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "02aea13b6c790485d065938d4fcb5807c087c520",
-          "title": "LLM 生成的 GPU 内核的合同级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_zh": "LLM 生成的 GPU 内核的合同级验证器",
-          "title_en": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_original": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49301417",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T18:05:57.680000Z"
-        },
-        {
-          "id": "b1271d964bd74835298defc6c9b6c351230f171f",
-          "title": "LLM 生成的 GPU 内核的合同级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_zh": "LLM 生成的 GPU 内核的合同级验证器",
-          "title_en": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_original": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.12700",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T16:57:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "02aea13b6c790485d065938d4fcb5807c087c520",
-          "title": "LLM 生成的 GPU 内核的合同级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_zh": "LLM 生成的 GPU 内核的合同级验证器",
-          "title_en": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_original": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49301417",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T18:05:57.680000Z"
-        },
-        {
-          "id": "b1271d964bd74835298defc6c9b6c351230f171f",
-          "title": "LLM 生成的 GPU 内核的合同级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_zh": "LLM 生成的 GPU 内核的合同级验证器",
-          "title_en": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "title_original": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2608.12700",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T16:57:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4962,
-      "importance": 0.4962,
-      "importance_score": 0.4962,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7242,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T16:57:14Z",
-      "latest_at": "2026-08-14T18:05:57.680000Z",
-      "primary_item": {
-        "id": "02aea13b6c790485d065938d4fcb5807c087c520",
-        "title": "LLM 生成的 GPU 内核的合同级验证器 / A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-        "title_zh": "LLM 生成的 GPU 内核的合同级验证器",
-        "title_en": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-        "title_original": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49301417",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T16:27:26.763847Z"
+        "scored_at": "2026-08-15T20:25:38.044949Z"
       }
     }
   ]
