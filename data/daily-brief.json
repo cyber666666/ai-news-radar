@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-15T12:40:47.051689Z",
+  "generated_at": "2026-08-15T16:26:50.900069Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 15,
   "items": [
     {
-      "story_id": "story_3ded9ed73b65",
-      "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+      "story_id": "story_e27bfcf013b4",
+      "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+      "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+      "primary_url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-          "title_zh": "Grok 4.6 现已在 GitHub Copilot 中提供",
-          "title_en": "Grok 4.6 is now available in GitHub Copilot",
-          "title_original": "Grok 4.6 is now available in GitHub Copilot",
+          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+          "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+          "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
+          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
+          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-14T16:17:46Z"
+          "published_at": "2026-08-14T22:43:44Z"
         }
       ],
       "source_count": 1,
@@ -32,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-          "title_zh": "Grok 4.6 现已在 GitHub Copilot 中提供",
-          "title_en": "Grok 4.6 is now available in GitHub Copilot",
-          "title_original": "Grok 4.6 is now available in GitHub Copilot",
+          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+          "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+          "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
+          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
+          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-14T16:17:46Z"
+          "published_at": "2026-08-14T22:43:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.745,
+        "ai_relevance": 0.87,
+        "recency": 0.7742,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,17 +65,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T16:17:46Z",
-      "latest_at": "2026-08-14T16:17:46Z",
+      "earliest_at": "2026-08-14T22:43:44Z",
+      "latest_at": "2026-08-14T22:43:44Z",
       "primary_item": {
-        "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-        "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-        "title_zh": "Grok 4.6 现已在 GitHub Copilot 中提供",
-        "title_en": "Grok 4.6 is now available in GitHub Copilot",
-        "title_original": "Grok 4.6 is now available in GitHub Copilot",
+        "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+        "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+        "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
+        "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
+        "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+        "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
+        "scored_at": "2026-08-15T16:27:26.763847Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7789,
+        "recency": 0.7377,
         "story_heat": 0.5
       },
       "category": "official",
@@ -224,173 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
-      }
-    },
-    {
-      "story_id": "story_203ecf6e9943",
-      "title": "如何使用代理应用程序将软件交付工作流程引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b1a201456e76369f9a92aecd439f6395eb2e2c52",
-          "title": "如何使用代理应用程序将软件交付工作流程引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
-          "title_zh": "如何使用代理应用程序将软件交付工作流程引入 GitHub",
-          "title_en": "How to bring your software delivery workflow into GitHub with agent apps",
-          "title_original": "How to bring your software delivery workflow into GitHub with agent apps",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "b1a201456e76369f9a92aecd439f6395eb2e2c52",
-          "title": "如何使用代理应用程序将软件交付工作流程引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
-          "title_zh": "如何使用代理应用程序将软件交付工作流程引入 GitHub",
-          "title_en": "How to bring your software delivery workflow into GitHub with agent apps",
-          "title_original": "How to bring your software delivery workflow into GitHub with agent apps",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7975,
-      "importance": 0.7975,
-      "importance_score": 0.7975,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7418,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T16:00:00Z",
-      "latest_at": "2026-08-14T16:00:00Z",
-      "primary_item": {
-        "id": "b1a201456e76369f9a92aecd439f6395eb2e2c52",
-        "title": "如何使用代理应用程序将软件交付工作流程引入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
-        "title_zh": "如何使用代理应用程序将软件交付工作流程引入 GitHub",
-        "title_en": "How to bring your software delivery workflow into GitHub with agent apps",
-        "title_original": "How to bring your software delivery workflow into GitHub with agent apps",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
-      }
-    },
-    {
-      "story_id": "story_e27bfcf013b4",
-      "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-      "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-      "primary_url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
-          "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-          "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
-          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
-          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T22:43:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
-          "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-          "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
-          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
-          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T22:43:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8175,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T22:43:44Z",
-      "latest_at": "2026-08-14T22:43:44Z",
-      "primary_item": {
-        "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
-        "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-        "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
-        "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
-        "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
+        "scored_at": "2026-08-15T16:27:26.763847Z"
       }
     },
     {
@@ -438,21 +272,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9762,
+        "recency": 0.9245,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-15T11:00:50Z",
       "latest_at": "2026-08-15T11:00:50Z",
@@ -472,279 +305,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
-      }
-    },
-    {
-      "story_id": "story_3c124a5494f7",
-      "title": "Cursor 正式并入 SpaceXAI 助力 Grok / Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-      "url": "https://x.com/SpaceXAI/status/2088250109188608289",
-      "primary_url": "https://x.com/SpaceXAI/status/2088250109188608289",
-      "source": "X：SpaceXAI (@SpaceXAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
-          "title": "Cursor 正式并入 SpaceXAI 助力 Grok / Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-          "title_zh": "Cursor 正式并入 SpaceXAI 助力 Grok",
-          "title_en": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-          "title_original": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-          "summary": "Cursor 正式完成被 SpaceX 收购，团队加入 SpaceXAI，共同打造 Grok 为全球最实用的 AI。合作将聚焦软件工程，并扩展至知识工作领域，同时改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/SpaceXAI/status/2088250109188608289",
-          "source": "X：SpaceXAI (@SpaceXAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T13:03:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：SpaceXAI (@SpaceXAI)"
-      ],
-      "items": [
-        {
-          "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
-          "title": "Cursor 正式并入 SpaceXAI 助力 Grok / Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-          "title_zh": "Cursor 正式并入 SpaceXAI 助力 Grok",
-          "title_en": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-          "title_original": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-          "summary": "Cursor 正式完成被 SpaceX 收购，团队加入 SpaceXAI，共同打造 Grok 为全球最实用的 AI。合作将聚焦软件工程，并扩展至知识工作领域，同时改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/SpaceXAI/status/2088250109188608289",
-          "source": "X：SpaceXAI (@SpaceXAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T13:03:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7306,
-      "importance": 0.7306,
-      "importance_score": 0.7306,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7109,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T13:03:18Z",
-      "latest_at": "2026-08-14T13:03:18Z",
-      "primary_item": {
-        "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
-        "title": "Cursor 正式并入 SpaceXAI 助力 Grok / Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-        "title_zh": "Cursor 正式并入 SpaceXAI 助力 Grok",
-        "title_en": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-        "title_original": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-        "summary": "Cursor 正式完成被 SpaceX 收购，团队加入 SpaceXAI，共同打造 Grok 为全球最实用的 AI。合作将聚焦软件工程，并扩展至知识工作领域，同时改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/SpaceXAI/status/2088250109188608289",
-        "source": "X：SpaceXAI (@SpaceXAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
-      }
-    },
-    {
-      "story_id": "story_e5e76630b687",
-      "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-      "primary_url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
-          "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
-          "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T14:27:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
-          "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
-          "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T14:27:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7255,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T14:27:14Z",
-      "latest_at": "2026-08-14T14:27:14Z",
-      "primary_item": {
-        "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
-        "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
-        "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
-      }
-    },
-    {
-      "story_id": "story_18cc8e6fbb9e",
-      "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-      "primary_url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "41db97c21c7ec12e29a0218159544d14266d235a",
-          "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-          "title_zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
-          "title_en": "Google will now allow users to remove visible watermark from its AI generations",
-          "title_original": "Google will now allow users to remove visible watermark from its AI generations",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T16:13:40Z"
-        },
-        {
-          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
-          "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
-          "title_zh": "谷歌现在将允许用户从人工智能内容中删除可见水印",
-          "title_en": "Google will now allow users to remove visible watermarks from AI content",
-          "title_original": "Google will now allow users to remove visible watermarks from AI content",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T19:04:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Engadget",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "41db97c21c7ec12e29a0218159544d14266d235a",
-          "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-          "title_zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
-          "title_en": "Google will now allow users to remove visible watermark from its AI generations",
-          "title_original": "Google will now allow users to remove visible watermark from its AI generations",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T16:13:40Z"
-        },
-        {
-          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
-          "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
-          "title_zh": "谷歌现在将允许用户从人工智能内容中删除可见水印",
-          "title_en": "Google will now allow users to remove visible watermarks from AI content",
-          "title_original": "Google will now allow users to remove visible watermarks from AI content",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T19:04:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6027,
-      "importance": 0.6027,
-      "importance_score": 0.6027,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7443,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T16:13:40Z",
-      "latest_at": "2026-08-14T19:04:42Z",
-      "primary_item": {
-        "id": "41db97c21c7ec12e29a0218159544d14266d235a",
-        "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-        "title_zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印",
-        "title_en": "Google will now allow users to remove visible watermark from its AI generations",
-        "title_original": "Google will now allow users to remove visible watermark from its AI generations",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
+        "scored_at": "2026-08-15T16:27:26.763847Z"
       }
     },
     {
@@ -820,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5828,
-      "importance": 0.5828,
-      "importance_score": 0.5828,
+      "score": 0.5756,
+      "importance": 0.5756,
+      "importance_score": 0.5756,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7489,
+        "recency": 0.7093,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -853,7 +414,806 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
+        "scored_at": "2026-08-15T16:27:26.763847Z"
+      }
+    },
+    {
+      "story_id": "story_d572412cd374",
+      "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+      "url": "https://sankalp.bearblog.dev/autoresearch",
+      "primary_url": "https://sankalp.bearblog.dev/autoresearch",
+      "source": "sankalp.bearblog.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
+          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "title_en": null,
+          "title_original": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "sankalp.bearblog.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T13:58:02.713000Z"
+        },
+        {
+          "id": "346274b22b37e9694636fa708f056faa34061988",
+          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "title_zh": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核",
+          "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49309549",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T12:41:09.619000Z"
+        },
+        {
+          "id": "5a1c3f74be042d50ee3fda39cc577a12635ca5bc",
+          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T11:00:02Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "sankalp.bearblog.dev"
+      ],
+      "items": [
+        {
+          "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
+          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "title_en": null,
+          "title_original": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "sankalp.bearblog.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T13:58:02.713000Z"
+        },
+        {
+          "id": "346274b22b37e9694636fa708f056faa34061988",
+          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "title_zh": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核",
+          "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49309549",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T12:41:09.619000Z"
+        },
+        {
+          "id": "5a1c3f74be042d50ee3fda39cc577a12635ca5bc",
+          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的 / Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+          "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sankalp.bearblog.dev/autoresearch",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T11:00:02Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5645,
+      "importance": 0.5645,
+      "importance_score": 0.5645,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9648,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T11:00:02Z",
+      "latest_at": "2026-08-15T13:58:02.713000Z",
+      "primary_item": {
+        "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
+        "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+        "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+        "title_en": null,
+        "title_original": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://sankalp.bearblog.dev/autoresearch",
+        "source": "sankalp.bearblog.dev",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T16:27:26.763847Z"
+      }
+    },
+    {
+      "story_id": "story_353de4c443a8",
+      "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "https://news.ycombinator.com/item?id=49310495",
+      "primary_url": "https://news.ycombinator.com/item?id=49310495",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
+          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
+          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310495",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:08:40.066000Z"
+        },
+        {
+          "id": "1f8ae1aef3db19d43c0f47ec3f690e670ae9f436",
+          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
+          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T13:43:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
+          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
+          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310495",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:08:40.066000Z"
+        },
+        {
+          "id": "1f8ae1aef3db19d43c0f47ec3f690e670ae9f436",
+          "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
+          "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T13:43:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9956,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T13:43:46Z",
+      "latest_at": "2026-08-15T16:08:40.066000Z",
+      "primary_item": {
+        "id": "f6b38b4dde366310ef65c6d8455cfeda8e83552c",
+        "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
+        "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
+        "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
+        "title_original": "Yadda 3.0.0: BDD in the Age of AI Agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49310495",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T16:27:26.763847Z"
+      }
+    },
+    {
+      "story_id": "story_461e5611a9d5",
+      "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+      "url": "https://news.ycombinator.com/item?id=49309451",
+      "primary_url": "https://news.ycombinator.com/item?id=49309451",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
+          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+          "title_zh": "与人工智能一起工作感觉更像是领导而不是编码",
+          "title_en": "Working with AI Feels More Like Leadership Than Coding",
+          "title_original": "Working with AI Feels More Like Leadership Than Coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49309451",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:08:40.066000Z"
+        },
+        {
+          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
+          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+          "title_zh": "与人工智能一起工作感觉更像是领导而不是编码",
+          "title_en": "Working with AI Feels More Like Leadership Than Coding",
+          "title_original": "Working with AI Feels More Like Leadership Than Coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T10:39:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
+          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+          "title_zh": "与人工智能一起工作感觉更像是领导而不是编码",
+          "title_en": "Working with AI Feels More Like Leadership Than Coding",
+          "title_original": "Working with AI Feels More Like Leadership Than Coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49309451",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:08:40.066000Z"
+        },
+        {
+          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
+          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+          "title_zh": "与人工智能一起工作感觉更像是领导而不是编码",
+          "title_en": "Working with AI Feels More Like Leadership Than Coding",
+          "title_original": "Working with AI Feels More Like Leadership Than Coding",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T10:39:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9956,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T10:39:41Z",
+      "latest_at": "2026-08-15T16:08:40.066000Z",
+      "primary_item": {
+        "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
+        "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+        "title_zh": "与人工智能一起工作感觉更像是领导而不是编码",
+        "title_en": "Working with AI Feels More Like Leadership Than Coding",
+        "title_original": "Working with AI Feels More Like Leadership Than Coding",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49309451",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T16:27:26.763847Z"
+      }
+    },
+    {
+      "story_id": "story_f83e47ee3c75",
+      "title": "人工智能驱动测试 / AI Driven Testing",
+      "url": "https://app.deltix.ai",
+      "primary_url": "https://app.deltix.ai",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "0a7b10cb17b8d4acad23f6140e6218be614c2da6",
+          "title": "人工智能驱动测试 / AI Driven Testing",
+          "title_zh": "人工智能驱动测试",
+          "title_en": "AI Driven Testing",
+          "title_original": "AI Driven Testing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://app.deltix.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T02:42:14Z"
+        },
+        {
+          "id": "e205e722bde4dc4eca5649c78b23bcab4873c0e7",
+          "title": "显示 HN：Deltix – AI 驱动测试 / Show HN: Deltix – AI Driven Testing",
+          "title_zh": "显示 HN：Deltix – AI 驱动测试",
+          "title_en": "Show HN: Deltix – AI Driven Testing",
+          "title_original": "Show HN: Deltix – AI Driven Testing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://app.deltix.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T02:42:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "0a7b10cb17b8d4acad23f6140e6218be614c2da6",
+          "title": "人工智能驱动测试 / AI Driven Testing",
+          "title_zh": "人工智能驱动测试",
+          "title_en": "AI Driven Testing",
+          "title_original": "AI Driven Testing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://app.deltix.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T02:42:14Z"
+        },
+        {
+          "id": "e205e722bde4dc4eca5649c78b23bcab4873c0e7",
+          "title": "显示 HN：Deltix – AI 驱动测试 / Show HN: Deltix – AI Driven Testing",
+          "title_zh": "显示 HN：Deltix – AI 驱动测试",
+          "title_en": "Show HN: Deltix – AI Driven Testing",
+          "title_original": "Show HN: Deltix – AI Driven Testing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://app.deltix.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T02:42:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5134,
+      "importance": 0.5134,
+      "importance_score": 0.5134,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.82,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T02:42:14Z",
+      "latest_at": "2026-08-15T02:42:14Z",
+      "primary_item": {
+        "id": "0a7b10cb17b8d4acad23f6140e6218be614c2da6",
+        "title": "人工智能驱动测试 / AI Driven Testing",
+        "title_zh": "人工智能驱动测试",
+        "title_en": "AI Driven Testing",
+        "title_original": "AI Driven Testing",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://app.deltix.ai",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T16:27:26.763847Z"
+      }
+    },
+    {
+      "story_id": "story_67a9736d0220",
+      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://news.ycombinator.com/item?id=49310725",
+      "primary_url": "https://news.ycombinator.com/item?id=49310725",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:08:40.066000Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:08:40.066000Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9956,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T11:25:32Z",
+      "latest_at": "2026-08-15T16:08:40.066000Z",
+      "primary_item": {
+        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+        "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+        "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+        "title_en": "Secondhand book sales are booming. Is it because of AI?",
+        "title_original": "Secondhand book sales are booming. Is it because of AI?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49310725",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T16:27:26.763847Z"
+      }
+    },
+    {
+      "story_id": "story_f64b1a3994c2",
+      "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+      "url": "https://news.ycombinator.com/item?id=49311445",
+      "primary_url": "https://news.ycombinator.com/item?id=49311445",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
+          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
+          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49311445",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:08:40.066000Z"
+        },
+        {
+          "id": "ec044aa1f37fa1f4a7eb4edd58c21c37d836e4a3",
+          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
+          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://spectrum.ieee.org/ai-designed-virus",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T15:32:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
+          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
+          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49311445",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:08:40.066000Z"
+        },
+        {
+          "id": "ec044aa1f37fa1f4a7eb4edd58c21c37d836e4a3",
+          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
+          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://spectrum.ieee.org/ai-designed-virus",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T15:32:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9956,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T15:32:25Z",
+      "latest_at": "2026-08-15T16:08:40.066000Z",
+      "primary_item": {
+        "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
+        "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+        "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
+        "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+        "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49311445",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T16:27:26.763847Z"
+      }
+    },
+    {
+      "story_id": "story_7fbd0e2e70a1",
+      "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+      "url": "https://news.ycombinator.com/item?id=49310755",
+      "primary_url": "https://news.ycombinator.com/item?id=49310755",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b69f22b0fea2154dedef501019cccae418782581",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:08:40.066000Z"
+        },
+        {
+          "id": "06598c31e6ef82c5c5359fadef65d1dd415a2f4a",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://srikanth.ch/posts/the-ai-situation",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T14:12:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b69f22b0fea2154dedef501019cccae418782581",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:08:40.066000Z"
+        },
+        {
+          "id": "06598c31e6ef82c5c5359fadef65d1dd415a2f4a",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://srikanth.ch/posts/the-ai-situation",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T14:12:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9956,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T14:12:27Z",
+      "latest_at": "2026-08-15T16:08:40.066000Z",
+      "primary_item": {
+        "id": "b69f22b0fea2154dedef501019cccae418782581",
+        "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+        "title_zh": "软件开发中的人工智能现状",
+        "title_en": "The AI Situation in Software Development",
+        "title_original": "The AI Situation in Software Development",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49310755",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T16:27:26.763847Z"
       }
     },
     {
@@ -930,15 +1290,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9471,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -963,864 +1323,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
-      }
-    },
-    {
-      "story_id": "story_7aa12c11fa17",
-      "title": "充分利用您的克劳德代码（Claude Code）会话",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "primary_url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "source": "claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d1203a05303ec32139953b9c7a5de83604e12a84",
-          "title": "充分利用您的克劳德代码（Claude Code）会话",
-          "title_zh": "充分利用您的克劳德代码（Claude Code）会话",
-          "title_en": null,
-          "title_original": "充分利用您的克劳德代码（Claude Code）会话",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T22:16:05.719000Z"
-        },
-        {
-          "id": "102f1dd730b5a437e3a775e4302021a489092a36",
-          "title": "最大限度地发挥Claude代码课程的价值 / Maximizing the value of your Claude Code sessions",
-          "title_zh": "最大限度地发挥Claude代码课程的价值",
-          "title_en": "Maximizing the value of your Claude Code sessions",
-          "title_original": "Maximizing the value of your Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49300800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T18:05:57.680000Z"
-        },
-        {
-          "id": "ef41b7ce62ac386f758078a0319bf9644ea9cd77",
-          "title": "充分利用您的Claude代码（Claude Code）会话 / Maximizing the value of your Claude Code sessions",
-          "title_zh": "充分利用您的Claude代码（Claude Code）会话",
-          "title_en": "Maximizing the value of your Claude Code sessions",
-          "title_original": "Maximizing the value of your Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T16:15:21Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "claude.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d1203a05303ec32139953b9c7a5de83604e12a84",
-          "title": "充分利用您的克劳德代码（Claude Code）会话",
-          "title_zh": "充分利用您的克劳德代码（Claude Code）会话",
-          "title_en": null,
-          "title_original": "充分利用您的克劳德代码（Claude Code）会话",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T22:16:05.719000Z"
-        },
-        {
-          "id": "102f1dd730b5a437e3a775e4302021a489092a36",
-          "title": "最大限度地发挥Claude代码课程的价值 / Maximizing the value of your Claude Code sessions",
-          "title_zh": "最大限度地发挥Claude代码课程的价值",
-          "title_en": "Maximizing the value of your Claude Code sessions",
-          "title_original": "Maximizing the value of your Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49300800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T18:05:57.680000Z"
-        },
-        {
-          "id": "ef41b7ce62ac386f758078a0319bf9644ea9cd77",
-          "title": "充分利用您的Claude代码（Claude Code）会话 / Maximizing the value of your Claude Code sessions",
-          "title_zh": "充分利用您的Claude代码（Claude Code）会话",
-          "title_en": "Maximizing the value of your Claude Code sessions",
-          "title_original": "Maximizing the value of your Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T16:15:21Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8121,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T16:15:21Z",
-      "latest_at": "2026-08-14T22:16:05.719000Z",
-      "primary_item": {
-        "id": "d1203a05303ec32139953b9c7a5de83604e12a84",
-        "title": "充分利用您的克劳德代码（Claude Code）会话",
-        "title_zh": "充分利用您的克劳德代码（Claude Code）会话",
-        "title_en": null,
-        "title_original": "充分利用您的克劳德代码（Claude Code）会话",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-        "source": "claude.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
-      }
-    },
-    {
-      "story_id": "story_3d0ee750d14d",
-      "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-      "primary_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-      "source": "blog.google",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f41976f167970f859103f965ef83cfd41f741414",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "title_en": null,
-          "title_original": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T19:22:21.717000Z"
-        },
-        {
-          "id": "424699eea9fa4bc93cac2c0562150cb75326158d",
-          "title": "谷歌正在通过同态加密使私人人工智能变得实用 / Google is making private AI practical with homomorphic encryption",
-          "title_zh": "谷歌正在通过同态加密使私人人工智能变得实用",
-          "title_en": "Google is making private AI practical with homomorphic encryption",
-          "title_original": "Google is making private AI practical with homomorphic encryption",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49300314",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T18:05:57.680000Z"
-        },
-        {
-          "id": "23a0edbfd1efd7b8ab246f80926b3b03e0ea2075",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实 / Google Is Making Private AI Practical with Homomorphic Encryption",
-          "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "title_en": "Google Is Making Private AI Practical with Homomorphic Encryption",
-          "title_original": "Google Is Making Private AI Practical with Homomorphic Encryption",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T15:43:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "blog.google",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f41976f167970f859103f965ef83cfd41f741414",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "title_en": null,
-          "title_original": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T19:22:21.717000Z"
-        },
-        {
-          "id": "424699eea9fa4bc93cac2c0562150cb75326158d",
-          "title": "谷歌正在通过同态加密使私人人工智能变得实用 / Google is making private AI practical with homomorphic encryption",
-          "title_zh": "谷歌正在通过同态加密使私人人工智能变得实用",
-          "title_en": "Google is making private AI practical with homomorphic encryption",
-          "title_original": "Google is making private AI practical with homomorphic encryption",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49300314",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T18:05:57.680000Z"
-        },
-        {
-          "id": "23a0edbfd1efd7b8ab246f80926b3b03e0ea2075",
-          "title": "谷歌正借助同态加密让私有化人工智能成为现实 / Google Is Making Private AI Practical with Homomorphic Encryption",
-          "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
-          "title_en": "Google Is Making Private AI Practical with Homomorphic Encryption",
-          "title_original": "Google Is Making Private AI Practical with Homomorphic Encryption",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T15:43:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7789,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T15:43:10Z",
-      "latest_at": "2026-08-14T19:22:21.717000Z",
-      "primary_item": {
-        "id": "f41976f167970f859103f965ef83cfd41f741414",
-        "title": "谷歌正借助同态加密让私有化人工智能成为现实",
-        "title_zh": "谷歌正借助同态加密让私有化人工智能成为现实",
-        "title_en": null,
-        "title_original": "谷歌正借助同态加密让私有化人工智能成为现实",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-        "source": "blog.google",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
-      }
-    },
-    {
-      "story_id": "story_02ec0b642bd2",
-      "title": "当天才失灵：人工智能实验室的智力傲慢",
-      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-      "primary_url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-      "source": "weightythoughts.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
-          "title": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_en": null,
-          "title_original": "当天才失灵：人工智能实验室的智力傲慢",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-          "source": "weightythoughts.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T16:10:19.001000Z"
-        },
-        {
-          "id": "88da14f6fe324236413e4952b53842d93f2adce3",
-          "title": "当天才失败时：人工智能实验室的知识傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_zh": "当天才失败时：人工智能实验室的知识傲慢",
-          "title_en": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_original": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49299282",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T15:09:31.216000Z"
-        },
-        {
-          "id": "aae77e411a82914d7d2661154aa2fbf7cff5aa13",
-          "title": "当天才失灵：人工智能实验室的智力傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_en": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_original": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T14:34:49Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "weightythoughts.com"
-      ],
-      "items": [
-        {
-          "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
-          "title": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_en": null,
-          "title_original": "当天才失灵：人工智能实验室的智力傲慢",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-          "source": "weightythoughts.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T16:10:19.001000Z"
-        },
-        {
-          "id": "88da14f6fe324236413e4952b53842d93f2adce3",
-          "title": "当天才失败时：人工智能实验室的知识傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_zh": "当天才失败时：人工智能实验室的知识傲慢",
-          "title_en": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_original": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49299282",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T15:09:31.216000Z"
-        },
-        {
-          "id": "aae77e411a82914d7d2661154aa2fbf7cff5aa13",
-          "title": "当天才失灵：人工智能实验室的智力傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_en": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_original": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T14:34:49Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7437,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T14:34:49Z",
-      "latest_at": "2026-08-14T16:10:19.001000Z",
-      "primary_item": {
-        "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
-        "title": "当天才失灵：人工智能实验室的智力傲慢",
-        "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
-        "title_en": null,
-        "title_original": "当天才失灵：人工智能实验室的智力傲慢",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-        "source": "weightythoughts.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
-      }
-    },
-    {
-      "story_id": "story_f83e47ee3c75",
-      "title": "人工智能驱动测试 / AI Driven Testing",
-      "url": "https://app.deltix.ai",
-      "primary_url": "https://app.deltix.ai",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "0a7b10cb17b8d4acad23f6140e6218be614c2da6",
-          "title": "人工智能驱动测试 / AI Driven Testing",
-          "title_zh": "人工智能驱动测试",
-          "title_en": "AI Driven Testing",
-          "title_original": "AI Driven Testing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://app.deltix.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T02:42:14Z"
-        },
-        {
-          "id": "8b505a81e3065b1d92b7679c3db0826cae05db8a",
-          "title": "显示 HN：Deltix – AI 驱动测试 / Show HN: Deltix – AI Driven Testing",
-          "title_zh": "显示 HN：Deltix – AI 驱动测试",
-          "title_en": "Show HN: Deltix – AI Driven Testing",
-          "title_original": "Show HN: Deltix – AI Driven Testing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://app.deltix.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T02:42:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)"
-      ],
-      "items": [
-        {
-          "id": "0a7b10cb17b8d4acad23f6140e6218be614c2da6",
-          "title": "人工智能驱动测试 / AI Driven Testing",
-          "title_zh": "人工智能驱动测试",
-          "title_en": "AI Driven Testing",
-          "title_original": "AI Driven Testing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://app.deltix.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T02:42:14Z"
-        },
-        {
-          "id": "8b505a81e3065b1d92b7679c3db0826cae05db8a",
-          "title": "显示 HN：Deltix – AI 驱动测试 / Show HN: Deltix – AI Driven Testing",
-          "title_zh": "显示 HN：Deltix – AI 驱动测试",
-          "title_en": "Show HN: Deltix – AI Driven Testing",
-          "title_original": "Show HN: Deltix – AI Driven Testing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://app.deltix.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T02:42:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8658,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T02:42:14Z",
-      "latest_at": "2026-08-15T02:42:14Z",
-      "primary_item": {
-        "id": "0a7b10cb17b8d4acad23f6140e6218be614c2da6",
-        "title": "人工智能驱动测试 / AI Driven Testing",
-        "title_zh": "人工智能驱动测试",
-        "title_en": "AI Driven Testing",
-        "title_original": "AI Driven Testing",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://app.deltix.ai",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
-      }
-    },
-    {
-      "story_id": "story_d572412cd374",
-      "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-      "url": "https://news.ycombinator.com/item?id=49309549",
-      "primary_url": "https://news.ycombinator.com/item?id=49309549",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "346274b22b37e9694636fa708f056faa34061988",
-          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_zh": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核",
-          "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49309549",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T12:41:09.619000Z"
-        },
-        {
-          "id": "5a1c3f74be042d50ee3fda39cc577a12635ca5bc",
-          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_zh": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核",
-          "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T11:00:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "346274b22b37e9694636fa708f056faa34061988",
-          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_zh": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核",
-          "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49309549",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T12:41:09.619000Z"
-        },
-        {
-          "id": "5a1c3f74be042d50ee3fda39cc577a12635ca5bc",
-          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_zh": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核",
-          "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T11:00:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T11:00:02Z",
-      "latest_at": "2026-08-15T12:41:09.619000Z",
-      "primary_item": {
-        "id": "346274b22b37e9694636fa708f056faa34061988",
-        "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-        "title_zh": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核",
-        "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-        "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49309549",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
-      }
-    },
-    {
-      "story_id": "story_dce79a086a50",
-      "title": "亲手打造的AI",
-      "url": "https://www.byhand.ai",
-      "primary_url": "https://www.byhand.ai",
-      "source": "www.byhand.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
-          "title": "亲手打造的AI",
-          "title_zh": "亲手打造的AI",
-          "title_en": null,
-          "title_original": "亲手打造的AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.byhand.ai",
-          "source": "www.byhand.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T20:56:57.601000Z"
-        },
-        {
-          "id": "272e92f897c88293a600bd3a1108b047008f58f9",
-          "title": "亲手打造的AI / AI by Hand",
-          "title_zh": "亲手打造的AI",
-          "title_en": "AI by Hand",
-          "title_original": "AI by Hand",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.byhand.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T15:58:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.byhand.ai"
-      ],
-      "items": [
-        {
-          "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
-          "title": "亲手打造的AI",
-          "title_zh": "亲手打造的AI",
-          "title_en": null,
-          "title_original": "亲手打造的AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.byhand.ai",
-          "source": "www.byhand.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T20:56:57.601000Z"
-        },
-        {
-          "id": "272e92f897c88293a600bd3a1108b047008f58f9",
-          "title": "亲手打造的AI / AI by Hand",
-          "title_zh": "亲手打造的AI",
-          "title_en": "AI by Hand",
-          "title_original": "AI by Hand",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.byhand.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T15:58:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5092,
-      "importance": 0.5092,
-      "importance_score": 0.5092,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7968,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T15:58:59Z",
-      "latest_at": "2026-08-14T20:56:57.601000Z",
-      "primary_item": {
-        "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
-        "title": "亲手打造的AI",
-        "title_zh": "亲手打造的AI",
-        "title_en": null,
-        "title_original": "亲手打造的AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.byhand.ai",
-        "source": "www.byhand.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
-      }
-    },
-    {
-      "story_id": "story_cec2fecb0919",
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "source": "huggingface.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7f94c9571ef00d749f312a2c3ed54a75481f41ba",
-          "title": "Qwen 3.8 27B",
-          "title_zh": null,
-          "title_en": null,
-          "title_original": "Qwen 3.8 27B",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T16:57:54.561000Z"
-        },
-        {
-          "id": "f72a9e177ee5e91bbe354f439d99f8dfb1e80110",
-          "title": "Qwen 3.8 27B 已发布：开放权重，迄今为止最好的局部密集模型 / Qwen 3.8 27B is out: open weights, best local dense model yet",
-          "title_zh": "Qwen 3.8 27B 已发布：开放权重，迄今为止最好的局部密集模型",
-          "title_en": "Qwen 3.8 27B is out: open weights, best local dense model yet",
-          "title_original": "Qwen 3.8 27B is out: open weights, best local dense model yet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T15:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "huggingface.co"
-      ],
-      "items": [
-        {
-          "id": "7f94c9571ef00d749f312a2c3ed54a75481f41ba",
-          "title": "Qwen 3.8 27B",
-          "title_zh": null,
-          "title_en": null,
-          "title_original": "Qwen 3.8 27B",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T16:57:54.561000Z"
-        },
-        {
-          "id": "f72a9e177ee5e91bbe354f439d99f8dfb1e80110",
-          "title": "Qwen 3.8 27B 已发布：开放权重，迄今为止最好的局部密集模型 / Qwen 3.8 27B is out: open weights, best local dense model yet",
-          "title_zh": "Qwen 3.8 27B 已发布：开放权重，迄今为止最好的局部密集模型",
-          "title_en": "Qwen 3.8 27B is out: open weights, best local dense model yet",
-          "title_original": "Qwen 3.8 27B is out: open weights, best local dense model yet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T15:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5012,
-      "importance": 0.5012,
-      "importance_score": 0.5012,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7522,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T15:00:00Z",
-      "latest_at": "2026-08-14T16:57:54.561000Z",
-      "primary_item": {
-        "id": "7f94c9571ef00d749f312a2c3ed54a75481f41ba",
-        "title": "Qwen 3.8 27B",
-        "title_zh": null,
-        "title_en": null,
-        "title_original": "Qwen 3.8 27B",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-        "source": "huggingface.co",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
+        "scored_at": "2026-08-15T16:27:26.763847Z"
       }
     },
     {
@@ -1897,15 +1400,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9471,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1930,7 +1433,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
+        "scored_at": "2026-08-15T16:27:26.763847Z"
       }
     },
     {
@@ -2007,15 +1510,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5259,
+      "importance": 0.5259,
+      "importance_score": 0.5259,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9394,
+        "recency": 0.8897,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2040,7 +1543,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
+        "scored_at": "2026-08-15T16:27:26.763847Z"
       }
     },
     {
@@ -2117,15 +1620,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5034,
-      "importance": 0.5034,
-      "importance_score": 0.5034,
+      "score": 0.4962,
+      "importance": 0.4962,
+      "importance_score": 0.4962,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7647,
+        "recency": 0.7242,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2147,10 +1650,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T12:41:50.653575Z"
+        "scored_at": "2026-08-15T16:27:26.763847Z"
       }
     }
   ]
