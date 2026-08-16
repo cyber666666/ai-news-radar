@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T16:27:33.277511Z",
+  "generated_at": "2026-08-16T20:24:37.370546Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 9,
   "items": [
     {
       "story_id": "story_0bf300873ab5",
@@ -26,7 +26,7 @@
           "published_at": "2026-08-16T11:17:57.393000Z"
         },
         {
-          "id": "27b9f4089f8085a15aae2a3d357f5462459861f1",
+          "id": "0d14ffd393541711b291e3e36e5b0b4d3b0d7bd6",
           "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multi-agent systems",
           "title_zh": "新兴多智能体系统的模式与问题",
           "title_en": "Patterns and problems in emerging multi-agent systems",
@@ -34,15 +34,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-16T02:12:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
@@ -61,7 +61,7 @@
           "published_at": "2026-08-16T11:17:57.393000Z"
         },
         {
-          "id": "27b9f4089f8085a15aae2a3d357f5462459861f1",
+          "id": "0d14ffd393541711b291e3e36e5b0b4d3b0d7bd6",
           "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multi-agent systems",
           "title_zh": "新兴多智能体系统的模式与问题",
           "title_en": "Patterns and problems in emerging multi-agent systems",
@@ -69,23 +69,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-16T02:12:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9282,
+        "recency": 0.8767,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T16:28:24.236116Z"
+        "scored_at": "2026-08-16T20:25:10.523378Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8264,
+        "recency": 0.7805,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -193,678 +193,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T16:28:24.236116Z"
+        "scored_at": "2026-08-16T20:25:10.523378Z"
       }
     },
     {
-      "story_id": "story_fe87bc97dd0a",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "primary_url": "https://cursor.com/blog/joining-spacex",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_02084b7684a5",
+      "title": "人工智能信用转售经济",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "primary_url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "source": "vectoral.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
+          "title": "人工智能信用转售经济",
+          "title_zh": "人工智能信用转售经济",
           "title_en": null,
-          "title_original": "Cursor 正式被 SpaceX 收购",
-          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        },
-        {
-          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
-          "title": "Cursor 现已成为 SpaceX 的一部分",
-          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
-          "title_en": null,
-          "title_original": "Cursor 现已成为 SpaceX 的一部分",
+          "title_original": "人工智能信用转售经济",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "cursor.com",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "vectoral.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "cursor.com"
-      ],
-      "items": [
-        {
-          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "title_zh": "Cursor 正式被 SpaceX 收购",
-          "title_en": null,
-          "title_original": "Cursor 正式被 SpaceX 收购",
-          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T20:05:54.703000Z"
+          "published_at": "2026-08-16T17:26:39.701000Z"
         },
         {
-          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
-          "title": "Cursor 现已成为 SpaceX 的一部分",
-          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
-          "title_en": null,
-          "title_original": "Cursor 现已成为 SpaceX 的一部分",
+          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
+          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+          "title_zh": "人工智能信用转售经济",
+          "title_en": "The AI Credit Resale Economy",
+          "title_original": "The AI Credit Resale Economy",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7453,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-15T20:05:54.703000Z",
-      "latest_at": "2026-08-15T20:05:54.703000Z",
-      "primary_item": {
-        "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-        "title": "Cursor 正式被 SpaceX 收购",
-        "title_zh": "Cursor 正式被 SpaceX 收购",
-        "title_en": null,
-        "title_original": "Cursor 正式被 SpaceX 收购",
-        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-        "recommend_reason_zh": null,
-        "url": "https://cursor.com/blog/joining-spacex",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T16:28:24.236116Z"
-      }
-    },
-    {
-      "story_id": "story_dbeb44805b60",
-      "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-      "primary_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
-          "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
-          "title_zh": "Anthropic 分享了有关Claude新水印如何运作的更多细节",
-          "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
-          "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-15T18:58:39Z"
+          "url": "https://news.ycombinator.com/item?id=49320611",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T16:12:38.444000Z"
         },
         {
-          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
-          "title": "Anthropic 分享了有关Claude新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
-          "title_zh": "Anthropic 分享了有关Claude新水印如何工作的更多细节",
-          "title_en": "Anthropic shares more details about how Claude's new watermarks will work",
-          "title_original": "Anthropic shares more details about how Claude's new watermarks will work",
+          "id": "de7b60bb1f976ee72065e14379287244706e9c3b",
+          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+          "title_zh": "人工智能信用转售经济",
+          "title_en": "The AI Credit Resale Economy",
+          "title_original": "The AI Credit Resale Economy",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-16T10:03:27Z"
-        },
-        {
-          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
-          "title": "Anthropic 分享了有关Claude的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
-          "title_zh": "Anthropic 分享了有关Claude的新水印如何工作的详细信息",
-          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
-          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-15T22:07:08Z"
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T14:44:55Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "TechCrunch AI"
+        "Hacker News",
+        "hackernews",
+        "vectoral.com"
       ],
       "items": [
         {
-          "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
-          "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
-          "title_zh": "Anthropic 分享了有关Claude新水印如何运作的更多细节",
-          "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
-          "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
+          "title": "人工智能信用转售经济",
+          "title_zh": "人工智能信用转售经济",
+          "title_en": null,
+          "title_original": "人工智能信用转售经济",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-15T18:58:39Z"
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "vectoral.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:39.701000Z"
         },
         {
-          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
-          "title": "Anthropic 分享了有关Claude新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
-          "title_zh": "Anthropic 分享了有关Claude新水印如何工作的更多细节",
-          "title_en": "Anthropic shares more details about how Claude's new watermarks will work",
-          "title_original": "Anthropic shares more details about how Claude's new watermarks will work",
+          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
+          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+          "title_zh": "人工智能信用转售经济",
+          "title_en": "The AI Credit Resale Economy",
+          "title_original": "The AI Credit Resale Economy",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-16T10:03:27Z"
+          "url": "https://news.ycombinator.com/item?id=49320611",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T16:12:38.444000Z"
         },
         {
-          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
-          "title": "Anthropic 分享了有关Claude的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
-          "title_zh": "Anthropic 分享了有关Claude的新水印如何工作的详细信息",
-          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
-          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
+          "id": "de7b60bb1f976ee72065e14379287244706e9c3b",
+          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+          "title_zh": "人工智能信用转售经济",
+          "title_en": "The AI Credit Resale Economy",
+          "title_original": "The AI Credit Resale Economy",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-15T22:07:08Z"
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T14:44:55Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6507,
-      "importance": 0.6507,
-      "importance_score": 0.6507,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.7333,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-15T18:58:39Z",
-      "latest_at": "2026-08-16T10:03:27Z",
-      "primary_item": {
-        "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
-        "title": "Anthropic 分享了有关Claude新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
-        "title_zh": "Anthropic 分享了有关Claude新水印如何运作的更多细节",
-        "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
-        "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T16:28:24.236116Z"
-      }
-    },
-    {
-      "story_id": "story_01c472791cae",
-      "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "primary_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "source": "www.science.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "title_zh": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "title_en": null,
-          "title_original": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "www.science.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T02:46:42.706000Z"
-        },
-        {
-          "id": "2482d8bb344b37476f7a3c5191ab942296699936",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery – what it is, where we stand and the path forward",
-          "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
-          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49313367",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T01:10:20.889000Z"
-        },
-        {
-          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / AI in drug discovery – what it is, where we stand and the path forward",
-          "title_zh": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "27bdad6646bdd01e6c3dd7fbbc37fdf837d9b10a",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-          "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
-          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nature.com/articles/s41573-026-01496-2",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / So How Is AI Drug Discovery Doing, Really?",
-          "title_zh": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "title_en": "So How Is AI Drug Discovery Doing, Really?",
-          "title_original": "So How Is AI Drug Discovery Doing, Really?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.science.org"
-      ],
-      "items": [
-        {
-          "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "title_zh": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "title_en": null,
-          "title_original": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "www.science.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T02:46:42.706000Z"
-        },
-        {
-          "id": "2482d8bb344b37476f7a3c5191ab942296699936",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery – what it is, where we stand and the path forward",
-          "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
-          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49313367",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T01:10:20.889000Z"
-        },
-        {
-          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / AI in drug discovery – what it is, where we stand and the path forward",
-          "title_zh": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "27bdad6646bdd01e6c3dd7fbbc37fdf837d9b10a",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-          "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
-          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nature.com/articles/s41573-026-01496-2",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / So How Is AI Drug Discovery Doing, Really?",
-          "title_zh": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "title_en": "So How Is AI Drug Discovery Doing, Really?",
-          "title_original": "So How Is AI Drug Discovery Doing, Really?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5885,
-      "importance": 0.5885,
-      "importance_score": 0.5885,
+      "score": 0.5633,
+      "importance": 0.5633,
+      "importance_score": 0.5633,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8207,
-        "story_heat": 1.0
+        "recency": 0.9581,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T19:12:53Z",
-      "latest_at": "2026-08-16T02:46:42.706000Z",
+      "earliest_at": "2026-08-16T14:44:55Z",
+      "latest_at": "2026-08-16T17:26:39.701000Z",
       "primary_item": {
-        "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
-        "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-        "title_zh": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
+        "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
+        "title": "人工智能信用转售经济",
+        "title_zh": "人工智能信用转售经济",
         "title_en": null,
-        "title_original": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
+        "title_original": "人工智能信用转售经济",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-        "source": "www.science.org",
+        "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+        "source": "vectoral.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T16:28:24.236116Z"
-      }
-    },
-    {
-      "story_id": "story_e676b61085b8",
-      "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-      "url": "https://news.ycombinator.com/item?id=49312845",
-      "primary_url": "https://news.ycombinator.com/item?id=49312845",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
-          "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-          "title_zh": "人工智能拥有比人脑大得多的工作记忆",
-          "title_en": "AI has access to a vastly larger working memory than the human brain",
-          "title_original": "AI has access to a vastly larger working memory than the human brain",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T01:10:20.889000Z"
-        },
-        {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_zh": "人工智能并不比数学家聪明。它已经超出了记住他们的范围",
-          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T20:09:30.973000Z"
-        },
-        {
-          "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_en": null,
-          "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "davidepiffer.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T19:18:02.348000Z"
-        },
-        {
-          "id": "68b299a36a7875272b55a5ab05c39fb16965da31",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T18:13:02Z"
-        },
-        {
-          "id": "fd40ff95706cefac27949aa572fb7dbdef1e8880",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI has access to a vastly larger working memory than the human brain",
-          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_en": "AI has access to a vastly larger working memory than the human brain",
-          "title_original": "AI has access to a vastly larger working memory than the human brain",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T18:13:02Z"
-        },
-        {
-          "id": "3dbbb30ee3c690d65bd950ecb4b8531b4f68f3b8",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI isn’t outthinking mathematicians, it’s out-remembering them",
-          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_en": "AI isn’t outthinking mathematicians, it’s out-remembering them",
-          "title_original": "AI isn’t outthinking mathematicians, it’s out-remembering them",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T18:13:02Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "davidepiffer.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
-          "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-          "title_zh": "人工智能拥有比人脑大得多的工作记忆",
-          "title_en": "AI has access to a vastly larger working memory than the human brain",
-          "title_original": "AI has access to a vastly larger working memory than the human brain",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T01:10:20.889000Z"
-        },
-        {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_zh": "人工智能并不比数学家聪明。它已经超出了记住他们的范围",
-          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T20:09:30.973000Z"
-        },
-        {
-          "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_en": null,
-          "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "davidepiffer.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T19:18:02.348000Z"
-        },
-        {
-          "id": "68b299a36a7875272b55a5ab05c39fb16965da31",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T18:13:02Z"
-        },
-        {
-          "id": "fd40ff95706cefac27949aa572fb7dbdef1e8880",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI has access to a vastly larger working memory than the human brain",
-          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_en": "AI has access to a vastly larger working memory than the human brain",
-          "title_original": "AI has access to a vastly larger working memory than the human brain",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T18:13:02Z"
-        },
-        {
-          "id": "3dbbb30ee3c690d65bd950ecb4b8531b4f68f3b8",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI isn’t outthinking mathematicians, it’s out-remembering them",
-          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_en": "AI isn’t outthinking mathematicians, it’s out-remembering them",
-          "title_original": "AI isn’t outthinking mathematicians, it’s out-remembering them",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T18:13:02Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.5851,
-      "importance": 0.5851,
-      "importance_score": 0.5851,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8019,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T18:13:02Z",
-      "latest_at": "2026-08-16T01:10:20.889000Z",
-      "primary_item": {
-        "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
-        "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-        "title_zh": "人工智能拥有比人脑大得多的工作记忆",
-        "title_en": "AI has access to a vastly larger working memory than the human brain",
-        "title_original": "AI has access to a vastly larger working memory than the human brain",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49312845",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T16:28:24.236116Z"
+        "scored_at": "2026-08-16T20:25:10.523378Z"
       }
     },
     {
@@ -904,7 +372,7 @@
           "published_at": "2026-08-16T08:11:23.846000Z"
         },
         {
-          "id": "cc6db7886f6a22d4816eca7c199301e3776f089c",
+          "id": "ab4d7fd4d10f46e1fd135490112c3e62f61b2774",
           "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？ / What happens when an LLM never sees material beyond fifth grade?",
           "title_zh": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
           "title_en": "What happens when an LLM never sees material beyond fifth grade?",
@@ -912,15 +380,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://littlelearner-ll.github.io",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-16T07:37:53Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "littlelearner-ll.github.io"
       ],
@@ -954,7 +422,7 @@
           "published_at": "2026-08-16T08:11:23.846000Z"
         },
         {
-          "id": "cc6db7886f6a22d4816eca7c199301e3776f089c",
+          "id": "ab4d7fd4d10f46e1fd135490112c3e62f61b2774",
           "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？ / What happens when an LLM never sees material beyond fifth grade?",
           "title_zh": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
           "title_en": "What happens when an LLM never sees material beyond fifth grade?",
@@ -962,23 +430,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://littlelearner-ll.github.io",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-16T07:37:53Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5541,
-      "importance": 0.5541,
-      "importance_score": 0.5541,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.907,
+        "recency": 0.8567,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1003,117 +471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T16:28:24.236116Z"
-      }
-    },
-    {
-      "story_id": "story_ad56c119c312",
-      "title": "克劳德：系统提示",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "source": "platform.claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
-          "title": "克劳德：系统提示",
-          "title_zh": "克劳德：系统提示",
-          "title_en": null,
-          "title_original": "克劳德：系统提示",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "platform.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T14:30:18.432000Z"
-        },
-        {
-          "id": "1ad0eb1cf08472e153add8531ec7eb5aac577200",
-          "title": "Claude：系统提示 / Claude: System Prompts",
-          "title_zh": "Claude：系统提示",
-          "title_en": "Claude: System Prompts",
-          "title_original": "Claude: System Prompts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T12:48:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "platform.claude.com"
-      ],
-      "items": [
-        {
-          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
-          "title": "克劳德：系统提示",
-          "title_zh": "克劳德：系统提示",
-          "title_en": null,
-          "title_original": "克劳德：系统提示",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "platform.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T14:30:18.432000Z"
-        },
-        {
-          "id": "1ad0eb1cf08472e153add8531ec7eb5aac577200",
-          "title": "Claude：系统提示 / Claude: System Prompts",
-          "title_zh": "Claude：系统提示",
-          "title_en": "Claude: System Prompts",
-          "title_original": "Claude: System Prompts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T12:48:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5408,
-      "importance": 0.5408,
-      "importance_score": 0.5408,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9722,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T12:48:21Z",
-      "latest_at": "2026-08-16T14:30:18.432000Z",
-      "primary_item": {
-        "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
-        "title": "克劳德：系统提示",
-        "title_zh": "克劳德：系统提示",
-        "title_en": null,
-        "title_original": "克劳德：系统提示",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-        "source": "platform.claude.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-16T16:28:24.236116Z"
+        "scored_at": "2026-08-16T20:25:10.523378Z"
       }
     },
     {
@@ -1190,15 +548,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9964,
+        "recency": 0.9412,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1223,117 +581,226 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T16:28:24.236116Z"
+        "scored_at": "2026-08-16T20:25:10.523378Z"
       }
     },
     {
-      "story_id": "story_02084b7684a5",
-      "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
-      "url": "https://news.ycombinator.com/item?id=49320611",
-      "primary_url": "https://news.ycombinator.com/item?id=49320611",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_ad56c119c312",
+      "title": "克劳德：系统提示",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source": "platform.claude.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
-          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
-          "title_zh": "人工智能信用转售经济",
-          "title_en": "The AI Credit Resale Economy",
-          "title_original": "The AI Credit Resale Economy",
+          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+          "title": "克劳德：系统提示",
+          "title_zh": "克劳德：系统提示",
+          "title_en": null,
+          "title_original": "克劳德：系统提示",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49320611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T16:12:38.444000Z"
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "platform.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T14:30:18.432000Z"
         },
         {
-          "id": "de7b60bb1f976ee72065e14379287244706e9c3b",
-          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
-          "title_zh": "人工智能信用转售经济",
-          "title_en": "The AI Credit Resale Economy",
-          "title_original": "The AI Credit Resale Economy",
+          "id": "1ad0eb1cf08472e153add8531ec7eb5aac577200",
+          "title": "Claude：系统提示 / Claude: System Prompts",
+          "title_zh": "Claude：系统提示",
+          "title_en": "Claude: System Prompts",
+          "title_original": "Claude: System Prompts",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-16T14:44:55Z"
+          "published_at": "2026-08-16T12:48:21Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "hackernews"
+        "platform.claude.com"
       ],
       "items": [
         {
-          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
-          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
-          "title_zh": "人工智能信用转售经济",
-          "title_en": "The AI Credit Resale Economy",
-          "title_original": "The AI Credit Resale Economy",
+          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+          "title": "克劳德：系统提示",
+          "title_zh": "克劳德：系统提示",
+          "title_en": null,
+          "title_original": "克劳德：系统提示",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49320611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T16:12:38.444000Z"
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "platform.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T14:30:18.432000Z"
         },
         {
-          "id": "de7b60bb1f976ee72065e14379287244706e9c3b",
-          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
-          "title_zh": "人工智能信用转售经济",
-          "title_en": "The AI Credit Resale Economy",
-          "title_original": "The AI Credit Resale Economy",
+          "id": "1ad0eb1cf08472e153add8531ec7eb5aac577200",
+          "title": "Claude：系统提示 / Claude: System Prompts",
+          "title_zh": "Claude：系统提示",
+          "title_en": "Claude: System Prompts",
+          "title_original": "Claude: System Prompts",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-16T14:44:55Z"
+          "published_at": "2026-08-16T12:48:21Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9964,
+        "recency": 0.9183,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T14:44:55Z",
-      "latest_at": "2026-08-16T16:12:38.444000Z",
+      "earliest_at": "2026-08-16T12:48:21Z",
+      "latest_at": "2026-08-16T14:30:18.432000Z",
       "primary_item": {
-        "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
-        "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
-        "title_zh": "人工智能信用转售经济",
-        "title_en": "The AI Credit Resale Economy",
-        "title_original": "The AI Credit Resale Economy",
+        "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+        "title": "克劳德：系统提示",
+        "title_zh": "克劳德：系统提示",
+        "title_en": null,
+        "title_original": "克劳德：系统提示",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49320611",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+        "source": "platform.claude.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T16:28:24.236116Z"
+        "scored_at": "2026-08-16T20:25:10.523378Z"
+      }
+    },
+    {
+      "story_id": "story_219081828aa3",
+      "title": "Anthropic 分享了有关Claude新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "primary_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
+          "title": "Anthropic 分享了有关Claude新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude新水印如何工作的更多细节",
+          "title_en": "Anthropic shares more details about how Claude's new watermarks will work",
+          "title_original": "Anthropic shares more details about how Claude's new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-16T10:03:27Z"
+        },
+        {
+          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
+          "title": "Anthropic 分享了有关Claude的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude的新水印如何工作的详细信息",
+          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
+          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-15T22:07:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h"
+      ],
+      "items": [
+        {
+          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
+          "title": "Anthropic 分享了有关Claude新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude新水印如何工作的更多细节",
+          "title_en": "Anthropic shares more details about how Claude's new watermarks will work",
+          "title_original": "Anthropic shares more details about how Claude's new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-16T10:03:27Z"
+        },
+        {
+          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
+          "title": "Anthropic 分享了有关Claude的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
+          "title_zh": "Anthropic 分享了有关Claude的新水印如何工作的详细信息",
+          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
+          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-15T22:07:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8611,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T22:07:08Z",
+      "latest_at": "2026-08-16T10:03:27Z",
+      "primary_item": {
+        "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
+        "title": "Anthropic 分享了有关Claude新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+        "title_zh": "Anthropic 分享了有关Claude新水印如何工作的更多细节",
+        "title_en": "Anthropic shares more details about how Claude's new watermarks will work",
+        "title_original": "Anthropic shares more details about how Claude's new watermarks will work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-16T20:25:10.523378Z"
       }
     },
     {
@@ -1359,7 +826,7 @@
           "published_at": "2026-08-16T04:10:37.620000Z"
         },
         {
-          "id": "10b946531e584a81d49b142e3dd9bc46c792b460",
+          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
           "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
           "title_zh": "AI 辅助 GPU 移植 250k 行旧天气模拟代码",
           "title_en": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
@@ -1367,15 +834,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T22:41:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1394,7 +861,7 @@
           "published_at": "2026-08-16T04:10:37.620000Z"
         },
         {
-          "id": "10b946531e584a81d49b142e3dd9bc46c792b460",
+          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
           "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
           "title_zh": "AI 辅助 GPU 移植 250k 行旧天气模拟代码",
           "title_en": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
@@ -1402,23 +869,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T22:41:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5165,
-      "importance": 0.5165,
-      "importance_score": 0.5165,
+      "score": 0.5082,
+      "importance": 0.5082,
+      "importance_score": 0.5082,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8375,
+        "recency": 0.791,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1443,7 +910,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T16:28:24.236116Z"
+        "scored_at": "2026-08-16T20:25:10.523378Z"
       }
     },
     {
@@ -1520,15 +987,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5101,
-      "importance": 0.5101,
-      "importance_score": 0.5101,
+      "score": 0.5021,
+      "importance": 0.5021,
+      "importance_score": 0.5021,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8019,
+        "recency": 0.7574,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1553,7 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T16:28:24.236116Z"
+        "scored_at": "2026-08-16T20:25:10.523378Z"
       }
     }
   ]
