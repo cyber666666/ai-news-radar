@@ -1,8 +1,204 @@
 {
-  "generated_at": "2026-08-17T12:48:00.921997Z",
+  "generated_at": "2026-08-17T16:29:52.945348Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_b3a579450c1c",
+      "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "primary_url": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
+          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
+          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+          "title_en": "The Defender’s Window",
+          "title_original": "The Defender’s Window",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T05:30:00Z"
+        },
+        {
+          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
+          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
+          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+          "title_en": "The Defender's Window",
+          "title_original": "The Defender's Window",
+          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T05:30:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
+          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
+          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+          "title_en": "The Defender’s Window",
+          "title_original": "The Defender’s Window",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T05:30:00Z"
+        },
+        {
+          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
+          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
+          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+          "title_en": "The Defender's Window",
+          "title_original": "The Defender's Window",
+          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T05:30:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8506,
+      "importance": 0.8506,
+      "importance_score": 0.8506,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8532,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T05:30:00Z",
+      "latest_at": "2026-08-17T05:30:00Z",
+      "primary_item": {
+        "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
+        "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
+        "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+        "title_en": "The Defender’s Window",
+        "title_original": "The Defender’s Window",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/the-defenders-window",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:30:35.046308Z"
+      }
+    },
+    {
+      "story_id": "story_e8417ef9f36f",
+      "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
+          "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_zh": "画布如何使代理工作流程可见、可操纵且经济高效",
+          "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
+          "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_zh": "画布如何使代理工作流程可见、可操纵且经济高效",
+          "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9928,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T16:00:00Z",
+      "latest_at": "2026-08-17T16:00:00Z",
+      "primary_item": {
+        "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
+        "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "title_zh": "画布如何使代理工作流程可见、可操纵且经济高效",
+        "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:30:35.046308Z"
+      }
+    },
     {
       "story_id": "story_7e8345d4d33c",
       "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
@@ -48,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.933,
+        "recency": 0.8845,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +279,254 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
+        "scored_at": "2026-08-17T16:30:35.046308Z"
+      }
+    },
+    {
+      "story_id": "story_07b36a6c9f2c",
+      "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "primary_url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
+          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
+          "title_zh": "OpenAI 加入 PORTS-Pike 项目",
+          "title_en": "OpenAI joins PORTS-Pike project",
+          "title_original": "OpenAI joins PORTS-Pike project",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T05:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
+          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
+          "title_zh": "OpenAI 加入 PORTS-Pike 项目",
+          "title_en": "OpenAI joins PORTS-Pike project",
+          "title_original": "OpenAI joins PORTS-Pike project",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T05:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.847,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T05:00:00Z",
+      "latest_at": "2026-08-17T05:00:00Z",
+      "primary_item": {
+        "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
+        "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
+        "title_zh": "OpenAI 加入 PORTS-Pike 项目",
+        "title_en": "OpenAI joins PORTS-Pike project",
+        "title_original": "OpenAI joins PORTS-Pike project",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/openai-joins-ports-pike-project",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:30:35.046308Z"
+      }
+    },
+    {
+      "story_id": "story_3fb9b8caeae7",
+      "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
+      "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+      "primary_url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ac4e815c536d239831b729b0b9da8bf16acc16d1",
+          "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
+          "title_zh": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
+          "title_en": "Securing the Infrastructure of Intelligence",
+          "title_original": "Securing the Infrastructure of Intelligence",
+          "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T12:34:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ac4e815c536d239831b729b0b9da8bf16acc16d1",
+          "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
+          "title_zh": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
+          "title_en": "Securing the Infrastructure of Intelligence",
+          "title_original": "Securing the Infrastructure of Intelligence",
+          "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T12:34:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.945,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T12:34:51Z",
+      "latest_at": "2026-08-17T12:34:51Z",
+      "primary_item": {
+        "id": "ac4e815c536d239831b729b0b9da8bf16acc16d1",
+        "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
+        "title_zh": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
+        "title_en": "Securing the Infrastructure of Intelligence",
+        "title_original": "Securing the Infrastructure of Intelligence",
+        "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
+        "recommend_reason_zh": null,
+        "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:30:35.046308Z"
+      }
+    },
+    {
+      "story_id": "story_be56974e4c46",
+      "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
+      "url": "https://x.com/JensenHuang/status/2089331487342829862",
+      "primary_url": "https://x.com/JensenHuang/status/2089331487342829862",
+      "source": "X：Jensen Huang (@JensenHuang)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6e0f761a2146032889914220920c023472e7a342",
+          "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
+          "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
+          "title_en": "https://x.com/i/article/2089330332369588224",
+          "title_original": "https://x.com/i/article/2089330332369588224",
+          "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/JensenHuang/status/2089331487342829862",
+          "source": "X：Jensen Huang (@JensenHuang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T12:40:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Jensen Huang (@JensenHuang)"
+      ],
+      "items": [
+        {
+          "id": "6e0f761a2146032889914220920c023472e7a342",
+          "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
+          "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
+          "title_en": "https://x.com/i/article/2089330332369588224",
+          "title_original": "https://x.com/i/article/2089330332369588224",
+          "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/JensenHuang/status/2089331487342829862",
+          "source": "X：Jensen Huang (@JensenHuang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T12:40:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9462,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T12:40:19Z",
+      "latest_at": "2026-08-17T12:40:19Z",
+      "primary_item": {
+        "id": "6e0f761a2146032889914220920c023472e7a342",
+        "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
+        "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
+        "title_en": "https://x.com/i/article/2089330332369588224",
+        "title_original": "https://x.com/i/article/2089330332369588224",
+        "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/JensenHuang/status/2089331487342829862",
+        "source": "X：Jensen Huang (@JensenHuang)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:30:35.046308Z"
       }
     },
     {
@@ -131,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8712,
+        "recency": 0.8259,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +609,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
+        "scored_at": "2026-08-17T16:30:35.046308Z"
+      }
+    },
+    {
+      "story_id": "story_cec42b7695cc",
+      "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+      "url": "https://www.ithome.com/0/990/812.htm",
+      "primary_url": "https://www.ithome.com/0/990/812.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "857ded46599c92a5d91b8bd44d423dc2c66d49d2",
+          "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+          "title_zh": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+          "title_en": null,
+          "title_original": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+          "summary": "宇树科技宣布股票将于 2026 年 8 月 19 日在科创板上市，发行价 150.80 元/股，对应市值约 609.93 亿元，预计募资约 60.99 亿元。该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，净利润分别为-1114.51 万元、9547.47 万元和 2.78 亿元，是全球少数实现盈利的高性能通用机器人公司。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/990/812.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T12:25:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "857ded46599c92a5d91b8bd44d423dc2c66d49d2",
+          "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+          "title_zh": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+          "title_en": null,
+          "title_original": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+          "summary": "宇树科技宣布股票将于 2026 年 8 月 19 日在科创板上市，发行价 150.80 元/股，对应市值约 609.93 亿元，预计募资约 60.99 亿元。该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，净利润分别为-1114.51 万元、9547.47 万元和 2.78 亿元，是全球少数实现盈利的高性能通用机器人公司。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/990/812.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T12:25:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9429,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T12:25:27Z",
+      "latest_at": "2026-08-17T12:25:27Z",
+      "primary_item": {
+        "id": "857ded46599c92a5d91b8bd44d423dc2c66d49d2",
+        "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+        "title_zh": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+        "title_en": null,
+        "title_original": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+        "summary": "宇树科技宣布股票将于 2026 年 8 月 19 日在科创板上市，发行价 150.80 元/股，对应市值约 609.93 亿元，预计募资约 60.99 亿元。该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，净利润分别为-1114.51 万元、9547.47 万元和 2.78 亿元，是全球少数实现盈利的高性能通用机器人公司。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/990/812.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:30:35.046308Z"
       }
     },
     {
@@ -214,15 +739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,89 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
-      }
-    },
-    {
-      "story_id": "story_be3f625d8d7f",
-      "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-      "url": "https://www.aibase.com/news/30404",
-      "primary_url": "https://www.aibase.com/news/30404",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0c1c9688db4107d152c66877ded859c720f5a604",
-          "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "title_en": null,
-          "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30404",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T12:48:00.921997Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0c1c9688db4107d152c66877ded859c720f5a604",
-          "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "title_en": null,
-          "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30404",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T12:48:00.921997Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T12:48:00.921997Z",
-      "latest_at": "2026-08-17T12:48:00.921997Z",
-      "primary_item": {
-        "id": "0c1c9688db4107d152c66877ded859c720f5a604",
-        "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-        "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-        "title_en": null,
-        "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30404",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
+        "scored_at": "2026-08-17T16:30:35.046308Z"
       }
     },
     {
@@ -378,15 +821,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8077,
+        "recency": 0.7657,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -411,7 +854,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
+        "scored_at": "2026-08-17T16:30:35.046308Z"
+      }
+    },
+    {
+      "story_id": "story_be3f625d8d7f",
+      "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+      "url": "https://www.aibase.com/news/30404",
+      "primary_url": "https://www.aibase.com/news/30404",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0c1c9688db4107d152c66877ded859c720f5a604",
+          "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "title_en": null,
+          "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30404",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T12:48:00.921997Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0c1c9688db4107d152c66877ded859c720f5a604",
+          "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "title_en": null,
+          "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30404",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T12:48:00.921997Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.948,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T12:48:00.921997Z",
+      "latest_at": "2026-08-17T12:48:00.921997Z",
+      "primary_item": {
+        "id": "0c1c9688db4107d152c66877ded859c720f5a604",
+        "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+        "title_zh": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+        "title_en": null,
+        "title_original": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30404",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:30:35.046308Z"
       }
     },
     {
@@ -459,15 +984,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -493,7 +1018,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
+        "scored_at": "2026-08-17T16:30:35.046308Z"
       }
     },
     {
@@ -541,15 +1066,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -575,7 +1100,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
+        "scored_at": "2026-08-17T16:30:35.046308Z"
       }
     },
     {
@@ -623,15 +1148,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -657,7 +1182,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
+        "scored_at": "2026-08-17T16:30:35.046308Z"
       }
     },
     {
@@ -733,15 +1258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6357,
-      "importance": 0.6357,
-      "importance_score": 0.6357,
+      "score": 0.6266,
+      "importance": 0.6266,
+      "importance_score": 0.6266,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9737,
+        "recency": 0.9231,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -766,7 +1291,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
+        "scored_at": "2026-08-17T16:30:35.046308Z"
+      }
+    },
+    {
+      "story_id": "story_4c94bc9d56c4",
+      "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra",
+      "primary_url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "8254d99f5de9f88ad47e8882d89f60a514c96a4a",
+          "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_zh": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
+          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T15:21:29Z"
+        },
+        {
+          "id": "2279eec4b3c2bb26ffae18b432e33a12fa48005f",
+          "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_zh": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
+          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T13:44:23Z"
+        },
+        {
+          "id": "46c43460c3f8ab1c4ffaaa1e0cd5b34d34efebfe",
+          "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+          "title_zh": null,
+          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/technology/comments/1vqs5hf/we_tracked_a_shipment_of_rare_books_it_ended_at",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T13:19:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Reddit (热门)",
+        "Simon Willison"
+      ],
+      "items": [
+        {
+          "id": "8254d99f5de9f88ad47e8882d89f60a514c96a4a",
+          "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_zh": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
+          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T15:21:29Z"
+        },
+        {
+          "id": "2279eec4b3c2bb26ffae18b432e33a12fa48005f",
+          "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_zh": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
+          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T13:44:23Z"
+        },
+        {
+          "id": "46c43460c3f8ab1c4ffaaa1e0cd5b34d34efebfe",
+          "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+          "title_zh": null,
+          "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+          "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility / The shipment was found at an Amazon facility where Amazon scans and destroys books",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/technology/comments/1vqs5hf/we_tracked_a_shipment_of_rare_books_it_ended_at",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T13:19:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6158,
+      "importance": 0.6158,
+      "importance_score": 0.6158,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9837,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T13:19:25Z",
+      "latest_at": "2026-08-17T15:21:29Z",
+      "primary_item": {
+        "id": "8254d99f5de9f88ad47e8882d89f60a514c96a4a",
+        "title": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+        "title_zh": "我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束",
+        "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+        "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:30:35.046308Z"
       }
     },
     {
@@ -814,21 +1478,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9433,
+        "recency": 0.8943,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-17T08:45:38.064213Z",
       "latest_at": "2026-08-17T08:45:38.064213Z",
@@ -848,7 +1511,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
+        "scored_at": "2026-08-17T16:30:35.046308Z"
+      }
+    },
+    {
+      "story_id": "story_f75e3b4636ba",
+      "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://news.ycombinator.com/item?id=49329575",
+      "primary_url": "https://news.ycombinator.com/item?id=49329575",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3c01cf0ad846b6435e76dd4c292539b1b61bbb4c",
+          "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
+          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49329575",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T16:10:43.261000Z"
+        },
+        {
+          "id": "6e17b943db719eddb9989fbada22a95f1b710c8e",
+          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "title_zh": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "title_en": null,
+          "title_original": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.roboflow.com/openai-gpt-5-6",
+          "source": "blog.roboflow.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T14:29:55.280000Z"
+        },
+        {
+          "id": "260409f5d7a18ebea1c93918e71ffbb13bc8865d",
+          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "title_zh": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.roboflow.com/openai-gpt-5-6",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T12:09:42Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "blog.roboflow.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3c01cf0ad846b6435e76dd4c292539b1b61bbb4c",
+          "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
+          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49329575",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T16:10:43.261000Z"
+        },
+        {
+          "id": "6e17b943db719eddb9989fbada22a95f1b710c8e",
+          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "title_zh": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "title_en": null,
+          "title_original": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.roboflow.com/openai-gpt-5-6",
+          "source": "blog.roboflow.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T14:29:55.280000Z"
+        },
+        {
+          "id": "260409f5d7a18ebea1c93918e71ffbb13bc8865d",
+          "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "title_zh": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.roboflow.com/openai-gpt-5-6",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T12:09:42Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.57,
+      "importance": 0.57,
+      "importance_score": 0.57,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9954,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T12:09:42Z",
+      "latest_at": "2026-08-17T16:10:43.261000Z",
+      "primary_item": {
+        "id": "3c01cf0ad846b6435e76dd4c292539b1b61bbb4c",
+        "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+        "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
+        "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+        "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49329575",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T16:30:35.046308Z"
       }
     },
     {
@@ -896,21 +1698,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9433,
+        "recency": 0.8943,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-17T08:45:38.064213Z",
       "latest_at": "2026-08-17T08:45:38.064213Z",
@@ -930,7 +1731,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
+        "scored_at": "2026-08-17T16:30:35.046308Z"
       }
     },
     {
@@ -978,21 +1779,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9433,
+        "recency": 0.8943,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-17T08:45:38.064213Z",
       "latest_at": "2026-08-17T08:45:38.064213Z",
@@ -1012,1004 +1812,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
-      }
-    },
-    {
-      "story_id": "story_96d24a4f2679",
-      "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "primary_url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6962d16e18858c5af97e060c22654b99471b85d1",
-          "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-          "title_zh": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-          "title_en": null,
-          "title_original": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T01:58:00.413000Z"
-        },
-        {
-          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "title_zh": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额",
-          "title_en": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "title_original": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49323686",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T00:55:36.677000Z"
-        },
-        {
-          "id": "0837e7d724f4085da9208064d0ff8722042bce6d",
-          "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "title_zh": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-          "title_en": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "title_original": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T21:07:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "6962d16e18858c5af97e060c22654b99471b85d1",
-          "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-          "title_zh": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-          "title_en": null,
-          "title_original": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T01:58:00.413000Z"
-        },
-        {
-          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "title_zh": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额",
-          "title_en": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "title_original": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49323686",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T00:55:36.677000Z"
-        },
-        {
-          "id": "0837e7d724f4085da9208064d0ff8722042bce6d",
-          "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "title_zh": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-          "title_en": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "title_original": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T21:07:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8552,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T21:07:10Z",
-      "latest_at": "2026-08-17T01:58:00.413000Z",
-      "primary_item": {
-        "id": "6962d16e18858c5af97e060c22654b99471b85d1",
-        "title": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-        "title_zh": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-        "title_en": null,
-        "title_original": "英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
-      }
-    },
-    {
-      "story_id": "story_40f3e2e4a0ac",
-      "title": "MathCode，数学编码代理",
-      "url": "https://math-ai-org.github.io/mathcode",
-      "primary_url": "https://math-ai-org.github.io/mathcode",
-      "source": "math-ai-org.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "07f75fa673c4968c9d2b523fb141e4a52f712710",
-          "title": "MathCode，数学编码代理",
-          "title_zh": "MathCode，数学编码代理",
-          "title_en": null,
-          "title_original": "MathCode，数学编码代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://math-ai-org.github.io/mathcode",
-          "source": "math-ai-org.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T11:33:59.048000Z"
-        },
-        {
-          "id": "94ba1d06854a30f0b2933918dd421418881390cc",
-          "title": "MathCode，数学编码代理 / MathCode, Mathematical Coding Agent",
-          "title_zh": "MathCode，数学编码代理",
-          "title_en": "MathCode, Mathematical Coding Agent",
-          "title_original": "MathCode, Mathematical Coding Agent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://math-ai-org.github.io/mathcode",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T18:17:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "math-ai-org.github.io"
-      ],
-      "items": [
-        {
-          "id": "07f75fa673c4968c9d2b523fb141e4a52f712710",
-          "title": "MathCode，数学编码代理",
-          "title_zh": "MathCode，数学编码代理",
-          "title_en": null,
-          "title_original": "MathCode，数学编码代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://math-ai-org.github.io/mathcode",
-          "source": "math-ai-org.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T11:33:59.048000Z"
-        },
-        {
-          "id": "94ba1d06854a30f0b2933918dd421418881390cc",
-          "title": "MathCode，数学编码代理 / MathCode, Mathematical Coding Agent",
-          "title_zh": "MathCode，数学编码代理",
-          "title_en": "MathCode, Mathematical Coding Agent",
-          "title_original": "MathCode, Mathematical Coding Agent",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://math-ai-org.github.io/mathcode",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T18:17:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9823,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T18:17:10Z",
-      "latest_at": "2026-08-17T11:33:59.048000Z",
-      "primary_item": {
-        "id": "07f75fa673c4968c9d2b523fb141e4a52f712710",
-        "title": "MathCode，数学编码代理",
-        "title_zh": "MathCode，数学编码代理",
-        "title_en": null,
-        "title_original": "MathCode，数学编码代理",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://math-ai-org.github.io/mathcode",
-        "source": "math-ai-org.github.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
-      }
-    },
-    {
-      "story_id": "story_6ea5c9d0c11e",
-      "title": "Anthropic 在Claude中的“水印”文本掺假是对写作的歪曲 / Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-      "url": "https://news.ycombinator.com/item?id=49324087",
-      "primary_url": "https://news.ycombinator.com/item?id=49324087",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
-          "title": "Anthropic 在Claude中的“水印”文本掺假是对写作的歪曲 / Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "title_zh": "Anthropic 在Claude中的“水印”文本掺假是对写作的歪曲",
-          "title_en": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "title_original": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49324087",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T00:55:36.677000Z"
-        },
-        {
-          "id": "f713a587ff54b68a52101f457162b00db26d1184",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_en": null,
-          "title_original": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "daringfireball.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:06:02.469000Z"
-        },
-        {
-          "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_en": "★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "title_original": "★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T19:26:33Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Daring Fireball",
-        "daringfireball.net",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
-          "title": "Anthropic 在Claude中的“水印”文本掺假是对写作的歪曲 / Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "title_zh": "Anthropic 在Claude中的“水印”文本掺假是对写作的歪曲",
-          "title_en": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "title_original": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49324087",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T00:55:36.677000Z"
-        },
-        {
-          "id": "f713a587ff54b68a52101f457162b00db26d1184",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_en": null,
-          "title_original": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "daringfireball.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:06:02.469000Z"
-        },
-        {
-          "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_en": "★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "title_original": "★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T19:26:33Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8424,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T19:26:33Z",
-      "latest_at": "2026-08-17T00:55:36.677000Z",
-      "primary_item": {
-        "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
-        "title": "Anthropic 在Claude中的“水印”文本掺假是对写作的歪曲 / Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-        "title_zh": "Anthropic 在Claude中的“水印”文本掺假是对写作的歪曲",
-        "title_en": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-        "title_original": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49324087",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
-      }
-    },
-    {
-      "story_id": "story_246463fb652c",
-      "title": "Anthropic首席执行官表示人工智能赢得公众的方式是治愈癌症 / Anthropic CEO says the way for AI to win over the public is to cure cancer",
-      "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-      "primary_url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "6268ff9620c08a5d516fcf2a63fe7c8e8047a6e3",
-          "title": "Anthropic首席执行官表示人工智能赢得公众的方式是治愈癌症 / Anthropic CEO says the way for AI to win over the public is to cure cancer",
-          "title_zh": "Anthropic首席执行官表示人工智能赢得公众的方式是治愈癌症",
-          "title_en": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
-          "title_original": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T22:50:38Z"
-        },
-        {
-          "id": "4b4fdc768257e83bb3fecdbb54a3c9651d99720f",
-          "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "title_zh": null,
-          "title_en": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "title_original": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T17:41:11Z"
-        },
-        {
-          "id": "b3f6977b46a76bd87884fd151cb205504f398853",
-          "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "title_zh": null,
-          "title_en": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "title_original": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T16:30:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Business Insider",
-        "Hacker News · 24h最热",
-        "Reddit (热门)"
-      ],
-      "items": [
-        {
-          "id": "6268ff9620c08a5d516fcf2a63fe7c8e8047a6e3",
-          "title": "Anthropic首席执行官表示人工智能赢得公众的方式是治愈癌症 / Anthropic CEO says the way for AI to win over the public is to cure cancer",
-          "title_zh": "Anthropic首席执行官表示人工智能赢得公众的方式是治愈癌症",
-          "title_en": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
-          "title_original": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T22:50:38Z"
-        },
-        {
-          "id": "4b4fdc768257e83bb3fecdbb54a3c9651d99720f",
-          "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "title_zh": null,
-          "title_en": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "title_original": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T17:41:11Z"
-        },
-        {
-          "id": "b3f6977b46a76bd87884fd151cb205504f398853",
-          "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "title_zh": null,
-          "title_en": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "title_original": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T16:30:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8175,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T16:30:38Z",
-      "latest_at": "2026-08-16T22:50:38Z",
-      "primary_item": {
-        "id": "6268ff9620c08a5d516fcf2a63fe7c8e8047a6e3",
-        "title": "Anthropic首席执行官表示人工智能赢得公众的方式是治愈癌症 / Anthropic CEO says the way for AI to win over the public is to cure cancer",
-        "title_zh": "Anthropic首席执行官表示人工智能赢得公众的方式是治愈癌症",
-        "title_en": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
-        "title_original": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
-      }
-    },
-    {
-      "story_id": "story_02084b7684a5",
-      "title": "人工智能信用转售经济",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "primary_url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "source": "vectoral.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
-          "title": "人工智能信用转售经济",
-          "title_zh": "人工智能信用转售经济",
-          "title_en": null,
-          "title_original": "人工智能信用转售经济",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-          "source": "vectoral.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T17:26:39.701000Z"
-        },
-        {
-          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
-          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
-          "title_zh": "人工智能信用转售经济",
-          "title_en": "The AI Credit Resale Economy",
-          "title_original": "The AI Credit Resale Economy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49320611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T16:12:38.444000Z"
-        },
-        {
-          "id": "482fca18ad64d36ca9fca761ac18dc3bb898b84d",
-          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
-          "title_zh": "人工智能信用转售经济",
-          "title_en": "The AI Credit Resale Economy",
-          "title_original": "The AI Credit Resale Economy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T14:44:55Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "vectoral.com"
-      ],
-      "items": [
-        {
-          "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
-          "title": "人工智能信用转售经济",
-          "title_zh": "人工智能信用转售经济",
-          "title_en": null,
-          "title_original": "人工智能信用转售经济",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-          "source": "vectoral.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T17:26:39.701000Z"
-        },
-        {
-          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
-          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
-          "title_zh": "人工智能信用转售经济",
-          "title_en": "The AI Credit Resale Economy",
-          "title_original": "The AI Credit Resale Economy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49320611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T16:12:38.444000Z"
-        },
-        {
-          "id": "482fca18ad64d36ca9fca761ac18dc3bb898b84d",
-          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
-          "title_zh": "人工智能信用转售经济",
-          "title_en": "The AI Credit Resale Economy",
-          "title_original": "The AI Credit Resale Economy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T14:44:55Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7562,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T14:44:55Z",
-      "latest_at": "2026-08-16T17:26:39.701000Z",
-      "primary_item": {
-        "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
-        "title": "人工智能信用转售经济",
-        "title_zh": "人工智能信用转售经济",
-        "title_en": null,
-        "title_original": "人工智能信用转售经济",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-        "source": "vectoral.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
-      }
-    },
-    {
-      "story_id": "story_cbb4336f669a",
-      "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
-      "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-      "primary_url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-      "source": "futurism.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ad1601f9e92bf2452135465bf662eb4718917362",
-          "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
-          "title_zh": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
-          "title_en": null,
-          "title_original": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "source": "futurism.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T03:34:12.479000Z"
-        },
-        {
-          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
-          "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "title_zh": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
-          "title_en": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "title_original": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T21:34:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "futurism.com"
-      ],
-      "items": [
-        {
-          "id": "ad1601f9e92bf2452135465bf662eb4718917362",
-          "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
-          "title_zh": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
-          "title_en": null,
-          "title_original": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "source": "futurism.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T03:34:12.479000Z"
-        },
-        {
-          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
-          "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "title_zh": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
-          "title_en": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "title_original": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T21:34:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8752,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T21:34:06Z",
-      "latest_at": "2026-08-17T03:34:12.479000Z",
-      "primary_item": {
-        "id": "ad1601f9e92bf2452135465bf662eb4718917362",
-        "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
-        "title_zh": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
-        "title_en": null,
-        "title_original": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-        "source": "futurism.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
-      }
-    },
-    {
-      "story_id": "story_8b2229e8149b",
-      "title": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
-      "url": "https://www.aibase.com/news/30391",
-      "primary_url": "https://www.aibase.com/news/30391",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6a4cd56392985062cbbf523a364f448949a683d5",
-          "title": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
-          "title_zh": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
-          "title_en": null,
-          "title_original": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30391",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T08:45:38.064213Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6a4cd56392985062cbbf523a364f448949a683d5",
-          "title": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
-          "title_zh": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
-          "title_en": null,
-          "title_original": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30391",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T08:45:38.064213Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9433,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T08:45:38.064213Z",
-      "latest_at": "2026-08-17T08:45:38.064213Z",
-      "primary_item": {
-        "id": "6a4cd56392985062cbbf523a364f448949a683d5",
-        "title": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
-        "title_zh": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
-        "title_en": null,
-        "title_original": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30391",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
-      }
-    },
-    {
-      "story_id": "story_a23b56bee6e9",
-      "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "url": "https://news.ycombinator.com/item?id=49323381",
-      "primary_url": "https://news.ycombinator.com/item?id=49323381",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "346161818116422bcfb29c8e94075ad65d0274b2",
-          "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易",
-          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49323381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T00:55:36.677000Z"
-        },
-        {
-          "id": "606e2da905768ff4c91e5705070cb5ae9b37d3b4",
-          "title": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "title_zh": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "title_en": null,
-          "title_original": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T23:17:59.746000Z"
-        },
-        {
-          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
-          "title": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_zh": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T20:31:16Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "346161818116422bcfb29c8e94075ad65d0274b2",
-          "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易",
-          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49323381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T00:55:36.677000Z"
-        },
-        {
-          "id": "606e2da905768ff4c91e5705070cb5ae9b37d3b4",
-          "title": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "title_zh": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "title_en": null,
-          "title_original": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T23:17:59.746000Z"
-        },
-        {
-          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
-          "title": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_zh": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T20:31:16Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8424,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T20:31:16Z",
-      "latest_at": "2026-08-17T00:55:36.677000Z",
-      "primary_item": {
-        "id": "346161818116422bcfb29c8e94075ad65d0274b2",
-        "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-        "title_zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易",
-        "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-        "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49323381",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T12:48:41.432162Z"
+        "scored_at": "2026-08-17T16:30:35.046308Z"
       }
     }
   ]
