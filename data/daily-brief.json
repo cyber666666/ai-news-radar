@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:37:28.154111Z",
+  "generated_at": "2026-08-18T08:39:05.367221Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -164,15 +164,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8673,
+        "recency": 0.8183,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -199,7 +199,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
@@ -247,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8384,
-      "importance": 0.8384,
-      "importance_score": 0.8384,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.88,
+        "recency": 0.8303,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,120 +282,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
-      }
-    },
-    {
-      "story_id": "story_b3a579450c1c",
-      "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "primary_url": "https://openai.com/index/the-defenders-window",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender’s Window",
-          "title_original": "The Defender’s Window",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        },
-        {
-          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender's Window",
-          "title_original": "The Defender's Window",
-          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T05:30:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender’s Window",
-          "title_original": "The Defender’s Window",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        },
-        {
-          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender's Window",
-          "title_original": "The Defender's Window",
-          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T05:30:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7161,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T05:30:00Z",
-      "latest_at": "2026-08-17T05:30:00Z",
-      "primary_item": {
-        "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-        "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-        "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-        "title_en": "The Defender’s Window",
-        "title_original": "The Defender’s Window",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/the-defenders-window",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
@@ -443,15 +330,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8333,
+        "recency": 0.7863,
         "story_heat": 0.0
       },
       "category": "official",
@@ -478,90 +365,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
-      }
-    },
-    {
-      "story_id": "story_7e8345d4d33c",
-      "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
-      "primary_url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a91b14668f19e9c4b49f9e20ab96e03d79f7e084",
-          "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
-          "title_zh": "与 Gemini 和 Pixel 一起近距离接触游戏",
-          "title_en": "Get closer to the game with Gemini and Pixel",
-          "title_original": "Get closer to the game with Gemini and Pixel",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T08:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "a91b14668f19e9c4b49f9e20ab96e03d79f7e084",
-          "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
-          "title_zh": "与 Gemini 和 Pixel 一起近距离接触游戏",
-          "title_en": "Get closer to the game with Gemini and Pixel",
-          "title_original": "Get closer to the game with Gemini and Pixel",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T08:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7424,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T08:00:00Z",
-      "latest_at": "2026-08-17T08:00:00Z",
-      "primary_item": {
-        "id": "a91b14668f19e9c4b49f9e20ab96e03d79f7e084",
-        "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
-        "title_zh": "与 Gemini 和 Pixel 一起近距离接触游戏",
-        "title_en": "Get closer to the game with Gemini and Pixel",
-        "title_original": "Get closer to the game with Gemini and Pixel",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
@@ -667,15 +471,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9118,
+        "recency": 0.8603,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -702,7 +506,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
@@ -750,15 +554,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7844,
+      "importance": 0.7844,
+      "importance_score": 0.7844,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.927,
+        "recency": 0.8746,
         "story_heat": 0.0
       },
       "category": "official",
@@ -784,113 +588,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
-      "story_id": "story_07b36a6c9f2c",
-      "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "primary_url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-          "title_zh": "OpenAI 加入 PORTS-Pike 项目",
-          "title_en": "OpenAI joins PORTS-Pike project",
-          "title_original": "OpenAI joins PORTS-Pike project",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-          "title_zh": "OpenAI 加入 PORTS-Pike 项目",
-          "title_en": "OpenAI joins PORTS-Pike project",
-          "title_original": "OpenAI joins PORTS-Pike project",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.711,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T05:00:00Z",
-      "latest_at": "2026-08-17T05:00:00Z",
-      "primary_item": {
-        "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-        "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-        "title_zh": "OpenAI 加入 PORTS-Pike 项目",
-        "title_en": "OpenAI joins PORTS-Pike project",
-        "title_original": "OpenAI joins PORTS-Pike project",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-joins-ports-pike-project",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
-      }
-    },
-    {
-      "story_id": "story_a8e593f081cc",
-      "title": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
-      "url": "https://www.aibase.com/news/30420",
-      "primary_url": "https://www.aibase.com/news/30420",
+      "story_id": "story_bff3f6531ed0",
+      "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+      "url": "https://www.aibase.com/news/30439",
+      "primary_url": "https://www.aibase.com/news/30439",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "27629c58575dfdb786e35467e371eb1057688f83",
-          "title": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
-          "title_zh": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
           "title_en": null,
-          "title_original": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+          "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30420",
+          "url": "https://www.aibase.com/news/30439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:37:28.154111Z"
+          "published_at": "2026-08-18T08:39:05.367221Z"
         }
       ],
       "source_count": 1,
@@ -899,18 +620,18 @@
       ],
       "items": [
         {
-          "id": "27629c58575dfdb786e35467e371eb1057688f83",
-          "title": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
-          "title_zh": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
           "title_en": null,
-          "title_original": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+          "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30420",
+          "url": "https://www.aibase.com/news/30439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:37:28.154111Z"
+          "published_at": "2026-08-18T08:39:05.367221Z"
         }
       ],
       "item_count": 1,
@@ -931,17 +652,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T04:37:28.154111Z",
-      "latest_at": "2026-08-18T04:37:28.154111Z",
+      "earliest_at": "2026-08-18T08:39:05.367221Z",
+      "latest_at": "2026-08-18T08:39:05.367221Z",
       "primary_item": {
-        "id": "27629c58575dfdb786e35467e371eb1057688f83",
-        "title": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
-        "title_zh": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+        "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+        "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+        "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
         "title_en": null,
-        "title_original": "\"先生成后治理\"：AI 垃圾淹没互联网，科技巨头终于动手大扫除",
+        "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30420",
+        "url": "https://www.aibase.com/news/30439",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -949,7 +670,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
+      }
+    },
+    {
+      "story_id": "story_886d9637cc01",
+      "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
+      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+      "primary_url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "28bd262ceb8bb8267ecb21c922badcfbb9b38bf5",
+          "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
+          "title_zh": "设计 AI 评测：先求清晰，再谈可视化",
+          "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
+          "title_original": "Designing AI Evals： Clarity Now and Visualization Next",
+          "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
+          "recommend_reason_zh": null,
+          "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI：DEV 作者专属（RSS）"
+      ],
+      "items": [
+        {
+          "id": "28bd262ceb8bb8267ecb21c922badcfbb9b38bf5",
+          "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
+          "title_zh": "设计 AI 评测：先求清晰，再谈可视化",
+          "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
+          "title_original": "Designing AI Evals： Clarity Now and Visualization Next",
+          "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
+          "recommend_reason_zh": null,
+          "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9764,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T07:00:00Z",
+      "latest_at": "2026-08-18T07:00:00Z",
+      "primary_item": {
+        "id": "28bd262ceb8bb8267ecb21c922badcfbb9b38bf5",
+        "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
+        "title_zh": "设计 AI 评测：先求清晰，再谈可视化",
+        "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
+        "title_original": "Designing AI Evals： Clarity Now and Visualization Next",
+        "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
+        "recommend_reason_zh": null,
+        "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+        "source": "Google AI：DEV 作者专属（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
@@ -997,21 +799,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.935,
+        "recency": 0.8821,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-17T23:58:00Z",
       "latest_at": "2026-08-17T23:58:00Z",
@@ -1031,7 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
@@ -1166,15 +967,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.8022,
+      "importance": 0.8022,
+      "importance_score": 0.8022,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8574,
+        "recency": 0.809,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1201,7 +1002,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
+      }
+    },
+    {
+      "story_id": "story_d9aa06247ab9",
+      "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+      "url": "https://www.aibase.com/news/30431",
+      "primary_url": "https://www.aibase.com/news/30431",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_en": null,
+          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30431",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T08:39:05.367221Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_en": null,
+          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30431",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T08:39:05.367221Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T08:39:05.367221Z",
+      "latest_at": "2026-08-18T08:39:05.367221Z",
+      "primary_item": {
+        "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+        "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "title_en": null,
+        "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30431",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
@@ -1249,15 +1132,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7932,
+        "recency": 0.7484,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1282,89 +1165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
-      }
-    },
-    {
-      "story_id": "story_2273469c33d1",
-      "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-      "url": "https://www.aibase.com/news/30416",
-      "primary_url": "https://www.aibase.com/news/30416",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ef250e6e4bd7f172750528a8de2ed0ac6b5ea11d",
-          "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-          "title_zh": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-          "title_en": null,
-          "title_original": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30416",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T04:37:28.154111Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ef250e6e4bd7f172750528a8de2ed0ac6b5ea11d",
-          "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-          "title_zh": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-          "title_en": null,
-          "title_original": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30416",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T04:37:28.154111Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T04:37:28.154111Z",
-      "latest_at": "2026-08-18T04:37:28.154111Z",
-      "primary_item": {
-        "id": "ef250e6e4bd7f172750528a8de2ed0ac6b5ea11d",
-        "title": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-        "title_zh": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-        "title_en": null,
-        "title_original": "AI自动化初创公司Relay倒闭，员工加入谷歌Chrome团队",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30416",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
@@ -1412,15 +1213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.7285,
+      "importance": 0.7285,
+      "importance_score": 0.7285,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7942,
+        "recency": 0.7494,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1445,7 +1246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
@@ -1493,15 +1294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
+      "score": 0.725,
+      "importance": 0.725,
+      "importance_score": 0.725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7914,
+        "recency": 0.7467,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1526,30 +1327,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
-      "story_id": "story_011d89a45a9d",
-      "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-      "url": "https://www.aibase.com/news/30421",
-      "primary_url": "https://www.aibase.com/news/30421",
+      "story_id": "story_c47c2f0e2f45",
+      "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+      "url": "https://www.aibase.com/news/30433",
+      "primary_url": "https://www.aibase.com/news/30433",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
-          "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-          "title_zh": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
+          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
           "title_en": null,
-          "title_original": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+          "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30421",
+          "url": "https://www.aibase.com/news/30433",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:37:28.154111Z"
+          "published_at": "2026-08-18T08:39:05.367221Z"
         }
       ],
       "source_count": 1,
@@ -1558,18 +1359,18 @@
       ],
       "items": [
         {
-          "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
-          "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-          "title_zh": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
+          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
           "title_en": null,
-          "title_original": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+          "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30421",
+          "url": "https://www.aibase.com/news/30433",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:37:28.154111Z"
+          "published_at": "2026-08-18T08:39:05.367221Z"
         }
       ],
       "item_count": 1,
@@ -1590,17 +1391,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T04:37:28.154111Z",
-      "latest_at": "2026-08-18T04:37:28.154111Z",
+      "earliest_at": "2026-08-18T08:39:05.367221Z",
+      "latest_at": "2026-08-18T08:39:05.367221Z",
       "primary_item": {
-        "id": "da43e6c6e104ea4b1e1c1aae04e23b67c8315033",
-        "title": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
-        "title_zh": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+        "id": "305298a37039d907b17569781c4a0c773bbe7c61",
+        "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+        "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
         "title_en": null,
-        "title_original": "ChatGPT macOS新增“计算机历史”，可记录用户工作轨迹",
+        "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30421",
+        "url": "https://www.aibase.com/news/30433",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1608,30 +1409,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
-      "story_id": "story_3097bbbd907d",
-      "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-      "url": "https://www.aibase.com/news/30426",
-      "primary_url": "https://www.aibase.com/news/30426",
+      "story_id": "story_4dcfda21a6fc",
+      "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+      "url": "https://www.aibase.com/news/30432",
+      "primary_url": "https://www.aibase.com/news/30432",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
           "title_en": null,
-          "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30426",
+          "url": "https://www.aibase.com/news/30432",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:37:28.154111Z"
+          "published_at": "2026-08-18T08:39:05.367221Z"
         }
       ],
       "source_count": 1,
@@ -1640,18 +1441,18 @@
       ],
       "items": [
         {
-          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
           "title_en": null,
-          "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+          "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30426",
+          "url": "https://www.aibase.com/news/30432",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:37:28.154111Z"
+          "published_at": "2026-08-18T08:39:05.367221Z"
         }
       ],
       "item_count": 1,
@@ -1672,17 +1473,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T04:37:28.154111Z",
-      "latest_at": "2026-08-18T04:37:28.154111Z",
+      "earliest_at": "2026-08-18T08:39:05.367221Z",
+      "latest_at": "2026-08-18T08:39:05.367221Z",
       "primary_item": {
-        "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-        "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-        "title_zh": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+        "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+        "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+        "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
         "title_en": null,
-        "title_original": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
+        "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30426",
+        "url": "https://www.aibase.com/news/30432",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1690,30 +1491,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
-      "story_id": "story_7d6fb4da2bc8",
-      "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
-      "url": "https://www.aibase.com/news/30419",
-      "primary_url": "https://www.aibase.com/news/30419",
+      "story_id": "story_b4cb58f18c34",
+      "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
+      "url": "https://www.aibase.com/news/30437",
+      "primary_url": "https://www.aibase.com/news/30437",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
-          "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
-          "title_zh": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+          "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
+          "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
+          "title_zh": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
           "title_en": null,
-          "title_original": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+          "title_original": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30419",
+          "url": "https://www.aibase.com/news/30437",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:37:28.154111Z"
+          "published_at": "2026-08-18T08:39:05.367221Z"
         }
       ],
       "source_count": 1,
@@ -1722,18 +1523,18 @@
       ],
       "items": [
         {
-          "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
-          "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
-          "title_zh": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+          "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
+          "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
+          "title_zh": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
           "title_en": null,
-          "title_original": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+          "title_original": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30419",
+          "url": "https://www.aibase.com/news/30437",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:37:28.154111Z"
+          "published_at": "2026-08-18T08:39:05.367221Z"
         }
       ],
       "item_count": 1,
@@ -1754,17 +1555,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T04:37:28.154111Z",
-      "latest_at": "2026-08-18T04:37:28.154111Z",
+      "earliest_at": "2026-08-18T08:39:05.367221Z",
+      "latest_at": "2026-08-18T08:39:05.367221Z",
       "primary_item": {
-        "id": "b008d6862fe519efe75eabc5f3a3e28222cd89f0",
-        "title": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
-        "title_zh": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+        "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
+        "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
+        "title_zh": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
         "title_en": null,
-        "title_original": "Reddit测试AI视频功能，将文本帖子转为音视频内容",
+        "title_original": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30419",
+        "url": "https://www.aibase.com/news/30437",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1772,7 +1573,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
@@ -1878,15 +1679,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6452,
-      "importance": 0.6452,
-      "importance_score": 0.6452,
+      "score": 0.6366,
+      "importance": 0.6366,
+      "importance_score": 0.6366,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8412,
+        "recency": 0.7936,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1911,30 +1712,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     },
     {
-      "story_id": "story_350c554c9760",
-      "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-      "url": "https://www.aibase.com/news/30425",
-      "primary_url": "https://www.aibase.com/news/30425",
+      "story_id": "story_525b36aafcb4",
+      "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+      "url": "https://www.aibase.com/news/30435",
+      "primary_url": "https://www.aibase.com/news/30435",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
-          "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-          "title_zh": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
+          "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
+          "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+          "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
           "title_en": null,
-          "title_original": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
+          "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30425",
+          "url": "https://www.aibase.com/news/30435",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:37:28.154111Z"
+          "published_at": "2026-08-18T08:39:05.367221Z"
         }
       ],
       "source_count": 1,
@@ -1943,18 +1744,18 @@
       ],
       "items": [
         {
-          "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
-          "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-          "title_zh": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
+          "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
+          "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+          "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
           "title_en": null,
-          "title_original": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
+          "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30425",
+          "url": "https://www.aibase.com/news/30435",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:37:28.154111Z"
+          "published_at": "2026-08-18T08:39:05.367221Z"
         }
       ],
       "item_count": 1,
@@ -1975,17 +1776,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T04:37:28.154111Z",
-      "latest_at": "2026-08-18T04:37:28.154111Z",
+      "earliest_at": "2026-08-18T08:39:05.367221Z",
+      "latest_at": "2026-08-18T08:39:05.367221Z",
       "primary_item": {
-        "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
-        "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-        "title_zh": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
+        "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
+        "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+        "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
         "title_en": null,
-        "title_original": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
+        "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30425",
+        "url": "https://www.aibase.com/news/30435",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1993,7 +1794,226 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T04:38:10.754505Z"
+        "scored_at": "2026-08-18T08:39:42.747163Z"
+      }
+    },
+    {
+      "story_id": "story_ae0a0f31fc5c",
+      "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+      "primary_url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+      "source": "The Decoder AI News",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
+          "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+          "title_zh": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
+          "title_en": "AirTag reveals how Amazon destroys rare books for AI training",
+          "title_original": "AirTag reveals how Amazon destroys rare books for AI training",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T14:43:04Z"
+        },
+        {
+          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
+          "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "title_zh": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
+          "title_en": "Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "title_original": "Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T17:55:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "The Decoder AI News"
+      ],
+      "items": [
+        {
+          "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
+          "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+          "title_zh": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
+          "title_en": "AirTag reveals how Amazon destroys rare books for AI training",
+          "title_original": "AirTag reveals how Amazon destroys rare books for AI training",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T14:43:04Z"
+        },
+        {
+          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
+          "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "title_zh": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
+          "title_en": "Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "title_original": "Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T17:55:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6077,
+      "importance": 0.6077,
+      "importance_score": 0.6077,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.7718,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T14:43:04Z",
+      "latest_at": "2026-08-17T17:55:50Z",
+      "primary_item": {
+        "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
+        "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+        "title_zh": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
+        "title_en": "AirTag reveals how Amazon destroys rare books for AI training",
+        "title_original": "AirTag reveals how Amazon destroys rare books for AI training",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+        "source": "The Decoder AI News",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T08:39:42.747163Z"
+      }
+    },
+    {
+      "story_id": "story_af54f92163bc",
+      "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
+          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
+          "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T10:57:13Z"
+        },
+        {
+          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
+          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
+          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
+          "title_en": "Anthropic explains how Claude’s invisible text watermarks will work",
+          "title_original": "Anthropic explains how Claude’s invisible text watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T10:57:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
+          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
+          "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T10:57:13Z"
+        },
+        {
+          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
+          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
+          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
+          "title_en": "Anthropic explains how Claude’s invisible text watermarks will work",
+          "title_original": "Anthropic explains how Claude’s invisible text watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T10:57:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.592,
+      "importance": 0.592,
+      "importance_score": 0.592,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5328,
+        "source_tier": 0.58,
+        "ai_relevance": 0.74,
+        "recency": 0.731,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T10:57:13Z",
+      "latest_at": "2026-08-17T10:57:13Z",
+      "primary_item": {
+        "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
+        "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+        "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
+        "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+        "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T08:39:42.747163Z"
       }
     }
   ]
