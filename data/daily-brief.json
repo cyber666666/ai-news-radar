@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-08-18T08:39:05.367221Z",
+  "generated_at": "2026-08-18T12:50:16.294880Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_394e39b5c070",
+      "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "primary_url": "https://openai.com/index/chatgpt-for-teens",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
+          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+          "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        },
+        {
+          "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
+          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens： Built for learning， backed by protections",
+          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+          "title_en": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
+          "title_original": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
+          "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
+          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+          "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        },
+        {
+          "id": "e587cab58fe7972338b9d7a5f94ab2ca6fbf7efa",
+          "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens： Built for learning， backed by protections",
+          "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+          "title_en": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
+          "title_original": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
+          "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8803,
+      "importance": 0.8803,
+      "importance_score": 0.8803,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9738,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T11:00:00Z",
+      "latest_at": "2026-08-18T11:00:00Z",
+      "primary_item": {
+        "id": "90b2a6762a7199f75da949e83f2c7cd9c8b78ef2",
+        "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
+        "title_zh": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+        "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+        "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/chatgpt-for-teens",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T12:50:55.402767Z"
+      }
+    },
     {
       "story_id": "story_4c94bc9d56c4",
       "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
@@ -55,8 +168,8 @@
         },
         {
           "id": "a1932399f4adbbca2ed23e784bd521a61f882eda",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+          "title": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_zh": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
           "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "summary": null,
@@ -135,8 +248,8 @@
         },
         {
           "id": "a1932399f4adbbca2ed23e784bd521a61f882eda",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
+          "title": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+          "title_zh": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
           "title_en": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "title_original": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
           "summary": null,
@@ -164,15 +277,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8183,
+        "recency": 0.7703,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -199,7 +312,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
@@ -247,15 +360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8303,
+        "recency": 0.7816,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,7 +395,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
+      }
+    },
+    {
+      "story_id": "story_8e332aafeb89",
+      "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "primary_url": "https://openai.com/index/partnering-with-codeai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+          "title_zh": "与 CodeAI 合作，准备第一代 AI",
+          "title_en": "Partnering with CodeAI to prepare the first AI generation",
+          "title_original": "Partnering with CodeAI to prepare the first AI generation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/partnering-with-codeai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+          "title_zh": "与 CodeAI 合作，准备第一代 AI",
+          "title_en": "Partnering with CodeAI to prepare the first AI generation",
+          "title_original": "Partnering with CodeAI to prepare the first AI generation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/partnering-with-codeai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9738,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T11:00:00Z",
+      "latest_at": "2026-08-18T11:00:00Z",
+      "primary_item": {
+        "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+        "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+        "title_zh": "与 CodeAI 合作，准备第一代 AI",
+        "title_en": "Partnering with CodeAI to prepare the first AI generation",
+        "title_original": "Partnering with CodeAI to prepare the first AI generation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/partnering-with-codeai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
@@ -330,15 +526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.7972,
+      "importance": 0.7972,
+      "importance_score": 0.7972,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7863,
+        "recency": 0.7401,
         "story_heat": 0.0
       },
       "category": "official",
@@ -365,7 +561,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
@@ -471,15 +667,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8603,
+        "recency": 0.8099,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -506,7 +702,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
@@ -554,15 +750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8746,
+        "recency": 0.8233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -588,30 +784,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
-      "story_id": "story_bff3f6531ed0",
-      "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-      "url": "https://www.aibase.com/news/30439",
-      "primary_url": "https://www.aibase.com/news/30439",
+      "story_id": "story_e3e64a7023cf",
+      "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+      "url": "https://www.aibase.com/news/30441",
+      "primary_url": "https://www.aibase.com/news/30441",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
           "title_en": null,
-          "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30439",
+          "url": "https://www.aibase.com/news/30441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:05.367221Z"
+          "published_at": "2026-08-18T12:50:16.294880Z"
         }
       ],
       "source_count": 1,
@@ -620,18 +816,18 @@
       ],
       "items": [
         {
-          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
           "title_en": null,
-          "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30439",
+          "url": "https://www.aibase.com/news/30441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:05.367221Z"
+          "published_at": "2026-08-18T12:50:16.294880Z"
         }
       ],
       "item_count": 1,
@@ -652,17 +848,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T08:39:05.367221Z",
-      "latest_at": "2026-08-18T08:39:05.367221Z",
+      "earliest_at": "2026-08-18T12:50:16.294880Z",
+      "latest_at": "2026-08-18T12:50:16.294880Z",
       "primary_item": {
-        "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-        "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-        "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+        "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+        "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
         "title_en": null,
-        "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+        "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30439",
+        "url": "https://www.aibase.com/news/30441",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -670,7 +866,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
@@ -718,15 +914,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9192,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -751,7 +947,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
+      }
+    },
+    {
+      "story_id": "story_3590481c04b9",
+      "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+      "url": "https://www.aibase.com/news/30444",
+      "primary_url": "https://www.aibase.com/news/30444",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
+          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_en": null,
+          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30444",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T12:50:16.294880Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
+          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_en": null,
+          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30444",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T12:50:16.294880Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T12:50:16.294880Z",
+      "latest_at": "2026-08-18T12:50:16.294880Z",
+      "primary_item": {
+        "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
+        "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+        "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+        "title_en": null,
+        "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30444",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
@@ -799,15 +1077,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8821,
+        "recency": 0.8304,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,7 +1110,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
@@ -887,8 +1165,8 @@
         },
         {
           "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "title": "如何禁用或避免侵入式人工智能 / How to disable or avoid intrusive AI",
+          "title_zh": "如何禁用或避免侵入式人工智能",
           "title_en": "How to disable or avoid intrusive AI",
           "title_original": "How to disable or avoid intrusive AI",
           "summary": null,
@@ -952,8 +1230,8 @@
         },
         {
           "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "title": "如何禁用或避免侵入式人工智能 / How to disable or avoid intrusive AI",
+          "title_zh": "如何禁用或避免侵入式人工智能",
           "title_en": "How to disable or avoid intrusive AI",
           "title_original": "How to disable or avoid intrusive AI",
           "summary": null,
@@ -967,15 +1245,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.809,
+        "recency": 0.7615,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1002,30 +1280,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
-      "story_id": "story_d9aa06247ab9",
-      "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-      "url": "https://www.aibase.com/news/30431",
-      "primary_url": "https://www.aibase.com/news/30431",
+      "story_id": "story_f14986276d84",
+      "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+      "url": "https://www.aibase.com/news/30442",
+      "primary_url": "https://www.aibase.com/news/30442",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
+          "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+          "title_zh": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
           "title_en": null,
-          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_original": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30431",
+          "url": "https://www.aibase.com/news/30442",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:05.367221Z"
+          "published_at": "2026-08-18T12:50:16.294880Z"
         }
       ],
       "source_count": 1,
@@ -1034,18 +1312,18 @@
       ],
       "items": [
         {
-          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
+          "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+          "title_zh": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
           "title_en": null,
-          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_original": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30431",
+          "url": "https://www.aibase.com/news/30442",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:05.367221Z"
+          "published_at": "2026-08-18T12:50:16.294880Z"
         }
       ],
       "item_count": 1,
@@ -1066,17 +1344,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T08:39:05.367221Z",
-      "latest_at": "2026-08-18T08:39:05.367221Z",
+      "earliest_at": "2026-08-18T12:50:16.294880Z",
+      "latest_at": "2026-08-18T12:50:16.294880Z",
       "primary_item": {
-        "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-        "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-        "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
+        "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+        "title_zh": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
         "title_en": null,
-        "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "title_original": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30431",
+        "url": "https://www.aibase.com/news/30442",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1084,273 +1362,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
-      "story_id": "story_3fb9b8caeae7",
-      "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
-      "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-      "primary_url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac4e815c536d239831b729b0b9da8bf16acc16d1",
-          "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
-          "title_zh": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
-          "title_en": "Securing the Infrastructure of Intelligence",
-          "title_original": "Securing the Infrastructure of Intelligence",
-          "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:34:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ac4e815c536d239831b729b0b9da8bf16acc16d1",
-          "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
-          "title_zh": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
-          "title_en": "Securing the Infrastructure of Intelligence",
-          "title_original": "Securing the Infrastructure of Intelligence",
-          "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:34:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7484,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T12:34:51Z",
-      "latest_at": "2026-08-17T12:34:51Z",
-      "primary_item": {
-        "id": "ac4e815c536d239831b729b0b9da8bf16acc16d1",
-        "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
-        "title_zh": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
-        "title_en": "Securing the Infrastructure of Intelligence",
-        "title_original": "Securing the Infrastructure of Intelligence",
-        "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
-        "recommend_reason_zh": null,
-        "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
-      }
-    },
-    {
-      "story_id": "story_be56974e4c46",
-      "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
-      "url": "https://x.com/JensenHuang/status/2089331487342829862",
-      "primary_url": "https://x.com/JensenHuang/status/2089331487342829862",
-      "source": "X：Jensen Huang (@JensenHuang)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6e0f761a2146032889914220920c023472e7a342",
-          "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
-          "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
-          "title_en": "https://x.com/i/article/2089330332369588224",
-          "title_original": "https://x.com/i/article/2089330332369588224",
-          "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/JensenHuang/status/2089331487342829862",
-          "source": "X：Jensen Huang (@JensenHuang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:40:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Jensen Huang (@JensenHuang)"
-      ],
-      "items": [
-        {
-          "id": "6e0f761a2146032889914220920c023472e7a342",
-          "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
-          "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
-          "title_en": "https://x.com/i/article/2089330332369588224",
-          "title_original": "https://x.com/i/article/2089330332369588224",
-          "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/JensenHuang/status/2089331487342829862",
-          "source": "X：Jensen Huang (@JensenHuang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:40:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7494,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T12:40:19Z",
-      "latest_at": "2026-08-17T12:40:19Z",
-      "primary_item": {
-        "id": "6e0f761a2146032889914220920c023472e7a342",
-        "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂 / https://x.com/i/article/2089330332369588224",
-        "title_zh": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
-        "title_en": "https://x.com/i/article/2089330332369588224",
-        "title_original": "https://x.com/i/article/2089330332369588224",
-        "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/JensenHuang/status/2089331487342829862",
-        "source": "X：Jensen Huang (@JensenHuang)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
-      }
-    },
-    {
-      "story_id": "story_cec42b7695cc",
-      "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-      "url": "https://www.ithome.com/0/990/812.htm",
-      "primary_url": "https://www.ithome.com/0/990/812.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "857ded46599c92a5d91b8bd44d423dc2c66d49d2",
-          "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-          "title_zh": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-          "title_en": null,
-          "title_original": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-          "summary": "宇树科技宣布股票将于 2026 年 8 月 19 日在科创板上市，发行价 150.80 元/股，对应市值约 609.93 亿元，预计募资约 60.99 亿元。该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，净利润分别为-1114.51 万元、9547.47 万元和 2.78 亿元，是全球少数实现盈利的高性能通用机器人公司。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/990/812.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:25:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "857ded46599c92a5d91b8bd44d423dc2c66d49d2",
-          "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-          "title_zh": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-          "title_en": null,
-          "title_original": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-          "summary": "宇树科技宣布股票将于 2026 年 8 月 19 日在科创板上市，发行价 150.80 元/股，对应市值约 609.93 亿元，预计募资约 60.99 亿元。该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，净利润分别为-1114.51 万元、9547.47 万元和 2.78 亿元，是全球少数实现盈利的高性能通用机器人公司。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/990/812.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T12:25:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7467,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T12:25:27Z",
-      "latest_at": "2026-08-17T12:25:27Z",
-      "primary_item": {
-        "id": "857ded46599c92a5d91b8bd44d423dc2c66d49d2",
-        "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-        "title_zh": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-        "title_en": null,
-        "title_original": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
-        "summary": "宇树科技宣布股票将于 2026 年 8 月 19 日在科创板上市，发行价 150.80 元/股，对应市值约 609.93 亿元，预计募资约 60.99 亿元。该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，净利润分别为-1114.51 万元、9547.47 万元和 2.78 亿元，是全球少数实现盈利的高性能通用机器人公司。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/990/812.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
-      }
-    },
-    {
-      "story_id": "story_c47c2f0e2f45",
-      "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-      "url": "https://www.aibase.com/news/30433",
-      "primary_url": "https://www.aibase.com/news/30433",
+      "story_id": "story_914e45d552d0",
+      "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+      "url": "https://www.aibase.com/news/30443",
+      "primary_url": "https://www.aibase.com/news/30443",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
-          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
+          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
           "title_en": null,
-          "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30433",
+          "url": "https://www.aibase.com/news/30443",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:05.367221Z"
+          "published_at": "2026-08-18T12:50:16.294880Z"
         }
       ],
       "source_count": 1,
@@ -1359,18 +1394,18 @@
       ],
       "items": [
         {
-          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
-          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
+          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
           "title_en": null,
-          "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30433",
+          "url": "https://www.aibase.com/news/30443",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:05.367221Z"
+          "published_at": "2026-08-18T12:50:16.294880Z"
         }
       ],
       "item_count": 1,
@@ -1391,17 +1426,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T08:39:05.367221Z",
-      "latest_at": "2026-08-18T08:39:05.367221Z",
+      "earliest_at": "2026-08-18T12:50:16.294880Z",
+      "latest_at": "2026-08-18T12:50:16.294880Z",
       "primary_item": {
-        "id": "305298a37039d907b17569781c4a0c773bbe7c61",
-        "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-        "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+        "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
+        "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+        "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
         "title_en": null,
-        "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+        "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30433",
+        "url": "https://www.aibase.com/news/30443",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1409,26 +1444,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
-      "story_id": "story_4dcfda21a6fc",
-      "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-      "url": "https://www.aibase.com/news/30432",
-      "primary_url": "https://www.aibase.com/news/30432",
+      "story_id": "story_bff3f6531ed0",
+      "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+      "url": "https://www.aibase.com/news/30439",
+      "primary_url": "https://www.aibase.com/news/30439",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-          "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
           "title_en": null,
-          "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30432",
+          "url": "https://www.aibase.com/news/30439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1441,14 +1476,14 @@
       ],
       "items": [
         {
-          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-          "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
           "title_en": null,
-          "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30432",
+          "url": "https://www.aibase.com/news/30439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1457,15 +1492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1476,14 +1511,14 @@
       "earliest_at": "2026-08-18T08:39:05.367221Z",
       "latest_at": "2026-08-18T08:39:05.367221Z",
       "primary_item": {
-        "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-        "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-        "title_zh": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+        "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+        "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+        "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
         "title_en": null,
-        "title_original": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+        "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30432",
+        "url": "https://www.aibase.com/news/30439",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1491,89 +1526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
-      }
-    },
-    {
-      "story_id": "story_b4cb58f18c34",
-      "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-      "url": "https://www.aibase.com/news/30437",
-      "primary_url": "https://www.aibase.com/news/30437",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
-          "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "title_zh": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "title_en": null,
-          "title_original": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30437",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:05.367221Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
-          "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "title_zh": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "title_en": null,
-          "title_original": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30437",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:05.367221Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T08:39:05.367221Z",
-      "latest_at": "2026-08-18T08:39:05.367221Z",
-      "primary_item": {
-        "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
-        "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-        "title_zh": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-        "title_en": null,
-        "title_original": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30437",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
@@ -1679,15 +1632,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6366,
-      "importance": 0.6366,
-      "importance_score": 0.6366,
+      "score": 0.6282,
+      "importance": 0.6282,
+      "importance_score": 0.6282,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7936,
+        "recency": 0.7471,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1712,26 +1665,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
-      "story_id": "story_525b36aafcb4",
-      "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-      "url": "https://www.aibase.com/news/30435",
-      "primary_url": "https://www.aibase.com/news/30435",
+      "story_id": "story_d9aa06247ab9",
+      "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+      "url": "https://www.aibase.com/news/30431",
+      "primary_url": "https://www.aibase.com/news/30431",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
-          "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-          "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
           "title_en": null,
-          "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30435",
+          "url": "https://www.aibase.com/news/30431",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1744,14 +1697,14 @@
       ],
       "items": [
         {
-          "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
-          "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-          "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
           "title_en": null,
-          "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30435",
+          "url": "https://www.aibase.com/news/30431",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1760,15 +1713,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1779,14 +1732,14 @@
       "earliest_at": "2026-08-18T08:39:05.367221Z",
       "latest_at": "2026-08-18T08:39:05.367221Z",
       "primary_item": {
-        "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
-        "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-        "title_zh": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+        "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
+        "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
+        "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
         "title_en": null,
-        "title_original": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+        "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30435",
+        "url": "https://www.aibase.com/news/30431",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1794,7 +1747,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
@@ -1871,15 +1824,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6077,
-      "importance": 0.6077,
-      "importance_score": 0.6077,
+      "score": 0.5995,
+      "importance": 0.5995,
+      "importance_score": 0.5995,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7718,
+        "recency": 0.7266,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1904,116 +1857,228 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     },
     {
-      "story_id": "story_af54f92163bc",
-      "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_c47c2f0e2f45",
+      "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+      "url": "https://www.aibase.com/news/30433",
+      "primary_url": "https://www.aibase.com/news/30433",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
-          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
-          "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
+          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "title_en": null,
+          "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T10:57:13Z"
-        },
-        {
-          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
-          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
-          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
-          "title_en": "Anthropic explains how Claude’s invisible text watermarks will work",
-          "title_original": "Anthropic explains how Claude’s invisible text watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:57:13Z"
+          "url": "https://www.aibase.com/news/30433",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T08:39:05.367221Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "The Verge"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
-          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
-          "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
+          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+          "title_en": null,
+          "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T10:57:13Z"
-        },
-        {
-          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
-          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
-          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
-          "title_en": "Anthropic explains how Claude’s invisible text watermarks will work",
-          "title_original": "Anthropic explains how Claude’s invisible text watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:57:13Z"
+          "url": "https://www.aibase.com/news/30433",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T08:39:05.367221Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.592,
-      "importance": 0.592,
-      "importance_score": 0.592,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.5328,
-        "source_tier": 0.58,
-        "ai_relevance": 0.74,
-        "recency": 0.731,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9413,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-17T10:57:13Z",
-      "latest_at": "2026-08-17T10:57:13Z",
+      "earliest_at": "2026-08-18T08:39:05.367221Z",
+      "latest_at": "2026-08-18T08:39:05.367221Z",
       "primary_item": {
-        "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
-        "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-        "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
-        "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-        "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+        "id": "305298a37039d907b17569781c4a0c773bbe7c61",
+        "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+        "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
+        "title_en": null,
+        "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://www.aibase.com/news/30433",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T08:39:42.747163Z"
+        "scored_at": "2026-08-18T12:50:55.402767Z"
+      }
+    },
+    {
+      "story_id": "story_b7fc3695f17f",
+      "title": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
+      "url": "https://news.ycombinator.com/item?id=49343559",
+      "primary_url": "https://news.ycombinator.com/item?id=49343559",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "5598fabf3e7d07f92aa111bc2fd8f51cae60124c",
+          "title": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
+          "title_zh": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能",
+          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
+          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49343559",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T12:26:04.939000Z"
+        },
+        {
+          "id": "ad7b3df7f7955f9d55b96acf2b7115639201bda9",
+          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "title_en": null,
+          "title_original": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+          "source": "www.theregister.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T12:06:14.267000Z"
+        },
+        {
+          "id": "1c99c086c006ac042eeca135c91b0f542759e66f",
+          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
+          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
+          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T10:13:28Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.theregister.com"
+      ],
+      "items": [
+        {
+          "id": "5598fabf3e7d07f92aa111bc2fd8f51cae60124c",
+          "title": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
+          "title_zh": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能",
+          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
+          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49343559",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T12:26:04.939000Z"
+        },
+        {
+          "id": "ad7b3df7f7955f9d55b96acf2b7115639201bda9",
+          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "title_en": null,
+          "title_original": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+          "source": "www.theregister.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T12:06:14.267000Z"
+        },
+        {
+          "id": "1c99c086c006ac042eeca135c91b0f542759e66f",
+          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
+          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
+          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T10:13:28Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9942,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-18T10:13:28Z",
+      "latest_at": "2026-08-18T12:26:04.939000Z",
+      "primary_item": {
+        "id": "5598fabf3e7d07f92aa111bc2fd8f51cae60124c",
+        "title": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
+        "title_zh": "谷歌在拍卖中购买了坠毁航空公司 Spirit 的数据，因为人工智能",
+        "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
+        "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49343559",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T12:50:55.402767Z"
       }
     }
   ]
