@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T20:26:22.631680Z",
+  "generated_at": "2026-08-19T01:21:35.847832Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8792,
-      "importance": 0.8792,
-      "importance_score": 0.8792,
+      "score": 0.8672,
+      "importance": 0.8672,
+      "importance_score": 0.8672,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9676,
+        "recency": 0.9013,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     },
     {
@@ -190,15 +190,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8621,
-      "importance": 0.8621,
-      "importance_score": 0.8621,
+      "score": 0.8513,
+      "importance": 0.8513,
+      "importance_score": 0.8513,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8726,
+        "recency": 0.8127,
         "story_heat": 0.25
       },
       "category": "official",
@@ -226,12 +226,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
+      }
+    },
+    {
+      "story_id": "story_57fc147b8fa7",
+      "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
+          "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T23:33:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+          "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
+          "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T23:33:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9742,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T23:33:07Z",
+      "latest_at": "2026-08-18T23:33:07Z",
+      "primary_item": {
+        "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+        "title": "GitHub Copilot for JetBrains 中的企业托管设置 / Enterprise managed settings in GitHub Copilot for JetBrains",
+        "title_zh": "GitHub Copilot for JetBrains 中的企业托管设置",
+        "title_en": "Enterprise managed settings in GitHub Copilot for JetBrains",
+        "title_original": "Enterprise managed settings in GitHub Copilot for JetBrains",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     },
     {
       "story_id": "story_17c97873294f",
-      "title": "加强国家安全民主监督 / Strengthening Democratic Oversight in National Security",
+      "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
       "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "source": "OpenAI News",
@@ -239,10 +322,10 @@
       "sources": [
         {
           "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全民主监督 / Strengthening Democratic Oversight in National Security",
+          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
           "title_zh": "加强国家安全民主监督",
-          "title_en": "Strengthening Democratic Oversight in National Security",
-          "title_original": "Strengthening Democratic Oversight in National Security",
+          "title_en": "Strengthening democratic oversight in national security",
+          "title_original": "Strengthening democratic oversight in national security",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -259,10 +342,10 @@
       "items": [
         {
           "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全民主监督 / Strengthening Democratic Oversight in National Security",
+          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
           "title_zh": "加强国家安全民主监督",
-          "title_en": "Strengthening Democratic Oversight in National Security",
-          "title_original": "Strengthening Democratic Oversight in National Security",
+          "title_en": "Strengthening democratic oversight in national security",
+          "title_original": "Strengthening democratic oversight in national security",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -274,15 +357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8483,
-      "importance": 0.8483,
-      "importance_score": 0.8483,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9794,
+        "recency": 0.9122,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,10 +378,10 @@
       "latest_at": "2026-08-18T19:00:00Z",
       "primary_item": {
         "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-        "title": "加强国家安全民主监督 / Strengthening Democratic Oversight in National Security",
+        "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
         "title_zh": "加强国家安全民主监督",
-        "title_en": "Strengthening Democratic Oversight in National Security",
-        "title_original": "Strengthening Democratic Oversight in National Security",
+        "title_en": "Strengthening democratic oversight in national security",
+        "title_original": "Strengthening democratic oversight in national security",
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -309,224 +392,328 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     },
     {
-      "story_id": "story_cd7a1ff75de2",
-      "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "primary_url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face Blog",
+      "story_id": "story_7de8d1dc0770",
+      "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "primary_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
-          "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+          "title_zh": "按令牌类型撤销凭证和取消授权",
+          "title_en": "Credential revocation and deauthorization by token type",
+          "title_original": "Credential revocation and deauthorization by token type",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/multi-vector-encoder",
-          "source": "Hugging Face Blog",
+          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T00:00:00Z"
-        },
-        {
-          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
-          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
-          "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/multi-vector-encoder",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T00:00:00Z"
+          "published_at": "2026-08-18T21:57:30Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
-          "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+          "title_zh": "按令牌类型撤销凭证和取消授权",
+          "title_en": "Credential revocation and deauthorization by token type",
+          "title_original": "Credential revocation and deauthorization by token type",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/multi-vector-encoder",
-          "source": "Hugging Face Blog",
+          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T00:00:00Z"
-        },
-        {
-          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
-          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
-          "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/multi-vector-encoder",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T00:00:00Z"
+          "published_at": "2026-08-18T21:57:30Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.847,
-      "importance": 0.847,
-      "importance_score": 0.847,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7444,
-        "story_heat": 0.25
+        "ai_relevance": 0.87,
+        "recency": 0.9521,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T00:00:00Z",
-      "latest_at": "2026-08-18T00:00:00Z",
+      "earliest_at": "2026-08-18T21:57:30Z",
+      "latest_at": "2026-08-18T21:57:30Z",
       "primary_item": {
-        "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-        "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-        "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
-        "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-        "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+        "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+        "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+        "title_zh": "按令牌类型撤销凭证和取消授权",
+        "title_en": "Credential revocation and deauthorization by token type",
+        "title_original": "Credential revocation and deauthorization by token type",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/multi-vector-encoder",
-        "source": "Hugging Face Blog",
+        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     },
     {
-      "story_id": "story_7e601a28e35c",
-      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "primary_url": "https://cursor.com/changelog/origin-code-hosting",
+      "story_id": "story_eadd8d231bf2",
+      "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+      "source": "公众号：智谱（GLM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
+          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "title_en": null,
+          "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T01:03:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：智谱（GLM）"
+      ],
+      "items": [
+        {
+          "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
+          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "title_en": null,
+          "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+          "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T01:03:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9956,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T01:03:29Z",
+      "latest_at": "2026-08-19T01:03:29Z",
+      "primary_item": {
+        "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
+        "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+        "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+        "title_en": null,
+        "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+        "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+        "source": "公众号：智谱（GLM）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T01:22:11.965442Z"
+      }
+    },
+    {
+      "story_id": "story_85c60887e099",
+      "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+      "url": "https://www.aibase.com/news/30446",
+      "primary_url": "https://www.aibase.com/news/30446",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "afcf4a7bafc418499ded57b9d03ef73be4a8372c",
+          "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+          "title_zh": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+          "title_en": null,
+          "title_original": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30446",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T01:21:35.847832Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "afcf4a7bafc418499ded57b9d03ef73be4a8372c",
+          "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+          "title_zh": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+          "title_en": null,
+          "title_original": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30446",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T01:21:35.847832Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T01:21:35.847832Z",
+      "latest_at": "2026-08-19T01:21:35.847832Z",
+      "primary_item": {
+        "id": "afcf4a7bafc418499ded57b9d03ef73be4a8372c",
+        "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+        "title_zh": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+        "title_en": null,
+        "title_original": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30446",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T01:22:11.965442Z"
+      }
+    },
+    {
+      "story_id": "story_7b5d73500e30",
+      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "primary_url": "https://www.modular.com/blog/mojo-open-source",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
-          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+          "title_zh": "Mojo 语言正式开源，编译器与工具链全面开放",
           "title_en": null,
-          "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
+          "title_original": "Mojo 语言正式开源，编译器与工具链全面开放",
+          "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
           "recommend_reason_zh": null,
-          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "url": "https://www.modular.com/blog/mojo-open-source",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-17T22:14:00.748000Z"
-        },
-        {
-          "id": "24bf32d9e6fbc3c8e01bfe0ca6b287a3cb352f35",
-          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_en": null,
-          "title_original": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T22:14:00.748000Z"
+          "published_at": "2026-08-18T21:26:01.095000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "cursor.com"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
-          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+          "title_zh": "Mojo 语言正式开源，编译器与工具链全面开放",
           "title_en": null,
-          "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
+          "title_original": "Mojo 语言正式开源，编译器与工具链全面开放",
+          "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
           "recommend_reason_zh": null,
-          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "url": "https://www.modular.com/blog/mojo-open-source",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-17T22:14:00.748000Z"
-        },
-        {
-          "id": "24bf32d9e6fbc3c8e01bfe0ca6b287a3cb352f35",
-          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_en": null,
-          "title_original": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T22:14:00.748000Z"
+          "published_at": "2026-08-18T21:26:01.095000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7257,
-        "story_heat": 0.25
+        "recency": 0.9449,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T22:14:00.748000Z",
-      "latest_at": "2026-08-17T22:14:00.748000Z",
+      "earliest_at": "2026-08-18T21:26:01.095000Z",
+      "latest_at": "2026-08-18T21:26:01.095000Z",
       "primary_item": {
-        "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
-        "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-        "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+        "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+        "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+        "title_zh": "Mojo 语言正式开源，编译器与工具链全面开放",
         "title_en": null,
-        "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-        "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
+        "title_original": "Mojo 语言正式开源，编译器与工具链全面开放",
+        "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
         "recommend_reason_zh": null,
-        "url": "https://cursor.com/changelog/origin-code-hosting",
+        "url": "https://www.modular.com/blog/mojo-open-source",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
@@ -534,7 +721,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
+      }
+    },
+    {
+      "story_id": "story_e8202dde9923",
+      "title": "Claude 如何加速蛋白质设计与分析化学研究 / How Claude is accelerating protein design and analytical chemistry",
+      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "primary_url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2d445d4711836fe1d6d56e649860541e33eb624e",
+          "title": "Claude 如何加速蛋白质设计与分析化学研究 / How Claude is accelerating protein design and analytical chemistry",
+          "title_zh": "Claude 如何加速蛋白质设计与分析化学研究",
+          "title_en": "How Claude is accelerating protein design and analytical chemistry",
+          "title_original": "How Claude is accelerating protein design and analytical chemistry",
+          "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T22:27:16.191000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "2d445d4711836fe1d6d56e649860541e33eb624e",
+          "title": "Claude 如何加速蛋白质设计与分析化学研究 / How Claude is accelerating protein design and analytical chemistry",
+          "title_zh": "Claude 如何加速蛋白质设计与分析化学研究",
+          "title_en": "How Claude is accelerating protein design and analytical chemistry",
+          "title_original": "How Claude is accelerating protein design and analytical chemistry",
+          "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T22:27:16.191000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9589,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T22:27:16.191000Z",
+      "latest_at": "2026-08-18T22:27:16.191000Z",
+      "primary_item": {
+        "id": "2d445d4711836fe1d6d56e649860541e33eb624e",
+        "title": "Claude 如何加速蛋白质设计与分析化学研究 / How Claude is accelerating protein design and analytical chemistry",
+        "title_zh": "Claude 如何加速蛋白质设计与分析化学研究",
+        "title_en": "How Claude is accelerating protein design and analytical chemistry",
+        "title_original": "How Claude is accelerating protein design and analytical chemistry",
+        "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     },
     {
@@ -582,15 +851,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
+      "score": 0.8183,
+      "importance": 0.8183,
+      "importance_score": 0.8183,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8726,
+        "recency": 0.8127,
         "story_heat": 0.0
       },
       "category": "official",
@@ -617,112 +886,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     },
     {
-      "story_id": "story_654c10ffc24b",
-      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
-      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-      "primary_url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
-          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
-          "title_zh": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-          "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
-          "title_original": "Build zero-trust AI agents with Google's Agent Development Kit",
-          "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:22:25.902000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
-          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
-          "title_zh": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-          "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
-          "title_original": "Build zero-trust AI agents with Google's Agent Development Kit",
-          "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:22:25.902000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7377,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T23:22:25.902000Z",
-      "latest_at": "2026-08-17T23:22:25.902000Z",
-      "primary_item": {
-        "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
-        "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
-        "title_zh": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-        "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
-        "title_original": "Build zero-trust AI agents with Google's Agent Development Kit",
-        "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
-        "recommend_reason_zh": null,
-        "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
-      }
-    },
-    {
-      "story_id": "story_e3e64a7023cf",
-      "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-      "url": "https://www.aibase.com/news/30441",
-      "primary_url": "https://www.aibase.com/news/30441",
+      "story_id": "story_8fca6b8ea403",
+      "title": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
+      "url": "https://www.aibase.com/news/30450",
+      "primary_url": "https://www.aibase.com/news/30450",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "id": "dec209fdf2aa3f8e9d9eeb56d4217873c598a619",
+          "title": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
+          "title_zh": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
           "title_en": null,
-          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_original": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30441",
+          "url": "https://www.aibase.com/news/30450",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T12:50:16.294880Z"
+          "published_at": "2026-08-19T01:21:35.847832Z"
         }
       ],
       "source_count": 1,
@@ -731,48 +918,49 @@
       ],
       "items": [
         {
-          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "id": "dec209fdf2aa3f8e9d9eeb56d4217873c598a619",
+          "title": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
+          "title_zh": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
           "title_en": null,
-          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_original": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30441",
+          "url": "https://www.aibase.com/news/30450",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T12:50:16.294880Z"
+          "published_at": "2026-08-19T01:21:35.847832Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.896,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-18T12:50:16.294880Z",
-      "latest_at": "2026-08-18T12:50:16.294880Z",
+      "earliest_at": "2026-08-19T01:21:35.847832Z",
+      "latest_at": "2026-08-19T01:21:35.847832Z",
       "primary_item": {
-        "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-        "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-        "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "id": "dec209fdf2aa3f8e9d9eeb56d4217873c598a619",
+        "title": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
+        "title_zh": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
         "title_en": null,
-        "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "title_original": "OpenAI 全面升级安全体系：吸取 Hugging Face 教训，前端模型审查最严",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30441",
+        "url": "https://www.aibase.com/news/30450",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -780,7 +968,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
+      }
+    },
+    {
+      "story_id": "story_5a9ad877cc94",
+      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+      "url": "https://x.com/claudeai/status/2089806039088517356",
+      "primary_url": "https://x.com/claudeai/status/2089806039088517356",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
+          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+          "title_zh": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+          "title_en": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+          "title_original": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+          "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2089806039088517356",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T20:06:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude (@claudeai)"
+      ],
+      "items": [
+        {
+          "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
+          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+          "title_zh": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+          "title_en": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+          "title_original": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+          "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2089806039088517356",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T20:06:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9269,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T20:06:01Z",
+      "latest_at": "2026-08-18T20:06:01Z",
+      "primary_item": {
+        "id": "5833776bd035dfd9b5170fda745039e872c9c85f",
+        "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+        "title_zh": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+        "title_en": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+        "title_original": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+        "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/claudeai/status/2089806039088517356",
+        "source": "X：Claude (@claudeai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     },
     {
@@ -828,15 +1097,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
+      "score": 0.8183,
+      "importance": 0.8183,
+      "importance_score": 0.8183,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8726,
+        "recency": 0.8127,
         "story_heat": 0.0
       },
       "category": "official",
@@ -863,7 +1132,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     },
     {
@@ -911,15 +1180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.918,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -944,111 +1213,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     },
     {
-      "story_id": "story_886d9637cc01",
-      "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
-      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-      "primary_url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28bd262ceb8bb8267ecb21c922badcfbb9b38bf5",
-          "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
-          "title_zh": "设计 AI 评测：先求清晰，再谈可视化",
-          "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
-          "title_original": "Designing AI Evals： Clarity Now and Visualization Next",
-          "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
-          "recommend_reason_zh": null,
-          "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI：DEV 作者专属（RSS）"
-      ],
-      "items": [
-        {
-          "id": "28bd262ceb8bb8267ecb21c922badcfbb9b38bf5",
-          "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
-          "title_zh": "设计 AI 评测：先求清晰，再谈可视化",
-          "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
-          "title_original": "Designing AI Evals： Clarity Now and Visualization Next",
-          "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
-          "recommend_reason_zh": null,
-          "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8236,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T07:00:00Z",
-      "latest_at": "2026-08-18T07:00:00Z",
-      "primary_item": {
-        "id": "28bd262ceb8bb8267ecb21c922badcfbb9b38bf5",
-        "title": "设计 AI 评测：先求清晰，再谈可视化 / Designing AI Evals： Clarity Now and Visualization Next",
-        "title_zh": "设计 AI 评测：先求清晰，再谈可视化",
-        "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
-        "title_original": "Designing AI Evals： Clarity Now and Visualization Next",
-        "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
-        "recommend_reason_zh": null,
-        "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-        "source": "Google AI：DEV 作者专属（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
-      }
-    },
-    {
-      "story_id": "story_3590481c04b9",
-      "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-      "url": "https://www.aibase.com/news/30444",
-      "primary_url": "https://www.aibase.com/news/30444",
+      "story_id": "story_05c824816201",
+      "title": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
+      "url": "https://www.aibase.com/news/30449",
+      "primary_url": "https://www.aibase.com/news/30449",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "id": "022a4ff53eb071c58236a89b5540f16830571362",
+          "title": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
+          "title_zh": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
           "title_en": null,
-          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_original": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30444",
+          "url": "https://www.aibase.com/news/30449",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T12:50:16.294880Z"
+          "published_at": "2026-08-19T01:21:35.847832Z"
         }
       ],
       "source_count": 1,
@@ -1057,48 +1245,49 @@
       ],
       "items": [
         {
-          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-          "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "id": "022a4ff53eb071c58236a89b5540f16830571362",
+          "title": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
+          "title_zh": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
           "title_en": null,
-          "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+          "title_original": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30444",
+          "url": "https://www.aibase.com/news/30449",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T12:50:16.294880Z"
+          "published_at": "2026-08-19T01:21:35.847832Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.896,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-18T12:50:16.294880Z",
-      "latest_at": "2026-08-18T12:50:16.294880Z",
+      "earliest_at": "2026-08-19T01:21:35.847832Z",
+      "latest_at": "2026-08-19T01:21:35.847832Z",
       "primary_item": {
-        "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-        "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-        "title_zh": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+        "id": "022a4ff53eb071c58236a89b5540f16830571362",
+        "title": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
+        "title_zh": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
         "title_en": null,
-        "title_original": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
+        "title_original": "OpenAI推出ChatGPT for Teens，加强青少年安全与学习引导",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30444",
+        "url": "https://www.aibase.com/news/30449",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1106,7 +1295,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     },
     {
@@ -1154,15 +1343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8282,
-      "importance": 0.8282,
-      "importance_score": 0.8282,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8236,
+        "recency": 0.7671,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1189,30 +1378,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     },
     {
-      "story_id": "story_f14986276d84",
-      "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
-      "url": "https://www.aibase.com/news/30442",
-      "primary_url": "https://www.aibase.com/news/30442",
+      "story_id": "story_39c8e5998438",
+      "title": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
+      "url": "https://www.aibase.com/news/30445",
+      "primary_url": "https://www.aibase.com/news/30445",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
-          "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
-          "title_zh": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+          "id": "f369bd4216cacac95ef5ea5f78d7ba6a70b4247d",
+          "title": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
+          "title_zh": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
           "title_en": null,
-          "title_original": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+          "title_original": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30442",
+          "url": "https://www.aibase.com/news/30445",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T12:50:16.294880Z"
+          "published_at": "2026-08-19T01:21:35.847832Z"
         }
       ],
       "source_count": 1,
@@ -1221,48 +1410,49 @@
       ],
       "items": [
         {
-          "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
-          "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
-          "title_zh": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+          "id": "f369bd4216cacac95ef5ea5f78d7ba6a70b4247d",
+          "title": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
+          "title_zh": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
           "title_en": null,
-          "title_original": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+          "title_original": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30442",
+          "url": "https://www.aibase.com/news/30445",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T12:50:16.294880Z"
+          "published_at": "2026-08-19T01:21:35.847832Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.896,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-18T12:50:16.294880Z",
-      "latest_at": "2026-08-18T12:50:16.294880Z",
+      "earliest_at": "2026-08-19T01:21:35.847832Z",
+      "latest_at": "2026-08-19T01:21:35.847832Z",
       "primary_item": {
-        "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
-        "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
-        "title_zh": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+        "id": "f369bd4216cacac95ef5ea5f78d7ba6a70b4247d",
+        "title": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
+        "title_zh": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
         "title_en": null,
-        "title_original": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+        "title_original": "​AI模型“越狱”偷袭Hugging Face，OpenAI已暂停部分AI训练工作长达两周",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30442",
+        "url": "https://www.aibase.com/news/30445",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1270,30 +1460,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     },
     {
-      "story_id": "story_914e45d552d0",
-      "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-      "url": "https://www.aibase.com/news/30443",
-      "primary_url": "https://www.aibase.com/news/30443",
+      "story_id": "story_75da83f04ae8",
+      "title": "​​Anthropic刚给AI文本加“隐形水印”，黑客和开发者就连夜上线“去水印神器”！",
+      "url": "https://www.aibase.com/news/30447",
+      "primary_url": "https://www.aibase.com/news/30447",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
-          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-          "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "id": "0f06079f331bfc1005c42f2fc749a81442eccdec",
+          "title": "​​Anthropic刚给AI文本加“隐形水印”，黑客和开发者就连夜上线“去水印神器”！",
+          "title_zh": "​​Anthropic刚给AI文本加“隐形水印”，黑客和开发者就连夜上线“去水印神器”！",
           "title_en": null,
-          "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "title_original": "​​Anthropic刚给AI文本加“隐形水印”，黑客和开发者就连夜上线“去水印神器”！",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30443",
+          "url": "https://www.aibase.com/news/30447",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T12:50:16.294880Z"
+          "published_at": "2026-08-19T01:21:35.847832Z"
         }
       ],
       "source_count": 1,
@@ -1302,48 +1492,49 @@
       ],
       "items": [
         {
-          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
-          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-          "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "id": "0f06079f331bfc1005c42f2fc749a81442eccdec",
+          "title": "​​Anthropic刚给AI文本加“隐形水印”，黑客和开发者就连夜上线“去水印神器”！",
+          "title_zh": "​​Anthropic刚给AI文本加“隐形水印”，黑客和开发者就连夜上线“去水印神器”！",
           "title_en": null,
-          "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "title_original": "​​Anthropic刚给AI文本加“隐形水印”，黑客和开发者就连夜上线“去水印神器”！",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30443",
+          "url": "https://www.aibase.com/news/30447",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T12:50:16.294880Z"
+          "published_at": "2026-08-19T01:21:35.847832Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.896,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-18T12:50:16.294880Z",
-      "latest_at": "2026-08-18T12:50:16.294880Z",
+      "earliest_at": "2026-08-19T01:21:35.847832Z",
+      "latest_at": "2026-08-19T01:21:35.847832Z",
       "primary_item": {
-        "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
-        "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-        "title_zh": "百度二季度营收313亿元，AI业务占比连续两季过半",
+        "id": "0f06079f331bfc1005c42f2fc749a81442eccdec",
+        "title": "​​Anthropic刚给AI文本加“隐形水印”，黑客和开发者就连夜上线“去水印神器”！",
+        "title_zh": "​​Anthropic刚给AI文本加“隐形水印”，黑客和开发者就连夜上线“去水印神器”！",
         "title_en": null,
-        "title_original": "百度二季度营收313亿元，AI业务占比连续两季过半",
+        "title_original": "​​Anthropic刚给AI文本加“隐形水印”，黑客和开发者就连夜上线“去水印神器”！",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30443",
+        "url": "https://www.aibase.com/news/30447",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1351,30 +1542,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     },
     {
-      "story_id": "story_bff3f6531ed0",
-      "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-      "url": "https://www.aibase.com/news/30439",
-      "primary_url": "https://www.aibase.com/news/30439",
+      "story_id": "story_04c5c2808a35",
+      "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+      "url": "https://www.aibase.com/news/30448",
+      "primary_url": "https://www.aibase.com/news/30448",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "id": "8e49aed8642811812396ef532bf25f60826de2f8",
+          "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "title_zh": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
           "title_en": null,
-          "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "title_original": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30439",
+          "url": "https://www.aibase.com/news/30448",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:05.367221Z"
+          "published_at": "2026-08-19T01:21:35.847832Z"
         }
       ],
       "source_count": 1,
@@ -1383,48 +1574,49 @@
       ],
       "items": [
         {
-          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "id": "8e49aed8642811812396ef532bf25f60826de2f8",
+          "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+          "title_zh": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
           "title_en": null,
-          "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "title_original": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30439",
+          "url": "https://www.aibase.com/news/30448",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:05.367221Z"
+          "published_at": "2026-08-19T01:21:35.847832Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8435,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-18T08:39:05.367221Z",
-      "latest_at": "2026-08-18T08:39:05.367221Z",
+      "earliest_at": "2026-08-19T01:21:35.847832Z",
+      "latest_at": "2026-08-19T01:21:35.847832Z",
       "primary_item": {
-        "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-        "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-        "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+        "id": "8e49aed8642811812396ef532bf25f60826de2f8",
+        "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
+        "title_zh": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
         "title_en": null,
-        "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+        "title_original": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30439",
+        "url": "https://www.aibase.com/news/30448",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1432,447 +1624,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     },
     {
-      "story_id": "story_d9aa06247ab9",
-      "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-      "url": "https://www.aibase.com/news/30431",
-      "primary_url": "https://www.aibase.com/news/30431",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "title_en": null,
-          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30431",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:05.367221Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "title_en": null,
-          "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30431",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:05.367221Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8435,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T08:39:05.367221Z",
-      "latest_at": "2026-08-18T08:39:05.367221Z",
-      "primary_item": {
-        "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-        "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-        "title_zh": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-        "title_en": null,
-        "title_original": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30431",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
-      }
-    },
-    {
-      "story_id": "story_04675208260d",
-      "title": "Claude Code 2026 年 5 月至 8 月每周限量促销 / Claude Code May–August 2026 weekly limits promotion",
-      "url": "https://news.ycombinator.com/item?id=49348751",
-      "primary_url": "https://news.ycombinator.com/item?id=49348751",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
-          "title": "Claude Code 2026 年 5 月至 8 月每周限量促销 / Claude Code May–August 2026 weekly limits promotion",
-          "title_zh": "Claude Code 2026 年 5 月至 8 月每周限量促销",
-          "title_en": "Claude Code May–August 2026 weekly limits promotion",
-          "title_original": "Claude Code May–August 2026 weekly limits promotion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49348751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-18T20:11:57.442000Z"
-        },
-        {
-          "id": "bcadc5f5fd18b2a5c47628763903fe65fbf789f7",
-          "title": "克劳德·科德的每周限额明天将减少三分之一",
-          "title_zh": "克劳德·科德的每周限额明天将减少三分之一",
-          "title_en": null,
-          "title_original": "克劳德·科德的每周限额明天将减少三分之一",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "support.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T18:14:09.002000Z"
-        },
-        {
-          "id": "8346c17d96c80d0b9d77d09be59509ea84225bc3",
-          "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code May–August 2026 weekly limits promotion",
-          "title_zh": "Claude·科德的每周限额明天将减少三分之一",
-          "title_en": "Claude Code May–August 2026 weekly limits promotion",
-          "title_original": "Claude Code May–August 2026 weekly limits promotion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T17:02:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "support.claude.com"
-      ],
-      "items": [
-        {
-          "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
-          "title": "Claude Code 2026 年 5 月至 8 月每周限量促销 / Claude Code May–August 2026 weekly limits promotion",
-          "title_zh": "Claude Code 2026 年 5 月至 8 月每周限量促销",
-          "title_en": "Claude Code May–August 2026 weekly limits promotion",
-          "title_original": "Claude Code May–August 2026 weekly limits promotion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49348751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-18T20:11:57.442000Z"
-        },
-        {
-          "id": "bcadc5f5fd18b2a5c47628763903fe65fbf789f7",
-          "title": "克劳德·科德的每周限额明天将减少三分之一",
-          "title_zh": "克劳德·科德的每周限额明天将减少三分之一",
-          "title_en": null,
-          "title_original": "克劳德·科德的每周限额明天将减少三分之一",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "support.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T18:14:09.002000Z"
-        },
-        {
-          "id": "8346c17d96c80d0b9d77d09be59509ea84225bc3",
-          "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code May–August 2026 weekly limits promotion",
-          "title_zh": "Claude·科德的每周限额明天将减少三分之一",
-          "title_en": "Claude Code May–August 2026 weekly limits promotion",
-          "title_original": "Claude Code May–August 2026 weekly limits promotion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T17:02:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9965,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-18T17:02:15Z",
-      "latest_at": "2026-08-18T20:11:57.442000Z",
-      "primary_item": {
-        "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
-        "title": "Claude Code 2026 年 5 月至 8 月每周限量促销 / Claude Code May–August 2026 weekly limits promotion",
-        "title_zh": "Claude Code 2026 年 5 月至 8 月每周限量促销",
-        "title_en": "Claude Code May–August 2026 weekly limits promotion",
-        "title_original": "Claude Code May–August 2026 weekly limits promotion",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49348751",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
-      }
-    },
-    {
-      "story_id": "story_76bbcf858747",
-      "title": "克劳德：多种模型的性能下降",
-      "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-      "primary_url": "https://status.claude.com/incidents/q7txxvbsftgq",
-      "source": "status.claude.com",
+      "story_id": "story_14fdaae3bf7f",
+      "title": "挪威应该收购OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "primary_url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "source": "www.onethousandmeans.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "5c6800e633e808a669b24ce3269647bd5f172f3b",
-          "title": "克劳德：多种模型的性能下降",
-          "title_zh": "克劳德：多种模型的性能下降",
+          "id": "50f934aeccf99d5cf8b7561cc288e285b1766e3b",
+          "title": "挪威应该收购OpenAI",
+          "title_zh": "挪威应该收购OpenAI",
           "title_en": null,
-          "title_original": "克劳德：多种模型的性能下降",
+          "title_original": "挪威应该收购OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "status.claude.com",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "www.onethousandmeans.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-18T17:09:55.487000Z"
+          "published_at": "2026-08-18T20:22:24.343000Z"
         },
         {
-          "id": "bbaa5cef2593f1a5451dffebb199b87615af58f3",
-          "title": "Claude：多种模型的性能下降 / Claude: Degraded Performance for Multiple Models",
-          "title_zh": "Claude：多种模型的性能下降",
-          "title_en": "Claude: Degraded Performance for Multiple Models",
-          "title_original": "Claude: Degraded Performance for Multiple Models",
+          "id": "1e73a9714656d6c8fd2bfdf6bcced4fed2c85ae2",
+          "title": "挪威应该收购 OpenAI / Norway should buy OpenAI",
+          "title_zh": "挪威应该收购 OpenAI",
+          "title_en": "Norway should buy OpenAI",
+          "title_original": "Norway should buy OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
+          "url": "https://news.ycombinator.com/item?id=49351330",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T20:11:57.442000Z"
+        },
+        {
+          "id": "755f977396514cc0c78244d8f8e4eae390bc3ee3",
+          "title": "挪威应该收购OpenAI / Norway should buy OpenAI",
+          "title_zh": "挪威应该收购OpenAI",
+          "title_en": "Norway should buy OpenAI",
+          "title_original": "Norway should buy OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-18T16:28:20Z"
-        },
-        {
-          "id": "e2128c6d816fa85a6e417a10d46675dc0316a334",
-          "title": "克劳德：多种模型的性能下降 / Degraded performance for multiple models",
-          "title_zh": "克劳德：多种模型的性能下降",
-          "title_en": "Degraded performance for multiple models",
-          "title_original": "Degraded performance for multiple models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T16:28:20Z"
+          "published_at": "2026-08-18T19:30:29Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "status.claude.com"
+        "hackernews",
+        "www.onethousandmeans.com"
       ],
       "items": [
         {
-          "id": "5c6800e633e808a669b24ce3269647bd5f172f3b",
-          "title": "克劳德：多种模型的性能下降",
-          "title_zh": "克劳德：多种模型的性能下降",
+          "id": "50f934aeccf99d5cf8b7561cc288e285b1766e3b",
+          "title": "挪威应该收购OpenAI",
+          "title_zh": "挪威应该收购OpenAI",
           "title_en": null,
-          "title_original": "克劳德：多种模型的性能下降",
+          "title_original": "挪威应该收购OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "status.claude.com",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "source": "www.onethousandmeans.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-18T17:09:55.487000Z"
+          "published_at": "2026-08-18T20:22:24.343000Z"
         },
         {
-          "id": "bbaa5cef2593f1a5451dffebb199b87615af58f3",
-          "title": "Claude：多种模型的性能下降 / Claude: Degraded Performance for Multiple Models",
-          "title_zh": "Claude：多种模型的性能下降",
-          "title_en": "Claude: Degraded Performance for Multiple Models",
-          "title_original": "Claude: Degraded Performance for Multiple Models",
+          "id": "1e73a9714656d6c8fd2bfdf6bcced4fed2c85ae2",
+          "title": "挪威应该收购 OpenAI / Norway should buy OpenAI",
+          "title_zh": "挪威应该收购 OpenAI",
+          "title_en": "Norway should buy OpenAI",
+          "title_original": "Norway should buy OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
+          "url": "https://news.ycombinator.com/item?id=49351330",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T20:11:57.442000Z"
+        },
+        {
+          "id": "755f977396514cc0c78244d8f8e4eae390bc3ee3",
+          "title": "挪威应该收购OpenAI / Norway should buy OpenAI",
+          "title_zh": "挪威应该收购OpenAI",
+          "title_en": "Norway should buy OpenAI",
+          "title_original": "Norway should buy OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-18T16:28:20Z"
-        },
-        {
-          "id": "e2128c6d816fa85a6e417a10d46675dc0316a334",
-          "title": "克劳德：多种模型的性能下降 / Degraded performance for multiple models",
-          "title_zh": "克劳德：多种模型的性能下降",
-          "title_en": "Degraded performance for multiple models",
-          "title_original": "Degraded performance for multiple models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T16:28:20Z"
+          "published_at": "2026-08-18T19:30:29Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5625,
-      "importance": 0.5625,
-      "importance_score": 0.5625,
+      "score": 0.5583,
+      "importance": 0.5583,
+      "importance_score": 0.5583,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9538,
+        "recency": 0.9305,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-18T16:28:20Z",
-      "latest_at": "2026-08-18T17:09:55.487000Z",
+      "earliest_at": "2026-08-18T19:30:29Z",
+      "latest_at": "2026-08-18T20:22:24.343000Z",
       "primary_item": {
-        "id": "5c6800e633e808a669b24ce3269647bd5f172f3b",
-        "title": "克劳德：多种模型的性能下降",
-        "title_zh": "克劳德：多种模型的性能下降",
+        "id": "50f934aeccf99d5cf8b7561cc288e285b1766e3b",
+        "title": "挪威应该收购OpenAI",
+        "title_zh": "挪威应该收购OpenAI",
         "title_en": null,
-        "title_original": "克劳德：多种模型的性能下降",
+        "title_original": "挪威应该收购OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-        "source": "status.claude.com",
+        "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+        "source": "www.onethousandmeans.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
-      }
-    },
-    {
-      "story_id": "story_c47c2f0e2f45",
-      "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-      "url": "https://www.aibase.com/news/30433",
-      "primary_url": "https://www.aibase.com/news/30433",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
-          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "title_en": null,
-          "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30433",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:05.367221Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
-          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "title_en": null,
-          "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30433",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:05.367221Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8435,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T08:39:05.367221Z",
-      "latest_at": "2026-08-18T08:39:05.367221Z",
-      "primary_item": {
-        "id": "305298a37039d907b17569781c4a0c773bbe7c61",
-        "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-        "title_zh": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-        "title_en": null,
-        "title_original": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30433",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T20:26:58.057432Z"
+        "scored_at": "2026-08-19T01:22:11.965442Z"
       }
     }
   ]
