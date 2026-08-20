@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:40:37.178303Z",
+  "generated_at": "2026-08-20T12:53:01.595716Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8208,
+        "recency": 0.7724,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
-      }
-    },
-    {
-      "story_id": "story_c773429fa020",
-      "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
-          "title_en": "GitHub Copilot app for Beginners: Managing your work",
-          "title_original": "GitHub Copilot app for Beginners: Managing your work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T17:50:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
-          "title_en": "GitHub Copilot app for Beginners: Managing your work",
-          "title_original": "GitHub Copilot app for Beginners: Managing your work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T17:50:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8071,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T17:50:23Z",
-      "latest_at": "2026-08-19T17:50:23Z",
-      "primary_item": {
-        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-        "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-        "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
-        "title_en": "GitHub Copilot app for Beginners: Managing your work",
-        "title_original": "GitHub Copilot app for Beginners: Managing your work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
+        "scored_at": "2026-08-20T12:54:59.344005Z"
       }
     },
     {
@@ -214,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7616,
+        "recency": 0.7167,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +166,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
+        "scored_at": "2026-08-20T12:54:59.344005Z"
+      }
+    },
+    {
+      "story_id": "story_c773429fa020",
+      "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+          "title_en": "GitHub Copilot app for Beginners: Managing your work",
+          "title_original": "GitHub Copilot app for Beginners: Managing your work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T17:50:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+          "title_en": "GitHub Copilot app for Beginners: Managing your work",
+          "title_original": "GitHub Copilot app for Beginners: Managing your work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T17:50:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7596,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T17:50:23Z",
+      "latest_at": "2026-08-19T17:50:23Z",
+      "primary_item": {
+        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+        "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+        "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+        "title_en": "GitHub Copilot app for Beginners: Managing your work",
+        "title_original": "GitHub Copilot app for Beginners: Managing your work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T12:54:59.344005Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8468,
+        "recency": 0.7969,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
+        "scored_at": "2026-08-20T12:54:59.344005Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8208,
+        "recency": 0.7724,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
+        "scored_at": "2026-08-20T12:54:59.344005Z"
+      }
+    },
+    {
+      "story_id": "story_8d7d53a3e367",
+      "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+      "url": "https://www.aibase.com/news/30508",
+      "primary_url": "https://www.aibase.com/news/30508",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "df6e8786b483bebf33a0fd03556d12f55bcb7285",
+          "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+          "title_zh": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+          "title_en": null,
+          "title_original": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30508",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T12:53:01.595716Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "df6e8786b483bebf33a0fd03556d12f55bcb7285",
+          "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+          "title_zh": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+          "title_en": null,
+          "title_original": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30508",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T12:53:01.595716Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T12:53:01.595716Z",
+      "latest_at": "2026-08-20T12:53:01.595716Z",
+      "primary_item": {
+        "id": "df6e8786b483bebf33a0fd03556d12f55bcb7285",
+        "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+        "title_zh": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+        "title_en": null,
+        "title_original": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30508",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T12:54:59.344005Z"
       }
     },
     {
@@ -463,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7521,
+        "recency": 0.7078,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,63 +580,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
+        "scored_at": "2026-08-20T12:54:59.344005Z"
       }
     },
     {
-      "story_id": "story_97e04846adb3",
-      "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-      "url": "https://www.aibase.com/news/30497",
-      "primary_url": "https://www.aibase.com/news/30497",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_07ac88c2e7ee",
+      "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+      "url": "https://www.ithome.com/0/992/239.htm",
+      "primary_url": "https://www.ithome.com/0/992/239.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
-          "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-          "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
+          "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "title_zh": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
           "title_en": null,
-          "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-          "summary": null,
+          "title_original": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30497",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T08:40:37.178303Z"
+          "url": "https://www.ithome.com/0/992/239.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T09:45:51Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
-          "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-          "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
+          "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "title_zh": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
           "title_en": null,
-          "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-          "summary": null,
+          "title_original": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30497",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T08:40:37.178303Z"
+          "url": "https://www.ithome.com/0/992/239.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T09:45:51Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.956,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -562,25 +644,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T08:40:37.178303Z",
-      "latest_at": "2026-08-20T08:40:37.178303Z",
+      "earliest_at": "2026-08-20T09:45:51Z",
+      "latest_at": "2026-08-20T09:45:51Z",
       "primary_item": {
-        "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
-        "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-        "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+        "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
+        "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+        "title_zh": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
         "title_en": null,
-        "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-        "summary": null,
+        "title_original": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+        "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30497",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.ithome.com/0/992/239.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
+        "scored_at": "2026-08-20T12:54:59.344005Z"
       }
     },
     {
@@ -657,15 +739,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8534,
+        "recency": 0.8031,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -692,111 +774,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
+        "scored_at": "2026-08-20T12:54:59.344005Z"
       }
     },
     {
-      "story_id": "story_8d0553fb4a53",
-      "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-      "url": "https://www.ithome.com/0/991/886.htm",
-      "primary_url": "https://www.ithome.com/0/991/886.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
-          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-          "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-          "title_en": null,
-          "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-          "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/991/886.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T00:17:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
-          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-          "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-          "title_en": null,
-          "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-          "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/991/886.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T00:17:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8859,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T00:17:26Z",
-      "latest_at": "2026-08-20T00:17:26Z",
-      "primary_item": {
-        "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
-        "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-        "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-        "title_en": null,
-        "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-        "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/991/886.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
-      }
-    },
-    {
-      "story_id": "story_170c6e847b14",
-      "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-      "url": "https://www.aibase.com/news/30501",
-      "primary_url": "https://www.aibase.com/news/30501",
+      "story_id": "story_6e44341739d1",
+      "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+      "url": "https://www.aibase.com/news/30507",
+      "primary_url": "https://www.aibase.com/news/30507",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
+          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
           "title_en": null,
-          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30501",
+          "url": "https://www.aibase.com/news/30507",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T08:40:37.178303Z"
+          "published_at": "2026-08-20T12:53:01.595716Z"
         }
       ],
       "source_count": 1,
@@ -805,18 +806,18 @@
       ],
       "items": [
         {
-          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
+          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
           "title_en": null,
-          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30501",
+          "url": "https://www.aibase.com/news/30507",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T08:40:37.178303Z"
+          "published_at": "2026-08-20T12:53:01.595716Z"
         }
       ],
       "item_count": 1,
@@ -837,17 +838,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T08:40:37.178303Z",
-      "latest_at": "2026-08-20T08:40:37.178303Z",
+      "earliest_at": "2026-08-20T12:53:01.595716Z",
+      "latest_at": "2026-08-20T12:53:01.595716Z",
       "primary_item": {
-        "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-        "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-        "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
+        "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+        "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
         "title_en": null,
-        "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30501",
+        "url": "https://www.aibase.com/news/30507",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -855,7 +856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
+        "scored_at": "2026-08-20T12:54:59.344005Z"
       }
     },
     {
@@ -903,15 +904,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8083,
+        "recency": 0.7606,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -936,7 +937,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
+        "scored_at": "2026-08-20T12:54:59.344005Z"
       }
     },
     {
@@ -984,15 +985,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8414,
+        "recency": 0.7918,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1017,7 +1018,252 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
+        "scored_at": "2026-08-20T12:54:59.344005Z"
+      }
+    },
+    {
+      "story_id": "story_8d0553fb4a53",
+      "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+      "url": "https://www.ithome.com/0/991/886.htm",
+      "primary_url": "https://www.ithome.com/0/991/886.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_en": null,
+          "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/991/886.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T00:17:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_en": null,
+          "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/991/886.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T00:17:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8337,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-20T00:17:26Z",
+      "latest_at": "2026-08-20T00:17:26Z",
+      "primary_item": {
+        "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+        "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+        "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+        "title_en": null,
+        "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+        "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/991/886.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T12:54:59.344005Z"
+      }
+    },
+    {
+      "story_id": "story_97e04846adb3",
+      "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+      "url": "https://www.aibase.com/news/30497",
+      "primary_url": "https://www.aibase.com/news/30497",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
+          "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "title_en": null,
+          "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30497",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T08:40:37.178303Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
+          "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "title_en": null,
+          "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30497",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T08:40:37.178303Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9411,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T08:40:37.178303Z",
+      "latest_at": "2026-08-20T08:40:37.178303Z",
+      "primary_item": {
+        "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
+        "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+        "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+        "title_en": null,
+        "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30497",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T12:54:59.344005Z"
+      }
+    },
+    {
+      "story_id": "story_170c6e847b14",
+      "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+      "url": "https://www.aibase.com/news/30501",
+      "primary_url": "https://www.aibase.com/news/30501",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "title_en": null,
+          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30501",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T08:40:37.178303Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "title_en": null,
+          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30501",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T08:40:37.178303Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9411,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T08:40:37.178303Z",
+      "latest_at": "2026-08-20T08:40:37.178303Z",
+      "primary_item": {
+        "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+        "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "title_en": null,
+        "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30501",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T12:54:59.344005Z"
       }
     },
     {
@@ -1065,15 +1311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1099,7 +1345,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
+        "scored_at": "2026-08-20T12:54:59.344005Z"
       }
     },
     {
@@ -1147,15 +1393,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1181,7 +1427,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
+        "scored_at": "2026-08-20T12:54:59.344005Z"
       }
     },
     {
@@ -1229,15 +1475,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1263,7 +1509,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
+        "scored_at": "2026-08-20T12:54:59.344005Z"
+      }
+    },
+    {
+      "story_id": "story_cd43b590ecb7",
+      "title": "请不要粘贴AI生成的内容",
+      "url": "https://dontpastetheai.com",
+      "primary_url": "https://dontpastetheai.com",
+      "source": "dontpastetheai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
+          "title": "请不要粘贴AI生成的内容",
+          "title_zh": "请不要粘贴AI生成的内容",
+          "title_en": null,
+          "title_original": "请不要粘贴AI生成的内容",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dontpastetheai.com",
+          "source": "dontpastetheai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T09:26:10.003000Z"
+        },
+        {
+          "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
+          "title": "Don't Paste the AI, please",
+          "title_zh": null,
+          "title_en": "Don't Paste the AI, please",
+          "title_original": "Don't Paste the AI, please",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49371857",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T08:40:57.349000Z"
+        },
+        {
+          "id": "b6f7bc7997292509751cecb729085e02b469d495",
+          "title": "请不要粘贴AI生成的内容 / Don't Paste the AI, please",
+          "title_zh": "请不要粘贴AI生成的内容",
+          "title_en": "Don't Paste the AI, please",
+          "title_original": "Don't Paste the AI, please",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dontpastetheai.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-20T08:20:44Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "dontpastetheai.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
+          "title": "请不要粘贴AI生成的内容",
+          "title_zh": "请不要粘贴AI生成的内容",
+          "title_en": null,
+          "title_original": "请不要粘贴AI生成的内容",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dontpastetheai.com",
+          "source": "dontpastetheai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T09:26:10.003000Z"
+        },
+        {
+          "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
+          "title": "Don't Paste the AI, please",
+          "title_zh": null,
+          "title_en": "Don't Paste the AI, please",
+          "title_original": "Don't Paste the AI, please",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49371857",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T08:40:57.349000Z"
+        },
+        {
+          "id": "b6f7bc7997292509751cecb729085e02b469d495",
+          "title": "请不要粘贴AI生成的内容 / Don't Paste the AI, please",
+          "title_zh": "请不要粘贴AI生成的内容",
+          "title_en": "Don't Paste the AI, please",
+          "title_original": "Don't Paste the AI, please",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dontpastetheai.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-20T08:20:44Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5621,
+      "importance": 0.5621,
+      "importance_score": 0.5621,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9514,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-20T08:20:44Z",
+      "latest_at": "2026-08-20T09:26:10.003000Z",
+      "primary_item": {
+        "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
+        "title": "请不要粘贴AI生成的内容",
+        "title_zh": "请不要粘贴AI生成的内容",
+        "title_en": null,
+        "title_original": "请不要粘贴AI生成的内容",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://dontpastetheai.com",
+        "source": "dontpastetheai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T12:54:59.344005Z"
       }
     },
     {
@@ -1311,15 +1696,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1345,420 +1730,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
-      }
-    },
-    {
-      "story_id": "story_c7d29fef510b",
-      "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
-      "url": "https://www.aibase.com/news/30499",
-      "primary_url": "https://www.aibase.com/news/30499",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a235428c049c7ab794e6c76d0271985dd3ad04eb",
-          "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
-          "title_zh": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
-          "title_en": null,
-          "title_original": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30499",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T08:40:37.178303Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a235428c049c7ab794e6c76d0271985dd3ad04eb",
-          "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
-          "title_zh": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
-          "title_en": null,
-          "title_original": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30499",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T08:40:37.178303Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T08:40:37.178303Z",
-      "latest_at": "2026-08-20T08:40:37.178303Z",
-      "primary_item": {
-        "id": "a235428c049c7ab794e6c76d0271985dd3ad04eb",
-        "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
-        "title_zh": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
-        "title_en": null,
-        "title_original": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30499",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
-      }
-    },
-    {
-      "story_id": "story_f580ac46b80c",
-      "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-      "url": "https://www.aibase.com/news/30498",
-      "primary_url": "https://www.aibase.com/news/30498",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
-          "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-          "title_zh": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-          "title_en": null,
-          "title_original": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30498",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T08:40:37.178303Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
-          "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-          "title_zh": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-          "title_en": null,
-          "title_original": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30498",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T08:40:37.178303Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T08:40:37.178303Z",
-      "latest_at": "2026-08-20T08:40:37.178303Z",
-      "primary_item": {
-        "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
-        "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-        "title_zh": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-        "title_en": null,
-        "title_original": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30498",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
-      }
-    },
-    {
-      "story_id": "story_f4583eda883d",
-      "title": "大语言模型时代的可扩展软件",
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-      "primary_url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-      "source": "jeremymorrell.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
-          "title": "大语言模型时代的可扩展软件",
-          "title_zh": "大语言模型时代的可扩展软件",
-          "title_en": null,
-          "title_original": "大语言模型时代的可扩展软件",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-          "source": "jeremymorrell.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T00:38:00.116000Z"
-        },
-        {
-          "id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
-          "title": "LLM时代的可扩展软件 / Extensible Software in the age of LLMs",
-          "title_zh": "LLM时代的可扩展软件",
-          "title_en": "Extensible Software in the age of LLMs",
-          "title_original": "Extensible Software in the age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49363668",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T20:02:06.780000Z"
-        },
-        {
-          "id": "a5f5af69aec00eed5b2b7b3c372c39314434868e",
-          "title": "大语言模型时代的可扩展软件 / Extensible Software in the age of LLMs",
-          "title_zh": "大语言模型时代的可扩展软件",
-          "title_en": "Extensible Software in the age of LLMs",
-          "title_original": "Extensible Software in the age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-19T16:26:05Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "jeremymorrell.dev"
-      ],
-      "items": [
-        {
-          "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
-          "title": "大语言模型时代的可扩展软件",
-          "title_zh": "大语言模型时代的可扩展软件",
-          "title_en": null,
-          "title_original": "大语言模型时代的可扩展软件",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-          "source": "jeremymorrell.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T00:38:00.116000Z"
-        },
-        {
-          "id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
-          "title": "LLM时代的可扩展软件 / Extensible Software in the age of LLMs",
-          "title_zh": "LLM时代的可扩展软件",
-          "title_en": "Extensible Software in the age of LLMs",
-          "title_original": "Extensible Software in the age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49363668",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T20:02:06.780000Z"
-        },
-        {
-          "id": "a5f5af69aec00eed5b2b7b3c372c39314434868e",
-          "title": "大语言模型时代的可扩展软件 / Extensible Software in the age of LLMs",
-          "title_zh": "大语言模型时代的可扩展软件",
-          "title_en": "Extensible Software in the age of LLMs",
-          "title_original": "Extensible Software in the age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-19T16:26:05Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5511,
-      "importance": 0.5511,
-      "importance_score": 0.5511,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8903,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-19T16:26:05Z",
-      "latest_at": "2026-08-20T00:38:00.116000Z",
-      "primary_item": {
-        "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
-        "title": "大语言模型时代的可扩展软件",
-        "title_zh": "大语言模型时代的可扩展软件",
-        "title_en": null,
-        "title_original": "大语言模型时代的可扩展软件",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-        "source": "jeremymorrell.dev",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
-      }
-    },
-    {
-      "story_id": "story_cd43b590ecb7",
-      "title": "Don't Paste the AI, please",
-      "url": "https://news.ycombinator.com/item?id=49371857",
-      "primary_url": "https://news.ycombinator.com/item?id=49371857",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
-          "title": "Don't Paste the AI, please",
-          "title_zh": null,
-          "title_en": "Don't Paste the AI, please",
-          "title_original": "Don't Paste the AI, please",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49371857",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T08:40:57.349000Z"
-        },
-        {
-          "id": "b6f7bc7997292509751cecb729085e02b469d495",
-          "title": "Don't Paste the AI, please",
-          "title_zh": null,
-          "title_en": "Don't Paste the AI, please",
-          "title_original": "Don't Paste the AI, please",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dontpastetheai.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T08:20:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
-          "title": "Don't Paste the AI, please",
-          "title_zh": null,
-          "title_en": "Don't Paste the AI, please",
-          "title_original": "Don't Paste the AI, please",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49371857",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T08:40:57.349000Z"
-        },
-        {
-          "id": "b6f7bc7997292509751cecb729085e02b469d495",
-          "title": "Don't Paste the AI, please",
-          "title_zh": null,
-          "title_en": "Don't Paste the AI, please",
-          "title_original": "Don't Paste the AI, please",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dontpastetheai.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T08:20:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-20T08:20:44Z",
-      "latest_at": "2026-08-20T08:40:57.349000Z",
-      "primary_item": {
-        "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
-        "title": "Don't Paste the AI, please",
-        "title_zh": null,
-        "title_en": "Don't Paste the AI, please",
-        "title_original": "Don't Paste the AI, please",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49371857",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T08:41:15.479809Z"
+        "scored_at": "2026-08-20T12:54:59.344005Z"
       }
     }
   ]
