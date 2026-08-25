@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T20:32:22.780300Z",
+  "generated_at": "2026-08-25T01:21:37.979465Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8451,
-      "importance": 0.8451,
-      "importance_score": 0.8451,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.884,
+        "recency": 0.8245,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,173 +83,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     },
     {
-      "story_id": "story_35aa593beb9e",
-      "title": "Codex MCP server command deprecated",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_c36705ab0524",
+      "title": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
+      "url": "https://www.aibase.com/news/30583",
+      "primary_url": "https://www.aibase.com/news/30583",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "b879362b027e92c973cf4116b786bb6e72b5c006",
-          "title": "Codex MCP server command deprecated",
-          "title_zh": null,
-          "title_en": "Codex MCP server command deprecated",
-          "title_original": "Codex MCP server command deprecated",
+          "id": "6e89f3336b307a622b7fd6d472532e83037b6be8",
+          "title": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
+          "title_zh": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
+          "title_en": null,
+          "title_original": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-24T00:00:00Z"
+          "url": "https://www.aibase.com/news/30583",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "b879362b027e92c973cf4116b786bb6e72b5c006",
-          "title": "Codex MCP server command deprecated",
-          "title_zh": null,
-          "title_en": "Codex MCP server command deprecated",
-          "title_original": "Codex MCP server command deprecated",
+          "id": "6e89f3336b307a622b7fd6d472532e83037b6be8",
+          "title": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
+          "title_zh": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
+          "title_en": null,
+          "title_original": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-24T00:00:00Z"
+          "url": "https://www.aibase.com/news/30583",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
+        "editorial": 0.72,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7433,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T00:00:00Z",
-      "latest_at": "2026-08-24T00:00:00Z",
+      "earliest_at": "2026-08-25T01:21:37.979465Z",
+      "latest_at": "2026-08-25T01:21:37.979465Z",
       "primary_item": {
-        "id": "b879362b027e92c973cf4116b786bb6e72b5c006",
-        "title": "Codex MCP server command deprecated",
-        "title_zh": null,
-        "title_en": "Codex MCP server command deprecated",
-        "title_original": "Codex MCP server command deprecated",
+        "id": "6e89f3336b307a622b7fd6d472532e83037b6be8",
+        "title": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
+        "title_zh": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
+        "title_en": null,
+        "title_original": "ChatGPT上线自定义贴纸功能，支持导出iMessage和WhatsApp",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/30583",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
-      }
-    },
-    {
-      "story_id": "story_a31e711ee9db",
-      "title": "Codex CLI 0.149.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
-          "title": "Codex CLI 0.149.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.149.1",
-          "title_original": "Codex CLI 0.149.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-24T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
-          "title": "Codex CLI 0.149.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.149.1",
-          "title_original": "Codex CLI 0.149.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-24T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7433,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T00:00:00Z",
-      "latest_at": "2026-08-24T00:00:00Z",
-      "primary_item": {
-        "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
-        "title": "Codex CLI 0.149.1",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.149.1",
-        "title_original": "Codex CLI 0.149.1",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     },
     {
@@ -326,15 +242,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.861,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -361,30 +277,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     },
     {
-      "story_id": "story_ce6219623afd",
-      "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
-      "url": "https://www.aibase.com/news/30580",
-      "primary_url": "https://www.aibase.com/news/30580",
+      "story_id": "story_b8bb488a06af",
+      "title": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
+      "url": "https://www.aibase.com/news/30588",
+      "primary_url": "https://www.aibase.com/news/30588",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "95357b03325921743506592966964abfe94e9d1b",
-          "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
-          "title_zh": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "id": "86b7fb0782b63f3012a10f3903b9855fb4895094",
+          "title": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
+          "title_zh": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
           "title_en": null,
-          "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "title_original": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30580",
+          "url": "https://www.aibase.com/news/30588",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T12:53:59.426193Z"
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "source_count": 1,
@@ -393,48 +309,49 @@
       ],
       "items": [
         {
-          "id": "95357b03325921743506592966964abfe94e9d1b",
-          "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
-          "title_zh": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "id": "86b7fb0782b63f3012a10f3903b9855fb4895094",
+          "title": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
+          "title_zh": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
           "title_en": null,
-          "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "title_original": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30580",
+          "url": "https://www.aibase.com/news/30588",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T12:53:59.426193Z"
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8955,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-24T12:53:59.426193Z",
-      "latest_at": "2026-08-24T12:53:59.426193Z",
+      "earliest_at": "2026-08-25T01:21:37.979465Z",
+      "latest_at": "2026-08-25T01:21:37.979465Z",
       "primary_item": {
-        "id": "95357b03325921743506592966964abfe94e9d1b",
-        "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
-        "title_zh": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+        "id": "86b7fb0782b63f3012a10f3903b9855fb4895094",
+        "title": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
+        "title_zh": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
         "title_en": null,
-        "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+        "title_original": "Claude Code 官方日志曝出“暗中降智”实锤，AI 行业跑分脱节与版本黑箱再遭质疑",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30580",
+        "url": "https://www.aibase.com/news/30588",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -442,192 +359,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     },
     {
-      "story_id": "story_c305b02382f1",
-      "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议 / MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
-      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
-      "primary_url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
-      "source": "Meta Engineering Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "37742865ec8814a703dbf86d1094cf972ac2060a",
-          "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议 / MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
-          "title_zh": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
-          "title_en": "MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
-          "title_original": "MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
-          "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
-          "recommend_reason_zh": null,
-          "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
-          "source": "Meta Engineering Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-24T18:02:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Meta Engineering Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "37742865ec8814a703dbf86d1094cf972ac2060a",
-          "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议 / MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
-          "title_zh": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
-          "title_en": "MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
-          "title_original": "MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
-          "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
-          "recommend_reason_zh": null,
-          "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
-          "source": "Meta Engineering Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-24T18:02:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9646,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-24T18:02:29Z",
-      "latest_at": "2026-08-24T18:02:29Z",
-      "primary_item": {
-        "id": "37742865ec8814a703dbf86d1094cf972ac2060a",
-        "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议 / MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
-        "title_zh": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
-        "title_en": "MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
-        "title_original": "MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
-        "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
-        "recommend_reason_zh": null,
-        "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
-        "source": "Meta Engineering Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
-      }
-    },
-    {
-      "story_id": "story_63639453173d",
-      "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
-      "primary_url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e70f9aeeb57d891ea4069294ceacc54802248a1a",
-          "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-          "title_zh": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
-          "title_en": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-          "title_original": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-          "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-24T15:00:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e70f9aeeb57d891ea4069294ceacc54802248a1a",
-          "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-          "title_zh": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
-          "title_en": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-          "title_original": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-          "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-24T15:00:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9232,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-24T15:00:19Z",
-      "latest_at": "2026-08-24T15:00:19Z",
-      "primary_item": {
-        "id": "e70f9aeeb57d891ea4069294ceacc54802248a1a",
-        "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍 / Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-        "title_zh": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
-        "title_en": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-        "title_original": "Up to 30x More Work Per Watt： NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-        "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
-        "recommend_reason_zh": null,
-        "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
-      }
-    },
-    {
-      "story_id": "story_6cdec0311de2",
-      "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
-      "url": "https://www.aibase.com/news/30579",
-      "primary_url": "https://www.aibase.com/news/30579",
+      "story_id": "story_f0557e55844b",
+      "title": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
+      "url": "https://www.aibase.com/news/30586",
+      "primary_url": "https://www.aibase.com/news/30586",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6cdb028a9cd5c65a8c899a42563631f1768cbd9b",
-          "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
-          "title_zh": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "id": "03263b29bc75ffa92477b9d3d08bc14b9023519c",
+          "title": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
+          "title_zh": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
           "title_en": null,
-          "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "title_original": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30579",
+          "url": "https://www.aibase.com/news/30586",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T12:53:59.426193Z"
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "source_count": 1,
@@ -636,48 +391,49 @@
       ],
       "items": [
         {
-          "id": "6cdb028a9cd5c65a8c899a42563631f1768cbd9b",
-          "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
-          "title_zh": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "id": "03263b29bc75ffa92477b9d3d08bc14b9023519c",
+          "title": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
+          "title_zh": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
           "title_en": null,
-          "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "title_original": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30579",
+          "url": "https://www.aibase.com/news/30586",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T12:53:59.426193Z"
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8955,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-24T12:53:59.426193Z",
-      "latest_at": "2026-08-24T12:53:59.426193Z",
+      "earliest_at": "2026-08-25T01:21:37.979465Z",
+      "latest_at": "2026-08-25T01:21:37.979465Z",
       "primary_item": {
-        "id": "6cdb028a9cd5c65a8c899a42563631f1768cbd9b",
-        "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
-        "title_zh": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+        "id": "03263b29bc75ffa92477b9d3d08bc14b9023519c",
+        "title": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
+        "title_zh": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
         "title_en": null,
-        "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+        "title_original": "Grok Build迎来最强外挂！集成Browser-Use插件，AI正式接管你的浏览器",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30579",
+        "url": "https://www.aibase.com/news/30586",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -685,30 +441,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     },
     {
-      "story_id": "story_3a026c02ef4a",
-      "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-      "url": "https://www.aibase.com/news/30569",
-      "primary_url": "https://www.aibase.com/news/30569",
+      "story_id": "story_a9daf0366880",
+      "title": "Oura计划赴美IPO，智能戒指公司估值或达160亿美元",
+      "url": "https://www.aibase.com/news/30581",
+      "primary_url": "https://www.aibase.com/news/30581",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
-          "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-          "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "id": "f9935ac21c725eb908652410db9da8bc7c5bb157",
+          "title": "Oura计划赴美IPO，智能戒指公司估值或达160亿美元",
+          "title_zh": "Oura计划赴美IPO，智能戒指公司估值或达160亿美元",
           "title_en": null,
-          "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "title_original": "Oura计划赴美IPO，智能戒指公司估值或达160亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30569",
+          "url": "https://www.aibase.com/news/30581",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T08:50:31.508017Z"
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "source_count": 1,
@@ -717,48 +473,49 @@
       ],
       "items": [
         {
-          "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
-          "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-          "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "id": "f9935ac21c725eb908652410db9da8bc7c5bb157",
+          "title": "Oura计划赴美IPO，智能戒指公司估值或达160亿美元",
+          "title_zh": "Oura计划赴美IPO，智能戒指公司估值或达160亿美元",
           "title_en": null,
-          "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "title_original": "Oura计划赴美IPO，智能戒指公司估值或达160亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30569",
+          "url": "https://www.aibase.com/news/30581",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T08:50:31.508017Z"
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8446,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-24T08:50:31.508017Z",
-      "latest_at": "2026-08-24T08:50:31.508017Z",
+      "earliest_at": "2026-08-25T01:21:37.979465Z",
+      "latest_at": "2026-08-25T01:21:37.979465Z",
       "primary_item": {
-        "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
-        "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-        "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+        "id": "f9935ac21c725eb908652410db9da8bc7c5bb157",
+        "title": "Oura计划赴美IPO，智能戒指公司估值或达160亿美元",
+        "title_zh": "Oura计划赴美IPO，智能戒指公司估值或达160亿美元",
         "title_en": null,
-        "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+        "title_original": "Oura计划赴美IPO，智能戒指公司估值或达160亿美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30569",
+        "url": "https://www.aibase.com/news/30581",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -766,30 +523,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     },
     {
-      "story_id": "story_faa9f07849d1",
-      "title": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
-      "url": "https://www.aibase.com/news/30563",
-      "primary_url": "https://www.aibase.com/news/30563",
+      "story_id": "story_32b0d5ab754d",
+      "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+      "url": "https://www.aibase.com/news/30584",
+      "primary_url": "https://www.aibase.com/news/30584",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ad664556033a5311b1bf1a3b91d8f66eec0bb272",
-          "title": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
-          "title_zh": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
+          "id": "166a28d2344a8948e13364bb15c9ce5c57c98a56",
+          "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+          "title_zh": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
           "title_en": null,
-          "title_original": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
+          "title_original": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30563",
+          "url": "https://www.aibase.com/news/30584",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T08:50:31.508017Z"
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "source_count": 1,
@@ -798,48 +555,49 @@
       ],
       "items": [
         {
-          "id": "ad664556033a5311b1bf1a3b91d8f66eec0bb272",
-          "title": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
-          "title_zh": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
+          "id": "166a28d2344a8948e13364bb15c9ce5c57c98a56",
+          "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+          "title_zh": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
           "title_en": null,
-          "title_original": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
+          "title_original": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30563",
+          "url": "https://www.aibase.com/news/30584",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T08:50:31.508017Z"
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8446,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-24T08:50:31.508017Z",
-      "latest_at": "2026-08-24T08:50:31.508017Z",
+      "earliest_at": "2026-08-25T01:21:37.979465Z",
+      "latest_at": "2026-08-25T01:21:37.979465Z",
       "primary_item": {
-        "id": "ad664556033a5311b1bf1a3b91d8f66eec0bb272",
-        "title": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
-        "title_zh": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
+        "id": "166a28d2344a8948e13364bb15c9ce5c57c98a56",
+        "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+        "title_zh": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
         "title_en": null,
-        "title_original": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
+        "title_original": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30563",
+        "url": "https://www.aibase.com/news/30584",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -847,30 +605,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     },
     {
-      "story_id": "story_f83cc5b4b04b",
-      "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-      "url": "https://www.aibase.com/news/30565",
-      "primary_url": "https://www.aibase.com/news/30565",
+      "story_id": "story_21cc3e823e48",
+      "title": "字节PICO Space Pro头显延期至第四季度，官方称将进行重大软件升级",
+      "url": "https://www.aibase.com/news/30589",
+      "primary_url": "https://www.aibase.com/news/30589",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "id": "601b905798f0d7fc1eb7e2f70017d57f3f5e2dd6",
+          "title": "字节PICO Space Pro头显延期至第四季度，官方称将进行重大软件升级",
+          "title_zh": "字节PICO Space Pro头显延期至第四季度，官方称将进行重大软件升级",
           "title_en": null,
-          "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "title_original": "字节PICO Space Pro头显延期至第四季度，官方称将进行重大软件升级",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30565",
+          "url": "https://www.aibase.com/news/30589",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T08:50:31.508017Z"
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "source_count": 1,
@@ -879,48 +637,49 @@
       ],
       "items": [
         {
-          "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "id": "601b905798f0d7fc1eb7e2f70017d57f3f5e2dd6",
+          "title": "字节PICO Space Pro头显延期至第四季度，官方称将进行重大软件升级",
+          "title_zh": "字节PICO Space Pro头显延期至第四季度，官方称将进行重大软件升级",
           "title_en": null,
-          "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "title_original": "字节PICO Space Pro头显延期至第四季度，官方称将进行重大软件升级",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30565",
+          "url": "https://www.aibase.com/news/30589",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T08:50:31.508017Z"
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8446,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-24T08:50:31.508017Z",
-      "latest_at": "2026-08-24T08:50:31.508017Z",
+      "earliest_at": "2026-08-25T01:21:37.979465Z",
+      "latest_at": "2026-08-25T01:21:37.979465Z",
       "primary_item": {
-        "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-        "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-        "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+        "id": "601b905798f0d7fc1eb7e2f70017d57f3f5e2dd6",
+        "title": "字节PICO Space Pro头显延期至第四季度，官方称将进行重大软件升级",
+        "title_zh": "字节PICO Space Pro头显延期至第四季度，官方称将进行重大软件升级",
         "title_en": null,
-        "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+        "title_original": "字节PICO Space Pro头显延期至第四季度，官方称将进行重大软件升级",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30565",
+        "url": "https://www.aibase.com/news/30589",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -928,30 +687,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     },
     {
-      "story_id": "story_38a0d652fe6a",
-      "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-      "url": "https://www.aibase.com/news/30571",
-      "primary_url": "https://www.aibase.com/news/30571",
+      "story_id": "story_bc217df51137",
+      "title": "当AIGC遇上文学IP：长春电影节如何用大模型打破文影壁垒？",
+      "url": "https://www.aibase.com/news/30590",
+      "primary_url": "https://www.aibase.com/news/30590",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
-          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "id": "0917164d7c586d1c4ad69da5569aa3003b461f5e",
+          "title": "当AIGC遇上文学IP：长春电影节如何用大模型打破文影壁垒？",
+          "title_zh": "当AIGC遇上文学IP：长春电影节如何用大模型打破文影壁垒？",
           "title_en": null,
-          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_original": "当AIGC遇上文学IP：长春电影节如何用大模型打破文影壁垒？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30571",
+          "url": "https://www.aibase.com/news/30590",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T08:50:31.508017Z"
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "source_count": 1,
@@ -960,48 +719,49 @@
       ],
       "items": [
         {
-          "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
-          "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-          "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "id": "0917164d7c586d1c4ad69da5569aa3003b461f5e",
+          "title": "当AIGC遇上文学IP：长春电影节如何用大模型打破文影壁垒？",
+          "title_zh": "当AIGC遇上文学IP：长春电影节如何用大模型打破文影壁垒？",
           "title_en": null,
-          "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+          "title_original": "当AIGC遇上文学IP：长春电影节如何用大模型打破文影壁垒？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30571",
+          "url": "https://www.aibase.com/news/30590",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T08:50:31.508017Z"
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8446,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-24T08:50:31.508017Z",
-      "latest_at": "2026-08-24T08:50:31.508017Z",
+      "earliest_at": "2026-08-25T01:21:37.979465Z",
+      "latest_at": "2026-08-25T01:21:37.979465Z",
       "primary_item": {
-        "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
-        "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
-        "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+        "id": "0917164d7c586d1c4ad69da5569aa3003b461f5e",
+        "title": "当AIGC遇上文学IP：长春电影节如何用大模型打破文影壁垒？",
+        "title_zh": "当AIGC遇上文学IP：长春电影节如何用大模型打破文影壁垒？",
         "title_en": null,
-        "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
+        "title_original": "当AIGC遇上文学IP：长春电影节如何用大模型打破文影壁垒？",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30571",
+        "url": "https://www.aibase.com/news/30590",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1009,7 +769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     },
     {
@@ -1115,15 +875,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
+      "score": 0.5577,
+      "importance": 0.5577,
+      "importance_score": 0.5577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9942,
+        "recency": 0.9273,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1148,7 +908,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
+      }
+    },
+    {
+      "story_id": "story_4049e9629f11",
+      "title": "手机变聪明了！谷歌正在为Pixel 11测试Gemini驱动的设备帮助功能",
+      "url": "https://www.aibase.com/news/30582",
+      "primary_url": "https://www.aibase.com/news/30582",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c06dcf772b52849718e3d70593390da96131c774",
+          "title": "手机变聪明了！谷歌正在为Pixel 11测试Gemini驱动的设备帮助功能",
+          "title_zh": "手机变聪明了！谷歌正在为Pixel 11测试Gemini驱动的设备帮助功能",
+          "title_en": null,
+          "title_original": "手机变聪明了！谷歌正在为Pixel 11测试Gemini驱动的设备帮助功能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30582",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T01:21:37.979465Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c06dcf772b52849718e3d70593390da96131c774",
+          "title": "手机变聪明了！谷歌正在为Pixel 11测试Gemini驱动的设备帮助功能",
+          "title_zh": "手机变聪明了！谷歌正在为Pixel 11测试Gemini驱动的设备帮助功能",
+          "title_en": null,
+          "title_original": "手机变聪明了！谷歌正在为Pixel 11测试Gemini驱动的设备帮助功能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30582",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T01:21:37.979465Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T01:21:37.979465Z",
+      "latest_at": "2026-08-25T01:21:37.979465Z",
+      "primary_item": {
+        "id": "c06dcf772b52849718e3d70593390da96131c774",
+        "title": "手机变聪明了！谷歌正在为Pixel 11测试Gemini驱动的设备帮助功能",
+        "title_zh": "手机变聪明了！谷歌正在为Pixel 11测试Gemini驱动的设备帮助功能",
+        "title_en": null,
+        "title_original": "手机变聪明了！谷歌正在为Pixel 11测试Gemini驱动的设备帮助功能",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30582",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     },
     {
@@ -1188,7 +1030,7 @@
           "published_at": "2026-08-24T08:50:55.248000Z"
         },
         {
-          "id": "a0f9e4966dc1be42d5d26b861f1b0248c10a98fa",
+          "id": "662fda2834f0f3e841116ef939da1c5411811033",
           "title": "OCR It——从无法复制的文档中提取文本，供您的LLM使用 / OCR It – pull text out of un-copyable documents for your LLM",
           "title_zh": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
           "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
@@ -1196,15 +1038,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/thiagotigaz/ocr-it",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-24T06:25:31Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "github.com",
         "hackernews"
       ],
@@ -1238,7 +1080,7 @@
           "published_at": "2026-08-24T08:50:55.248000Z"
         },
         {
-          "id": "a0f9e4966dc1be42d5d26b861f1b0248c10a98fa",
+          "id": "662fda2834f0f3e841116ef939da1c5411811033",
           "title": "OCR It——从无法复制的文档中提取文本，供您的LLM使用 / OCR It – pull text out of un-copyable documents for your LLM",
           "title_zh": "OCR It——从无法复制的文档中提取文本，供您的LLM使用",
           "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
@@ -1246,23 +1088,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/thiagotigaz/ocr-it",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-24T06:25:31Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5669,
-      "importance": 0.5669,
-      "importance_score": 0.5669,
+      "score": 0.5551,
+      "importance": 0.5551,
+      "importance_score": 0.5551,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9785,
+        "recency": 0.9127,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1287,169 +1129,222 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     },
     {
-      "story_id": "story_0c44db5345da",
-      "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
-      "url": "https://pantel.is/projects/ai-gaming-companion",
-      "primary_url": "https://pantel.is/projects/ai-gaming-companion",
-      "source": "pantel.is",
-      "source_name": "Buzzing",
+      "story_id": "story_fd342caec594",
+      "title": "谷歌测试Gemini新界面，新增通知中心和聊天筛选功能",
+      "url": "https://www.aibase.com/news/30587",
+      "primary_url": "https://www.aibase.com/news/30587",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "ba07c14e821ffac567cc8c9dd9731eb3d2f4f9ee",
-          "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
-          "title_zh": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+          "id": "0cf29f79ec174290890d0b485f8ed071707dc8f7",
+          "title": "谷歌测试Gemini新界面，新增通知中心和聊天筛选功能",
+          "title_zh": "谷歌测试Gemini新界面，新增通知中心和聊天筛选功能",
           "title_en": null,
-          "title_original": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+          "title_original": "谷歌测试Gemini新界面，新增通知中心和聊天筛选功能",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://pantel.is/projects/ai-gaming-companion",
-          "source": "pantel.is",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-24T19:01:58.608000Z"
-        },
-        {
-          "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
-          "title": "I built a low-latency AI companion that plays Skyrim with me",
-          "title_zh": null,
-          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
-          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49413561",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T04:25:36.092000Z"
-        },
-        {
-          "id": "9394d313e861a7a629a9a3b75e9a7713848fea90",
-          "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》 / I built a low-latency AI companion that plays Skyrim with me",
-          "title_zh": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
-          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
-          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pantel.is/projects/ai-gaming-companion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T23:18:17Z"
+          "url": "https://www.aibase.com/news/30587",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "pantel.is"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "ba07c14e821ffac567cc8c9dd9731eb3d2f4f9ee",
-          "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
-          "title_zh": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+          "id": "0cf29f79ec174290890d0b485f8ed071707dc8f7",
+          "title": "谷歌测试Gemini新界面，新增通知中心和聊天筛选功能",
+          "title_zh": "谷歌测试Gemini新界面，新增通知中心和聊天筛选功能",
           "title_en": null,
-          "title_original": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+          "title_original": "谷歌测试Gemini新界面，新增通知中心和聊天筛选功能",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://pantel.is/projects/ai-gaming-companion",
-          "source": "pantel.is",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-24T19:01:58.608000Z"
-        },
+          "url": "https://www.aibase.com/news/30587",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-25T01:21:37.979465Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T01:21:37.979465Z",
+      "latest_at": "2026-08-25T01:21:37.979465Z",
+      "primary_item": {
+        "id": "0cf29f79ec174290890d0b485f8ed071707dc8f7",
+        "title": "谷歌测试Gemini新界面，新增通知中心和聊天筛选功能",
+        "title_zh": "谷歌测试Gemini新界面，新增通知中心和聊天筛选功能",
+        "title_en": null,
+        "title_original": "谷歌测试Gemini新界面，新增通知中心和聊天筛选功能",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30587",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T01:58:26.357431Z"
+      }
+    },
+    {
+      "story_id": "story_974793f4f4f9",
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "url": "https://news.ycombinator.com/item?id=49425800",
+      "primary_url": "https://news.ycombinator.com/item?id=49425800",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
         {
-          "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
-          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
+          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
           "title_zh": null,
-          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
-          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49413561",
+          "url": "https://news.ycombinator.com/item?id=49425800",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-24T04:25:36.092000Z"
+          "published_at": "2026-08-25T01:21:56.496000Z"
         },
         {
-          "id": "9394d313e861a7a629a9a3b75e9a7713848fea90",
-          "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》 / I built a low-latency AI companion that plays Skyrim with me",
-          "title_zh": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
-          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
-          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "id": "c4380897ee9fff0a6eb7c60a73f9b0d9b42a6b5c",
+          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_zh": null,
+          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://pantel.is/projects/ai-gaming-companion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T23:18:17Z"
+          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T21:01:38Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5669,
-      "importance": 0.5669,
-      "importance_score": 0.5669,
-      "importance_label": "多源热议",
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
+          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_zh": null,
+          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49425800",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T01:21:56.496000Z"
+        },
+        {
+          "id": "c4380897ee9fff0a6eb7c60a73f9b0d9b42a6b5c",
+          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_zh": null,
+          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T21:01:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9785,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T23:18:17Z",
-      "latest_at": "2026-08-24T19:01:58.608000Z",
+      "earliest_at": "2026-08-24T21:01:38Z",
+      "latest_at": "2026-08-25T01:21:56.496000Z",
       "primary_item": {
-        "id": "ba07c14e821ffac567cc8c9dd9731eb3d2f4f9ee",
-        "title": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
-        "title_zh": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
-        "title_en": null,
-        "title_original": "我开发了一个低延迟的AI伙伴，可以和我一起玩《上古卷轴5：天际》",
+        "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
+        "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+        "title_zh": null,
+        "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
+        "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://pantel.is/projects/ai-gaming-companion",
-        "source": "pantel.is",
-        "source_name": "Buzzing"
+        "url": "https://news.ycombinator.com/item?id=49425800",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     },
     {
-      "story_id": "story_90d4c934f11a",
-      "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
-      "url": "https://www.aibase.com/news/30577",
-      "primary_url": "https://www.aibase.com/news/30577",
+      "story_id": "story_6b21e9d35b97",
+      "title": "阿里 800 亿港元\"梭哈\"AI：近 3 倍超额认购，蔡崇信吴泳铭跟投",
+      "url": "https://www.aibase.com/news/30585",
+      "primary_url": "https://www.aibase.com/news/30585",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6184d032c29d61ea490aadf2660e63d7b9d86edf",
-          "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
-          "title_zh": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+          "id": "eaa7f42870fda091632314bf0d82eae29bfa6713",
+          "title": "阿里 800 亿港元\"梭哈\"AI：近 3 倍超额认购，蔡崇信吴泳铭跟投",
+          "title_zh": "阿里 800 亿港元\"梭哈\"AI：近 3 倍超额认购，蔡崇信吴泳铭跟投",
           "title_en": null,
-          "title_original": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+          "title_original": "阿里 800 亿港元\"梭哈\"AI：近 3 倍超额认购，蔡崇信吴泳铭跟投",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30577",
+          "url": "https://www.aibase.com/news/30585",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T08:50:31.508017Z"
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "source_count": 1,
@@ -1458,48 +1353,49 @@
       ],
       "items": [
         {
-          "id": "6184d032c29d61ea490aadf2660e63d7b9d86edf",
-          "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
-          "title_zh": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+          "id": "eaa7f42870fda091632314bf0d82eae29bfa6713",
+          "title": "阿里 800 亿港元\"梭哈\"AI：近 3 倍超额认购，蔡崇信吴泳铭跟投",
+          "title_zh": "阿里 800 亿港元\"梭哈\"AI：近 3 倍超额认购，蔡崇信吴泳铭跟投",
           "title_en": null,
-          "title_original": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+          "title_original": "阿里 800 亿港元\"梭哈\"AI：近 3 倍超额认购，蔡崇信吴泳铭跟投",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30577",
+          "url": "https://www.aibase.com/news/30585",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T08:50:31.508017Z"
+          "published_at": "2026-08-25T01:21:37.979465Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8446,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-24T08:50:31.508017Z",
-      "latest_at": "2026-08-24T08:50:31.508017Z",
+      "earliest_at": "2026-08-25T01:21:37.979465Z",
+      "latest_at": "2026-08-25T01:21:37.979465Z",
       "primary_item": {
-        "id": "6184d032c29d61ea490aadf2660e63d7b9d86edf",
-        "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
-        "title_zh": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+        "id": "eaa7f42870fda091632314bf0d82eae29bfa6713",
+        "title": "阿里 800 亿港元\"梭哈\"AI：近 3 倍超额认购，蔡崇信吴泳铭跟投",
+        "title_zh": "阿里 800 亿港元\"梭哈\"AI：近 3 倍超额认购，蔡崇信吴泳铭跟投",
         "title_en": null,
-        "title_original": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+        "title_original": "阿里 800 亿港元\"梭哈\"AI：近 3 倍超额认购，蔡崇信吴泳铭跟投",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30577",
+        "url": "https://www.aibase.com/news/30585",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1507,88 +1403,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
-      }
-    },
-    {
-      "story_id": "story_c841c6b2a5f3",
-      "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
-      "url": "https://www.aibase.com/news/30576",
-      "primary_url": "https://www.aibase.com/news/30576",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bbf2b2813aedb138047f867ceabd2fb101456b8d",
-          "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
-          "title_zh": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
-          "title_en": null,
-          "title_original": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30576",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T08:50:31.508017Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bbf2b2813aedb138047f867ceabd2fb101456b8d",
-          "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
-          "title_zh": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
-          "title_en": null,
-          "title_original": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30576",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T08:50:31.508017Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8446,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-24T08:50:31.508017Z",
-      "latest_at": "2026-08-24T08:50:31.508017Z",
-      "primary_item": {
-        "id": "bbf2b2813aedb138047f867ceabd2fb101456b8d",
-        "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
-        "title_zh": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
-        "title_en": null,
-        "title_original": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30576",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     },
     {
@@ -1665,15 +1480,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9942,
+        "recency": 0.9273,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1698,88 +1513,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
-      }
-    },
-    {
-      "story_id": "story_3cf6331e7775",
-      "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-      "url": "https://www.aibase.com/news/30572",
-      "primary_url": "https://www.aibase.com/news/30572",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
-          "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "title_en": null,
-          "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30572",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T08:50:31.508017Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
-          "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "title_en": null,
-          "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30572",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T08:50:31.508017Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8446,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-24T08:50:31.508017Z",
-      "latest_at": "2026-08-24T08:50:31.508017Z",
-      "primary_item": {
-        "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
-        "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-        "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-        "title_en": null,
-        "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30572",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     },
     {
@@ -1856,15 +1590,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9942,
+        "recency": 0.9273,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1889,7 +1623,279 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-24T21:06:34.324885Z"
+        "scored_at": "2026-08-25T01:58:26.357431Z"
+      }
+    },
+    {
+      "story_id": "story_ce6219623afd",
+      "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+      "url": "https://www.aibase.com/news/30580",
+      "primary_url": "https://www.aibase.com/news/30580",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "95357b03325921743506592966964abfe94e9d1b",
+          "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "title_zh": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "title_en": null,
+          "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T12:53:59.426193Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "95357b03325921743506592966964abfe94e9d1b",
+          "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "title_zh": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "title_en": null,
+          "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T12:53:59.426193Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8353,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-24T12:53:59.426193Z",
+      "latest_at": "2026-08-24T12:53:59.426193Z",
+      "primary_item": {
+        "id": "95357b03325921743506592966964abfe94e9d1b",
+        "title": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+        "title_zh": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+        "title_en": null,
+        "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30580",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T01:58:26.357431Z"
+      }
+    },
+    {
+      "story_id": "story_6cdec0311de2",
+      "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+      "url": "https://www.aibase.com/news/30579",
+      "primary_url": "https://www.aibase.com/news/30579",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6cdb028a9cd5c65a8c899a42563631f1768cbd9b",
+          "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "title_zh": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "title_en": null,
+          "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30579",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T12:53:59.426193Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6cdb028a9cd5c65a8c899a42563631f1768cbd9b",
+          "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "title_zh": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "title_en": null,
+          "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30579",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T12:53:59.426193Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8353,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-24T12:53:59.426193Z",
+      "latest_at": "2026-08-24T12:53:59.426193Z",
+      "primary_item": {
+        "id": "6cdb028a9cd5c65a8c899a42563631f1768cbd9b",
+        "title": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+        "title_zh": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+        "title_en": null,
+        "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30579",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T01:58:26.357431Z"
+      }
+    },
+    {
+      "story_id": "story_5c02918da695",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://news.ycombinator.com/item?id=49421554",
+      "primary_url": "https://news.ycombinator.com/item?id=49421554",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "5082ceb7eea1e01210cb70497d2dc0d6efe7da39",
+          "title": "Coding expertise is going to collapse from AI reliance",
+          "title_zh": null,
+          "title_en": "Coding expertise is going to collapse from AI reliance",
+          "title_original": "Coding expertise is going to collapse from AI reliance",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49421554",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T16:40:11.768000Z"
+        },
+        {
+          "id": "cfdcc4e5dc60c90eb8651e950c6cbe4fac0bef28",
+          "title": "Coding expertise is going to collapse from AI reliance",
+          "title_zh": null,
+          "title_en": "Coding expertise is going to collapse from AI reliance",
+          "title_original": "Coding expertise is going to collapse from AI reliance",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-24T15:52:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5082ceb7eea1e01210cb70497d2dc0d6efe7da39",
+          "title": "Coding expertise is going to collapse from AI reliance",
+          "title_zh": null,
+          "title_en": "Coding expertise is going to collapse from AI reliance",
+          "title_original": "Coding expertise is going to collapse from AI reliance",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49421554",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T16:40:11.768000Z"
+        },
+        {
+          "id": "cfdcc4e5dc60c90eb8651e950c6cbe4fac0bef28",
+          "title": "Coding expertise is going to collapse from AI reliance",
+          "title_zh": null,
+          "title_en": "Coding expertise is going to collapse from AI reliance",
+          "title_original": "Coding expertise is going to collapse from AI reliance",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-24T15:52:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8821,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T15:52:33Z",
+      "latest_at": "2026-08-24T16:40:11.768000Z",
+      "primary_item": {
+        "id": "5082ceb7eea1e01210cb70497d2dc0d6efe7da39",
+        "title": "Coding expertise is going to collapse from AI reliance",
+        "title_zh": null,
+        "title_en": "Coding expertise is going to collapse from AI reliance",
+        "title_original": "Coding expertise is going to collapse from AI reliance",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49421554",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T01:58:26.357431Z"
       }
     }
   ]
