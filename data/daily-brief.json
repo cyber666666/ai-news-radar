@@ -1,8 +1,257 @@
 {
-  "generated_at": "2026-08-25T12:51:00.307060Z",
+  "generated_at": "2026-08-25T16:39:40.299631Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_2e1e1831ce49",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
+          "title": "Granite 4.2 LLMs: How They're Built",
+          "title_zh": null,
+          "title_en": "Granite 4.2 LLMs: How They're Built",
+          "title_original": "Granite 4.2 LLMs: How They're Built",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T15:14:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
+          "title": "Granite 4.2 LLMs: How They're Built",
+          "title_zh": null,
+          "title_en": "Granite 4.2 LLMs: How They're Built",
+          "title_original": "Granite 4.2 LLMs: How They're Built",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T15:14:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8643,
+      "importance": 0.8643,
+      "importance_score": 0.8643,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.9796,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T15:14:14Z",
+      "latest_at": "2026-08-25T15:14:14Z",
+      "primary_item": {
+        "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
+        "title": "Granite 4.2 LLMs: How They're Built",
+        "title_zh": null,
+        "title_en": "Granite 4.2 LLMs: How They're Built",
+        "title_original": "Granite 4.2 LLMs: How They're Built",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T17:17:03.193339Z"
+      }
+    },
+    {
+      "story_id": "story_e7853aaebb60",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
+          "title": "5 ways to upgrade your home decor with Google Search",
+          "title_zh": null,
+          "title_en": "5 ways to upgrade your home decor with Google Search",
+          "title_original": "5 ways to upgrade your home decor with Google Search",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
+          "title": "5 ways to upgrade your home decor with Google Search",
+          "title_zh": null,
+          "title_en": "5 ways to upgrade your home decor with Google Search",
+          "title_original": "5 ways to upgrade your home decor with Google Search",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8423,
+      "importance": 0.8423,
+      "importance_score": 0.8423,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9905,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T16:00:00Z",
+      "latest_at": "2026-08-25T16:00:00Z",
+      "primary_item": {
+        "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
+        "title": "5 ways to upgrade your home decor with Google Search",
+        "title_zh": null,
+        "title_en": "5 ways to upgrade your home decor with Google Search",
+        "title_original": "5 ways to upgrade your home decor with Google Search",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T17:17:03.193339Z"
+      }
+    },
+    {
+      "story_id": "story_6e67842f0f7e",
+      "title": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "primary_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c11537df89677eb075157ecdbf835a264160de84",
+          "title": "The full stack behind abundant intelligence",
+          "title_zh": null,
+          "title_en": "The full stack behind abundant intelligence",
+          "title_original": "The full stack behind abundant intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T07:05:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c11537df89677eb075157ecdbf835a264160de84",
+          "title": "The full stack behind abundant intelligence",
+          "title_zh": null,
+          "title_en": "The full stack behind abundant intelligence",
+          "title_original": "The full stack behind abundant intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T07:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8708,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T07:05:00Z",
+      "latest_at": "2026-08-25T07:05:00Z",
+      "primary_item": {
+        "id": "c11537df89677eb075157ecdbf835a264160de84",
+        "title": "The full stack behind abundant intelligence",
+        "title_zh": null,
+        "title_en": "The full stack behind abundant intelligence",
+        "title_original": "The full stack behind abundant intelligence",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T17:17:03.193339Z"
+      }
+    },
     {
       "story_id": "story_6411634610d0",
       "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
@@ -48,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8569,
-      "importance": 0.8569,
-      "importance_score": 0.8569,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9829,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,30 +332,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
+        "scored_at": "2026-08-25T17:17:03.193339Z"
       }
     },
     {
-      "story_id": "story_4c08adc024bd",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "story_id": "story_b95e33dbd1e9",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "primary_url": "https://openai.com/index/jalapeno-first-results",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
-          "title": "Disrupting a new covert influence campaign from Russia",
+          "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
+          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
           "title_zh": null,
-          "title_en": "Disrupting a new covert influence campaign from Russia",
-          "title_original": "Disrupting a new covert influence campaign from Russia",
+          "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "url": "https://openai.com/index/jalapeno-first-results",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
+          "published_at": "2026-08-25T07:00:00Z"
         }
       ],
       "source_count": 1,
@@ -115,31 +364,31 @@
       ],
       "items": [
         {
-          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
-          "title": "Disrupting a new covert influence campaign from Russia",
+          "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
+          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
           "title_zh": null,
-          "title_en": "Disrupting a new covert influence campaign from Russia",
-          "title_original": "Disrupting a new covert influence campaign from Russia",
+          "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "url": "https://openai.com/index/jalapeno-first-results",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
+          "published_at": "2026-08-25T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8306,
+        "recency": 0.8698,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,17 +397,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T00:00:00Z",
-      "latest_at": "2026-08-25T00:00:00Z",
+      "earliest_at": "2026-08-25T07:00:00Z",
+      "latest_at": "2026-08-25T07:00:00Z",
       "primary_item": {
-        "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
-        "title": "Disrupting a new covert influence campaign from Russia",
+        "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
+        "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
         "title_zh": null,
-        "title_en": "Disrupting a new covert influence campaign from Russia",
-        "title_original": "Disrupting a new covert influence campaign from Russia",
+        "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+        "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+        "url": "https://openai.com/index/jalapeno-first-results",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -166,7 +415,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
+        "scored_at": "2026-08-25T17:17:03.193339Z"
+      }
+    },
+    {
+      "story_id": "story_e1c25592fe2f",
+      "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+      "url": "https://x.com/GoogleAI/status/2092275116503707733",
+      "primary_url": "https://x.com/GoogleAI/status/2092275116503707733",
+      "source": "X：Google AI (@GoogleAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
+          "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+          "title_zh": "WeatherNext 预测气旋：提前五天预警五级飓风",
+          "title_en": "https://x.com/i/article/2092249927812337664",
+          "title_original": "https://x.com/i/article/2092249927812337664",
+          "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GoogleAI/status/2092275116503707733",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T15:37:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google AI (@GoogleAI)"
+      ],
+      "items": [
+        {
+          "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
+          "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+          "title_zh": "WeatherNext 预测气旋：提前五天预警五级飓风",
+          "title_en": "https://x.com/i/article/2092249927812337664",
+          "title_original": "https://x.com/i/article/2092249927812337664",
+          "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GoogleAI/status/2092275116503707733",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T15:37:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9851,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T15:37:15Z",
+      "latest_at": "2026-08-25T15:37:15Z",
+      "primary_item": {
+        "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
+        "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+        "title_zh": "WeatherNext 预测气旋：提前五天预警五级飓风",
+        "title_en": "https://x.com/i/article/2092249927812337664",
+        "title_original": "https://x.com/i/article/2092249927812337664",
+        "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/GoogleAI/status/2092275116503707733",
+        "source": "X：Google AI (@GoogleAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T17:17:03.193339Z"
       }
     },
     {
@@ -214,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8306,
+        "recency": 0.7862,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
+        "scored_at": "2026-08-25T17:17:03.193339Z"
       }
     },
     {
@@ -297,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9465,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -331,118 +662,252 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
+        "scored_at": "2026-08-25T17:17:03.193339Z"
       }
     },
     {
-      "story_id": "story_929ed190248c",
-      "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-      "primary_url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_4c08adc024bd",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
-          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
-          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
-          "title_en": "OpenAI is building AI agents for everything. Will everyone use them？",
-          "title_original": "OpenAI is building AI agents for everything. Will everyone use them？",
-          "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-24T15:00:00Z"
-        },
-        {
-          "id": "fb1f0a2a15004e6ab87eb2dbad8fef8a656f7afa",
-          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them?",
-          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
-          "title_en": "OpenAI is building AI agents for everything. Will everyone use them?",
-          "title_original": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "title_zh": null,
+          "title_en": "Disrupting a new covert influence campaign from Russia",
+          "title_original": "Disrupting a new covert influence campaign from Russia",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-24T15:00:00Z"
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
-          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
-          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
-          "title_en": "OpenAI is building AI agents for everything. Will everyone use them？",
-          "title_original": "OpenAI is building AI agents for everything. Will everyone use them？",
-          "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-24T15:00:00Z"
-        },
-        {
-          "id": "fb1f0a2a15004e6ab87eb2dbad8fef8a656f7afa",
-          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them?",
-          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
-          "title_en": "OpenAI is building AI agents for everything. Will everyone use them?",
-          "title_original": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "title_zh": null,
+          "title_en": "Disrupting a new covert influence campaign from Russia",
+          "title_original": "Disrupting a new covert influence campaign from Russia",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-24T15:00:00Z"
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7862,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T00:00:00Z",
+      "latest_at": "2026-08-25T00:00:00Z",
+      "primary_item": {
+        "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "title_zh": null,
+        "title_en": "Disrupting a new covert influence campaign from Russia",
+        "title_original": "Disrupting a new covert influence campaign from Russia",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T17:17:03.193339Z"
+      }
+    },
+    {
+      "story_id": "story_33fb169ced44",
+      "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+      "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "primary_url": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5d63273982e062f7d8bb53aeac2027ff9a8ded8f",
+          "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "title_zh": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+          "title_en": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "title_original": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T15:32:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5d63273982e062f7d8bb53aeac2027ff9a8ded8f",
+          "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "title_zh": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+          "title_en": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "title_original": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T15:32:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7294,
-        "story_heat": 0.25
+        "recency": 0.9841,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-24T15:00:00Z",
-      "latest_at": "2026-08-24T15:00:00Z",
+      "earliest_at": "2026-08-25T15:32:57Z",
+      "latest_at": "2026-08-25T15:32:57Z",
       "primary_item": {
-        "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
-        "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
-        "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
-        "title_en": "OpenAI is building AI agents for everything. Will everyone use them？",
-        "title_original": "OpenAI is building AI agents for everything. Will everyone use them？",
-        "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
+        "id": "5d63273982e062f7d8bb53aeac2027ff9a8ded8f",
+        "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+        "title_zh": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+        "title_en": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+        "title_original": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+        "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-        "source": "TechCrunch：AI（RSS）",
+        "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
+        "scored_at": "2026-08-25T17:17:03.193339Z"
+      }
+    },
+    {
+      "story_id": "story_e78ba6d6ecd7",
+      "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+      "primary_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+      "source": "Apple：Newsroom（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "900130058d1341061578b56b4d1701a3676a34d7",
+          "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
+          "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+          "source": "Apple：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T13:00:23.969000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Apple：Newsroom（RSS）"
+      ],
+      "items": [
+        {
+          "id": "900130058d1341061578b56b4d1701a3676a34d7",
+          "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
+          "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+          "source": "Apple：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T13:00:23.969000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9486,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-25T13:00:23.969000Z",
+      "latest_at": "2026-08-25T13:00:23.969000Z",
+      "primary_item": {
+        "id": "900130058d1341061578b56b4d1701a3676a34d7",
+        "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+        "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
+        "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+        "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+        "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
+        "recommend_reason_zh": null,
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+        "source": "Apple：Newsroom（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T17:17:03.193339Z"
       }
     },
     {
@@ -490,15 +955,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9465,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -524,7 +989,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
+        "scored_at": "2026-08-25T17:17:03.193339Z"
       }
     },
     {
@@ -572,21 +1037,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9425,
+        "recency": 0.892,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T08:44:47.770251Z",
       "latest_at": "2026-08-25T08:44:47.770251Z",
@@ -606,7 +1070,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
+        "scored_at": "2026-08-25T17:17:03.193339Z"
       }
     },
     {
@@ -654,21 +1118,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9425,
+        "recency": 0.892,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T08:44:47.770251Z",
       "latest_at": "2026-08-25T08:44:47.770251Z",
@@ -688,7 +1151,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
+        "scored_at": "2026-08-25T17:17:03.193339Z"
       }
     },
     {
@@ -736,21 +1199,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9425,
+        "recency": 0.892,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T08:44:47.770251Z",
       "latest_at": "2026-08-25T08:44:47.770251Z",
@@ -770,7 +1232,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
+        "scored_at": "2026-08-25T17:17:03.193339Z"
+      }
+    },
+    {
+      "story_id": "story_97f565872705",
+      "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+      "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+      "primary_url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
+          "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "title_zh": null,
+          "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-25T13:00:00Z"
+        },
+        {
+          "id": "b1d7abe7c8bff5d6873d03816b3c1eb79fde5e0e",
+          "title": "Apple’s new M6 chip gets more cores and more AI compute",
+          "title_zh": null,
+          "title_en": "Apple’s new M6 chip gets more cores and more AI compute",
+          "title_original": "Apple’s new M6 chip gets more cores and more AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
+          "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "title_zh": null,
+          "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-25T13:00:00Z"
+        },
+        {
+          "id": "b1d7abe7c8bff5d6873d03816b3c1eb79fde5e0e",
+          "title": "Apple’s new M6 chip gets more cores and more AI compute",
+          "title_zh": null,
+          "title_en": "Apple’s new M6 chip gets more cores and more AI compute",
+          "title_original": "Apple’s new M6 chip gets more cores and more AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6145,
+      "importance": 0.6145,
+      "importance_score": 0.6145,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.504,
+        "source_tier": 0.58,
+        "ai_relevance": 0.7,
+        "recency": 0.9485,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-25T13:00:00Z",
+      "latest_at": "2026-08-25T13:00:00Z",
+      "primary_item": {
+        "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
+        "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+        "title_zh": null,
+        "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+        "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T17:17:03.193339Z"
       }
     },
     {
@@ -818,21 +1389,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9425,
+        "recency": 0.892,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T08:44:47.770251Z",
       "latest_at": "2026-08-25T08:44:47.770251Z",
@@ -852,7 +1422,285 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
+        "scored_at": "2026-08-25T17:17:03.193339Z"
+      }
+    },
+    {
+      "story_id": "story_89a7f4d0785b",
+      "title": "HN中有多少是AI？",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "primary_url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "source": "blog.coredump.cx",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "69d437035d392fcd2c1d81593dff059f4b007d18",
+          "title": "HN中有多少是AI？",
+          "title_zh": "HN中有多少是AI？",
+          "title_en": null,
+          "title_original": "HN中有多少是AI？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+          "source": "blog.coredump.cx",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T16:21:34.454000Z"
+        },
+        {
+          "id": "05d3c0c052fd2b3743ac7fbc2621e922eed98262",
+          "title": "HN 中有多少是 AI？ / How much of HN is AI?",
+          "title_zh": "HN 中有多少是 AI？",
+          "title_en": "How much of HN is AI?",
+          "title_original": "How much of HN is AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49435728",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T16:12:38.805000Z"
+        },
+        {
+          "id": "fdff209b20d98f9ce33e8a5e5d935480c9be05c3",
+          "title": "HN中有多少是AI？ / How much of HN is AI?",
+          "title_zh": "HN中有多少是AI？",
+          "title_en": "How much of HN is AI?",
+          "title_original": "How much of HN is AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T15:23:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "blog.coredump.cx",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "69d437035d392fcd2c1d81593dff059f4b007d18",
+          "title": "HN中有多少是AI？",
+          "title_zh": "HN中有多少是AI？",
+          "title_en": null,
+          "title_original": "HN中有多少是AI？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+          "source": "blog.coredump.cx",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T16:21:34.454000Z"
+        },
+        {
+          "id": "05d3c0c052fd2b3743ac7fbc2621e922eed98262",
+          "title": "HN 中有多少是 AI？ / How much of HN is AI?",
+          "title_zh": "HN 中有多少是 AI？",
+          "title_en": "How much of HN is AI?",
+          "title_original": "How much of HN is AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49435728",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T16:12:38.805000Z"
+        },
+        {
+          "id": "fdff209b20d98f9ce33e8a5e5d935480c9be05c3",
+          "title": "HN中有多少是AI？ / How much of HN is AI?",
+          "title_zh": "HN中有多少是AI？",
+          "title_en": "How much of HN is AI?",
+          "title_original": "How much of HN is AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T15:23:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.57,
+      "importance": 0.57,
+      "importance_score": 0.57,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9957,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-25T15:23:41Z",
+      "latest_at": "2026-08-25T16:21:34.454000Z",
+      "primary_item": {
+        "id": "69d437035d392fcd2c1d81593dff059f4b007d18",
+        "title": "HN中有多少是AI？",
+        "title_zh": "HN中有多少是AI？",
+        "title_en": null,
+        "title_original": "HN中有多少是AI？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+        "source": "blog.coredump.cx",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T17:17:03.193339Z"
+      }
+    },
+    {
+      "story_id": "story_451d09e98bb5",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://news.ycombinator.com/item?id=49433292",
+      "primary_url": "https://news.ycombinator.com/item?id=49433292",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
+          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": null,
+          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49433292",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T16:12:38.805000Z"
+        },
+        {
+          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "www.apple.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        },
+        {
+          "id": "0e1940ab31fb95ee9a56b854c1328cb977a49d5b",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:01:22Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "www.apple.com"
+      ],
+      "items": [
+        {
+          "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
+          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": null,
+          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49433292",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T16:12:38.805000Z"
+        },
+        {
+          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "www.apple.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        },
+        {
+          "id": "0e1940ab31fb95ee9a56b854c1328cb977a49d5b",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:01:22Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9935,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-25T13:01:22Z",
+      "latest_at": "2026-08-25T16:12:38.805000Z",
+      "primary_item": {
+        "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
+        "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+        "title_zh": null,
+        "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+        "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49433292",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-25T17:17:03.193339Z"
       }
     },
     {
@@ -900,21 +1748,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9425,
+        "recency": 0.892,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T08:44:47.770251Z",
       "latest_at": "2026-08-25T08:44:47.770251Z",
@@ -934,970 +1781,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
-      }
-    },
-    {
-      "story_id": "story_974793f4f4f9",
-      "title": "复古人工智能：在变得尴尬之前",
-      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-      "primary_url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-      "source": "blog.archive.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5d43f2213e47090aa4e83ae6b5c0fc4bcb008113",
-          "title": "复古人工智能：在变得尴尬之前",
-          "title_zh": "复古人工智能：在变得尴尬之前",
-          "title_en": null,
-          "title_original": "复古人工智能：在变得尴尬之前",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "blog.archive.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T10:13:48.902000Z"
-        },
-        {
-          "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
-          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": null,
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49425800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T01:21:56.496000Z"
-        },
-        {
-          "id": "c4380897ee9fff0a6eb7c60a73f9b0d9b42a6b5c",
-          "title": "复古人工智能：在变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": "复古人工智能：在变得尴尬之前",
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T21:01:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "blog.archive.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5d43f2213e47090aa4e83ae6b5c0fc4bcb008113",
-          "title": "复古人工智能：在变得尴尬之前",
-          "title_zh": "复古人工智能：在变得尴尬之前",
-          "title_en": null,
-          "title_original": "复古人工智能：在变得尴尬之前",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "blog.archive.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T10:13:48.902000Z"
-        },
-        {
-          "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
-          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": null,
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49425800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T01:21:56.496000Z"
-        },
-        {
-          "id": "c4380897ee9fff0a6eb7c60a73f9b0d9b42a6b5c",
-          "title": "复古人工智能：在变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": "复古人工智能：在变得尴尬之前",
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T21:01:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5641,
-      "importance": 0.5641,
-      "importance_score": 0.5641,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9629,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T21:01:38Z",
-      "latest_at": "2026-08-25T10:13:48.902000Z",
-      "primary_item": {
-        "id": "5d43f2213e47090aa4e83ae6b5c0fc4bcb008113",
-        "title": "复古人工智能：在变得尴尬之前",
-        "title_zh": "复古人工智能：在变得尴尬之前",
-        "title_en": null,
-        "title_original": "复古人工智能：在变得尴尬之前",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-        "source": "blog.archive.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
-      }
-    },
-    {
-      "story_id": "story_7c313959a64a",
-      "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-      "url": "https://www.aibase.com/news/30599",
-      "primary_url": "https://www.aibase.com/news/30599",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
-          "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_en": null,
-          "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30599",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T08:44:47.770251Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
-          "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "title_en": null,
-          "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30599",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T08:44:47.770251Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9425,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T08:44:47.770251Z",
-      "latest_at": "2026-08-25T08:44:47.770251Z",
-      "primary_item": {
-        "id": "0695d549407753ec262acd842c71e7c96ca5a5a8",
-        "title": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-        "title_zh": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-        "title_en": null,
-        "title_original": "纳德拉示警企业：别把\"Token 资本\"押注单一模型，当心命运被外包",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30599",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
-      }
-    },
-    {
-      "story_id": "story_a382eafa5b52",
-      "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "primary_url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "source": "boydkane.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "97417977768554cb444b51c984aefaf71a02a8b5",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": null,
-          "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "boydkane.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T03:02:56.442000Z"
-        },
-        {
-          "id": "ed23432d04a4d512c316552b37f2b39adab7cebd",
-          "title": "LLMs could control their host machines by exploiting inference engines",
-          "title_zh": null,
-          "title_en": "LLMs could control their host machines by exploiting inference engines",
-          "title_original": "LLMs could control their host machines by exploiting inference engines",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49424387",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T20:08:08.156000Z"
-        },
-        {
-          "id": "31a32bf26e7b09bdb44e1aa8b21319ee13334835",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器 / LLMs could control their host machines by exploiting inference engines",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": "LLMs could control their host machines by exploiting inference engines",
-          "title_original": "LLMs could control their host machines by exploiting inference engines",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T19:03:06Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "boydkane.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "97417977768554cb444b51c984aefaf71a02a8b5",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": null,
-          "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "boydkane.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T03:02:56.442000Z"
-        },
-        {
-          "id": "ed23432d04a4d512c316552b37f2b39adab7cebd",
-          "title": "LLMs could control their host machines by exploiting inference engines",
-          "title_zh": null,
-          "title_en": "LLMs could control their host machines by exploiting inference engines",
-          "title_original": "LLMs could control their host machines by exploiting inference engines",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49424387",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T20:08:08.156000Z"
-        },
-        {
-          "id": "31a32bf26e7b09bdb44e1aa8b21319ee13334835",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器 / LLMs could control their host machines by exploiting inference engines",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": "LLMs could control their host machines by exploiting inference engines",
-          "title_original": "LLMs could control their host machines by exploiting inference engines",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T19:03:06Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.547,
-      "importance": 0.547,
-      "importance_score": 0.547,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.868,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T19:03:06Z",
-      "latest_at": "2026-08-25T03:02:56.442000Z",
-      "primary_item": {
-        "id": "97417977768554cb444b51c984aefaf71a02a8b5",
-        "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-        "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-        "title_en": null,
-        "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-        "source": "boydkane.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
-      }
-    },
-    {
-      "story_id": "story_be780896c4e6",
-      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-      "url": "https://news.ycombinator.com/item?id=49423495",
-      "primary_url": "https://news.ycombinator.com/item?id=49423495",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "e9d056c2857afbbee09d9230d4027c1094de409a",
-          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_zh": null,
-          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49423495",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T20:08:08.156000Z"
-        },
-        {
-          "id": "6582a37d7839efe929f75b6a13d09db88e80db59",
-          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_zh": null,
-          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T17:53:14Z"
-        },
-        {
-          "id": "bf30eb251863bbe3ddd16a6d90095d39aafd4486",
-          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_zh": null,
-          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ycombinator.com/companies/autostep/jobs",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T17:53:14Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e9d056c2857afbbee09d9230d4027c1094de409a",
-          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_zh": null,
-          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49423495",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T20:08:08.156000Z"
-        },
-        {
-          "id": "6582a37d7839efe929f75b6a13d09db88e80db59",
-          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_zh": null,
-          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T17:53:14Z"
-        },
-        {
-          "id": "bf30eb251863bbe3ddd16a6d90095d39aafd4486",
-          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_zh": null,
-          "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ycombinator.com/companies/autostep/jobs",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T17:53:14Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7856,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T17:53:14Z",
-      "latest_at": "2026-08-24T20:08:08.156000Z",
-      "primary_item": {
-        "id": "e9d056c2857afbbee09d9230d4027c1094de409a",
-        "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-        "title_zh": null,
-        "title_en": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-        "title_original": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49423495",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
-      }
-    },
-    {
-      "story_id": "story_e0ba1a9f4659",
-      "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-      "url": "https://www.aibase.com/news/30603",
-      "primary_url": "https://www.aibase.com/news/30603",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-          "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_en": null,
-          "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30603",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T08:44:47.770251Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-          "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "title_en": null,
-          "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30603",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T08:44:47.770251Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9425,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T08:44:47.770251Z",
-      "latest_at": "2026-08-25T08:44:47.770251Z",
-      "primary_item": {
-        "id": "80d522546b1cb3cd9b4cb976da96ce9ded3e8bce",
-        "title": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "title_zh": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "title_en": null,
-        "title_original": "老板电器 AI 烹饪眼镜明年 3 月开售：搭载\"食神\"大模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30603",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
-      }
-    },
-    {
-      "story_id": "story_66cede55297b",
-      "title": "Ox-Alpha Is GLM",
-      "url": "https://dejan.ai/blog/ox-alpha",
-      "primary_url": "https://dejan.ai/blog/ox-alpha",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "d04d404be7afc9c176ec1aa295f149785b997a76",
-          "title": "Ox-Alpha Is GLM",
-          "title_zh": null,
-          "title_en": "Ox-Alpha Is GLM",
-          "title_original": "Ox-Alpha Is GLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dejan.ai/blog/ox-alpha",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T16:30:16Z"
-        },
-        {
-          "id": "804f29258a9b4a5855bc5293740535c38f248d34",
-          "title": "Ox-Alpha Is GLM?",
-          "title_zh": null,
-          "title_en": "Ox-Alpha Is GLM?",
-          "title_original": "Ox-Alpha Is GLM?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dejan.ai/blog/ox-alpha",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T16:30:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "d04d404be7afc9c176ec1aa295f149785b997a76",
-          "title": "Ox-Alpha Is GLM",
-          "title_zh": null,
-          "title_en": "Ox-Alpha Is GLM",
-          "title_original": "Ox-Alpha Is GLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dejan.ai/blog/ox-alpha",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T16:30:16Z"
-        },
-        {
-          "id": "804f29258a9b4a5855bc5293740535c38f248d34",
-          "title": "Ox-Alpha Is GLM?",
-          "title_zh": null,
-          "title_en": "Ox-Alpha Is GLM?",
-          "title_original": "Ox-Alpha Is GLM?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dejan.ai/blog/ox-alpha",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T16:30:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5,
-      "importance": 0.5,
-      "importance_score": 0.5,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7454,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T16:30:16Z",
-      "latest_at": "2026-08-24T16:30:16Z",
-      "primary_item": {
-        "id": "d04d404be7afc9c176ec1aa295f149785b997a76",
-        "title": "Ox-Alpha Is GLM",
-        "title_zh": null,
-        "title_en": "Ox-Alpha Is GLM",
-        "title_original": "Ox-Alpha Is GLM",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://dejan.ai/blog/ox-alpha",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
-      }
-    },
-    {
-      "story_id": "story_c4b1ff481103",
-      "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-      "url": "https://www.aibase.com/news/30605",
-      "primary_url": "https://www.aibase.com/news/30605",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
-          "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "title_en": null,
-          "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30605",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T08:44:47.770251Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
-          "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "title_en": null,
-          "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30605",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T08:44:47.770251Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9425,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T08:44:47.770251Z",
-      "latest_at": "2026-08-25T08:44:47.770251Z",
-      "primary_item": {
-        "id": "7e064355c7f51393c64feb9d3aec4d3c0e0783cb",
-        "title": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-        "title_zh": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-        "title_en": null,
-        "title_original": "谷歌 Gemini 迎来深度界面升级，新增通知中心与智能筛选",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30605",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
-      }
-    },
-    {
-      "story_id": "story_5ee230c688f3",
-      "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-      "url": "https://news.ycombinator.com/item?id=49424758",
-      "primary_url": "https://news.ycombinator.com/item?id=49424758",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "77633535959003323bae87c7088981756761f958",
-          "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-          "title_zh": null,
-          "title_en": "A Claude Code skill that recovers export-blocked Kindle highlights",
-          "title_original": "A Claude Code skill that recovers export-blocked Kindle highlights",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49424758",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T20:08:08.156000Z"
-        },
-        {
-          "id": "f7b36fd07f1c478fe2d197dee4f088cabe5ae939",
-          "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-          "title_zh": null,
-          "title_en": "A Claude Code skill that recovers export-blocked Kindle highlights",
-          "title_original": "A Claude Code skill that recovers export-blocked Kindle highlights",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/l3a0/claude-plugins",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T19:32:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "77633535959003323bae87c7088981756761f958",
-          "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-          "title_zh": null,
-          "title_en": "A Claude Code skill that recovers export-blocked Kindle highlights",
-          "title_original": "A Claude Code skill that recovers export-blocked Kindle highlights",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49424758",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T20:08:08.156000Z"
-        },
-        {
-          "id": "f7b36fd07f1c478fe2d197dee4f088cabe5ae939",
-          "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-          "title_zh": null,
-          "title_en": "A Claude Code skill that recovers export-blocked Kindle highlights",
-          "title_original": "A Claude Code skill that recovers export-blocked Kindle highlights",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/l3a0/claude-plugins",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T19:32:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7856,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T19:32:18Z",
-      "latest_at": "2026-08-24T20:08:08.156000Z",
-      "primary_item": {
-        "id": "77633535959003323bae87c7088981756761f958",
-        "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-        "title_zh": null,
-        "title_en": "A Claude Code skill that recovers export-blocked Kindle highlights",
-        "title_original": "A Claude Code skill that recovers export-blocked Kindle highlights",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49424758",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
-      }
-    },
-    {
-      "story_id": "story_0ef3e31b1b6f",
-      "title": "Lady Gaga男友低调布局：用“活体皮肤”训练AI，这家生物初创公司如何颠覆美妆研发？",
-      "url": "https://www.aibase.com/news/30592",
-      "primary_url": "https://www.aibase.com/news/30592",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "258f2583fd03dadd2c6a28aae7906d8cd2a829af",
-          "title": "Lady Gaga男友低调布局：用“活体皮肤”训练AI，这家生物初创公司如何颠覆美妆研发？",
-          "title_zh": "Lady Gaga男友低调布局：用“活体皮肤”训练AI，这家生物初创公司如何颠覆美妆研发？",
-          "title_en": null,
-          "title_original": "Lady Gaga男友低调布局：用“活体皮肤”训练AI，这家生物初创公司如何颠覆美妆研发？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30592",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T04:40:52.702978Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "258f2583fd03dadd2c6a28aae7906d8cd2a829af",
-          "title": "Lady Gaga男友低调布局：用“活体皮肤”训练AI，这家生物初创公司如何颠覆美妆研发？",
-          "title_zh": "Lady Gaga男友低调布局：用“活体皮肤”训练AI，这家生物初创公司如何颠覆美妆研发？",
-          "title_en": null,
-          "title_original": "Lady Gaga男友低调布局：用“活体皮肤”训练AI，这家生物初创公司如何颠覆美妆研发？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30592",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T04:40:52.702978Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8887,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-25T04:40:52.702978Z",
-      "latest_at": "2026-08-25T04:40:52.702978Z",
-      "primary_item": {
-        "id": "258f2583fd03dadd2c6a28aae7906d8cd2a829af",
-        "title": "Lady Gaga男友低调布局：用“活体皮肤”训练AI，这家生物初创公司如何颠覆美妆研发？",
-        "title_zh": "Lady Gaga男友低调布局：用“活体皮肤”训练AI，这家生物初创公司如何颠覆美妆研发？",
-        "title_en": null,
-        "title_original": "Lady Gaga男友低调布局：用“活体皮肤”训练AI，这家生物初创公司如何颠覆美妆研发？",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30592",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-25T13:26:39.596609Z"
+        "scored_at": "2026-08-25T17:17:03.193339Z"
       }
     }
   ]
