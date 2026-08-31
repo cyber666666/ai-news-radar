@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-31T15:56:59.523005Z",
+  "generated_at": "2026-08-31T21:24:35.771941Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_bd6dbcbcc36a",
+      "title": "GitHub Copilot in VS Code, August 2026 releases",
+      "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
+      "primary_url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "040868e794334d9663e1bc0910d606d026adb98d",
+          "title": "GitHub Copilot in VS Code, August 2026 releases",
+          "title_zh": null,
+          "title_en": "GitHub Copilot in VS Code, August 2026 releases",
+          "title_original": "GitHub Copilot in VS Code, August 2026 releases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T08:39:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "040868e794334d9663e1bc0910d606d026adb98d",
+          "title": "GitHub Copilot in VS Code, August 2026 releases",
+          "title_zh": null,
+          "title_en": "GitHub Copilot in VS Code, August 2026 releases",
+          "title_original": "GitHub Copilot in VS Code, August 2026 releases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T08:39:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8217,
+      "importance": 0.8217,
+      "importance_score": 0.8217,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8319,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T08:39:54Z",
+      "latest_at": "2026-08-31T08:39:54Z",
+      "primary_item": {
+        "id": "040868e794334d9663e1bc0910d606d026adb98d",
+        "title": "GitHub Copilot in VS Code, August 2026 releases",
+        "title_zh": null,
+        "title_en": "GitHub Copilot in VS Code, August 2026 releases",
+        "title_original": "GitHub Copilot in VS Code, August 2026 releases",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T21:54:57.308610Z"
+      }
+    },
     {
       "story_id": "story_b5eed0f3b98c",
       "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8415,
+        "recency": 0.7777,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     },
     {
@@ -160,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7942,
+        "recency": 0.734,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     },
     {
@@ -243,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.939,
+        "recency": 0.8678,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -277,7 +360,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     },
     {
@@ -325,15 +408,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,170 +442,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     },
     {
-      "story_id": "story_bb8456f834ab",
-      "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-      "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-      "primary_url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "story_id": "story_48cf16a198d6",
+      "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面 / Introducing Solaris",
+      "url": "https://runwayml.com/news/research/introducing-solaris",
+      "primary_url": "https://runwayml.com/news/research/introducing-solaris",
+      "source": "Runway：News（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+          "id": "79a3911397e1bb59a4732194be300a67c1486761",
+          "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面 / Introducing Solaris",
+          "title_zh": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
+          "title_en": "Introducing Solaris",
+          "title_original": "Introducing Solaris",
+          "summary": "Runway 推出 Solaris，这是其全新界面世界模型（Interface World Models）系列的首个模型。Solaris 能实时逐帧生成应用和网站界面，无需中间代码表示，直接以图像作为交互层，支持视觉化、动态响应和开放式交互。它还可用于训练智能体，使其适应不断变化的界面布局，而非局限于特定训练环境。",
           "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "url": "https://runwayml.com/news/research/introducing-solaris",
+          "source": "Runway：News（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-31T15:24:14Z"
+          "published_at": "2026-08-31T17:03:47.031000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+        "Runway：News（网页）"
       ],
       "items": [
         {
-          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+          "id": "79a3911397e1bb59a4732194be300a67c1486761",
+          "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面 / Introducing Solaris",
+          "title_zh": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
+          "title_en": "Introducing Solaris",
+          "title_original": "Introducing Solaris",
+          "summary": "Runway 推出 Solaris，这是其全新界面世界模型（Interface World Models）系列的首个模型。Solaris 能实时逐帧生成应用和网站界面，无需中间代码表示，直接以图像作为交互层，支持视觉化、动态响应和开放式交互。它还可用于训练智能体，使其适应不断变化的界面布局，而非局限于特定训练环境。",
           "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "url": "https://runwayml.com/news/research/introducing-solaris",
+          "source": "Runway：News（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-31T15:24:14Z"
+          "published_at": "2026-08-31T17:03:47.031000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9921,
+        "recency": 0.9392,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-31T15:24:14Z",
-      "latest_at": "2026-08-31T15:24:14Z",
+      "earliest_at": "2026-08-31T17:03:47.031000Z",
+      "latest_at": "2026-08-31T17:03:47.031000Z",
       "primary_item": {
-        "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-        "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-        "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+        "id": "79a3911397e1bb59a4732194be300a67c1486761",
+        "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面 / Introducing Solaris",
+        "title_zh": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
+        "title_en": "Introducing Solaris",
+        "title_original": "Introducing Solaris",
+        "summary": "Runway 推出 Solaris，这是其全新界面世界模型（Interface World Models）系列的首个模型。Solaris 能实时逐帧生成应用和网站界面，无需中间代码表示，直接以图像作为交互层，支持视觉化、动态响应和开放式交互。它还可用于训练智能体，使其适应不断变化的界面布局，而非局限于特定训练环境。",
         "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "url": "https://runwayml.com/news/research/introducing-solaris",
+        "source": "Runway：News（网页）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
-      }
-    },
-    {
-      "story_id": "story_2d9cbccbc345",
-      "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-      "url": "https://www.aibase.com/news/30726",
-      "primary_url": "https://www.aibase.com/news/30726",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
-          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "title_en": null,
-          "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30726",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T15:56:59.523005Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
-          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "title_en": null,
-          "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30726",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T15:56:59.523005Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T15:56:59.523005Z",
-      "latest_at": "2026-08-31T15:56:59.523005Z",
-      "primary_item": {
-        "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
-        "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-        "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-        "title_en": null,
-        "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30726",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     },
     {
@@ -570,15 +571,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.799,
+        "recency": 0.7384,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -603,7 +604,170 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
+      }
+    },
+    {
+      "story_id": "story_bb8456f834ab",
+      "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+      "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+      "primary_url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
+          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
+          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T15:24:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
+          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
+          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T15:24:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7256,
+      "importance": 0.7256,
+      "importance_score": 0.7256,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9169,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-31T15:24:14Z",
+      "latest_at": "2026-08-31T15:24:14Z",
+      "primary_item": {
+        "id": "273d339358f50214acd2b2eff94b67f761c9938a",
+        "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+        "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
+        "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+        "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
+        "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
+        "recommend_reason_zh": null,
+        "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T21:54:57.308610Z"
+      }
+    },
+    {
+      "story_id": "story_2d9cbccbc345",
+      "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+      "url": "https://www.aibase.com/news/30726",
+      "primary_url": "https://www.aibase.com/news/30726",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
+          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_en": null,
+          "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30726",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T15:56:59.523005Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
+          "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "title_en": null,
+          "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30726",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T15:56:59.523005Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9242,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T15:56:59.523005Z",
+      "latest_at": "2026-08-31T15:56:59.523005Z",
+      "primary_item": {
+        "id": "5aa0f0e804692ccf6580c4db292df4f4f7cd1b36",
+        "title": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+        "title_zh": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+        "title_en": null,
+        "title_original": "单月飙升超92%！MiniMax交出亮眼半年报，总市值强势回升至1249.56亿港元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30726",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     },
     {
@@ -651,15 +815,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -685,7 +849,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     },
     {
@@ -733,15 +897,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -767,7 +931,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     },
     {
@@ -815,15 +979,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -849,7 +1013,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     },
     {
@@ -897,15 +1061,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.995,
+        "recency": 0.9195,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -931,7 +1095,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
+      }
+    },
+    {
+      "story_id": "story_ee52f913277f",
+      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "primary_url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
+          "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "title_zh": null,
+          "title_en": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "title_original": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-31T15:34:58Z"
+        },
+        {
+          "id": "af4e926d239e04b788a903a3bcf33f3bb3867157",
+          "title": "Debian won’t ban AI code from its Linux distribution",
+          "title_zh": null,
+          "title_en": "Debian won’t ban AI code from its Linux distribution",
+          "title_original": "Debian won’t ban AI code from its Linux distribution",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T15:34:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
+          "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "title_zh": null,
+          "title_en": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "title_original": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-31T15:34:58Z"
+        },
+        {
+          "id": "af4e926d239e04b788a903a3bcf33f3bb3867157",
+          "title": "Debian won’t ban AI code from its Linux distribution",
+          "title_zh": null,
+          "title_en": "Debian won’t ban AI code from its Linux distribution",
+          "title_original": "Debian won’t ban AI code from its Linux distribution",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T15:34:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.601,
+      "importance": 0.601,
+      "importance_score": 0.601,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9193,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-31T15:34:58Z",
+      "latest_at": "2026-08-31T15:34:58Z",
+      "primary_item": {
+        "id": "c31cbc534aeee356d5e6e09febb9ce1bd7582231",
+        "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+        "title_zh": null,
+        "title_en": "Debian won&#8217;t ban AI code from its Linux distribution",
+        "title_original": "Debian won&#8217;t ban AI code from its Linux distribution",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     },
     {
@@ -979,15 +1252,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9933,
+        "recency": 0.918,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1013,7 +1286,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
+      }
+    },
+    {
+      "story_id": "story_1820ecd798ef",
+      "title": "ChatGPT 工作工具与技能参考",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site",
+      "primary_url": "https://codex-tool-reference.simonw.chatgpt.site",
+      "source": "codex-tool-reference.simonw.chatgpt.site",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
+          "title": "ChatGPT 工作工具与技能参考",
+          "title_zh": "ChatGPT 工作工具与技能参考",
+          "title_en": null,
+          "title_original": "ChatGPT 工作工具与技能参考",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "codex-tool-reference.simonw.chatgpt.site",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T17:21:15.952000Z"
+        },
+        {
+          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
+          "title": "ChatGPT Work Tool and Skill Reference",
+          "title_zh": null,
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49510000",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T15:49:48.174000Z"
+        },
+        {
+          "id": "717a5637a5d891cf87107fb9a6f98823347bf5ed",
+          "title": "ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference",
+          "title_zh": "ChatGPT 工作工具与技能参考",
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T14:07:15Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "codex-tool-reference.simonw.chatgpt.site",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
+          "title": "ChatGPT 工作工具与技能参考",
+          "title_zh": "ChatGPT 工作工具与技能参考",
+          "title_en": null,
+          "title_original": "ChatGPT 工作工具与技能参考",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "codex-tool-reference.simonw.chatgpt.site",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T17:21:15.952000Z"
+        },
+        {
+          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
+          "title": "ChatGPT Work Tool and Skill Reference",
+          "title_zh": null,
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49510000",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T15:49:48.174000Z"
+        },
+        {
+          "id": "717a5637a5d891cf87107fb9a6f98823347bf5ed",
+          "title": "ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference",
+          "title_zh": "ChatGPT 工作工具与技能参考",
+          "title_en": "ChatGPT Work Tool and Skill Reference",
+          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T14:07:15Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9431,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-31T14:07:15Z",
+      "latest_at": "2026-08-31T17:21:15.952000Z",
+      "primary_item": {
+        "id": "0da1b86ffc506f59634a759b5e35887ad07ae78f",
+        "title": "ChatGPT 工作工具与技能参考",
+        "title_zh": "ChatGPT 工作工具与技能参考",
+        "title_en": null,
+        "title_original": "ChatGPT 工作工具与技能参考",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://codex-tool-reference.simonw.chatgpt.site",
+        "source": "codex-tool-reference.simonw.chatgpt.site",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     },
     {
@@ -1053,7 +1465,7 @@
           "published_at": "2026-08-31T04:26:09.034000Z"
         },
         {
-          "id": "2e5cf851f266a2816174e1d9a8972c3c2916801e",
+          "id": "09add5565edf842ca44260d5c7c0050d3999f26c",
           "title": "如何构建扩散式语言模型 / How to build a diffusion language model",
           "title_zh": "如何构建扩散式语言模型",
           "title_en": "How to build a diffusion language model",
@@ -1061,15 +1473,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-30T23:41:32Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews",
         "kuleshov-group.github.io"
       ],
@@ -1103,7 +1515,7 @@
           "published_at": "2026-08-31T04:26:09.034000Z"
         },
         {
-          "id": "2e5cf851f266a2816174e1d9a8972c3c2916801e",
+          "id": "09add5565edf842ca44260d5c7c0050d3999f26c",
           "title": "如何构建扩散式语言模型 / How to build a diffusion language model",
           "title_zh": "如何构建扩散式语言模型",
           "title_en": "How to build a diffusion language model",
@@ -1111,23 +1523,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-30T23:41:32Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5577,
-      "importance": 0.5577,
-      "importance_score": 0.5577,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9274,
+        "recency": 0.8571,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1152,7 +1564,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     },
     {
@@ -1200,15 +1612,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9899,
+        "recency": 0.9149,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1234,183 +1646,154 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     },
     {
-      "story_id": "story_40b94c960751",
-      "title": "连续扩散语言模型（CDLM）",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "primary_url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "source": "sander.ai",
+      "story_id": "story_33e3871730ab",
+      "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+      "primary_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+      "source": "www.macrumors.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "415e009d2374693666a0903268d9b1d2782969c6",
-          "title": "连续扩散语言模型（CDLM）",
-          "title_zh": "连续扩散语言模型（CDLM）",
+          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
           "title_en": null,
-          "title_original": "连续扩散语言模型（CDLM）",
+          "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "sander.ai",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+          "source": "www.macrumors.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-31T08:51:38.607000Z"
+          "published_at": "2026-08-31T18:41:20.531000Z"
         },
         {
-          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-          "title": "Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": null,
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
+          "id": "2ae1255494504151ccb7d599cc8ae71bb439e89c",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49502611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T22:29:43.598000Z"
-        },
-        {
-          "id": "4528d5917e9906f9602b5e2aadb75c93c9fa2643",
-          "title": "连续扩散语言模型（CDLM） / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-30T20:46:53Z"
+          "published_at": "2026-08-31T12:41:22Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News",
-        "hackernews",
-        "sander.ai"
+        "www.macrumors.com"
       ],
       "items": [
         {
-          "id": "415e009d2374693666a0903268d9b1d2782969c6",
-          "title": "连续扩散语言模型（CDLM）",
-          "title_zh": "连续扩散语言模型（CDLM）",
+          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
           "title_en": null,
-          "title_original": "连续扩散语言模型（CDLM）",
+          "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "sander.ai",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+          "source": "www.macrumors.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-31T08:51:38.607000Z"
+          "published_at": "2026-08-31T18:41:20.531000Z"
         },
         {
-          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-          "title": "Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": null,
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
+          "id": "2ae1255494504151ccb7d599cc8ae71bb439e89c",
+          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+          "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49502611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T22:29:43.598000Z"
-        },
-        {
-          "id": "4528d5917e9906f9602b5e2aadb75c93c9fa2643",
-          "title": "连续扩散语言模型（CDLM） / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-30T20:46:53Z"
+          "published_at": "2026-08-31T12:41:22Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5533,
-      "importance": 0.5533,
-      "importance_score": 0.5533,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9027,
-        "story_heat": 0.5
+        "recency": 0.9615,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-30T20:46:53Z",
-      "latest_at": "2026-08-31T08:51:38.607000Z",
+      "earliest_at": "2026-08-31T12:41:22Z",
+      "latest_at": "2026-08-31T18:41:20.531000Z",
       "primary_item": {
-        "id": "415e009d2374693666a0903268d9b1d2782969c6",
-        "title": "连续扩散语言模型（CDLM）",
-        "title_zh": "连续扩散语言模型（CDLM）",
+        "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
+        "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
+        "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
         "title_en": null,
-        "title_original": "连续扩散语言模型（CDLM）",
+        "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-        "source": "sander.ai",
+        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+        "source": "www.macrumors.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     },
     {
-      "story_id": "story_1820ecd798ef",
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://news.ycombinator.com/item?id=49510000",
-      "primary_url": "https://news.ycombinator.com/item?id=49510000",
+      "story_id": "story_00f3e847a46f",
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "url": "https://news.ycombinator.com/item?id=49511007",
+      "primary_url": "https://news.ycombinator.com/item?id=49511007",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-          "title": "ChatGPT Work Tool and Skill Reference",
+          "id": "b46272d00a2ecefb27c8c304d94bbcbf3cc2dc65",
+          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49510000",
+          "url": "https://news.ycombinator.com/item?id=49511007",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-31T15:49:48.174000Z"
         },
         {
-          "id": "717a5637a5d891cf87107fb9a6f98823347bf5ed",
-          "title": "ChatGPT Work Tool and Skill Reference",
+          "id": "8282b825e1486b89785f4bcb8e35559c4bf36dd1",
+          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "url": "https://usealmanac.com",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-31T14:07:15Z"
+          "published_at": "2026-08-31T15:34:34Z"
         }
       ],
       "source_count": 2,
@@ -1420,62 +1803,62 @@
       ],
       "items": [
         {
-          "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-          "title": "ChatGPT Work Tool and Skill Reference",
+          "id": "b46272d00a2ecefb27c8c304d94bbcbf3cc2dc65",
+          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49510000",
+          "url": "https://news.ycombinator.com/item?id=49511007",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-31T15:49:48.174000Z"
         },
         {
-          "id": "717a5637a5d891cf87107fb9a6f98823347bf5ed",
-          "title": "ChatGPT Work Tool and Skill Reference",
+          "id": "8282b825e1486b89785f4bcb8e35559c4bf36dd1",
+          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "title_zh": null,
-          "title_en": "ChatGPT Work Tool and Skill Reference",
-          "title_original": "ChatGPT Work Tool and Skill Reference",
+          "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "url": "https://usealmanac.com",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-31T14:07:15Z"
+          "published_at": "2026-08-31T15:34:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5455,
-      "importance": 0.5455,
-      "importance_score": 0.5455,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9983,
+        "recency": 0.9226,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-31T14:07:15Z",
+      "earliest_at": "2026-08-31T15:34:34Z",
       "latest_at": "2026-08-31T15:49:48.174000Z",
       "primary_item": {
-        "id": "2efd78f8b3c61bfe61bf54549efa0a9f64848ce2",
-        "title": "ChatGPT Work Tool and Skill Reference",
+        "id": "b46272d00a2ecefb27c8c304d94bbcbf3cc2dc65",
+        "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
         "title_zh": null,
-        "title_en": "ChatGPT Work Tool and Skill Reference",
-        "title_original": "ChatGPT Work Tool and Skill Reference",
+        "title_en": "Launch HN: Almanac (YC S26) – AI that knows your company",
+        "title_original": "Launch HN: Almanac (YC S26) – AI that knows your company",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49510000",
+        "url": "https://news.ycombinator.com/item?id=49511007",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1483,391 +1866,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
-      }
-    },
-    {
-      "story_id": "story_492835039be8",
-      "title": "OpenClaw 2.0，意外之作",
-      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "primary_url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "source": "openclaw.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-          "title": "OpenClaw 2.0，意外之作",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": null,
-          "title_original": "OpenClaw 2.0，意外之作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "openclaw.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:27:50.895000Z"
-        },
-        {
-          "id": "e4f2595bb0ad390f19905c279003fc8293cb2b45",
-          "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": "OpenClaw 2.0, Accidentally",
-          "title_original": "OpenClaw 2.0, Accidentally",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T03:38:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "openclaw.ai"
-      ],
-      "items": [
-        {
-          "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-          "title": "OpenClaw 2.0，意外之作",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": null,
-          "title_original": "OpenClaw 2.0，意外之作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "openclaw.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:27:50.895000Z"
-        },
-        {
-          "id": "e4f2595bb0ad390f19905c279003fc8293cb2b45",
-          "title": "OpenClaw 2.0，意外之作 / OpenClaw 2.0, Accidentally",
-          "title_zh": "OpenClaw 2.0，意外之作",
-          "title_en": "OpenClaw 2.0, Accidentally",
-          "title_original": "OpenClaw 2.0, Accidentally",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T03:38:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9238,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T03:38:02Z",
-      "latest_at": "2026-08-31T10:27:50.895000Z",
-      "primary_item": {
-        "id": "d79eac2f14b59b26bddbbb661bbae97e73a0ed49",
-        "title": "OpenClaw 2.0，意外之作",
-        "title_zh": "OpenClaw 2.0，意外之作",
-        "title_en": null,
-        "title_original": "OpenClaw 2.0，意外之作",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-        "source": "openclaw.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
-      }
-    },
-    {
-      "story_id": "story_afb410df2404",
-      "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-      "url": "https://www.aibase.com/news/30721",
-      "primary_url": "https://www.aibase.com/news/30721",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
-          "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-          "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-          "title_en": null,
-          "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30721",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T14:58:59.523005Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
-          "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-          "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-          "title_en": null,
-          "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30721",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T14:58:59.523005Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9861,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T14:58:59.523005Z",
-      "latest_at": "2026-08-31T14:58:59.523005Z",
-      "primary_item": {
-        "id": "02fd4e679dd1f9f6e0ef561b3aa49f58a7127d25",
-        "title": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-        "title_zh": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-        "title_en": null,
-        "title_original": "一个创意，一支AI团队:千问创作Agent Teams上线，编剧导演美术全承包",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30721",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
-      }
-    },
-    {
-      "story_id": "story_e42196c2130a",
-      "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-      "url": "https://www.aibase.com/news/30719",
-      "primary_url": "https://www.aibase.com/news/30719",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
-          "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-          "title_zh": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-          "title_en": null,
-          "title_original": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30719",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T14:56:59.523005Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
-          "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-          "title_zh": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-          "title_en": null,
-          "title_original": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30719",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T14:56:59.523005Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T14:56:59.523005Z",
-      "latest_at": "2026-08-31T14:56:59.523005Z",
-      "primary_item": {
-        "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
-        "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-        "title_zh": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-        "title_en": null,
-        "title_original": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30719",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
-      }
-    },
-    {
-      "story_id": "story_6d366ffbf027",
-      "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-      "url": "https://news.ycombinator.com/item?id=49505351",
-      "primary_url": "https://news.ycombinator.com/item?id=49505351",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "e9f6eda1e7c06dac27e93c840bb5568be18cfdcf",
-          "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-          "title_zh": null,
-          "title_en": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-          "title_original": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49505351",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T04:26:09.034000Z"
-        },
-        {
-          "id": "ca5a21267efeb39a256d7cb964a3d52b474605e1",
-          "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-          "title_zh": null,
-          "title_en": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-          "title_original": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-31T03:45:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e9f6eda1e7c06dac27e93c840bb5568be18cfdcf",
-          "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-          "title_zh": null,
-          "title_en": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-          "title_original": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49505351",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T04:26:09.034000Z"
-        },
-        {
-          "id": "ca5a21267efeb39a256d7cb964a3d52b474605e1",
-          "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-          "title_zh": null,
-          "title_en": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-          "title_original": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-31T03:45:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5182,
-      "importance": 0.5182,
-      "importance_score": 0.5182,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8468,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T03:45:57Z",
-      "latest_at": "2026-08-31T04:26:09.034000Z",
-      "primary_item": {
-        "id": "e9f6eda1e7c06dac27e93c840bb5568be18cfdcf",
-        "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-        "title_zh": null,
-        "title_en": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-        "title_original": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49505351",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-31T16:22:05.781738Z"
+        "scored_at": "2026-08-31T21:54:57.308610Z"
       }
     }
   ]
