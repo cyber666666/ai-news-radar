@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T03:31:26.001432Z",
+  "generated_at": "2026-09-04T08:35:56.923349Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8435,
-      "importance": 0.8435,
-      "importance_score": 0.8435,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8137,
+        "recency": 0.7562,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -190,15 +190,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.835,
+        "recency": 0.776,
         "story_heat": 0.25
       },
       "category": "official",
@@ -226,7 +226,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -274,15 +274,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8822,
+        "recency": 0.8199,
         "story_heat": 0.0
       },
       "category": "official",
@@ -309,7 +309,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
+      }
+    },
+    {
+      "story_id": "story_16469548a272",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "primary_url": "https://huggingface.co/blog/Hcompany/neomme",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
+          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_zh": null,
+          "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T13:13:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
+          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_zh": null,
+          "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T13:13:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8161,
+      "importance": 0.8161,
+      "importance_score": 0.8161,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.756,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T13:13:48Z",
+      "latest_at": "2026-09-03T13:13:48Z",
+      "primary_item": {
+        "id": "d93c1f6b932dc05ebde205846d094df62f896547",
+        "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "title_zh": null,
+        "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/Hcompany/neomme",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -415,15 +498,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9522,
+        "recency": 0.8849,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -450,90 +533,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
-      }
-    },
-    {
-      "story_id": "story_16469548a272",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "primary_url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
-          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "title_zh": null,
-          "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Hcompany/neomme",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T13:13:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
-          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "title_zh": null,
-          "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Hcompany/neomme",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T13:13:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8135,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T13:13:48Z",
-      "latest_at": "2026-09-03T13:13:48Z",
-      "primary_item": {
-        "id": "d93c1f6b932dc05ebde205846d094df62f896547",
-        "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-        "title_zh": null,
-        "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-        "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/Hcompany/neomme",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -581,15 +581,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8467,
+        "recency": 0.7869,
         "story_heat": 0.0
       },
       "category": "official",
@@ -616,7 +616,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -664,15 +664,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.93,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9641,
+        "recency": 0.896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -698,7 +698,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -775,15 +775,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.91,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7991,
+        "recency": 0.7427,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -810,7 +810,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -887,15 +887,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9011,
+        "recency": 0.8374,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -922,7 +922,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -999,15 +999,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9136,
+        "recency": 0.8491,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1034,90 +1034,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
-      }
-    },
-    {
-      "story_id": "story_840d5d322fa1",
-      "title": "Upcoming deprecation of selected GitHub Copilot models",
-      "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
-      "primary_url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fedccde1eb5192d77c242bfdfbf6ca8980c40fec",
-          "title": "Upcoming deprecation of selected GitHub Copilot models",
-          "title_zh": null,
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T19:40:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fedccde1eb5192d77c242bfdfbf6ca8980c40fec",
-          "title": "Upcoming deprecation of selected GitHub Copilot models",
-          "title_zh": null,
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T19:40:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8327,
-      "importance": 0.8327,
-      "importance_score": 0.8327,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8928,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T19:40:14Z",
-      "latest_at": "2026-09-03T19:40:14Z",
-      "primary_item": {
-        "id": "fedccde1eb5192d77c242bfdfbf6ca8980c40fec",
-        "title": "Upcoming deprecation of selected GitHub Copilot models",
-        "title_zh": null,
-        "title_en": "Upcoming deprecation of selected GitHub Copilot models",
-        "title_original": "Upcoming deprecation of selected GitHub Copilot models",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -1194,15 +1111,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8715,
+        "recency": 0.8099,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1229,7 +1146,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
+      }
+    },
+    {
+      "story_id": "story_840d5d322fa1",
+      "title": "Upcoming deprecation of selected GitHub Copilot models",
+      "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+      "primary_url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fedccde1eb5192d77c242bfdfbf6ca8980c40fec",
+          "title": "Upcoming deprecation of selected GitHub Copilot models",
+          "title_zh": null,
+          "title_en": "Upcoming deprecation of selected GitHub Copilot models",
+          "title_original": "Upcoming deprecation of selected GitHub Copilot models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T19:40:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fedccde1eb5192d77c242bfdfbf6ca8980c40fec",
+          "title": "Upcoming deprecation of selected GitHub Copilot models",
+          "title_zh": null,
+          "title_en": "Upcoming deprecation of selected GitHub Copilot models",
+          "title_original": "Upcoming deprecation of selected GitHub Copilot models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T19:40:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8297,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T19:40:14Z",
+      "latest_at": "2026-09-03T19:40:14Z",
+      "primary_item": {
+        "id": "fedccde1eb5192d77c242bfdfbf6ca8980c40fec",
+        "title": "Upcoming deprecation of selected GitHub Copilot models",
+        "title_zh": null,
+        "title_en": "Upcoming deprecation of selected GitHub Copilot models",
+        "title_original": "Upcoming deprecation of selected GitHub Copilot models",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -1277,15 +1277,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9593,
+        "recency": 0.8915,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1311,7 +1311,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -1359,15 +1359,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9681,
+        "recency": 0.8997,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1393,7 +1393,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -1470,15 +1470,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8719,
+        "recency": 0.8103,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1505,7 +1505,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
+      }
+    },
+    {
+      "story_id": "story_7818dad3e51c",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "primary_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7427,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T12:00:00Z",
+      "latest_at": "2026-09-03T12:00:00Z",
+      "primary_item": {
+        "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "title_zh": null,
+        "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -1611,15 +1694,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.824,
-      "importance": 0.824,
-      "importance_score": 0.824,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9522,
+        "recency": 0.8849,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1646,90 +1729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
-      }
-    },
-    {
-      "story_id": "story_7818dad3e51c",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "primary_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
-          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_zh": null,
-          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
-          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_zh": null,
-          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7992,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T12:00:00Z",
-      "latest_at": "2026-09-03T12:00:00Z",
-      "primary_item": {
-        "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
-        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "title_zh": null,
-        "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -1777,15 +1777,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9853,
+        "recency": 0.9156,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1811,7 +1811,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -1859,15 +1859,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8897,
+        "recency": 0.8268,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1893,7 +1893,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     },
     {
@@ -1941,15 +1941,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8689,
+        "recency": 0.8075,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1975,7 +1975,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T04:04:44.623014Z"
+        "scored_at": "2026-09-04T09:13:36.021159Z"
       }
     }
   ]
