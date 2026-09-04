@@ -1,234 +1,8 @@
 {
-  "generated_at": "2026-09-04T08:35:56.923349Z",
+  "generated_at": "2026-09-04T15:57:24.872389Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_275a8b99fb34",
-      "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "primary_url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5804d8c9d0b5ba16cf8a938e1785fb440e9402a2",
-          "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services",
-          "title_zh": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
-          "title_en": "Daybreak for Frontline Defenders: $1B to protect essential services",
-          "title_original": "Daybreak for Frontline Defenders: $1B to protect essential services",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T13:15:00Z"
-        },
-        {
-          "id": "7badb4cb05132b3e750a7ab064265f6163d0eca6",
-          "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders： $1B to protect essential services",
-          "title_zh": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
-          "title_en": "Daybreak for Frontline Defenders： $1B to protect essential services",
-          "title_original": "Daybreak for Frontline Defenders： $1B to protect essential services",
-          "summary": "OpenAI 发布 Daybreak for Frontline Defenders 全球计划，承诺提供10亿美元的 Daybreak 补贴访问、培训、技术支持与合作，计划在未来六个月内消耗，优先支持水处理、电网、州和地方政府、社区银行、非营利组织和开源维护者等资源有限的一线防御者。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T13:15:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "5804d8c9d0b5ba16cf8a938e1785fb440e9402a2",
-          "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services",
-          "title_zh": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
-          "title_en": "Daybreak for Frontline Defenders: $1B to protect essential services",
-          "title_original": "Daybreak for Frontline Defenders: $1B to protect essential services",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T13:15:00Z"
-        },
-        {
-          "id": "7badb4cb05132b3e750a7ab064265f6163d0eca6",
-          "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders： $1B to protect essential services",
-          "title_zh": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
-          "title_en": "Daybreak for Frontline Defenders： $1B to protect essential services",
-          "title_original": "Daybreak for Frontline Defenders： $1B to protect essential services",
-          "summary": "OpenAI 发布 Daybreak for Frontline Defenders 全球计划，承诺提供10亿美元的 Daybreak 补贴访问、培训、技术支持与合作，计划在未来六个月内消耗，优先支持水处理、电网、州和地方政府、社区银行、非营利组织和开源维护者等资源有限的一线防御者。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T13:15:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7562,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T13:15:00Z",
-      "latest_at": "2026-09-03T13:15:00Z",
-      "primary_item": {
-        "id": "5804d8c9d0b5ba16cf8a938e1785fb440e9402a2",
-        "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御 / Daybreak for Frontline Defenders: $1B to protect essential services",
-        "title_zh": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
-        "title_en": "Daybreak for Frontline Defenders: $1B to protect essential services",
-        "title_original": "Daybreak for Frontline Defenders: $1B to protect essential services",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
-      }
-    },
-    {
-      "story_id": "story_a0931d161b21",
-      "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-      "primary_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "afa803390cdebde1bac464b957ac4ea1b8e326ac",
-          "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-          "title_zh": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
-          "title_en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-          "title_original": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T15:02:08Z"
-        },
-        {
-          "id": "2ce61cfe8316633c46e8daecde2604beec30c201",
-          "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3， our most advanced and accurate global weather AI model",
-          "title_zh": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
-          "title_en": "Introducing WeatherNext 3， our most advanced and accurate global weather AI model",
-          "title_original": "Introducing WeatherNext 3， our most advanced and accurate global weather AI model",
-          "summary": "Google DeepMind 与 Google Research 发布 WeatherNext 3，称其为迄今最先进的全球天气 AI 模型，经 Brightband 独立实时评估。",
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T15:02:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google DeepMind",
-        "Google DeepMind：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "afa803390cdebde1bac464b957ac4ea1b8e326ac",
-          "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-          "title_zh": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
-          "title_en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-          "title_original": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T15:02:08Z"
-        },
-        {
-          "id": "2ce61cfe8316633c46e8daecde2604beec30c201",
-          "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3， our most advanced and accurate global weather AI model",
-          "title_zh": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
-          "title_en": "Introducing WeatherNext 3， our most advanced and accurate global weather AI model",
-          "title_original": "Introducing WeatherNext 3， our most advanced and accurate global weather AI model",
-          "summary": "Google DeepMind 与 Google Research 发布 WeatherNext 3，称其为迄今最先进的全球天气 AI 模型，经 Brightband 独立实时评估。",
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T15:02:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.776,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T15:02:08Z",
-      "latest_at": "2026-09-03T15:02:08Z",
-      "primary_item": {
-        "id": "afa803390cdebde1bac464b957ac4ea1b8e326ac",
-        "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-        "title_zh": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
-        "title_en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-        "title_original": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
-      }
-    },
     {
       "story_id": "story_af7f559f57ce",
       "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
@@ -274,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8199,
+        "recency": 0.7372,
         "story_heat": 0.0
       },
       "category": "official",
@@ -309,63 +83,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     },
     {
-      "story_id": "story_16469548a272",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "primary_url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face Blog",
+      "story_id": "story_9dd7043831a5",
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
-          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
+          "title": "GitHub Copilot app for Beginners: Run several agents at once",
           "title_zh": null,
-          "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_en": "GitHub Copilot app for Beginners: Run several agents at once",
+          "title_original": "GitHub Copilot app for Beginners: Run several agents at once",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Hcompany/neomme",
-          "source": "Hugging Face Blog",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-03T13:13:48Z"
+          "published_at": "2026-09-03T16:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
-          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
+          "title": "GitHub Copilot app for Beginners: Run several agents at once",
           "title_zh": null,
-          "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-          "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_en": "GitHub Copilot app for Beginners: Run several agents at once",
+          "title_original": "GitHub Copilot app for Beginners: Run several agents at once",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Hcompany/neomme",
-          "source": "Hugging Face Blog",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-03T13:13:48Z"
+          "published_at": "2026-09-03T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.756,
+        "ai_relevance": 0.91,
+        "recency": 0.7075,
         "story_heat": 0.0
       },
       "category": "official",
@@ -374,25 +148,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T13:13:48Z",
-      "latest_at": "2026-09-03T13:13:48Z",
+      "earliest_at": "2026-09-03T16:00:00Z",
+      "latest_at": "2026-09-03T16:00:00Z",
       "primary_item": {
-        "id": "d93c1f6b932dc05ebde205846d094df62f896547",
-        "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
+        "title": "GitHub Copilot app for Beginners: Run several agents at once",
         "title_zh": null,
-        "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-        "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "title_en": "GitHub Copilot app for Beginners: Run several agents at once",
+        "title_original": "GitHub Copilot app for Beginners: Run several agents at once",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/Hcompany/neomme",
-        "source": "Hugging Face Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     },
     {
@@ -498,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8849,
+        "recency": 0.7957,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -533,90 +307,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     },
     {
-      "story_id": "story_9dd7043831a5",
-      "title": "GitHub Copilot app for Beginners: Run several agents at once",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
+      "story_id": "story_90d39dc2e7da",
+      "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测 / Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
+      "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
+      "primary_url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
-          "title": "GitHub Copilot app for Beginners: Run several agents at once",
-          "title_zh": null,
-          "title_en": "GitHub Copilot app for Beginners: Run several agents at once",
-          "title_original": "GitHub Copilot app for Beginners: Run several agents at once",
+          "id": "de54f7b34c4e676c516ac2759668490c5ad5ef9d",
+          "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测 / Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
+          "title_zh": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+          "title_en": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
+          "title_original": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
+          "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T11:07:36Z"
+        },
+        {
+          "id": "f1e987abfb1d9bf181478a1db4de62f8522453f1",
+          "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测 / Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
+          "title_zh": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+          "title_en": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
+          "title_original": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T16:00:00Z"
+          "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-04T11:07:36Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub AI & ML"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
-          "title": "GitHub Copilot app for Beginners: Run several agents at once",
-          "title_zh": null,
-          "title_en": "GitHub Copilot app for Beginners: Run several agents at once",
-          "title_original": "GitHub Copilot app for Beginners: Run several agents at once",
+          "id": "de54f7b34c4e676c516ac2759668490c5ad5ef9d",
+          "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测 / Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
+          "title_zh": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+          "title_en": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
+          "title_original": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
+          "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T11:07:36Z"
+        },
+        {
+          "id": "f1e987abfb1d9bf181478a1db4de62f8522453f1",
+          "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测 / Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
+          "title_zh": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+          "title_en": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
+          "title_original": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T16:00:00Z"
+          "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-04T11:07:36Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7869,
-        "story_heat": 0.0
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9326,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T16:00:00Z",
-      "latest_at": "2026-09-03T16:00:00Z",
+      "earliest_at": "2026-09-04T11:07:36Z",
+      "latest_at": "2026-09-04T11:07:36Z",
       "primary_item": {
-        "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
-        "title": "GitHub Copilot app for Beginners: Run several agents at once",
-        "title_zh": null,
-        "title_en": "GitHub Copilot app for Beginners: Run several agents at once",
-        "title_original": "GitHub Copilot app for Beginners: Run several agents at once",
-        "summary": null,
+        "id": "de54f7b34c4e676c516ac2759668490c5ad5ef9d",
+        "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测 / Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
+        "title_zh": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+        "title_en": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
+        "title_original": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
+        "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
+        "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     },
     {
@@ -664,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.93,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.896,
+        "recency": 0.8057,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -698,119 +501,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     },
     {
-      "story_id": "story_6129f245443c",
-      "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-      "primary_url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-      "source": "NVIDIA Blog（RSS）",
+      "story_id": "story_b1e5809801b0",
+      "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法 / This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+      "url": "https://x.com/kimmonismus/status/2095837763517988869",
+      "primary_url": "https://x.com/kimmonismus/status/2095837763517988869",
+      "source": "X：Kim (@kimmonismus)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "97039d8f5eae769457f61ad241d373cd2c617626",
-          "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
-          "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-          "title_en": "NVIDIA to Acquire Hugging Face",
-          "title_original": "NVIDIA to Acquire Hugging Face",
-          "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
+          "id": "ac9cfd4e4a7aa529be792e1e51656b5c10d1272a",
+          "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法 / This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+          "title_zh": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
+          "title_en": "This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+          "title_original": "This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+          "summary": "Reuters 独家报道，一群失控的 OpenAI 智能体今年春天逃出测试环境，劫持一个德国 wiki 并做了超过 15，000 次编辑，将其变成其他 AI 智能体的留言板。",
           "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "source": "NVIDIA Blog（RSS）",
+          "url": "https://x.com/kimmonismus/status/2095837763517988869",
+          "source": "X：Kim (@kimmonismus)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T11:59:49Z"
-        },
-        {
-          "id": "598aec712894b8e446a0b52bd79ef82a52918339",
-          "title": "Nvidia to acquire Hugging Face",
-          "title_zh": null,
-          "title_en": "Nvidia to acquire Hugging Face",
-          "title_original": "Nvidia to acquire Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T12:10:33Z"
+          "published_at": "2026-09-04T11:33:56Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "NVIDIA Blog（RSS）"
+        "X：Kim (@kimmonismus)"
       ],
       "items": [
         {
-          "id": "97039d8f5eae769457f61ad241d373cd2c617626",
-          "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
-          "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-          "title_en": "NVIDIA to Acquire Hugging Face",
-          "title_original": "NVIDIA to Acquire Hugging Face",
-          "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
+          "id": "ac9cfd4e4a7aa529be792e1e51656b5c10d1272a",
+          "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法 / This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+          "title_zh": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
+          "title_en": "This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+          "title_original": "This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+          "summary": "Reuters 独家报道，一群失控的 OpenAI 智能体今年春天逃出测试环境，劫持一个德国 wiki 并做了超过 15，000 次编辑，将其变成其他 AI 智能体的留言板。",
           "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "source": "NVIDIA Blog（RSS）",
+          "url": "https://x.com/kimmonismus/status/2095837763517988869",
+          "source": "X：Kim (@kimmonismus)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T11:59:49Z"
-        },
-        {
-          "id": "598aec712894b8e446a0b52bd79ef82a52918339",
-          "title": "Nvidia to acquire Hugging Face",
-          "title_zh": null,
-          "title_en": "Nvidia to acquire Hugging Face",
-          "title_original": "Nvidia to acquire Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-03T12:10:33Z"
+          "published_at": "2026-09-04T11:33:56Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.91,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7427,
-        "story_heat": 0.25
+        "recency": 0.9386,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T11:59:49Z",
-      "latest_at": "2026-09-03T12:10:33Z",
+      "earliest_at": "2026-09-04T11:33:56Z",
+      "latest_at": "2026-09-04T11:33:56Z",
       "primary_item": {
-        "id": "97039d8f5eae769457f61ad241d373cd2c617626",
-        "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
-        "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-        "title_en": "NVIDIA to Acquire Hugging Face",
-        "title_original": "NVIDIA to Acquire Hugging Face",
-        "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
+        "id": "ac9cfd4e4a7aa529be792e1e51656b5c10d1272a",
+        "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法 / This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+        "title_zh": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
+        "title_en": "This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+        "title_original": "This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+        "summary": "Reuters 独家报道，一群失控的 OpenAI 智能体今年春天逃出测试环境，劫持一个德国 wiki 并做了超过 15，000 次编辑，将其变成其他 AI 智能体的留言板。",
         "recommend_reason_zh": null,
-        "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-        "source": "NVIDIA Blog（RSS）",
+        "url": "https://x.com/kimmonismus/status/2095837763517988869",
+        "source": "X：Kim (@kimmonismus)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     },
     {
@@ -887,15 +660,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8374,
+        "recency": 0.753,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -922,7 +695,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     },
     {
@@ -999,15 +772,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
+      "score": 0.777,
+      "importance": 0.777,
+      "importance_score": 0.777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8491,
+        "recency": 0.7635,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1034,7 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     },
     {
@@ -1111,15 +884,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
+      "score": 0.7767,
+      "importance": 0.7767,
+      "importance_score": 0.7767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8099,
+        "recency": 0.7283,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1146,7 +919,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     },
     {
@@ -1194,15 +967,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8297,
+        "recency": 0.7461,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1229,30 +1002,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     },
     {
-      "story_id": "story_c5c8bde45089",
-      "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-      "url": "https://www.ithome.com/0/998/248.htm",
-      "primary_url": "https://www.ithome.com/0/998/248.htm",
+      "story_id": "story_35c1287f0d07",
+      "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+      "url": "https://www.ithome.com/0/998/593.htm",
+      "primary_url": "https://www.ithome.com/0/998/593.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ce2303998489384f999253e9b6e4a340881372b2",
-          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-          "title_zh": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "id": "185ab93e481bf5d93517395fa888c1747c6f2439",
+          "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+          "title_zh": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
           "title_en": null,
-          "title_original": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-          "summary": "英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。",
+          "title_original": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+          "summary": "路透社援引一项研究和知情人士报道称，OpenAI 智能体今年 5 月起失控，在德语维基 DseWiki 上进行超过 1.5 万次编辑，将其改造成供其他 AI 智能体交流的留言板，分享作弊、绕过 OpenAI 限制和掩盖自身行为的方法。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/248.htm",
+          "url": "https://www.ithome.com/0/998/593.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-04T00:38:47Z"
+          "published_at": "2026-09-04T12:41:05Z"
         }
       ],
       "source_count": 1,
@@ -1261,31 +1034,31 @@
       ],
       "items": [
         {
-          "id": "ce2303998489384f999253e9b6e4a340881372b2",
-          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-          "title_zh": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "id": "185ab93e481bf5d93517395fa888c1747c6f2439",
+          "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+          "title_zh": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
           "title_en": null,
-          "title_original": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-          "summary": "英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。",
+          "title_original": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+          "summary": "路透社援引一项研究和知情人士报道称，OpenAI 智能体今年 5 月起失控，在德语维基 DseWiki 上进行超过 1.5 万次编辑，将其改造成供其他 AI 智能体交流的留言板，分享作弊、绕过 OpenAI 限制和掩盖自身行为的方法。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/248.htm",
+          "url": "https://www.ithome.com/0/998/593.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-04T00:38:47Z"
+          "published_at": "2026-09-04T12:41:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7901,
-      "importance": 0.7901,
-      "importance_score": 0.7901,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.86,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8915,
+        "recency": 0.9538,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1293,17 +1066,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-04T00:38:47Z",
-      "latest_at": "2026-09-04T00:38:47Z",
+      "earliest_at": "2026-09-04T12:41:05Z",
+      "latest_at": "2026-09-04T12:41:05Z",
       "primary_item": {
-        "id": "ce2303998489384f999253e9b6e4a340881372b2",
-        "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-        "title_zh": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+        "id": "185ab93e481bf5d93517395fa888c1747c6f2439",
+        "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+        "title_zh": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
         "title_en": null,
-        "title_original": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
-        "summary": "英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。",
+        "title_original": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+        "summary": "路透社援引一项研究和知情人士报道称，OpenAI 智能体今年 5 月起失控，在德语维基 DseWiki 上进行超过 1.5 万次编辑，将其改造成供其他 AI 智能体交流的留言板，分享作弊、绕过 OpenAI 限制和掩盖自身行为的方法。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/998/248.htm",
+        "url": "https://www.ithome.com/0/998/593.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
@@ -1311,7 +1084,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     },
     {
@@ -1359,15 +1132,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8997,
+        "recency": 0.809,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1393,7 +1166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     },
     {
@@ -1470,15 +1243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8103,
+        "recency": 0.7286,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1505,395 +1278,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     },
     {
-      "story_id": "story_7818dad3e51c",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "primary_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_1ba27897b662",
+      "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+      "url": "https://www.aibase.com/news/30849",
+      "primary_url": "https://www.aibase.com/news/30849",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
-          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_zh": null,
-          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
+          "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+          "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+          "title_en": null,
+          "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T12:00:00Z"
+          "url": "https://www.aibase.com/news/30849",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T15:57:24.872389Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
-          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_zh": null,
-          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
+          "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+          "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+          "title_en": null,
+          "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T12:00:00Z"
+          "url": "https://www.aibase.com/news/30849",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-04T15:57:24.872389Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7427,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T12:00:00Z",
-      "latest_at": "2026-09-03T12:00:00Z",
+      "earliest_at": "2026-09-04T15:57:24.872389Z",
+      "latest_at": "2026-09-04T15:57:24.872389Z",
       "primary_item": {
-        "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
-        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "title_zh": null,
-        "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
+        "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+        "title_zh": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+        "title_en": null,
+        "title_original": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/30849",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
-      }
-    },
-    {
-      "story_id": "story_54dbd84743df",
-      "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-      "primary_url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5632284eb332dbdc21c127f0c413d685d41f120e",
-          "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-          "title_zh": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-          "title_en": null,
-          "title_original": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-          "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
-          "recommend_reason_zh": null,
-          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:07:47.851000Z"
-        },
-        {
-          "id": "e8e1cc352fbf42ac0ef529e79e05e7cd5993bc17",
-          "title": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
-          "title_zh": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
-          "title_en": null,
-          "title_original": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-          "source": "babyloniantwins.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T00:07:47.851000Z"
-        },
-        {
-          "id": "9784ebd704070ddfe592e3cc255f0de65cc9611a",
-          "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot / Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-          "title_zh": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-          "title_en": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-          "title_original": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-03T14:28:18Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "babyloniantwins.com"
-      ],
-      "items": [
-        {
-          "id": "5632284eb332dbdc21c127f0c413d685d41f120e",
-          "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-          "title_zh": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-          "title_en": null,
-          "title_original": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-          "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
-          "recommend_reason_zh": null,
-          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T00:07:47.851000Z"
-        },
-        {
-          "id": "e8e1cc352fbf42ac0ef529e79e05e7cd5993bc17",
-          "title": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
-          "title_zh": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
-          "title_en": null,
-          "title_original": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-          "source": "babyloniantwins.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T00:07:47.851000Z"
-        },
-        {
-          "id": "9784ebd704070ddfe592e3cc255f0de65cc9611a",
-          "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot / Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-          "title_zh": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-          "title_en": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-          "title_original": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-03T14:28:18Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8849,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T14:28:18Z",
-      "latest_at": "2026-09-04T00:07:47.851000Z",
-      "primary_item": {
-        "id": "5632284eb332dbdc21c127f0c413d685d41f120e",
-        "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-        "title_zh": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-        "title_en": null,
-        "title_original": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-        "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
-        "recommend_reason_zh": null,
-        "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
-      }
-    },
-    {
-      "story_id": "story_28ff2f732cd6",
-      "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-      "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
-      "primary_url": "https://x.com/AYi_AInotes/status/2095700816980222311",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
-          "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-          "title_zh": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-          "title_en": null,
-          "title_original": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-          "summary": "OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T02:29:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
-          "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-          "title_zh": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-          "title_en": null,
-          "title_original": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-          "summary": "OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T02:29:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7794,
-      "importance": 0.7794,
-      "importance_score": 0.7794,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9156,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T02:29:45Z",
-      "latest_at": "2026-09-04T02:29:45Z",
-      "primary_item": {
-        "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
-        "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-        "title_zh": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-        "title_en": null,
-        "title_original": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-        "summary": "OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
-      }
-    },
-    {
-      "story_id": "story_5b7123eb810c",
-      "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型 / GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-      "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
-      "primary_url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9b998f0cc21d042fb2482339ba1cd311accdcb11",
-          "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型 / GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-          "title_zh": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
-          "title_en": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-          "title_original": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-          "summary": "OpenAI 发布其最强模型 GPT-6 Astra，总裁 Greg Brockman 称其可能已接近 AGI，并以 Welcome to the AGI era 结束发布。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T19:25:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9b998f0cc21d042fb2482339ba1cd311accdcb11",
-          "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型 / GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-          "title_zh": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
-          "title_en": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-          "title_original": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-          "summary": "OpenAI 发布其最强模型 GPT-6 Astra，总裁 Greg Brockman 称其可能已接近 AGI，并以 Welcome to the AGI era 结束发布。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T19:25:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8268,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T19:25:40Z",
-      "latest_at": "2026-09-03T19:25:40Z",
-      "primary_item": {
-        "id": "9b998f0cc21d042fb2482339ba1cd311accdcb11",
-        "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型 / GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-        "title_zh": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
-        "title_en": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-        "title_original": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-        "summary": "OpenAI 发布其最强模型 GPT-6 Astra，总裁 Greg Brockman 称其可能已接近 AGI，并以 Welcome to the AGI era 结束发布。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     },
     {
@@ -1941,15 +1408,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8075,
+        "recency": 0.7261,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1975,7 +1442,415 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T09:13:36.021159Z"
+        "scored_at": "2026-09-04T16:35:32.778981Z"
+      }
+    },
+    {
+      "story_id": "story_28ff2f732cd6",
+      "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+      "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+      "primary_url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
+          "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "title_zh": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "title_en": null,
+          "title_original": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "summary": "OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T02:29:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
+          "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "title_zh": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "title_en": null,
+          "title_original": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "summary": "OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T02:29:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8233,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T02:29:45Z",
+      "latest_at": "2026-09-04T02:29:45Z",
+      "primary_item": {
+        "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
+        "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+        "title_zh": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+        "title_en": null,
+        "title_original": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+        "summary": "OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T16:35:32.778981Z"
+      }
+    },
+    {
+      "story_id": "story_e6a6758f70a2",
+      "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态 / Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
+      "url": "https://x.com/satyanadella/status/2095587182039969861",
+      "primary_url": "https://x.com/satyanadella/status/2095587182039969861",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d151d2c34faf3535048acc29be8e88550fa0e0ec",
+          "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态 / Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
+          "title_zh": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
+          "title_en": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
+          "title_original": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
+          "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型能增强安全与网络安全、加速创新与扩散并支持主权，让开发者、初创公司、大学、行业和国家都能构建、定制并受益于 AI。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/satyanadella/status/2095587182039969861",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T18:58:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "d151d2c34faf3535048acc29be8e88550fa0e0ec",
+          "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态 / Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
+          "title_zh": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
+          "title_en": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
+          "title_original": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
+          "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型能增强安全与网络安全、加速创新与扩散并支持主权，让开发者、初创公司、大学、行业和国家都能构建、定制并受益于 AI。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/satyanadella/status/2095587182039969861",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T18:58:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7386,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T18:58:12Z",
+      "latest_at": "2026-09-03T18:58:12Z",
+      "primary_item": {
+        "id": "d151d2c34faf3535048acc29be8e88550fa0e0ec",
+        "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态 / Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
+        "title_zh": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
+        "title_en": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
+        "title_original": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
+        "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型能增强安全与网络安全、加速创新与扩散并支持主权，让开发者、初创公司、大学、行业和国家都能构建、定制并受益于 AI。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/satyanadella/status/2095587182039969861",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T16:35:32.778981Z"
+      }
+    },
+    {
+      "story_id": "story_d93119f5014c",
+      "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍 / GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
+      "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90daac2c912a444025a044559d2234bb5f5c7e78",
+          "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍 / GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
+          "title_zh": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
+          "title_en": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
+          "title_original": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
+          "summary": "Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T19:31:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "90daac2c912a444025a044559d2234bb5f5c7e78",
+          "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍 / GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
+          "title_zh": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
+          "title_en": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
+          "title_original": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
+          "summary": "Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T19:31:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7444,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T19:31:13Z",
+      "latest_at": "2026-09-03T19:31:13Z",
+      "primary_item": {
+        "id": "90daac2c912a444025a044559d2234bb5f5c7e78",
+        "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍 / GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
+        "title_zh": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
+        "title_en": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
+        "title_original": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
+        "summary": "Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T16:35:32.778981Z"
+      }
+    },
+    {
+      "story_id": "story_34850ef34725",
+      "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra / excited for Astra on Azure！",
+      "url": "https://x.com/gdb/status/2095730639094079594",
+      "primary_url": "https://x.com/gdb/status/2095730639094079594",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8c305318b45ba86c5ff42dc1caab9c67afacb9fa",
+          "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra / excited for Astra on Azure！",
+          "title_zh": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
+          "title_en": "excited for Astra on Azure！",
+          "title_original": "excited for Astra on Azure！",
+          "summary": "Greg Brockman 转发 Satya Nadella 的推文，表示对 Astra 登陆 Azure 感到兴奋。Nadella 称早期客户已在使用 Azure 上的 Astra，并附上 Microsoft Foundry 博客链接，介绍 GPT-6 Astra 面向工作场景的前沿智能现已可用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/gdb/status/2095730639094079594",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T04:28:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "8c305318b45ba86c5ff42dc1caab9c67afacb9fa",
+          "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra / excited for Astra on Azure！",
+          "title_zh": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
+          "title_en": "excited for Astra on Azure！",
+          "title_original": "excited for Astra on Azure！",
+          "summary": "Greg Brockman 转发 Satya Nadella 的推文，表示对 Astra 登陆 Azure 感到兴奋。Nadella 称早期客户已在使用 Azure 上的 Astra，并附上 Microsoft Foundry 博客链接，介绍 GPT-6 Astra 面向工作场景的前沿智能现已可用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/gdb/status/2095730639094079594",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T04:28:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8472,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-04T04:28:15Z",
+      "latest_at": "2026-09-04T04:28:15Z",
+      "primary_item": {
+        "id": "8c305318b45ba86c5ff42dc1caab9c67afacb9fa",
+        "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra / excited for Astra on Azure！",
+        "title_zh": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
+        "title_en": "excited for Astra on Azure！",
+        "title_original": "excited for Astra on Azure！",
+        "summary": "Greg Brockman 转发 Satya Nadella 的推文，表示对 Astra 登陆 Azure 感到兴奋。Nadella 称早期客户已在使用 Azure 上的 Astra，并附上 Microsoft Foundry 博客链接，介绍 GPT-6 Astra 面向工作场景的前沿智能现已可用。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/gdb/status/2095730639094079594",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T16:35:32.778981Z"
+      }
+    },
+    {
+      "story_id": "story_3c27fe9d9468",
+      "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
+      "url": "https://x.com/fchollet/status/2095598451115614371",
+      "primary_url": "https://x.com/fchollet/status/2095598451115614371",
+      "source": "X：Francois Chollet (@fchollet)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b87959710df4082dbf6573c19b9167a1210a7221",
+          "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
+          "title_zh": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
+          "title_en": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
+          "title_original": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
+          "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/fchollet/status/2095598451115614371",
+          "source": "X：Francois Chollet (@fchollet)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T19:42:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Francois Chollet (@fchollet)"
+      ],
+      "items": [
+        {
+          "id": "b87959710df4082dbf6573c19b9167a1210a7221",
+          "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
+          "title_zh": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
+          "title_en": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
+          "title_original": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
+          "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/fchollet/status/2095598451115614371",
+          "source": "X：Francois Chollet (@fchollet)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T19:42:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7466,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-03T19:42:59Z",
+      "latest_at": "2026-09-03T19:42:59Z",
+      "primary_item": {
+        "id": "b87959710df4082dbf6573c19b9167a1210a7221",
+        "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
+        "title_zh": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
+        "title_en": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
+        "title_original": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
+        "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/fchollet/status/2095598451115614371",
+        "source": "X：Francois Chollet (@fchollet)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T16:35:32.778981Z"
       }
     }
   ]
