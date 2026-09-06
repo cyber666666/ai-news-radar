@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T03:33:07.354387Z",
+  "generated_at": "2026-09-06T08:27:14.336300Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_e1e7a08cca0d",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.7889,
+      "importance": 0.7889,
+      "importance_score": 0.7889,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8723,
+        "recency": 0.8127,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
+        "scored_at": "2026-09-06T08:43:44.740705Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7909,
-      "importance": 0.7909,
-      "importance_score": 0.7909,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7904,
+        "recency": 0.7364,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -224,7 +224,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
+        "scored_at": "2026-09-06T08:43:44.740705Z"
+      }
+    },
+    {
+      "story_id": "story_5c53403fc048",
+      "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+      "url": "https://www.ithome.com/0/998/927.htm",
+      "primary_url": "https://www.ithome.com/0/998/927.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
+          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "title_zh": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "title_en": null,
+          "title_original": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "summary": "据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T06:46:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
+          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "title_zh": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "title_en": null,
+          "title_original": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "summary": "据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T06:46:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.976,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-06T06:46:16Z",
+      "latest_at": "2026-09-06T06:46:16Z",
+      "primary_item": {
+        "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
+        "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+        "title_zh": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+        "title_en": null,
+        "title_original": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+        "summary": "据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/998/927.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-06T08:43:44.740705Z"
       }
     },
     {
@@ -272,15 +354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8767,
+        "recency": 0.8168,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -306,7 +388,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
+        "scored_at": "2026-09-06T08:43:44.740705Z"
       }
     },
     {
@@ -354,15 +436,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9167,
+        "recency": 0.8541,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -388,415 +470,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
-      }
-    },
-    {
-      "story_id": "story_697ba474c4bb",
-      "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-      "url": "https://www.ithome.com/0/998/814.htm",
-      "primary_url": "https://www.ithome.com/0/998/814.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "title_zh": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "title_en": null,
-          "title_original": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:43:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "title_zh": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "title_en": null,
-          "title_original": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-          "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/814.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:43:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7956,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T11:43:16Z",
-      "latest_at": "2026-09-05T11:43:16Z",
-      "primary_item": {
-        "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
-        "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-        "title_zh": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-        "title_en": null,
-        "title_original": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-        "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/998/814.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
-      }
-    },
-    {
-      "story_id": "story_bf4a1e858a01",
-      "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-      "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-      "primary_url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
-          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "title_zh": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-          "title_en": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "title_original": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T07:41:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
-          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "title_zh": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-          "title_en": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "title_original": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-          "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T07:41:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7506,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T07:41:03Z",
-      "latest_at": "2026-09-05T07:41:03Z",
-      "primary_item": {
-        "id": "d7f882efa18c123fa7a03ca56f8ffd39e8ecf2fe",
-        "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-        "title_zh": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
-        "title_en": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-        "title_original": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-        "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
-      }
-    },
-    {
-      "story_id": "story_f827ef6f6cea",
-      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "title_zh": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "title_en": null,
-          "title_original": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:39:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "title_zh": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "title_en": null,
-          "title_original": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:39:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.795,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-05T11:39:52Z",
-      "latest_at": "2026-09-05T11:39:52Z",
-      "primary_item": {
-        "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-        "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-        "title_zh": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-        "title_en": null,
-        "title_original": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-        "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
-      }
-    },
-    {
-      "story_id": "story_1997e8c82d30",
-      "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-      "url": "https://github.com/anthropics/fermats-last-theorem",
-      "primary_url": "https://github.com/anthropics/fermats-last-theorem",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ed60dc93c20939e6d91f28a81eeb2ac41ea2a900",
-          "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-          "title_zh": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-          "title_en": null,
-          "title_original": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-          "summary": "Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/fermats-last-theorem",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T07:56:50.597000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "ed60dc93c20939e6d91f28a81eeb2ac41ea2a900",
-          "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-          "title_zh": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-          "title_en": null,
-          "title_original": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-          "summary": "Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/fermats-last-theorem",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T07:56:50.597000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7534,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-05T07:56:50.597000Z",
-      "latest_at": "2026-09-05T07:56:50.597000Z",
-      "primary_item": {
-        "id": "ed60dc93c20939e6d91f28a81eeb2ac41ea2a900",
-        "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-        "title_zh": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-        "title_en": null,
-        "title_original": "费马大定理的 Lean 4 机器检查完整证明开源发布",
-        "summary": "Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/anthropics/fermats-last-theorem",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
-      }
-    },
-    {
-      "story_id": "story_a04d0bb5cd05",
-      "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-      "url": "https://www.ithome.com/0/998/758.htm",
-      "primary_url": "https://www.ithome.com/0/998/758.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1adb3448d4f2a91e09c9c5c6502214442d76848f",
-          "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-          "title_zh": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-          "title_en": null,
-          "title_original": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-          "summary": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/758.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T07:53:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1adb3448d4f2a91e09c9c5c6502214442d76848f",
-          "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-          "title_zh": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-          "title_en": null,
-          "title_original": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-          "summary": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/998/758.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T07:53:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7527,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T07:53:01Z",
-      "latest_at": "2026-09-05T07:53:01Z",
-      "primary_item": {
-        "id": "1adb3448d4f2a91e09c9c5c6502214442d76848f",
-        "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-        "title_zh": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-        "title_en": null,
-        "title_original": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
-        "summary": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/998/758.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
+        "scored_at": "2026-09-06T08:43:44.740705Z"
       }
     },
     {
@@ -844,21 +518,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8166,
+        "recency": 0.7608,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-05T13:31:04Z",
       "latest_at": "2026-09-05T13:31:04Z",
@@ -878,227 +551,308 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
+        "scored_at": "2026-09-06T08:43:44.740705Z"
       }
     },
     {
-      "story_id": "story_2c7dd97ccc7e",
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://news.ycombinator.com/item?id=49582582",
-      "primary_url": "https://news.ycombinator.com/item?id=49582582",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_f827ef6f6cea",
+      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
-          "title": "GPT-6 Astra on robot arms",
-          "title_zh": null,
-          "title_en": "GPT-6 Astra on robot arms",
-          "title_original": "GPT-6 Astra on robot arms",
-          "summary": null,
+          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
+          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+          "title_zh": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+          "title_en": null,
+          "title_original": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+          "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49582582",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T03:33:28.447000Z"
-        },
-        {
-          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
-          "title": "GPT-6 Astra on robot arms",
-          "title_zh": null,
-          "title_en": "GPT-6 Astra on robot arms",
-          "title_original": "GPT-6 Astra on robot arms",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T01:52:45Z"
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:39:52Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
-          "title": "GPT-6 Astra on robot arms",
-          "title_zh": null,
-          "title_en": "GPT-6 Astra on robot arms",
-          "title_original": "GPT-6 Astra on robot arms",
-          "summary": null,
+          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
+          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+          "title_zh": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+          "title_en": null,
+          "title_original": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+          "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49582582",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T03:33:28.447000Z"
-        },
-        {
-          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
-          "title": "GPT-6 Astra on robot arms",
-          "title_zh": null,
-          "title_en": "GPT-6 Astra on robot arms",
-          "title_original": "GPT-6 Astra on robot arms",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.robocurve.org/gpt-6-astra",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T01:52:45Z"
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:39:52Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7407,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-06T01:52:45Z",
-      "latest_at": "2026-09-06T03:33:28.447000Z",
+      "earliest_at": "2026-09-05T11:39:52Z",
+      "latest_at": "2026-09-05T11:39:52Z",
       "primary_item": {
-        "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
-        "title": "GPT-6 Astra on robot arms",
-        "title_zh": null,
-        "title_en": "GPT-6 Astra on robot arms",
-        "title_original": "GPT-6 Astra on robot arms",
-        "summary": null,
+        "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
+        "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+        "title_zh": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+        "title_en": null,
+        "title_original": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+        "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49582582",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
+        "scored_at": "2026-09-06T08:43:44.740705Z"
       }
     },
     {
-      "story_id": "story_f0b96624cb5e",
-      "title": "大语言模型作为认知病毒",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "primary_url": "https://arxiv.org/abs/2609.03344",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
+      "story_id": "story_697ba474c4bb",
+      "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+      "url": "https://www.ithome.com/0/998/814.htm",
+      "primary_url": "https://www.ithome.com/0/998/814.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
-          "title": "大语言模型作为认知病毒",
-          "title_zh": "大语言模型作为认知病毒",
+          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
+          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+          "title_zh": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
           "title_en": null,
-          "title_original": "大语言模型作为认知病毒",
-          "summary": null,
+          "title_original": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+          "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T22:19:59.965000Z"
-        },
-        {
-          "id": "ba7f752a88a436339b1d58b6f63d691f5816e129",
-          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
-          "title_zh": "大语言模型作为认知病毒",
-          "title_en": "LLMs as a Cognitive Virus",
-          "title_original": "LLMs as a Cognitive Virus",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T20:02:35Z"
+          "url": "https://www.ithome.com/0/998/814.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:43:16Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "arxiv.org"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
-          "title": "大语言模型作为认知病毒",
-          "title_zh": "大语言模型作为认知病毒",
+          "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
+          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+          "title_zh": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
           "title_en": null,
-          "title_original": "大语言模型作为认知病毒",
+          "title_original": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+          "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/814.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:43:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7413,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-05T11:43:16Z",
+      "latest_at": "2026-09-05T11:43:16Z",
+      "primary_item": {
+        "id": "211c57b36479363c1c2991e12ee6c42ec65dee09",
+        "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+        "title_zh": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+        "title_en": null,
+        "title_original": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+        "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/998/814.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-06T08:43:44.740705Z"
+      }
+    },
+    {
+      "story_id": "story_2c7dd97ccc7e",
+      "title": "安装在机械臂上的GPT-6 Astra",
+      "url": "https://openai.robocurve.org/gpt-6-astra",
+      "primary_url": "https://openai.robocurve.org/gpt-6-astra",
+      "source": "openai.robocurve.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
+          "title": "安装在机械臂上的GPT-6 Astra",
+          "title_zh": "安装在机械臂上的GPT-6 Astra",
+          "title_en": null,
+          "title_original": "安装在机械臂上的GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "arxiv.org",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "openai.robocurve.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-05T22:19:59.965000Z"
+          "published_at": "2026-09-06T04:56:10.649000Z"
         },
         {
-          "id": "ba7f752a88a436339b1d58b6f63d691f5816e129",
-          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
-          "title_zh": "大语言模型作为认知病毒",
-          "title_en": "LLMs as a Cognitive Virus",
-          "title_original": "LLMs as a Cognitive Virus",
+          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+          "title": "GPT-6 Astra on robot arms",
+          "title_zh": null,
+          "title_en": "GPT-6 Astra on robot arms",
+          "title_original": "GPT-6 Astra on robot arms",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.03344",
+          "url": "https://news.ycombinator.com/item?id=49582582",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T03:33:28.447000Z"
+        },
+        {
+          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
+          "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
+          "title_zh": "安装在机械臂上的GPT-6 Astra",
+          "title_en": "GPT-6 Astra on robot arms",
+          "title_original": "GPT-6 Astra on robot arms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.robocurve.org/gpt-6-astra",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-05T20:02:35Z"
+          "published_at": "2026-09-06T01:52:45Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
-      "importance_label": "值得关注",
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "openai.robocurve.org"
+      ],
+      "items": [
+        {
+          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
+          "title": "安装在机械臂上的GPT-6 Astra",
+          "title_zh": "安装在机械臂上的GPT-6 Astra",
+          "title_en": null,
+          "title_original": "安装在机械臂上的GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "openai.robocurve.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T04:56:10.649000Z"
+        },
+        {
+          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+          "title": "GPT-6 Astra on robot arms",
+          "title_zh": null,
+          "title_en": "GPT-6 Astra on robot arms",
+          "title_original": "GPT-6 Astra on robot arms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49582582",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T03:33:28.447000Z"
+        },
+        {
+          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
+          "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
+          "title_zh": "安装在机械臂上的GPT-6 Astra",
+          "title_en": "GPT-6 Astra on robot arms",
+          "title_original": "GPT-6 Astra on robot arms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T01:52:45Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5619,
+      "importance": 0.5619,
+      "importance_score": 0.5619,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9274,
-        "story_heat": 0.25
+        "recency": 0.9505,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T20:02:35Z",
-      "latest_at": "2026-09-05T22:19:59.965000Z",
+      "earliest_at": "2026-09-06T01:52:45Z",
+      "latest_at": "2026-09-06T04:56:10.649000Z",
       "primary_item": {
-        "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
-        "title": "大语言模型作为认知病毒",
-        "title_zh": "大语言模型作为认知病毒",
+        "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
+        "title": "安装在机械臂上的GPT-6 Astra",
+        "title_zh": "安装在机械臂上的GPT-6 Astra",
         "title_en": null,
-        "title_original": "大语言模型作为认知病毒",
+        "title_original": "安装在机械臂上的GPT-6 Astra",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2609.03344",
-        "source": "arxiv.org",
+        "url": "https://openai.robocurve.org/gpt-6-astra",
+        "source": "openai.robocurve.org",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
+        "scored_at": "2026-09-06T08:43:44.740705Z"
       }
     },
     {
@@ -1175,15 +929,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9317,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1208,117 +962,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
+        "scored_at": "2026-09-06T08:43:44.740705Z"
       }
     },
     {
-      "story_id": "story_a9bf5b8e0227",
-      "title": "AI 处理事件，工程师与系统失去联系",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "primary_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "source": "www.sylvainkalache.com",
+      "story_id": "story_f0b96624cb5e",
+      "title": "大语言模型作为认知病毒",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "primary_url": "https://arxiv.org/abs/2609.03344",
+      "source": "arxiv.org",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b523761cf5b2991dd8ccc0ba2bc25d010ee84e1e",
-          "title": "AI 处理事件，工程师与系统失去联系",
-          "title_zh": "AI 处理事件，工程师与系统失去联系",
+          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
+          "title": "大语言模型作为认知病毒",
+          "title_zh": "大语言模型作为认知病毒",
           "title_en": null,
-          "title_original": "AI 处理事件，工程师与系统失去联系",
+          "title_original": "大语言模型作为认知病毒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "www.sylvainkalache.com",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-05T10:17:42.890000Z"
+          "published_at": "2026-09-05T22:19:59.965000Z"
         },
         {
-          "id": "99c732175cd3a66a109aa0b748b89a04388e0a24",
-          "title": "AI 处理事件，工程师与系统失去联系 / AI handles incidents, engineers lose touch with their systems",
-          "title_zh": "AI 处理事件，工程师与系统失去联系",
-          "title_en": "AI handles incidents, engineers lose touch with their systems",
-          "title_original": "AI handles incidents, engineers lose touch with their systems",
+          "id": "b72649e582a023f0cfd069e021e67fcb9a6c5ec5",
+          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
+          "title_zh": "大语言模型作为认知病毒",
+          "title_en": "LLMs as a Cognitive Virus",
+          "title_original": "LLMs as a Cognitive Virus",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+          "url": "https://arxiv.org/abs/2609.03344",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-05T07:52:50Z"
+          "published_at": "2026-09-05T20:02:35Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "www.sylvainkalache.com"
+        "arxiv.org"
       ],
       "items": [
         {
-          "id": "b523761cf5b2991dd8ccc0ba2bc25d010ee84e1e",
-          "title": "AI 处理事件，工程师与系统失去联系",
-          "title_zh": "AI 处理事件，工程师与系统失去联系",
+          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
+          "title": "大语言模型作为认知病毒",
+          "title_zh": "大语言模型作为认知病毒",
           "title_en": null,
-          "title_original": "AI 处理事件，工程师与系统失去联系",
+          "title_original": "大语言模型作为认知病毒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "www.sylvainkalache.com",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-05T10:17:42.890000Z"
+          "published_at": "2026-09-05T22:19:59.965000Z"
         },
         {
-          "id": "99c732175cd3a66a109aa0b748b89a04388e0a24",
-          "title": "AI 处理事件，工程师与系统失去联系 / AI handles incidents, engineers lose touch with their systems",
-          "title_zh": "AI 处理事件，工程师与系统失去联系",
-          "title_en": "AI handles incidents, engineers lose touch with their systems",
-          "title_original": "AI handles incidents, engineers lose touch with their systems",
+          "id": "b72649e582a023f0cfd069e021e67fcb9a6c5ec5",
+          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
+          "title_zh": "大语言模型作为认知病毒",
+          "title_en": "LLMs as a Cognitive Virus",
+          "title_original": "LLMs as a Cognitive Virus",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+          "url": "https://arxiv.org/abs/2609.03344",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-05T07:52:50Z"
+          "published_at": "2026-09-05T20:02:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5061,
-      "importance": 0.5061,
-      "importance_score": 0.5061,
+      "score": 0.5213,
+      "importance": 0.5213,
+      "importance_score": 0.5213,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7794,
+        "recency": 0.864,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T07:52:50Z",
-      "latest_at": "2026-09-05T10:17:42.890000Z",
+      "earliest_at": "2026-09-05T20:02:35Z",
+      "latest_at": "2026-09-05T22:19:59.965000Z",
       "primary_item": {
-        "id": "b523761cf5b2991dd8ccc0ba2bc25d010ee84e1e",
-        "title": "AI 处理事件，工程师与系统失去联系",
-        "title_zh": "AI 处理事件，工程师与系统失去联系",
+        "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
+        "title": "大语言模型作为认知病毒",
+        "title_zh": "大语言模型作为认知病毒",
         "title_en": null,
-        "title_original": "AI 处理事件，工程师与系统失去联系",
+        "title_original": "大语言模型作为认知病毒",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-        "source": "www.sylvainkalache.com",
+        "url": "https://arxiv.org/abs/2609.03344",
+        "source": "arxiv.org",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
+        "scored_at": "2026-09-06T08:43:44.740705Z"
       }
     },
     {
@@ -1395,15 +1149,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
+      "score": 0.5048,
+      "importance": 0.5048,
+      "importance_score": 0.5048,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8289,
+        "recency": 0.7723,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1428,117 +1182,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
-      }
-    },
-    {
-      "story_id": "story_3a29e4c9849f",
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "url": "https://news.ycombinator.com/item?id=49572875",
-      "primary_url": "https://news.ycombinator.com/item?id=49572875",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "cdf723d245a48d3b23b1834a77155cce2b59bec0",
-          "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_zh": null,
-          "title_en": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_original": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49572875",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T07:53:44.095000Z"
-        },
-        {
-          "id": "b0628b8c29ccab104bb3e83db1159f4473e4fc8e",
-          "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_zh": null,
-          "title_en": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_original": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T03:38:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cdf723d245a48d3b23b1834a77155cce2b59bec0",
-          "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_zh": null,
-          "title_en": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_original": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49572875",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T07:53:44.095000Z"
-        },
-        {
-          "id": "b0628b8c29ccab104bb3e83db1159f4473e4fc8e",
-          "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_zh": null,
-          "title_en": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "title_original": "GPT-6 Astra in code review: Gains, privacy, and cost",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T03:38:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5013,
-      "importance": 0.5013,
-      "importance_score": 0.5013,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7529,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T03:38:56Z",
-      "latest_at": "2026-09-05T07:53:44.095000Z",
-      "primary_item": {
-        "id": "cdf723d245a48d3b23b1834a77155cce2b59bec0",
-        "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-        "title_zh": null,
-        "title_en": "GPT-6 Astra in code review: Gains, privacy, and cost",
-        "title_original": "GPT-6 Astra in code review: Gains, privacy, and cost",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49572875",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-06T03:52:38.679214Z"
+        "scored_at": "2026-09-06T08:43:44.740705Z"
       }
     }
   ]
