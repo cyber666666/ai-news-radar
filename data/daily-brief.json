@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T08:41:54.382252Z",
+  "generated_at": "2026-09-08T16:14:30.685241Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8841,
-      "importance": 0.8841,
-      "importance_score": 0.8841,
+      "score": 0.8662,
+      "importance": 0.8662,
+      "importance_score": 0.8662,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9614,
+        "recency": 0.8622,
         "story_heat": 0.75
       },
       "category": "official",
@@ -170,7 +170,339 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
+        "scored_at": "2026-09-08T16:33:56.984328Z"
+      }
+    },
+    {
+      "story_id": "story_e9c8b7eef4d1",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_zh": null,
+          "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:23:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_zh": null,
+          "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:23:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8552,
+      "importance": 0.8552,
+      "importance_score": 0.8552,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9735,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:23:07Z",
+      "latest_at": "2026-09-08T14:23:07Z",
+      "primary_item": {
+        "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+        "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "title_zh": null,
+        "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T16:33:56.984328Z"
+      }
+    },
+    {
+      "story_id": "story_be047988843b",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "primary_url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "The Work Now Within Reach",
+          "title_zh": null,
+          "title_en": "The Work Now Within Reach",
+          "title_original": "The Work Now Within Reach",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "The Work Now Within Reach",
+          "title_zh": null,
+          "title_en": "The Work Now Within Reach",
+          "title_original": "The Work Now Within Reach",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9543,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T13:00:00Z",
+      "latest_at": "2026-09-08T13:00:00Z",
+      "primary_item": {
+        "id": "0c225103d8bbdb274acb89884cf1925952614089",
+        "title": "The Work Now Within Reach",
+        "title_zh": null,
+        "title_en": "The Work Now Within Reach",
+        "title_original": "The Work Now Within Reach",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/the-work-now-within-reach",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T16:33:56.984328Z"
+      }
+    },
+    {
+      "story_id": "story_a927f6f1604a",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+      "primary_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_zh": null,
+          "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:00:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_zh": null,
+          "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:00:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9682,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:00:15Z",
+      "latest_at": "2026-09-08T14:00:15Z",
+      "primary_item": {
+        "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+        "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "title_zh": null,
+        "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T16:33:56.984328Z"
+      }
+    },
+    {
+      "story_id": "story_bac4ec48b080",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "primary_url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_zh": null,
+          "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_zh": null,
+          "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7909,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T00:00:00Z",
+      "latest_at": "2026-09-08T00:00:00Z",
+      "primary_item": {
+        "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+        "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "title_zh": null,
+        "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T16:33:56.984328Z"
       }
     },
     {
@@ -218,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
+      "score": 0.7759,
+      "importance": 0.7759,
+      "importance_score": 0.7759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9805,
+        "recency": 0.8793,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -252,30 +584,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
+        "scored_at": "2026-09-08T16:33:56.984328Z"
       }
     },
     {
-      "story_id": "story_bbef342e3266",
-      "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-      "url": "https://www.aibase.com/news/30908",
-      "primary_url": "https://www.aibase.com/news/30908",
+      "story_id": "story_613d849d5200",
+      "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+      "url": "https://www.aibase.com/news/30911",
+      "primary_url": "https://www.aibase.com/news/30911",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "id": "fca343610ea50224e783418e5186b3f2329bff06",
+          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+          "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
           "title_en": null,
-          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30908",
+          "url": "https://www.aibase.com/news/30911",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T08:41:54.382252Z"
+          "published_at": "2026-09-08T16:14:30.685241Z"
         }
       ],
       "source_count": 1,
@@ -284,18 +616,18 @@
       ],
       "items": [
         {
-          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "id": "fca343610ea50224e783418e5186b3f2329bff06",
+          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+          "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
           "title_en": null,
-          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30908",
+          "url": "https://www.aibase.com/news/30911",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T08:41:54.382252Z"
+          "published_at": "2026-09-08T16:14:30.685241Z"
         }
       ],
       "item_count": 1,
@@ -316,17 +648,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T08:41:54.382252Z",
-      "latest_at": "2026-09-08T08:41:54.382252Z",
+      "earliest_at": "2026-09-08T16:14:30.685241Z",
+      "latest_at": "2026-09-08T16:14:30.685241Z",
       "primary_item": {
-        "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-        "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-        "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+        "id": "fca343610ea50224e783418e5186b3f2329bff06",
+        "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
+        "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
         "title_en": null,
-        "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+        "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30908",
+        "url": "https://www.aibase.com/news/30911",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -334,7 +666,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
+        "scored_at": "2026-09-08T16:33:56.984328Z"
       }
     },
     {
@@ -382,21 +714,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8857,
+        "recency": 0.7942,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T00:17:23Z",
       "latest_at": "2026-09-08T00:17:23Z",
@@ -416,7 +747,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
+        "scored_at": "2026-09-08T16:33:56.984328Z"
       }
     },
     {
@@ -464,15 +795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8112,
+        "recency": 0.7275,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,7 +828,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
+        "scored_at": "2026-09-08T16:33:56.984328Z"
+      }
+    },
+    {
+      "story_id": "story_bbef342e3266",
+      "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+      "url": "https://www.aibase.com/news/30908",
+      "primary_url": "https://www.aibase.com/news/30908",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "title_en": null,
+          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30908",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T08:41:54.382252Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "title_en": null,
+          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30908",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T08:41:54.382252Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8968,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-08T08:41:54.382252Z",
+      "latest_at": "2026-09-08T08:41:54.382252Z",
+      "primary_item": {
+        "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
+        "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+        "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+        "title_en": null,
+        "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30908",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T16:33:56.984328Z"
       }
     },
     {
@@ -545,21 +957,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8968,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T08:41:54.382252Z",
       "latest_at": "2026-09-08T08:41:54.382252Z",
@@ -579,7 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
+        "scored_at": "2026-09-08T16:33:56.984328Z"
       }
     },
     {
@@ -627,21 +1038,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8968,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T08:41:54.382252Z",
       "latest_at": "2026-09-08T08:41:54.382252Z",
@@ -661,7 +1071,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
+        "scored_at": "2026-09-08T16:33:56.984328Z"
       }
     },
     {
@@ -709,21 +1119,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8968,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T08:41:54.382252Z",
       "latest_at": "2026-09-08T08:41:54.382252Z",
@@ -743,7 +1152,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
+        "scored_at": "2026-09-08T16:33:56.984328Z"
       }
     },
     {
@@ -791,21 +1200,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8968,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T08:41:54.382252Z",
       "latest_at": "2026-09-08T08:41:54.382252Z",
@@ -825,7 +1233,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
+        "scored_at": "2026-09-08T16:33:56.984328Z"
       }
     },
     {
@@ -873,21 +1281,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8968,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T08:41:54.382252Z",
       "latest_at": "2026-09-08T08:41:54.382252Z",
@@ -907,7 +1314,337 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
+        "scored_at": "2026-09-08T16:33:56.984328Z"
+      }
+    },
+    {
+      "story_id": "story_2e41ce16271c",
+      "title": "我们必须回到办公室，才能亲自使用人工智能",
+      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "primary_url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "source": "www.mcsweeneys.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a4610aba8fa7904019ea3db32ba436171397172c",
+          "title": "我们必须回到办公室，才能亲自使用人工智能",
+          "title_zh": "我们必须回到办公室，才能亲自使用人工智能",
+          "title_en": null,
+          "title_original": "我们必须回到办公室，才能亲自使用人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+          "source": "www.mcsweeneys.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T15:14:46.168000Z"
+        },
+        {
+          "id": "40d6b72e95a7687b877b4da348a2780dca647fb5",
+          "title": "我们必须回到办公室，才能亲自使用人工智能 / We Must Return to the Office to Use AI in Person",
+          "title_zh": "我们必须回到办公室，才能亲自使用人工智能",
+          "title_en": "We Must Return to the Office to Use AI in Person",
+          "title_original": "We Must Return to the Office to Use AI in Person",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T13:41:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.mcsweeneys.net"
+      ],
+      "items": [
+        {
+          "id": "a4610aba8fa7904019ea3db32ba436171397172c",
+          "title": "我们必须回到办公室，才能亲自使用人工智能",
+          "title_zh": "我们必须回到办公室，才能亲自使用人工智能",
+          "title_en": null,
+          "title_original": "我们必须回到办公室，才能亲自使用人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+          "source": "www.mcsweeneys.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T15:14:46.168000Z"
+        },
+        {
+          "id": "40d6b72e95a7687b877b4da348a2780dca647fb5",
+          "title": "我们必须回到办公室，才能亲自使用人工智能 / We Must Return to the Office to Use AI in Person",
+          "title_zh": "我们必须回到办公室，才能亲自使用人工智能",
+          "title_en": "We Must Return to the Office to Use AI in Person",
+          "title_original": "We Must Return to the Office to Use AI in Person",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T13:41:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9857,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-08T13:41:25Z",
+      "latest_at": "2026-09-08T15:14:46.168000Z",
+      "primary_item": {
+        "id": "a4610aba8fa7904019ea3db32ba436171397172c",
+        "title": "我们必须回到办公室，才能亲自使用人工智能",
+        "title_zh": "我们必须回到办公室，才能亲自使用人工智能",
+        "title_en": null,
+        "title_original": "我们必须回到办公室，才能亲自使用人工智能",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+        "source": "www.mcsweeneys.net",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T16:33:56.984328Z"
+      }
+    },
+    {
+      "story_id": "story_e652a38ce576",
+      "title": "多智能体大型语言模型金融交易框架",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "primary_url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e1798bfefa85bddf16dd293058a9bc50029b00bd",
+          "title": "多智能体大型语言模型金融交易框架",
+          "title_zh": "多智能体大型语言模型金融交易框架",
+          "title_en": null,
+          "title_original": "多智能体大型语言模型金融交易框架",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T14:59:10.036000Z"
+        },
+        {
+          "id": "216440ca7f7f2d7db1ab194d83cb87a29aa66b62",
+          "title": "多智能体大型语言模型金融交易框架 / Multi-Agents LLM Financial Trading Framework",
+          "title_zh": "多智能体大型语言模型金融交易框架",
+          "title_en": "Multi-Agents LLM Financial Trading Framework",
+          "title_original": "Multi-Agents LLM Financial Trading Framework",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T05:20:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "e1798bfefa85bddf16dd293058a9bc50029b00bd",
+          "title": "多智能体大型语言模型金融交易框架",
+          "title_zh": "多智能体大型语言模型金融交易框架",
+          "title_en": null,
+          "title_original": "多智能体大型语言模型金融交易框架",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T14:59:10.036000Z"
+        },
+        {
+          "id": "216440ca7f7f2d7db1ab194d83cb87a29aa66b62",
+          "title": "多智能体大型语言模型金融交易框架 / Multi-Agents LLM Financial Trading Framework",
+          "title_zh": "多智能体大型语言模型金融交易框架",
+          "title_en": "Multi-Agents LLM Financial Trading Framework",
+          "title_original": "Multi-Agents LLM Financial Trading Framework",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T05:20:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.982,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-08T05:20:23Z",
+      "latest_at": "2026-09-08T14:59:10.036000Z",
+      "primary_item": {
+        "id": "e1798bfefa85bddf16dd293058a9bc50029b00bd",
+        "title": "多智能体大型语言模型金融交易框架",
+        "title_zh": "多智能体大型语言模型金融交易框架",
+        "title_en": null,
+        "title_original": "多智能体大型语言模型金融交易框架",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T16:33:56.984328Z"
+      }
+    },
+    {
+      "story_id": "story_7874794ade94",
+      "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+      "primary_url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+      "source": "manualdousuario.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ea5b9f3e472f47c8024c42fa26364412b9d8764a",
+          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_en": null,
+          "title_original": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+          "source": "manualdousuario.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T14:42:54.403000Z"
+        },
+        {
+          "id": "026b1efde653c15a8a6455ed7ebe6e2ca673bf78",
+          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录 / LibreOffice breaks download records after declaring it has no AI features",
+          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_en": "LibreOffice breaks download records after declaring it has no AI features",
+          "title_original": "LibreOffice breaks download records after declaring it has no AI features",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T14:05:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "manualdousuario.net"
+      ],
+      "items": [
+        {
+          "id": "ea5b9f3e472f47c8024c42fa26364412b9d8764a",
+          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_en": null,
+          "title_original": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+          "source": "manualdousuario.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T14:42:54.403000Z"
+        },
+        {
+          "id": "026b1efde653c15a8a6455ed7ebe6e2ca673bf78",
+          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录 / LibreOffice breaks download records after declaring it has no AI features",
+          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_en": "LibreOffice breaks download records after declaring it has no AI features",
+          "title_original": "LibreOffice breaks download records after declaring it has no AI features",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T14:05:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9782,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-08T14:05:57Z",
+      "latest_at": "2026-09-08T14:42:54.403000Z",
+      "primary_item": {
+        "id": "ea5b9f3e472f47c8024c42fa26364412b9d8764a",
+        "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+        "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+        "title_en": null,
+        "title_original": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+        "source": "manualdousuario.net",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T16:33:56.984328Z"
       }
     },
     {
@@ -955,21 +1692,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8968,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T08:41:54.382252Z",
       "latest_at": "2026-09-08T08:41:54.382252Z",
@@ -989,89 +1725,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
-      }
-    },
-    {
-      "story_id": "story_02408f2e99e2",
-      "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-      "url": "https://www.aibase.com/news/30903",
-      "primary_url": "https://www.aibase.com/news/30903",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f36efbb93e3ab573792fe68dcd7400da8ee75096",
-          "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-          "title_zh": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-          "title_en": null,
-          "title_original": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30903",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T08:41:54.382252Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f36efbb93e3ab573792fe68dcd7400da8ee75096",
-          "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-          "title_zh": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-          "title_en": null,
-          "title_original": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30903",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T08:41:54.382252Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T08:41:54.382252Z",
-      "latest_at": "2026-09-08T08:41:54.382252Z",
-      "primary_item": {
-        "id": "f36efbb93e3ab573792fe68dcd7400da8ee75096",
-        "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-        "title_zh": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-        "title_en": null,
-        "title_original": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30903",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
+        "scored_at": "2026-09-08T16:33:56.984328Z"
       }
     },
     {
@@ -1148,15 +1802,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9695,
+        "recency": 0.8694,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1181,721 +1835,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
-      }
-    },
-    {
-      "story_id": "story_66898bf564bc",
-      "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "primary_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "source": "mcpherrin.ca",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_en": null,
-          "title_original": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "mcpherrin.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T02:51:51.808000Z"
-        },
-        {
-          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
-          "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_en": "I've factored the RSA keys of a Certificate Authority from the 90s",
-          "title_original": "I've factored the RSA keys of a Certificate Authority from the 90s",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T01:16:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "mcpherrin.ca"
-      ],
-      "items": [
-        {
-          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_en": null,
-          "title_original": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "mcpherrin.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T02:51:51.808000Z"
-        },
-        {
-          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
-          "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_en": "I've factored the RSA keys of a Certificate Authority from the 90s",
-          "title_original": "I've factored the RSA keys of a Certificate Authority from the 90s",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T01:16:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5313,
-      "importance": 0.5313,
-      "importance_score": 0.5313,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9192,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-08T01:16:59Z",
-      "latest_at": "2026-09-08T02:51:51.808000Z",
-      "primary_item": {
-        "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
-        "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-        "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-        "title_en": null,
-        "title_original": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-        "source": "mcpherrin.ca",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
-      }
-    },
-    {
-      "story_id": "story_540d9571c139",
-      "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-      "url": "https://www.aibase.com/news/30907",
-      "primary_url": "https://www.aibase.com/news/30907",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
-          "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_en": null,
-          "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30907",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T08:41:54.382252Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
-          "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_en": null,
-          "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30907",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T08:41:54.382252Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T08:41:54.382252Z",
-      "latest_at": "2026-09-08T08:41:54.382252Z",
-      "primary_item": {
-        "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
-        "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-        "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-        "title_en": null,
-        "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30907",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
-      }
-    },
-    {
-      "story_id": "story_981db98e7194",
-      "title": "适用于本地LLM的最小边缘人工智能设备 / The smallest edge AI device for local LLMs",
-      "url": "https://news.ycombinator.com/item?id=49603011",
-      "primary_url": "https://news.ycombinator.com/item?id=49603011",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f0a83977445a89732d38d38c0a286dc12c3a8a0c",
-          "title": "适用于本地LLM的最小边缘人工智能设备 / The smallest edge AI device for local LLMs",
-          "title_zh": "适用于本地LLM的最小边缘人工智能设备",
-          "title_en": "The smallest edge AI device for local LLMs",
-          "title_original": "The smallest edge AI device for local LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49603011",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T22:14:56.493000Z"
-        },
-        {
-          "id": "9d6574c226f26e394b5f9b4dcea8e08cd6807bf4",
-          "title": "适用于本地LLM的最小边缘人工智能设备 / The smallest edge AI device for local LLMs",
-          "title_zh": "适用于本地LLM的最小边缘人工智能设备",
-          "title_en": "The smallest edge AI device for local LLMs",
-          "title_original": "The smallest edge AI device for local LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tiiny.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T21:09:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f0a83977445a89732d38d38c0a286dc12c3a8a0c",
-          "title": "适用于本地LLM的最小边缘人工智能设备 / The smallest edge AI device for local LLMs",
-          "title_zh": "适用于本地LLM的最小边缘人工智能设备",
-          "title_en": "The smallest edge AI device for local LLMs",
-          "title_original": "The smallest edge AI device for local LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49603011",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T22:14:56.493000Z"
-        },
-        {
-          "id": "9d6574c226f26e394b5f9b4dcea8e08cd6807bf4",
-          "title": "适用于本地LLM的最小边缘人工智能设备 / The smallest edge AI device for local LLMs",
-          "title_zh": "适用于本地LLM的最小边缘人工智能设备",
-          "title_en": "The smallest edge AI device for local LLMs",
-          "title_original": "The smallest edge AI device for local LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tiiny.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T21:09:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5206,
-      "importance": 0.5206,
-      "importance_score": 0.5206,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8599,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T21:09:12Z",
-      "latest_at": "2026-09-07T22:14:56.493000Z",
-      "primary_item": {
-        "id": "f0a83977445a89732d38d38c0a286dc12c3a8a0c",
-        "title": "适用于本地LLM的最小边缘人工智能设备 / The smallest edge AI device for local LLMs",
-        "title_zh": "适用于本地LLM的最小边缘人工智能设备",
-        "title_en": "The smallest edge AI device for local LLMs",
-        "title_original": "The smallest edge AI device for local LLMs",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49603011",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
-      }
-    },
-    {
-      "story_id": "story_0d185dfe820c",
-      "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-      "url": "https://news.ycombinator.com/item?id=49600233",
-      "primary_url": "https://news.ycombinator.com/item?id=49600233",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_en": null,
-          "title_original": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T18:58:53.306000Z"
-        },
-        {
-          "id": "4af3554a87533c58236162d04fdb1fc3aeb7f813",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_en": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "title_original": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T16:40:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_en": null,
-          "title_original": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T18:58:53.306000Z"
-        },
-        {
-          "id": "4af3554a87533c58236162d04fdb1fc3aeb7f813",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_en": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "title_original": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T16:40:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5135,
-      "importance": 0.5135,
-      "importance_score": 0.5135,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8203,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T16:40:32Z",
-      "latest_at": "2026-09-07T18:58:53.306000Z",
-      "primary_item": {
-        "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
-        "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-        "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-        "title_en": null,
-        "title_original": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49600233",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
-      }
-    },
-    {
-      "story_id": "story_89772b9cda52",
-      "title": "基于AMD GPU的vLLM中的推测性解码",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "primary_url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "source": "vllm.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
-          "title": "基于AMD GPU的vLLM中的推测性解码",
-          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
-          "title_en": null,
-          "title_original": "基于AMD GPU的vLLM中的推测性解码",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "vllm.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T17:40:59.747000Z"
-        },
-        {
-          "id": "31abec00b18480aac0fff7497598b071ea6d8cf8",
-          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
-          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
-          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
-          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T09:26:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "vllm.ai"
-      ],
-      "items": [
-        {
-          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
-          "title": "基于AMD GPU的vLLM中的推测性解码",
-          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
-          "title_en": null,
-          "title_original": "基于AMD GPU的vLLM中的推测性解码",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "vllm.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T17:40:59.747000Z"
-        },
-        {
-          "id": "31abec00b18480aac0fff7497598b071ea6d8cf8",
-          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
-          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
-          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
-          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T09:26:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8051,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T09:26:41Z",
-      "latest_at": "2026-09-07T17:40:59.747000Z",
-      "primary_item": {
-        "id": "0896a888caca86c87227f711221bfe4a5d303f25",
-        "title": "基于AMD GPU的vLLM中的推测性解码",
-        "title_zh": "基于AMD GPU的vLLM中的推测性解码",
-        "title_en": null,
-        "title_original": "基于AMD GPU的vLLM中的推测性解码",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "source": "vllm.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
-      }
-    },
-    {
-      "story_id": "story_8b01a7e80019",
-      "title": "人工智能技术对就业的初步影响看起来是积极的 / Initial effects of AI technology on employment look positive",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "primary_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
-          "title": "人工智能技术对就业的初步影响看起来是积极的 / Initial effects of AI technology on employment look positive",
-          "title_zh": "人工智能技术对就业的初步影响看起来是积极的",
-          "title_en": "Initial effects of AI technology on employment look positive",
-          "title_original": "Initial effects of AI technology on employment look positive",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T10:38:32Z"
-        },
-        {
-          "id": "1deac515e4f630342fcf5d6d2b218a5b1c0cf8d6",
-          "title": "就业大灾难被推迟。人工智能就业热潮已经来临 / The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_zh": "就业大灾难被推迟。人工智能就业热潮已经来临",
-          "title_en": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_original": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T10:38:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
-          "title": "人工智能技术对就业的初步影响看起来是积极的 / Initial effects of AI technology on employment look positive",
-          "title_zh": "人工智能技术对就业的初步影响看起来是积极的",
-          "title_en": "Initial effects of AI technology on employment look positive",
-          "title_original": "Initial effects of AI technology on employment look positive",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T10:38:32Z"
-        },
-        {
-          "id": "1deac515e4f630342fcf5d6d2b218a5b1c0cf8d6",
-          "title": "就业大灾难被推迟。人工智能就业热潮已经来临 / The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_zh": "就业大灾难被推迟。人工智能就业热潮已经来临",
-          "title_en": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_original": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T10:38:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4967,
-      "importance": 0.4967,
-      "importance_score": 0.4967,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7272,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T10:38:32Z",
-      "latest_at": "2026-09-07T10:38:32Z",
-      "primary_item": {
-        "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
-        "title": "人工智能技术对就业的初步影响看起来是积极的 / Initial effects of AI technology on employment look positive",
-        "title_zh": "人工智能技术对就业的初步影响看起来是积极的",
-        "title_en": "Initial effects of AI technology on employment look positive",
-        "title_original": "Initial effects of AI technology on employment look positive",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
-      }
-    },
-    {
-      "story_id": "story_292bbb5879c6",
-      "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-      "url": "https://www.aibase.com/news/30889",
-      "primary_url": "https://www.aibase.com/news/30889",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-          "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "title_zh": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "title_en": null,
-          "title_original": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30889",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T03:38:13.896442Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-          "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "title_zh": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "title_en": null,
-          "title_original": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30889",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T03:38:13.896442Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9295,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T03:38:13.896442Z",
-      "latest_at": "2026-09-08T03:38:13.896442Z",
-      "primary_item": {
-        "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-        "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-        "title_zh": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-        "title_en": null,
-        "title_original": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30889",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T08:54:09.324261Z"
+        "scored_at": "2026-09-08T16:33:56.984328Z"
       }
     }
   ]
