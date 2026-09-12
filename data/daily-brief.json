@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T18:11:58.282841Z",
+  "generated_at": "2026-09-12T21:59:38.834273Z",
   "window_hours": 24,
   "total_items": 13,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T18:11:58.282841Z",
-      "latest_at": "2026-09-12T18:11:58.282841Z",
+      "earliest_at": "2026-09-12T21:59:38.834273Z",
+      "latest_at": "2026-09-12T21:59:38.834273Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,203 +83,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:24:59.228642Z"
+        "scored_at": "2026-09-12T22:14:23.628845Z"
       }
     },
     {
-      "story_id": "story_d30641cfac8b",
-      "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
-      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
+      "story_id": "story_462f3ecf41bf",
+      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
+      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "primary_url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-          "title_en": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "summary": null,
+          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
+          "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+          "title_en": "https://x.com/i/article/2098531824528220160",
+          "title_original": "https://x.com/i/article/2098531824528220160",
+          "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T18:26:10Z"
-        },
-        {
-          "id": "84d095da089a6bbac567518186a311edae283570",
-          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-          "title_en": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "title_original": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub Blog",
+          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-11T18:26:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-          "title_en": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T18:26:10Z"
-        },
-        {
-          "id": "84d095da089a6bbac567518186a311edae283570",
-          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-          "title_en": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "title_original": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T18:26:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7095,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T18:26:10Z",
-      "latest_at": "2026-09-11T18:26:10Z",
-      "primary_item": {
-        "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-        "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
-        "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-        "title_en": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-        "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:24:59.228642Z"
-      }
-    },
-    {
-      "story_id": "story_adeb9fe0ee2f",
-      "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
-      "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-      "primary_url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
-          "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
-          "title_zh": "将 VS Code Agent 添加到 Copilot 使用指标",
-          "title_en": "Add VS Code Agents to Copilot usage metrics",
-          "title_original": "Add VS Code Agents to Copilot usage metrics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T21:30:30Z"
+          "published_at": "2026-09-12T17:33:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：OpenAI Developers (@OpenAIDevs)"
       ],
       "items": [
         {
-          "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
-          "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
-          "title_zh": "将 VS Code Agent 添加到 Copilot 使用指标",
-          "title_en": "Add VS Code Agents to Copilot usage metrics",
-          "title_original": "Add VS Code Agents to Copilot usage metrics",
-          "summary": null,
+          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
+          "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+          "title_en": "https://x.com/i/article/2098531824528220160",
+          "title_original": "https://x.com/i/article/2098531824528220160",
+          "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T21:30:30Z"
+          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T17:33:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.8,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7417,
+        "ai_relevance": 1.0,
+        "recency": 0.9379,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T21:30:30Z",
-      "latest_at": "2026-09-11T21:30:30Z",
+      "earliest_at": "2026-09-12T17:33:23Z",
+      "latest_at": "2026-09-12T17:33:23Z",
       "primary_item": {
-        "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
-        "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
-        "title_zh": "将 VS Code Agent 添加到 Copilot 使用指标",
-        "title_en": "Add VS Code Agents to Copilot usage metrics",
-        "title_original": "Add VS Code Agents to Copilot usage metrics",
-        "summary": null,
+        "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+        "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
+        "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+        "title_en": "https://x.com/i/article/2098531824528220160",
+        "title_original": "https://x.com/i/article/2098531824528220160",
+        "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:24:59.228642Z"
+        "scored_at": "2026-09-12T22:14:23.628845Z"
       }
     },
     {
@@ -319,7 +205,7 @@
           "published_at": "2026-09-12T00:24:20.561000Z"
         },
         {
-          "id": "110eb19a25743edb2e4f8f58fa11886c22b1768a",
+          "id": "15ed8b49c1e9e405322e75e29b17c4a0469db713",
           "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
           "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
           "title_en": "OpenAI agents carried out an undisclosed attack on RubyGems",
@@ -327,15 +213,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.rubyhack.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-11T23:17:42Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.rubyhack.ai"
       ],
@@ -369,7 +255,7 @@
           "published_at": "2026-09-12T00:24:20.561000Z"
         },
         {
-          "id": "110eb19a25743edb2e4f8f58fa11886c22b1768a",
+          "id": "15ed8b49c1e9e405322e75e29b17c4a0469db713",
           "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
           "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
           "title_en": "OpenAI agents carried out an undisclosed attack on RubyGems",
@@ -377,23 +263,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.rubyhack.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-11T23:17:42Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7734,
+        "recency": 0.7322,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -420,7 +306,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:24:59.228642Z"
+        "scored_at": "2026-09-12T22:14:23.628845Z"
       }
     },
     {
@@ -526,15 +412,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.799,
+        "recency": 0.7564,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -561,90 +447,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:24:59.228642Z"
-      }
-    },
-    {
-      "story_id": "story_bbf03c6dd45c",
-      "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
-      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "primary_url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-          "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
-          "title_zh": "Copilot 代码审查中的自动解析和分析更新",
-          "title_en": "Auto-resolution and analysis updates in Copilot code review",
-          "title_original": "Auto-resolution and analysis updates in Copilot code review",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T20:00:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-          "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
-          "title_zh": "Copilot 代码审查中的自动解析和分析更新",
-          "title_en": "Auto-resolution and analysis updates in Copilot code review",
-          "title_original": "Auto-resolution and analysis updates in Copilot code review",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T20:00:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7258,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T20:00:07Z",
-      "latest_at": "2026-09-11T20:00:07Z",
-      "primary_item": {
-        "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-        "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
-        "title_zh": "Copilot 代码审查中的自动解析和分析更新",
-        "title_en": "Auto-resolution and analysis updates in Copilot code review",
-        "title_original": "Auto-resolution and analysis updates in Copilot code review",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:24:59.228642Z"
+        "scored_at": "2026-09-12T22:14:23.628845Z"
       }
     },
     {
@@ -692,15 +495,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9759,
+        "recency": 0.9239,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -726,7 +529,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:24:59.228642Z"
+        "scored_at": "2026-09-12T22:14:23.628845Z"
+      }
+    },
+    {
+      "story_id": "story_b87018eebc80",
+      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+      "url": "https://x.com/trq212/status/2098860941391872132",
+      "primary_url": "https://x.com/trq212/status/2098860941391872132",
+      "source": "X：Thariq (@trq212)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+          "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T19:46:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Thariq (@trq212)"
+      ],
+      "items": [
+        {
+          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+          "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T19:46:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9686,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T19:46:58Z",
+      "latest_at": "2026-09-12T19:46:58Z",
+      "primary_item": {
+        "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+        "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+        "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+        "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+        "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+        "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/trq212/status/2098860941391872132",
+        "source": "X：Thariq (@trq212)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T22:14:23.628845Z"
+      }
+    },
+    {
+      "story_id": "story_f01e6682c6a0",
+      "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+      "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+      "primary_url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+      "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
+          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+          "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T20:18:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）"
+      ],
+      "items": [
+        {
+          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
+          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+          "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T20:18:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.976,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T20:18:42Z",
+      "latest_at": "2026-09-12T20:18:42Z",
+      "primary_item": {
+        "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
+        "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+        "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+        "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+        "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+        "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+        "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T22:14:23.628845Z"
       }
     },
     {
@@ -774,21 +741,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.978,
+        "recency": 0.9258,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T16:39:24.855000Z",
       "latest_at": "2026-09-12T16:39:24.855000Z",
@@ -808,7 +774,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:24:59.228642Z"
+        "scored_at": "2026-09-12T22:14:23.628845Z"
       }
     },
     {
@@ -856,15 +822,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.762,
+        "recency": 0.7214,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -889,7 +855,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:24:59.228642Z"
+        "scored_at": "2026-09-12T22:14:23.628845Z"
+      }
+    },
+    {
+      "story_id": "story_449833896f65",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+      "primary_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "title_zh": null,
+          "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-12T20:19:16Z"
+        },
+        {
+          "id": "86bb588c47cf8749a6c9a05905f2ca5c26a0d0ec",
+          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "title_zh": null,
+          "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "title_original": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T20:28:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "title_zh": null,
+          "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-12T20:19:16Z"
+        },
+        {
+          "id": "86bb588c47cf8749a6c9a05905f2ca5c26a0d0ec",
+          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "title_zh": null,
+          "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "title_original": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T20:28:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6569,
+      "importance": 0.6569,
+      "importance_score": 0.6569,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.9761,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T20:19:16Z",
+      "latest_at": "2026-09-12T20:28:29Z",
+      "primary_item": {
+        "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
+        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "title_zh": null,
+        "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T22:14:23.628845Z"
       }
     },
     {
@@ -966,15 +1042,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9821,
+        "recency": 0.9297,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -999,7 +1075,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:24:59.228642Z"
+        "scored_at": "2026-09-12T22:14:23.628845Z"
       }
     },
     {
@@ -1076,15 +1152,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9775,
+        "recency": 0.9254,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1109,7 +1185,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:24:59.228642Z"
+        "scored_at": "2026-09-12T22:14:23.628845Z"
       }
     },
     {
@@ -1186,15 +1262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9042,
+        "recency": 0.856,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1219,117 +1295,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:24:59.228642Z"
-      }
-    },
-    {
-      "story_id": "story_e95b34cb28f9",
-      "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "source": "www.dwarkesh.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_en": null,
-          "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "www.dwarkesh.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T08:31:36.686000Z"
-        },
-        {
-          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
-          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_en": "AI researchers debate how close we are to recursive self-improvement",
-          "title_original": "AI researchers debate how close we are to recursive self-improvement",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T21:35:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.dwarkesh.com"
-      ],
-      "items": [
-        {
-          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_en": null,
-          "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "www.dwarkesh.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T08:31:36.686000Z"
-        },
-        {
-          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
-          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_en": "AI researchers debate how close we are to recursive self-improvement",
-          "title_original": "AI researchers debate how close we are to recursive self-improvement",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T21:35:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8696,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T21:35:29Z",
-      "latest_at": "2026-09-12T08:31:36.686000Z",
-      "primary_item": {
-        "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
-        "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-        "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-        "title_en": null,
-        "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-        "source": "www.dwarkesh.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:24:59.228642Z"
+        "scored_at": "2026-09-12T22:14:23.628845Z"
       }
     }
   ]
