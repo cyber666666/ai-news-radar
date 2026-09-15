@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T03:57:39.644091Z",
+  "generated_at": "2026-09-15T09:20:59.973880Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8425,
+        "recency": 0.7794,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8786,
+        "recency": 0.8128,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.815,
-      "importance": 0.815,
-      "importance_score": 0.815,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.802,
+        "recency": 0.742,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
@@ -384,15 +384,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8131,
-      "importance": 0.8131,
-      "importance_score": 0.8131,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9308,
+        "recency": 0.8611,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -419,7 +419,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
+      }
+    },
+    {
+      "story_id": "story_37bd0d5d25f4",
+      "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+      "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+      "primary_url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
+          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+          "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T09:04:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
+          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+          "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T09:04:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9961,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T09:04:36Z",
+      "latest_at": "2026-09-15T09:04:36Z",
+      "primary_item": {
+        "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
+        "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+        "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+        "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+        "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+        "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
@@ -467,15 +549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8414,
+        "recency": 0.7784,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +584,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
@@ -608,15 +690,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.8009,
+      "importance": 0.8009,
+      "importance_score": 0.8009,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8906,
+        "recency": 0.8239,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -643,30 +725,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
-      "story_id": "story_f468c617ea60",
-      "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-      "url": "https://www.aibase.com/news/31052",
-      "primary_url": "https://www.aibase.com/news/31052",
+      "story_id": "story_c447b2fec530",
+      "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+      "url": "https://www.aibase.com/news/31057",
+      "primary_url": "https://www.aibase.com/news/31057",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
-          "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-          "title_zh": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+          "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+          "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+          "title_zh": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
           "title_en": null,
-          "title_original": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+          "title_original": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31052",
+          "url": "https://www.aibase.com/news/31057",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
+          "published_at": "2026-09-15T09:20:59.973880Z"
         }
       ],
       "source_count": 1,
@@ -675,18 +757,18 @@
       ],
       "items": [
         {
-          "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
-          "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-          "title_zh": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+          "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+          "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+          "title_zh": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
           "title_en": null,
-          "title_original": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+          "title_original": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31052",
+          "url": "https://www.aibase.com/news/31057",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
+          "published_at": "2026-09-15T09:20:59.973880Z"
         }
       ],
       "item_count": 1,
@@ -707,17 +789,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T03:57:39.644091Z",
-      "latest_at": "2026-09-15T03:57:39.644091Z",
+      "earliest_at": "2026-09-15T09:20:59.973880Z",
+      "latest_at": "2026-09-15T09:20:59.973880Z",
       "primary_item": {
-        "id": "b38f2d09da9edf15c046ec74279523cd034d3256",
-        "title": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
-        "title_zh": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+        "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+        "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+        "title_zh": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
         "title_en": null,
-        "title_original": "AI 大模型下田\"掌舵\"：四川眉山永丰村 300 亩试点田，水稻最高亩产 863.6 公斤",
+        "title_original": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31052",
+        "url": "https://www.aibase.com/news/31057",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -725,7 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
@@ -773,15 +855,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9528,
+        "recency": 0.8814,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -807,89 +889,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
-      }
-    },
-    {
-      "story_id": "story_a5cc1961a5e8",
-      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-      "primary_url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
-          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-          "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T15:46:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
-          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-          "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T15:46:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8387,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T15:46:45Z",
-      "latest_at": "2026-09-14T15:46:45Z",
-      "primary_item": {
-        "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
-        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-        "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-        "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-        "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-        "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
@@ -937,21 +937,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8556,
+        "recency": 0.7915,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-14T17:09:41.324000Z",
       "latest_at": "2026-09-14T17:09:41.324000Z",
@@ -971,7 +970,170 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
+      }
+    },
+    {
+      "story_id": "story_6c028e31f14b",
+      "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+      "source": "公众号：阶跃星辰（Step）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b69041dae5191a7a0dc28f029074ec6d089dda22",
+          "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "title_zh": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "title_en": null,
+          "title_original": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "summary": "阶跃星辰发布 StepAudio 3 系列，包含 Realtime、ASR、TTS、Gen 和 Music 五款模型，已在阶跃星辰开放平台上线。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+          "source": "公众号：阶跃星辰（Step）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T07:29:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：阶跃星辰（Step）"
+      ],
+      "items": [
+        {
+          "id": "b69041dae5191a7a0dc28f029074ec6d089dda22",
+          "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "title_zh": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "title_en": null,
+          "title_original": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "summary": "阶跃星辰发布 StepAudio 3 系列，包含 Realtime、ASR、TTS、Gen 和 Music 五款模型，已在阶跃星辰开放平台上线。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+          "source": "公众号：阶跃星辰（Step）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T07:29:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9736,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-15T07:29:56Z",
+      "latest_at": "2026-09-15T07:29:56Z",
+      "primary_item": {
+        "id": "b69041dae5191a7a0dc28f029074ec6d089dda22",
+        "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+        "title_zh": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+        "title_en": null,
+        "title_original": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+        "summary": "阶跃星辰发布 StepAudio 3 系列，包含 Realtime、ASR、TTS、Gen 和 Music 五款模型，已在阶跃星辰开放平台上线。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+        "source": "公众号：阶跃星辰（Step）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T09:58:33.549943Z"
+      }
+    },
+    {
+      "story_id": "story_e73a75567feb",
+      "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+      "url": "https://www.aibase.com/news/31056",
+      "primary_url": "https://www.aibase.com/news/31056",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
+          "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "title_zh": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "title_en": null,
+          "title_original": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31056",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T09:20:59.973880Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
+          "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "title_zh": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "title_en": null,
+          "title_original": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31056",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T09:20:59.973880Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T09:20:59.973880Z",
+      "latest_at": "2026-09-15T09:20:59.973880Z",
+      "primary_item": {
+        "id": "2a4cac020e9d346db4da13e22b2b3b480bebd26d",
+        "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+        "title_zh": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+        "title_en": null,
+        "title_original": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31056",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
@@ -1019,15 +1181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.9155,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1052,274 +1214,111 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
-      "story_id": "story_91f8402e7f4d",
-      "title": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-      "url": "https://www.aibase.com/news/31040",
-      "primary_url": "https://www.aibase.com/news/31040",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "82cdb6eeabe94e6ec6b66bea0ad57a9b0e149aea",
-          "title": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-          "title_zh": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-          "title_en": null,
-          "title_original": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31040",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "82cdb6eeabe94e6ec6b66bea0ad57a9b0e149aea",
-          "title": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-          "title_zh": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-          "title_en": null,
-          "title_original": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31040",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T03:57:39.644091Z",
-      "latest_at": "2026-09-15T03:57:39.644091Z",
-      "primary_item": {
-        "id": "82cdb6eeabe94e6ec6b66bea0ad57a9b0e149aea",
-        "title": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-        "title_zh": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-        "title_en": null,
-        "title_original": "Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部\"核武级\"模型 2 号浮出水面",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31040",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
-      }
-    },
-    {
-      "story_id": "story_098c8c345e0d",
-      "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名 / Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-      "url": "https://x.com/arena/status/2099549108013006958",
-      "primary_url": "https://x.com/arena/status/2099549108013006958",
-      "source": "X：Arena (@arena)",
+      "story_id": "story_a5cc1961a5e8",
+      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+      "primary_url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d0417de2ad3c894d37359950c13deddcf6755d82",
-          "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名 / Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-          "title_zh": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-          "title_en": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-          "title_original": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-          "summary": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。",
+          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+          "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2099549108013006958",
-          "source": "X：Arena (@arena)",
+          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-14T17:21:29Z"
+          "published_at": "2026-09-14T15:46:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Arena (@arena)"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "d0417de2ad3c894d37359950c13deddcf6755d82",
-          "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名 / Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-          "title_zh": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-          "title_en": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-          "title_original": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-          "summary": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。",
+          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+          "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2099549108013006958",
-          "source": "X：Arena (@arena)",
+          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-14T17:21:29Z"
+          "published_at": "2026-09-14T15:46:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.858,
+        "recency": 0.7759,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-14T17:21:29Z",
-      "latest_at": "2026-09-14T17:21:29Z",
+      "earliest_at": "2026-09-14T15:46:45Z",
+      "latest_at": "2026-09-14T15:46:45Z",
       "primary_item": {
-        "id": "d0417de2ad3c894d37359950c13deddcf6755d82",
-        "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名 / Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-        "title_zh": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-        "title_en": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-        "title_original": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-        "summary": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。",
+        "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+        "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+        "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+        "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+        "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2099549108013006958",
-        "source": "X：Arena (@arena)",
+        "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
-      "story_id": "story_207c93651c3e",
-      "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文 / The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-      "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-      "primary_url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7e7bdae7d1c78f04ba6c32e9eb975ad87f92e758",
-          "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文 / The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-          "title_zh": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-          "title_en": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-          "title_original": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-          "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T16:32:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
-      ],
-      "items": [
-        {
-          "id": "7e7bdae7d1c78f04ba6c32e9eb975ad87f92e758",
-          "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文 / The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-          "title_zh": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-          "title_en": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-          "title_original": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-          "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T16:32:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.848,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-14T16:32:25Z",
-      "latest_at": "2026-09-14T16:32:25Z",
-      "primary_item": {
-        "id": "7e7bdae7d1c78f04ba6c32e9eb975ad87f92e758",
-        "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文 / The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-        "title_zh": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-        "title_en": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-        "title_original": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-        "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
-      }
-    },
-    {
-      "story_id": "story_7ca2db178349",
-      "title": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
-      "url": "https://www.aibase.com/news/31039",
-      "primary_url": "https://www.aibase.com/news/31039",
+      "story_id": "story_021c8eb04323",
+      "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+      "url": "https://www.aibase.com/news/31061",
+      "primary_url": "https://www.aibase.com/news/31061",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "eba9ee5f8cf8fea7709d2f16a2a2536f4a31104a",
-          "title": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
-          "title_zh": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
+          "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
+          "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+          "title_zh": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
           "title_en": null,
-          "title_original": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
+          "title_original": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31039",
+          "url": "https://www.aibase.com/news/31061",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
+          "published_at": "2026-09-15T09:20:59.973880Z"
         }
       ],
       "source_count": 1,
@@ -1328,18 +1327,18 @@
       ],
       "items": [
         {
-          "id": "eba9ee5f8cf8fea7709d2f16a2a2536f4a31104a",
-          "title": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
-          "title_zh": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
+          "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
+          "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+          "title_zh": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
           "title_en": null,
-          "title_original": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
+          "title_original": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31039",
+          "url": "https://www.aibase.com/news/31061",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
+          "published_at": "2026-09-15T09:20:59.973880Z"
         }
       ],
       "item_count": 1,
@@ -1360,17 +1359,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T03:57:39.644091Z",
-      "latest_at": "2026-09-15T03:57:39.644091Z",
+      "earliest_at": "2026-09-15T09:20:59.973880Z",
+      "latest_at": "2026-09-15T09:20:59.973880Z",
       "primary_item": {
-        "id": "eba9ee5f8cf8fea7709d2f16a2a2536f4a31104a",
-        "title": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
-        "title_zh": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
+        "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
+        "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+        "title_zh": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
         "title_en": null,
-        "title_original": "Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”",
+        "title_original": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31039",
+        "url": "https://www.aibase.com/news/31061",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1378,30 +1377,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
-      "story_id": "story_4d0ea0b44ad0",
-      "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
-      "url": "https://www.aibase.com/news/31049",
-      "primary_url": "https://www.aibase.com/news/31049",
+      "story_id": "story_7a99be4187e4",
+      "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+      "url": "https://www.aibase.com/news/31055",
+      "primary_url": "https://www.aibase.com/news/31055",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "eaaf97148a9645c3b91d5c5421412a074ece94ee",
-          "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
-          "title_zh": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+          "id": "1035052f93b799930c626d7f07633485feed5d4d",
+          "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "title_zh": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
           "title_en": null,
-          "title_original": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+          "title_original": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31049",
+          "url": "https://www.aibase.com/news/31055",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
+          "published_at": "2026-09-15T09:20:59.973880Z"
         }
       ],
       "source_count": 1,
@@ -1410,18 +1409,18 @@
       ],
       "items": [
         {
-          "id": "eaaf97148a9645c3b91d5c5421412a074ece94ee",
-          "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
-          "title_zh": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+          "id": "1035052f93b799930c626d7f07633485feed5d4d",
+          "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+          "title_zh": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
           "title_en": null,
-          "title_original": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+          "title_original": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31049",
+          "url": "https://www.aibase.com/news/31055",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
+          "published_at": "2026-09-15T09:20:59.973880Z"
         }
       ],
       "item_count": 1,
@@ -1442,17 +1441,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T03:57:39.644091Z",
-      "latest_at": "2026-09-15T03:57:39.644091Z",
+      "earliest_at": "2026-09-15T09:20:59.973880Z",
+      "latest_at": "2026-09-15T09:20:59.973880Z",
       "primary_item": {
-        "id": "eaaf97148a9645c3b91d5c5421412a074ece94ee",
-        "title": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
-        "title_zh": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+        "id": "1035052f93b799930c626d7f07633485feed5d4d",
+        "title": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
+        "title_zh": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
         "title_en": null,
-        "title_original": "GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍",
+        "title_original": "微软 CEO内网发声：AI 必须保持在人类控制之下，该花多少时间就花多少",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31049",
+        "url": "https://www.aibase.com/news/31055",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1460,30 +1459,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
-      "story_id": "story_5f2c3050d3ba",
-      "title": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
-      "url": "https://www.aibase.com/news/31045",
-      "primary_url": "https://www.aibase.com/news/31045",
+      "story_id": "story_f571d5a44852",
+      "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+      "url": "https://www.aibase.com/news/31062",
+      "primary_url": "https://www.aibase.com/news/31062",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7725e16e3fba653d10f0ab025ee23fa93173d42d",
-          "title": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
-          "title_zh": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
+          "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
+          "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "title_zh": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
           "title_en": null,
-          "title_original": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
+          "title_original": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31045",
+          "url": "https://www.aibase.com/news/31062",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
+          "published_at": "2026-09-15T09:20:59.973880Z"
         }
       ],
       "source_count": 1,
@@ -1492,18 +1491,18 @@
       ],
       "items": [
         {
-          "id": "7725e16e3fba653d10f0ab025ee23fa93173d42d",
-          "title": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
-          "title_zh": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
+          "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
+          "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "title_zh": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
           "title_en": null,
-          "title_original": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
+          "title_original": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31045",
+          "url": "https://www.aibase.com/news/31062",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
+          "published_at": "2026-09-15T09:20:59.973880Z"
         }
       ],
       "item_count": 1,
@@ -1524,17 +1523,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T03:57:39.644091Z",
-      "latest_at": "2026-09-15T03:57:39.644091Z",
+      "earliest_at": "2026-09-15T09:20:59.973880Z",
+      "latest_at": "2026-09-15T09:20:59.973880Z",
       "primary_item": {
-        "id": "7725e16e3fba653d10f0ab025ee23fa93173d42d",
-        "title": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
-        "title_zh": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
+        "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
+        "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+        "title_zh": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
         "title_en": null,
-        "title_original": "Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来",
+        "title_original": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31045",
+        "url": "https://www.aibase.com/news/31062",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1542,30 +1541,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
-      "story_id": "story_37406052c7e8",
-      "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
-      "url": "https://www.aibase.com/news/31050",
-      "primary_url": "https://www.aibase.com/news/31050",
+      "story_id": "story_749cd19070dd",
+      "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
+      "url": "https://www.aibase.com/news/31060",
+      "primary_url": "https://www.aibase.com/news/31060",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "18fdaa3d86b94508c5fae33e22aa50547a30a016",
-          "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
-          "title_zh": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+          "id": "b44e753979970f394c7664a09621b5c0055d84d3",
+          "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
+          "title_zh": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
           "title_en": null,
-          "title_original": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+          "title_original": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31050",
+          "url": "https://www.aibase.com/news/31060",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
+          "published_at": "2026-09-15T09:20:59.973880Z"
         }
       ],
       "source_count": 1,
@@ -1574,18 +1573,18 @@
       ],
       "items": [
         {
-          "id": "18fdaa3d86b94508c5fae33e22aa50547a30a016",
-          "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
-          "title_zh": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+          "id": "b44e753979970f394c7664a09621b5c0055d84d3",
+          "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
+          "title_zh": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
           "title_en": null,
-          "title_original": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+          "title_original": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31050",
+          "url": "https://www.aibase.com/news/31060",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
+          "published_at": "2026-09-15T09:20:59.973880Z"
         }
       ],
       "item_count": 1,
@@ -1606,17 +1605,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T03:57:39.644091Z",
-      "latest_at": "2026-09-15T03:57:39.644091Z",
+      "earliest_at": "2026-09-15T09:20:59.973880Z",
+      "latest_at": "2026-09-15T09:20:59.973880Z",
       "primary_item": {
-        "id": "18fdaa3d86b94508c5fae33e22aa50547a30a016",
-        "title": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
-        "title_zh": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+        "id": "b44e753979970f394c7664a09621b5c0055d84d3",
+        "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
+        "title_zh": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
         "title_en": null,
-        "title_original": "OpenAI据报道3亿美元收购手机摄像头厂商Glass Imaging",
+        "title_original": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31050",
+        "url": "https://www.aibase.com/news/31060",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1624,30 +1623,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
-      "story_id": "story_e52c206aaa07",
-      "title": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
-      "url": "https://www.aibase.com/news/31046",
-      "primary_url": "https://www.aibase.com/news/31046",
+      "story_id": "story_4771199a8ed2",
+      "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
+      "url": "https://www.aibase.com/news/31058",
+      "primary_url": "https://www.aibase.com/news/31058",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3a4c25917207e5d5bd79931e2fcbe8bf1fbcb444",
-          "title": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
-          "title_zh": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
+          "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
+          "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
+          "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
           "title_en": null,
-          "title_original": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
+          "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31046",
+          "url": "https://www.aibase.com/news/31058",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
+          "published_at": "2026-09-15T09:20:59.973880Z"
         }
       ],
       "source_count": 1,
@@ -1656,18 +1655,18 @@
       ],
       "items": [
         {
-          "id": "3a4c25917207e5d5bd79931e2fcbe8bf1fbcb444",
-          "title": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
-          "title_zh": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
+          "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
+          "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
+          "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
           "title_en": null,
-          "title_original": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
+          "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31046",
+          "url": "https://www.aibase.com/news/31058",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
+          "published_at": "2026-09-15T09:20:59.973880Z"
         }
       ],
       "item_count": 1,
@@ -1688,17 +1687,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T03:57:39.644091Z",
-      "latest_at": "2026-09-15T03:57:39.644091Z",
+      "earliest_at": "2026-09-15T09:20:59.973880Z",
+      "latest_at": "2026-09-15T09:20:59.973880Z",
       "primary_item": {
-        "id": "3a4c25917207e5d5bd79931e2fcbe8bf1fbcb444",
-        "title": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
-        "title_zh": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
+        "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
+        "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
+        "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
         "title_en": null,
-        "title_original": "代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手",
+        "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31046",
+        "url": "https://www.aibase.com/news/31058",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1706,30 +1705,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     },
     {
-      "story_id": "story_3bee6a140e2a",
-      "title": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
-      "url": "https://www.aibase.com/news/31041",
-      "primary_url": "https://www.aibase.com/news/31041",
+      "story_id": "story_6b48114331e8",
+      "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
+      "url": "https://www.aibase.com/news/31059",
+      "primary_url": "https://www.aibase.com/news/31059",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d0aefac09327a83446129adbf6d225170c1535fe",
-          "title": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
-          "title_zh": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
+          "id": "69873021dcb01777944fd2372744ec790fd80430",
+          "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
+          "title_zh": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
           "title_en": null,
-          "title_original": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
+          "title_original": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31041",
+          "url": "https://www.aibase.com/news/31059",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
+          "published_at": "2026-09-15T09:20:59.973880Z"
         }
       ],
       "source_count": 1,
@@ -1738,18 +1737,18 @@
       ],
       "items": [
         {
-          "id": "d0aefac09327a83446129adbf6d225170c1535fe",
-          "title": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
-          "title_zh": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
+          "id": "69873021dcb01777944fd2372744ec790fd80430",
+          "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
+          "title_zh": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
           "title_en": null,
-          "title_original": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
+          "title_original": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31041",
+          "url": "https://www.aibase.com/news/31059",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T03:57:39.644091Z"
+          "published_at": "2026-09-15T09:20:59.973880Z"
         }
       ],
       "item_count": 1,
@@ -1770,17 +1769,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T03:57:39.644091Z",
-      "latest_at": "2026-09-15T03:57:39.644091Z",
+      "earliest_at": "2026-09-15T09:20:59.973880Z",
+      "latest_at": "2026-09-15T09:20:59.973880Z",
       "primary_item": {
-        "id": "d0aefac09327a83446129adbf6d225170c1535fe",
-        "title": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
-        "title_zh": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
+        "id": "69873021dcb01777944fd2372744ec790fd80430",
+        "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
+        "title_zh": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
         "title_en": null,
-        "title_original": "代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光",
+        "title_original": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31041",
+        "url": "https://www.aibase.com/news/31059",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1788,7 +1787,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T04:35:14.845636Z"
+        "scored_at": "2026-09-15T09:58:33.549943Z"
       }
     }
   ]
