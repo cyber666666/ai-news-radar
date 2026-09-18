@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:43:15.415606Z",
+  "generated_at": "2026-09-18T03:47:12.664232Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8496,
-      "importance": 0.8496,
-      "importance_score": 0.8496,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9867,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
+        "scored_at": "2026-09-18T04:05:33.537087Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8371,
-      "importance": 0.8371,
-      "importance_score": 0.8371,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9615,
+        "recency": 0.8936,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,225 +166,82 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
+        "scored_at": "2026-09-18T04:05:33.537087Z"
       }
     },
     {
-      "story_id": "story_524b99f2deb6",
-      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-      "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T00:26:43Z"
-        },
-        {
-          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:26:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T00:26:43Z"
-        },
-        {
-          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:26:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8275,
-      "importance": 0.8275,
-      "importance_score": 0.8275,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7249,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T00:26:43Z",
-      "latest_at": "2026-09-17T00:26:43Z",
-      "primary_item": {
-        "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-        "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-        "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
-      }
-    },
-    {
-      "story_id": "story_0bfddc45ef34",
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "primary_url": "https://openai.com/index/astra-for-law",
+      "story_id": "story_d9139340eb5e",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "primary_url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a47b1e647923f49f3c4fdc41e4d0ea81c4a12116",
-          "title": "Introducing Astra for Law",
+          "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
+          "title": "How Cooley is accelerating IPO work with ChatGPT",
           "title_zh": null,
-          "title_en": "Introducing Astra for Law",
-          "title_original": "Introducing Astra for Law",
+          "title_en": "How Cooley is accelerating IPO work with ChatGPT",
+          "title_original": "How Cooley is accelerating IPO work with ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/astra-for-law",
+          "url": "https://openai.com/index/cooley-gopublic",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T00:00:00Z"
-        },
-        {
-          "id": "167257b0287b661a90aa7c86e6dac57e4a118fa1",
-          "title": "Astra for Law",
-          "title_zh": null,
-          "title_en": "Astra for Law",
-          "title_original": "Astra for Law",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/astra-for-law",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-17T21:25:48.451000Z"
+          "published_at": "2026-09-17T12:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "openai.com"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "a47b1e647923f49f3c4fdc41e4d0ea81c4a12116",
-          "title": "Introducing Astra for Law",
+          "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
+          "title": "How Cooley is accelerating IPO work with ChatGPT",
           "title_zh": null,
-          "title_en": "Introducing Astra for Law",
-          "title_original": "Introducing Astra for Law",
+          "title_en": "How Cooley is accelerating IPO work with ChatGPT",
+          "title_original": "How Cooley is accelerating IPO work with ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/astra-for-law",
+          "url": "https://openai.com/index/cooley-gopublic",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T00:00:00Z"
-        },
-        {
-          "id": "167257b0287b661a90aa7c86e6dac57e4a118fa1",
-          "title": "Astra for Law",
-          "title_zh": null,
-          "title_en": "Astra for Law",
-          "title_original": "Astra for Law",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/astra-for-law",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-17T21:25:48.451000Z"
+          "published_at": "2026-09-17T12:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7203,
-        "story_heat": 0.25
+        "ai_relevance": 0.95,
+        "recency": 0.7961,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T00:00:00Z",
-      "latest_at": "2026-09-17T21:25:48.451000Z",
+      "earliest_at": "2026-09-17T12:00:00Z",
+      "latest_at": "2026-09-17T12:00:00Z",
       "primary_item": {
-        "id": "a47b1e647923f49f3c4fdc41e4d0ea81c4a12116",
-        "title": "Introducing Astra for Law",
+        "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
+        "title": "How Cooley is accelerating IPO work with ChatGPT",
         "title_zh": null,
-        "title_en": "Introducing Astra for Law",
-        "title_original": "Introducing Astra for Law",
+        "title_en": "How Cooley is accelerating IPO work with ChatGPT",
+        "title_original": "How Cooley is accelerating IPO work with ChatGPT",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/astra-for-law",
+        "url": "https://openai.com/index/cooley-gopublic",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -392,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
+        "scored_at": "2026-09-18T04:05:33.537087Z"
       }
     },
     {
@@ -440,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.84,
-      "importance": 0.84,
-      "importance_score": 0.84,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9775,
+        "recency": 0.9086,
         "story_heat": 0.0
       },
       "category": "official",
@@ -475,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
+        "scored_at": "2026-09-18T04:05:33.537087Z"
       }
     },
     {
@@ -552,15 +409,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9583,
+        "recency": 0.8907,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -587,7 +444,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
+        "scored_at": "2026-09-18T04:05:33.537087Z"
+      }
+    },
+    {
+      "story_id": "story_4bc3dd239911",
+      "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "primary_url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
+          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+          "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+          "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+          "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T17:18:08.568000Z"
+        },
+        {
+          "id": "5506e775b22e613d112ed24bedbc02b2de69fa67",
+          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Alibaba releases Qwen 3.8 Omni Flash",
+          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+          "title_en": "Alibaba releases Qwen 3.8 Omni Flash",
+          "title_original": "Alibaba releases Qwen 3.8 Omni Flash",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T23:05:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Qwen：Blog Retrieval（API）"
+      ],
+      "items": [
+        {
+          "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
+          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+          "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+          "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+          "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T17:18:08.568000Z"
+        },
+        {
+          "id": "5506e775b22e613d112ed24bedbc02b2de69fa67",
+          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Alibaba releases Qwen 3.8 Omni Flash",
+          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+          "title_en": "Alibaba releases Qwen 3.8 Omni Flash",
+          "title_original": "Alibaba releases Qwen 3.8 Omni Flash",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T23:05:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8595,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T17:18:08.568000Z",
+      "latest_at": "2026-09-17T23:05:48Z",
+      "primary_item": {
+        "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
+        "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+        "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+        "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+        "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+        "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+        "recommend_reason_zh": null,
+        "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+        "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T04:05:33.537087Z"
+      }
+    },
+    {
+      "story_id": "story_92529e02e542",
+      "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务 / @Muse for Mac， rolling out today. 👇",
+      "url": "https://x.com/AIatMeta/status/2100714755568644409",
+      "primary_url": "https://x.com/AIatMeta/status/2100714755568644409",
+      "source": "X：AI at Meta (@AIatMeta)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "629120c73499a9910cc657c81a8aac07313fdc13",
+          "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务 / @Muse for Mac， rolling out today. 👇",
+          "title_zh": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
+          "title_en": "@Muse for Mac， rolling out today. 👇",
+          "title_original": "@Muse for Mac， rolling out today. 👇",
+          "summary": "Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AIatMeta/status/2100714755568644409",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T22:33:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：AI at Meta (@AIatMeta)"
+      ],
+      "items": [
+        {
+          "id": "629120c73499a9910cc657c81a8aac07313fdc13",
+          "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务 / @Muse for Mac， rolling out today. 👇",
+          "title_zh": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
+          "title_en": "@Muse for Mac， rolling out today. 👇",
+          "title_original": "@Muse for Mac， rolling out today. 👇",
+          "summary": "Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AIatMeta/status/2100714755568644409",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T22:33:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7759,
+      "importance": 0.7759,
+      "importance_score": 0.7759,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9272,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T22:33:21Z",
+      "latest_at": "2026-09-17T22:33:21Z",
+      "primary_item": {
+        "id": "629120c73499a9910cc657c81a8aac07313fdc13",
+        "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务 / @Muse for Mac， rolling out today. 👇",
+        "title_zh": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
+        "title_en": "@Muse for Mac， rolling out today. 👇",
+        "title_original": "@Muse for Mac， rolling out today. 👇",
+        "summary": "Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AIatMeta/status/2100714755568644409",
+        "source": "X：AI at Meta (@AIatMeta)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T04:05:33.537087Z"
       }
     },
     {
@@ -635,15 +686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9901,
+        "recency": 0.9202,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -669,7 +720,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
+        "scored_at": "2026-09-18T04:05:33.537087Z"
+      }
+    },
+    {
+      "story_id": "story_5735f9b05c3f",
+      "title": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
+      "url": "https://www.aibase.com/news/31140",
+      "primary_url": "https://www.aibase.com/news/31140",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e97c118417914611f112305723ba34bc3b481595",
+          "title": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
+          "title_zh": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
+          "title_en": null,
+          "title_original": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31140",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T03:47:12.664232Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e97c118417914611f112305723ba34bc3b481595",
+          "title": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
+          "title_zh": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
+          "title_en": null,
+          "title_original": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31140",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T03:47:12.664232Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T03:47:12.664232Z",
+      "latest_at": "2026-09-18T03:47:12.664232Z",
+      "primary_item": {
+        "id": "e97c118417914611f112305723ba34bc3b481595",
+        "title": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
+        "title_zh": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
+        "title_en": null,
+        "title_original": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31140",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T04:05:33.537087Z"
       }
     },
     {
@@ -717,15 +850,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9542,
+        "recency": 0.8869,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -751,89 +884,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
-      }
-    },
-    {
-      "story_id": "story_4bc3dd239911",
-      "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "primary_url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "source": "Qwen：Blog Retrieval（API）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
-          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-          "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T17:18:08.568000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Qwen：Blog Retrieval（API）"
-      ],
-      "items": [
-        {
-          "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
-          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-          "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T17:18:08.568000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9247,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T17:18:08.568000Z",
-      "latest_at": "2026-09-17T17:18:08.568000Z",
-      "primary_item": {
-        "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
-        "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-        "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-        "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-        "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-        "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
-        "recommend_reason_zh": null,
-        "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-        "source": "Qwen：Blog Retrieval（API）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
+        "scored_at": "2026-09-18T04:05:33.537087Z"
       }
     },
     {
@@ -881,15 +932,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9135,
+        "recency": 0.849,
         "story_heat": 0.0
       },
       "category": "official",
@@ -916,7 +967,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
+        "scored_at": "2026-09-18T04:05:33.537087Z"
+      }
+    },
+    {
+      "story_id": "story_604df0a8861f",
+      "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增 / ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+      "url": "https://x.com/sherwinwu/status/2100730628673065040",
+      "primary_url": "https://x.com/sherwinwu/status/2100730628673065040",
+      "source": "X：Sherwin Wu（@sherwinwu）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "698408c02cad1284bbc95137884d418e5e7541d0",
+          "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增 / ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+          "title_zh": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
+          "title_en": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+          "title_original": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+          "summary": "ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sherwinwu/status/2100730628673065040",
+          "source": "X：Sherwin Wu（@sherwinwu）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T23:36:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sherwin Wu（@sherwinwu）"
+      ],
+      "items": [
+        {
+          "id": "698408c02cad1284bbc95137884d418e5e7541d0",
+          "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增 / ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+          "title_zh": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
+          "title_en": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+          "title_original": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+          "summary": "ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sherwinwu/status/2100730628673065040",
+          "source": "X：Sherwin Wu（@sherwinwu）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T23:36:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9414,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T23:36:26Z",
+      "latest_at": "2026-09-17T23:36:26Z",
+      "primary_item": {
+        "id": "698408c02cad1284bbc95137884d418e5e7541d0",
+        "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增 / ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+        "title_zh": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
+        "title_en": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+        "title_original": "ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…",
+        "summary": "ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/sherwinwu/status/2100730628673065040",
+        "source": "X：Sherwin Wu（@sherwinwu）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T04:05:33.537087Z"
       }
     },
     {
@@ -964,15 +1097,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9729,
+        "recency": 0.9043,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -998,89 +1131,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
-      }
-    },
-    {
-      "story_id": "story_a366f16e4864",
-      "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-      "url": "https://www.aibase.com/news/31139",
-      "primary_url": "https://www.aibase.com/news/31139",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
-          "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-          "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-          "title_en": null,
-          "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31139",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T18:35:48.790657Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
-          "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-          "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-          "title_en": null,
-          "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31139",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T18:35:48.790657Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9422,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T18:35:48.790657Z",
-      "latest_at": "2026-09-17T18:35:48.790657Z",
-      "primary_item": {
-        "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
-        "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-        "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-        "title_en": null,
-        "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31139",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
+        "scored_at": "2026-09-18T04:05:33.537087Z"
       }
     },
     {
@@ -1128,15 +1179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7861,
-      "importance": 0.7861,
-      "importance_score": 0.7861,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9695,
+        "recency": 0.9011,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1162,7 +1213,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
+        "scored_at": "2026-09-18T04:05:33.537087Z"
+      }
+    },
+    {
+      "story_id": "story_6f86f224d94a",
+      "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2dcd15b2ec58e7927a02657d7d294e3e4a49793e",
+          "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+          "title_zh": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+          "title_en": null,
+          "title_original": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+          "summary": "TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T00:08:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "2dcd15b2ec58e7927a02657d7d294e3e4a49793e",
+          "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+          "title_zh": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+          "title_en": null,
+          "title_original": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+          "summary": "TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T00:08:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9486,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-18T00:08:00Z",
+      "latest_at": "2026-09-18T00:08:00Z",
+      "primary_item": {
+        "id": "2dcd15b2ec58e7927a02657d7d294e3e4a49793e",
+        "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+        "title_zh": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+        "title_en": null,
+        "title_original": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+        "summary": "TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T04:05:33.537087Z"
       }
     },
     {
@@ -1210,21 +1342,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9591,
+        "recency": 0.8914,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-17T19:49:41.095000Z",
       "latest_at": "2026-09-17T19:49:41.095000Z",
@@ -1244,7 +1375,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
+        "scored_at": "2026-09-18T04:05:33.537087Z"
+      }
+    },
+    {
+      "story_id": "story_572ac9f647ce",
+      "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+      "url": "https://www.aibase.com/news/31152",
+      "primary_url": "https://www.aibase.com/news/31152",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
+          "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+          "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+          "title_en": null,
+          "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31152",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T03:47:12.664232Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
+          "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+          "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+          "title_en": null,
+          "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31152",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T03:47:12.664232Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T03:47:12.664232Z",
+      "latest_at": "2026-09-18T03:47:12.664232Z",
+      "primary_item": {
+        "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
+        "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+        "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+        "title_en": null,
+        "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31152",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T04:05:33.537087Z"
       }
     },
     {
@@ -1292,15 +1505,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9969,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1325,88 +1538,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
-      }
-    },
-    {
-      "story_id": "story_636869304a68",
-      "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
-      "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-      "primary_url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
-          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
-          "title_zh": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
-          "title_en": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
-          "title_original": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
-          "summary": "OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T22:58:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI Safety Memes (@AISafetyMemes)"
-      ],
-      "items": [
-        {
-          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
-          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
-          "title_zh": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
-          "title_en": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
-          "title_original": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
-          "summary": "OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T22:58:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7098,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T22:58:50Z",
-      "latest_at": "2026-09-16T22:58:50Z",
-      "primary_item": {
-        "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
-        "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
-        "title_zh": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
-        "title_en": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
-        "title_original": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
-        "summary": "OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-        "source": "X：AI Safety Memes (@AISafetyMemes)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
+        "scored_at": "2026-09-18T04:05:33.537087Z"
       }
     },
     {
@@ -1454,15 +1586,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9028,
+        "recency": 0.8391,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1487,7 +1619,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
+        "scored_at": "2026-09-18T04:05:33.537087Z"
       }
     },
     {
@@ -1535,15 +1667,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.916,
+        "recency": 0.8513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1568,171 +1700,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
-      }
-    },
-    {
-      "story_id": "story_e8d939d02589",
-      "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目 / Projects redesigned： from folder to conversation",
-      "url": "https://claude.com/blog/projects-redesigned",
-      "primary_url": "https://claude.com/blog/projects-redesigned",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e15cbacd1d3ae0b2677e76abd75ee832320eeb88",
-          "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目 / Projects redesigned： from folder to conversation",
-          "title_zh": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
-          "title_en": "Projects redesigned： from folder to conversation",
-          "title_original": "Projects redesigned： from folder to conversation",
-          "summary": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/projects-redesigned",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T17:52:08.951000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "e15cbacd1d3ae0b2677e76abd75ee832320eeb88",
-          "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目 / Projects redesigned： from folder to conversation",
-          "title_zh": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
-          "title_en": "Projects redesigned： from folder to conversation",
-          "title_original": "Projects redesigned： from folder to conversation",
-          "summary": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/projects-redesigned",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T17:52:08.951000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9323,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T17:52:08.951000Z",
-      "latest_at": "2026-09-17T17:52:08.951000Z",
-      "primary_item": {
-        "id": "e15cbacd1d3ae0b2677e76abd75ee832320eeb88",
-        "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目 / Projects redesigned： from folder to conversation",
-        "title_zh": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
-        "title_en": "Projects redesigned： from folder to conversation",
-        "title_original": "Projects redesigned： from folder to conversation",
-        "summary": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
-        "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/projects-redesigned",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
-      }
-    },
-    {
-      "story_id": "story_3ecb4a7a0061",
-      "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
-      "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-          "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
-          "title_zh": "GitHub Actions 中的工作流程执行保护现已全面可用",
-          "title_en": "Workflow execution protections in GitHub Actions generally available",
-          "title_original": "Workflow execution protections in GitHub Actions generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T15:45:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-          "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
-          "title_zh": "GitHub Actions 中的工作流程执行保护现已全面可用",
-          "title_en": "Workflow execution protections in GitHub Actions generally available",
-          "title_original": "Workflow execution protections in GitHub Actions generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T15:45:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9043,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T15:45:26Z",
-      "latest_at": "2026-09-17T15:45:26Z",
-      "primary_item": {
-        "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-        "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
-        "title_zh": "GitHub Actions 中的工作流程执行保护现已全面可用",
-        "title_en": "Workflow execution protections in GitHub Actions generally available",
-        "title_original": "Workflow execution protections in GitHub Actions generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T22:57:16.969237Z"
+        "scored_at": "2026-09-18T04:05:33.537087Z"
       }
     }
   ]
