@@ -1,174 +1,8 @@
 {
-  "generated_at": "2026-09-19T18:28:22.366627Z",
+  "generated_at": "2026-09-19T22:13:19.207188Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "items": [
-    {
-      "story_id": "story_8b8113a300b2",
-      "title": "Copilot code review: An improved review experience",
-      "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
-      "primary_url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
-          "title": "Copilot code review: An improved review experience",
-          "title_zh": null,
-          "title_en": "Copilot code review: An improved review experience",
-          "title_original": "Copilot code review: An improved review experience",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T20:17:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
-          "title": "Copilot code review: An improved review experience",
-          "title_zh": null,
-          "title_en": "Copilot code review: An improved review experience",
-          "title_original": "Copilot code review: An improved review experience",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T20:17:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7259,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T20:17:22Z",
-      "latest_at": "2026-09-18T20:17:22Z",
-      "primary_item": {
-        "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
-        "title": "Copilot code review: An improved review experience",
-        "title_zh": null,
-        "title_en": "Copilot code review: An improved review experience",
-        "title_original": "Copilot code review: An improved review experience",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
-      }
-    },
-    {
-      "story_id": "story_37ed024ed43e",
-      "title": "GitHub Copilot weekly releases — September 14",
-      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-      "primary_url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
-          "title": "GitHub Copilot weekly releases — September 14",
-          "title_zh": null,
-          "title_en": "GitHub Copilot weekly releases — September 14",
-          "title_original": "GitHub Copilot weekly releases — September 14",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:21:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
-          "title": "GitHub Copilot weekly releases — September 14",
-          "title_zh": null,
-          "title_en": "GitHub Copilot weekly releases — September 14",
-          "title_original": "GitHub Copilot weekly releases — September 14",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:21:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7162,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T19:21:22Z",
-      "latest_at": "2026-09-18T19:21:22Z",
-      "primary_item": {
-        "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
-        "title": "GitHub Copilot weekly releases — September 14",
-        "title_zh": null,
-        "title_en": "GitHub Copilot weekly releases — September 14",
-        "title_original": "GitHub Copilot weekly releases — September 14",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
-      }
-    },
     {
       "story_id": "story_de3b2aa2df19",
       "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司 / google is so back gemini broke out of its cybersecurity testing environment and hacked into three c…",
@@ -214,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8332,
+        "recency": 0.7893,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
+        "scored_at": "2026-09-19T22:14:00.367878Z"
       }
     },
     {
@@ -296,21 +130,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.757,
+        "recency": 0.7171,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-18T23:11:25Z",
       "latest_at": "2026-09-18T23:11:25Z",
@@ -330,90 +163,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
-      }
-    },
-    {
-      "story_id": "story_a5ec63464b54",
-      "title": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-      "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-      "primary_url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
-          "title": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_zh": null,
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
-          "title": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_zh": null,
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7125,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T19:00:00Z",
-      "latest_at": "2026-09-18T19:00:00Z",
-      "primary_item": {
-        "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
-        "title": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-        "title_zh": null,
-        "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-        "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
+        "scored_at": "2026-09-19T22:14:00.367878Z"
       }
     },
     {
@@ -461,15 +211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7636,
+        "recency": 0.7234,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -494,88 +244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
-      }
-    },
-    {
-      "story_id": "story_b2e760c3e0a8",
-      "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "primary_url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
-          "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
-          "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-          "title_en": "Partnering with Accenture on embedded evaluation",
-          "title_original": "Partnering with Accenture on embedded evaluation",
-          "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T20:21:40.477000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
-          "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
-          "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-          "title_en": "Partnering with Accenture on embedded evaluation",
-          "title_original": "Partnering with Accenture on embedded evaluation",
-          "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T20:21:40.477000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7338,
-      "importance": 0.7338,
-      "importance_score": 0.7338,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7267,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T20:21:40.477000Z",
-      "latest_at": "2026-09-18T20:21:40.477000Z",
-      "primary_item": {
-        "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
-        "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
-        "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-        "title_en": "Partnering with Accenture on embedded evaluation",
-        "title_original": "Partnering with Accenture on embedded evaluation",
-        "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
+        "scored_at": "2026-09-19T22:14:00.367878Z"
       }
     },
     {
@@ -623,15 +292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7672,
+        "recency": 0.7267,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -656,90 +325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
-      }
-    },
-    {
-      "story_id": "story_48ff8a06680b",
-      "title": "Manage the code coverage ruleset condition with the REST API",
-      "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-          "title": "Manage the code coverage ruleset condition with the REST API",
-          "title_zh": null,
-          "title_en": "Manage the code coverage ruleset condition with the REST API",
-          "title_original": "Manage the code coverage ruleset condition with the REST API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:23:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-          "title": "Manage the code coverage ruleset condition with the REST API",
-          "title_zh": null,
-          "title_en": "Manage the code coverage ruleset condition with the REST API",
-          "title_original": "Manage the code coverage ruleset condition with the REST API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:23:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7166,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T19:23:49Z",
-      "latest_at": "2026-09-18T19:23:49Z",
-      "primary_item": {
-        "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-        "title": "Manage the code coverage ruleset condition with the REST API",
-        "title_zh": null,
-        "title_en": "Manage the code coverage ruleset condition with the REST API",
-        "title_original": "Manage the code coverage ruleset condition with the REST API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
+        "scored_at": "2026-09-19T22:14:00.367878Z"
       }
     },
     {
@@ -787,15 +373,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7573,
+        "recency": 0.7174,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -820,12 +406,318 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
+        "scored_at": "2026-09-19T22:14:00.367878Z"
+      }
+    },
+    {
+      "story_id": "story_98f7eb83a544",
+      "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+      "primary_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
+          "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "title_zh": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队",
+          "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "title_original": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-19T19:57:47Z"
+        },
+        {
+          "id": "9c9aded36e1ae0b6ae6bde1e2de0d646be86958f",
+          "title": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队 / Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "title_zh": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队",
+          "title_en": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "title_original": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T19:57:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
+          "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "title_zh": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队",
+          "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "title_original": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-19T19:57:47Z"
+        },
+        {
+          "id": "9c9aded36e1ae0b6ae6bde1e2de0d646be86958f",
+          "title": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队 / Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "title_zh": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队",
+          "title_en": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "title_original": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T19:57:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.643,
+      "importance": 0.643,
+      "importance_score": 0.643,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.9679,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T19:57:47Z",
+      "latest_at": "2026-09-19T19:57:47Z",
+      "primary_item": {
+        "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
+        "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+        "title_zh": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队",
+        "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+        "title_original": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T22:14:00.367878Z"
+      }
+    },
+    {
+      "story_id": "story_dc21f5938fae",
+      "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "primary_url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "source": "erichgrunewald.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_en": null,
+          "title_original": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "erichgrunewald.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T20:03:34.007000Z"
+        },
+        {
+          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
+          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_en": "Almost Never Use AI to Write Anything Substantive",
+          "title_original": "Almost Never Use AI to Write Anything Substantive",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
+          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
+          "title_zh": "几乎从不使用人工智能来写任何实质性内容",
+          "title_en": "Almost Never Use AI to Write Anything Substantive",
+          "title_original": "Almost Never Use AI to Write Anything Substantive",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49767937",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "83b84e1c6c188985bb4faaf82b087dc51c256d9a",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / I think you should almost never use AI to write",
+          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_en": "I think you should almost never use AI to write",
+          "title_original": "I think you should almost never use AI to write",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "5d45c92dc71485d90d52b9061db048d83ee84937",
+          "title": "我认为你几乎不应该使用人工智能来写作 / I think you should almost never use AI to write",
+          "title_zh": "我认为你几乎不应该使用人工智能来写作",
+          "title_en": "I think you should almost never use AI to write",
+          "title_original": "I think you should almost never use AI to write",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49767937",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T16:35:24Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "erichgrunewald.substack.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_en": null,
+          "title_original": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "erichgrunewald.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T20:03:34.007000Z"
+        },
+        {
+          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
+          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_en": "Almost Never Use AI to Write Anything Substantive",
+          "title_original": "Almost Never Use AI to Write Anything Substantive",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
+          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
+          "title_zh": "几乎从不使用人工智能来写任何实质性内容",
+          "title_en": "Almost Never Use AI to Write Anything Substantive",
+          "title_original": "Almost Never Use AI to Write Anything Substantive",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49767937",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "83b84e1c6c188985bb4faaf82b087dc51c256d9a",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / I think you should almost never use AI to write",
+          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_en": "I think you should almost never use AI to write",
+          "title_original": "I think you should almost never use AI to write",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "5d45c92dc71485d90d52b9061db048d83ee84937",
+          "title": "我认为你几乎不应该使用人工智能来写作 / I think you should almost never use AI to write",
+          "title_zh": "我认为你几乎不应该使用人工智能来写作",
+          "title_en": "I think you should almost never use AI to write",
+          "title_original": "I think you should almost never use AI to write",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49767937",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T16:35:24Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6153,
+      "importance": 0.6153,
+      "importance_score": 0.6153,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9693,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T16:35:24Z",
+      "latest_at": "2026-09-19T20:03:34.007000Z",
+      "primary_item": {
+        "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
+        "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+        "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+        "title_en": null,
+        "title_original": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+        "source": "erichgrunewald.substack.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T22:14:00.367878Z"
       }
     },
     {
       "story_id": "story_1b4175524ae8",
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "title": "Gemini 首次利用谷歌人工智能攻击了三家公司 / Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
       "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
       "primary_url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
       "source": "Simon Willison",
@@ -833,8 +725,8 @@
       "sources": [
         {
           "id": "1daa7bfa76bec3f78f74addda8bfcd0b4fe603fc",
-          "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-          "title_zh": null,
+          "title": "Gemini 首次利用谷歌人工智能攻击了三家公司 / Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "title_zh": "Gemini 首次利用谷歌人工智能攻击了三家公司",
           "title_en": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
           "title_original": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
           "summary": null,
@@ -847,8 +739,8 @@
         },
         {
           "id": "a280facc21fa49604c14ccc513762dee0ee2d2ce",
-          "title": "Gemini hacked three companies in first known breakout by Google's AI",
-          "title_zh": null,
+          "title": "Gemini黑客攻击了三家公司，这是谷歌人工智能首次已知的突破 / Gemini hacked three companies in first known breakout by Google's AI",
+          "title_zh": "Gemini黑客攻击了三家公司，这是谷歌人工智能首次已知的突破",
           "title_en": "Gemini hacked three companies in first known breakout by Google's AI",
           "title_original": "Gemini hacked three companies in first known breakout by Google's AI",
           "summary": null,
@@ -861,8 +753,8 @@
         },
         {
           "id": "a9605f48985cce7effa736572178da8f2f62251e",
-          "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
-          "title_zh": null,
+          "title": "据《华尔街日报》报道，Gemini 首次黑客攻击了三家公司，这是谷歌人工智能首次已知的突破 / Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+          "title_zh": "据《华尔街日报》报道，Gemini 首次黑客攻击了三家公司，这是谷歌人工智能首次已知的突破",
           "title_en": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
           "title_original": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
           "summary": null,
@@ -875,8 +767,8 @@
         },
         {
           "id": "61645a226635386454db02a4cf3a3af3fc422d82",
-          "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
-          "title_zh": null,
+          "title": "Gemini 首次利用谷歌人工智能攻击了三家公司 / Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+          "title_zh": "Gemini 首次利用谷歌人工智能攻击了三家公司",
           "title_en": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
           "title_original": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
           "summary": null,
@@ -898,8 +790,8 @@
       "items": [
         {
           "id": "1daa7bfa76bec3f78f74addda8bfcd0b4fe603fc",
-          "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-          "title_zh": null,
+          "title": "Gemini 首次利用谷歌人工智能攻击了三家公司 / Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "title_zh": "Gemini 首次利用谷歌人工智能攻击了三家公司",
           "title_en": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
           "title_original": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
           "summary": null,
@@ -912,8 +804,8 @@
         },
         {
           "id": "a280facc21fa49604c14ccc513762dee0ee2d2ce",
-          "title": "Gemini hacked three companies in first known breakout by Google's AI",
-          "title_zh": null,
+          "title": "Gemini黑客攻击了三家公司，这是谷歌人工智能首次已知的突破 / Gemini hacked three companies in first known breakout by Google's AI",
+          "title_zh": "Gemini黑客攻击了三家公司，这是谷歌人工智能首次已知的突破",
           "title_en": "Gemini hacked three companies in first known breakout by Google's AI",
           "title_original": "Gemini hacked three companies in first known breakout by Google's AI",
           "summary": null,
@@ -926,8 +818,8 @@
         },
         {
           "id": "a9605f48985cce7effa736572178da8f2f62251e",
-          "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
-          "title_zh": null,
+          "title": "据《华尔街日报》报道，Gemini 首次黑客攻击了三家公司，这是谷歌人工智能首次已知的突破 / Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+          "title_zh": "据《华尔街日报》报道，Gemini 首次黑客攻击了三家公司，这是谷歌人工智能首次已知的突破",
           "title_en": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
           "title_original": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
           "summary": null,
@@ -940,8 +832,8 @@
         },
         {
           "id": "61645a226635386454db02a4cf3a3af3fc422d82",
-          "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
-          "title_zh": null,
+          "title": "Gemini 首次利用谷歌人工智能攻击了三家公司 / Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+          "title_zh": "Gemini 首次利用谷歌人工智能攻击了三家公司",
           "title_en": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
           "title_original": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
           "summary": null,
@@ -955,15 +847,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6181,
-      "importance": 0.6181,
-      "importance_score": 0.6181,
+      "score": 0.6109,
+      "importance": 0.6109,
+      "importance_score": 0.6109,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7655,
+        "recency": 0.7251,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -974,8 +866,8 @@
       "latest_at": "2026-09-19T01:40:35Z",
       "primary_item": {
         "id": "1daa7bfa76bec3f78f74addda8bfcd0b4fe603fc",
-        "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-        "title_zh": null,
+        "title": "Gemini 首次利用谷歌人工智能攻击了三家公司 / Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+        "title_zh": "Gemini 首次利用谷歌人工智能攻击了三家公司",
         "title_en": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
         "title_original": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
         "summary": null,
@@ -988,12 +880,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
+        "scored_at": "2026-09-19T22:14:00.367878Z"
       }
     },
     {
       "story_id": "story_441122723a77",
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "title": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能 / A startup that builds other startups raised $100M and is all-in on physical AI",
       "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
       "primary_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
       "source": "TechCrunch AI",
@@ -1001,8 +893,8 @@
       "sources": [
         {
           "id": "8fb96c5aa872c03a63d4033a2296c538b3a4cab4",
-          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-          "title_zh": null,
+          "title": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能 / A startup that builds other startups raised $100M and is all-in on physical AI",
+          "title_zh": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能",
           "title_en": "A startup that builds other startups raised $100M and is all-in on physical AI",
           "title_original": "A startup that builds other startups raised $100M and is all-in on physical AI",
           "summary": null,
@@ -1015,8 +907,8 @@
         },
         {
           "id": "a380f5c6a222e5ce80bf5a5294a4cb5b7743e6f8",
-          "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
-          "title_zh": null,
+          "title": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能 / A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "title_zh": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能",
           "title_en": "A startup that builds other startups raised $100M, and is all-in on physical AI",
           "title_original": "A startup that builds other startups raised $100M, and is all-in on physical AI",
           "summary": null,
@@ -1036,8 +928,8 @@
       "items": [
         {
           "id": "8fb96c5aa872c03a63d4033a2296c538b3a4cab4",
-          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-          "title_zh": null,
+          "title": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能 / A startup that builds other startups raised $100M and is all-in on physical AI",
+          "title_zh": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能",
           "title_en": "A startup that builds other startups raised $100M and is all-in on physical AI",
           "title_original": "A startup that builds other startups raised $100M and is all-in on physical AI",
           "summary": null,
@@ -1050,8 +942,8 @@
         },
         {
           "id": "a380f5c6a222e5ce80bf5a5294a4cb5b7743e6f8",
-          "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
-          "title_zh": null,
+          "title": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能 / A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "title_zh": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能",
           "title_en": "A startup that builds other startups raised $100M, and is all-in on physical AI",
           "title_original": "A startup that builds other startups raised $100M, and is all-in on physical AI",
           "summary": null,
@@ -1065,15 +957,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6055,
-      "importance": 0.6055,
-      "importance_score": 0.6055,
+      "score": 0.5983,
+      "importance": 0.5983,
+      "importance_score": 0.5983,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7594,
+        "recency": 0.7194,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1084,8 +976,8 @@
       "latest_at": "2026-09-18T23:25:01Z",
       "primary_item": {
         "id": "8fb96c5aa872c03a63d4033a2296c538b3a4cab4",
-        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-        "title_zh": null,
+        "title": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能 / A startup that builds other startups raised $100M and is all-in on physical AI",
+        "title_zh": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能",
         "title_en": "A startup that builds other startups raised $100M and is all-in on physical AI",
         "title_original": "A startup that builds other startups raised $100M and is all-in on physical AI",
         "summary": null,
@@ -1098,146 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
-      }
-    },
-    {
-      "story_id": "story_2b554203cccf",
-      "title": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-      "url": "https://arxiv.org/abs/2510.03215",
-      "primary_url": "https://arxiv.org/abs/2510.03215",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bce22ff233fca9928ce398ec1826efb0e82691c7",
-          "title": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "title_zh": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "title_en": null,
-          "title_original": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2510.03215",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T14:50:14.125000Z"
-        },
-        {
-          "id": "1ed4eb4991ae95573a9b70b981d3f0821b188e2b",
-          "title": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025） / Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_zh": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2510.03215",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T18:55:35Z"
-        },
-        {
-          "id": "17b8fe3990771916d9ff0736b5edb6b45b5581d0",
-          "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_zh": null,
-          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49758615",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T18:55:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "arxiv.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bce22ff233fca9928ce398ec1826efb0e82691c7",
-          "title": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "title_zh": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "title_en": null,
-          "title_original": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2510.03215",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T14:50:14.125000Z"
-        },
-        {
-          "id": "1ed4eb4991ae95573a9b70b981d3f0821b188e2b",
-          "title": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025） / Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_zh": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2510.03215",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T18:55:35Z"
-        },
-        {
-          "id": "17b8fe3990771916d9ff0736b5edb6b45b5581d0",
-          "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_zh": null,
-          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49758615",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T18:55:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5616,
-      "importance": 0.5616,
-      "importance_score": 0.5616,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9489,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-18T18:55:35Z",
-      "latest_at": "2026-09-19T14:50:14.125000Z",
-      "primary_item": {
-        "id": "bce22ff233fca9928ce398ec1826efb0e82691c7",
-        "title": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-        "title_zh": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-        "title_en": null,
-        "title_original": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2510.03215",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
+        "scored_at": "2026-09-19T22:14:00.367878Z"
       }
     },
     {
@@ -1278,8 +1031,8 @@
         },
         {
           "id": "24115e2a33f7a19dc6579e0345a834bb38582241",
-          "title": "AI-generated posters don’t have to be horrible",
-          "title_zh": null,
+          "title": "人工智能生成的海报不一定很可怕 / AI-generated posters don’t have to be horrible",
+          "title_zh": "人工智能生成的海报不一定很可怕",
           "title_en": "AI-generated posters don’t have to be horrible",
           "title_original": "AI-generated posters don’t have to be horrible",
           "summary": null,
@@ -1328,8 +1081,8 @@
         },
         {
           "id": "24115e2a33f7a19dc6579e0345a834bb38582241",
-          "title": "AI-generated posters don’t have to be horrible",
-          "title_zh": null,
+          "title": "人工智能生成的海报不一定很可怕 / AI-generated posters don’t have to be horrible",
+          "title_zh": "人工智能生成的海报不一定很可怕",
           "title_en": "AI-generated posters don’t have to be horrible",
           "title_original": "AI-generated posters don’t have to be horrible",
           "summary": null,
@@ -1343,15 +1096,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5521,
-      "importance": 0.5521,
-      "importance_score": 0.5521,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8963,
+        "recency": 0.849,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1376,7 +1129,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
+        "scored_at": "2026-09-19T22:14:00.367878Z"
       }
     },
     {
@@ -1417,8 +1170,8 @@
         },
         {
           "id": "c980aa8d16aa46580af8e3e9dda7898b2847becb",
-          "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-          "title_zh": null,
+          "title": "GPT-6 Astra 破解了第一次世界大战德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher",
+          "title_zh": "GPT-6 Astra 破解了第一次世界大战德国无线电密码",
           "title_en": "GPT-6 Astra Solves a WWI German Radio Cipher",
           "title_original": "GPT-6 Astra Solves a WWI German Radio Cipher",
           "summary": null,
@@ -1467,8 +1220,8 @@
         },
         {
           "id": "c980aa8d16aa46580af8e3e9dda7898b2847becb",
-          "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-          "title_zh": null,
+          "title": "GPT-6 Astra 破解了第一次世界大战德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher",
+          "title_zh": "GPT-6 Astra 破解了第一次世界大战德国无线电密码",
           "title_en": "GPT-6 Astra Solves a WWI German Radio Cipher",
           "title_original": "GPT-6 Astra Solves a WWI German Radio Cipher",
           "summary": null,
@@ -1482,15 +1235,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5491,
-      "importance": 0.5491,
-      "importance_score": 0.5491,
+      "score": 0.5408,
+      "importance": 0.5408,
+      "importance_score": 0.5408,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8796,
+        "recency": 0.8333,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1515,7 +1268,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
+        "scored_at": "2026-09-19T22:14:00.367878Z"
+      }
+    },
+    {
+      "story_id": "story_ef95692bbaba",
+      "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
+          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_zh": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案”",
+          "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_original": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T18:21:30Z"
+        },
+        {
+          "id": "9b707e023bfb6980eadf5a2eba935d9f3c00ede9",
+          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_zh": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案”",
+          "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_original": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49768921",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T18:21:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
+          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_zh": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案”",
+          "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_original": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T18:21:30Z"
+        },
+        {
+          "id": "9b707e023bfb6980eadf5a2eba935d9f3c00ede9",
+          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_zh": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案”",
+          "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "title_original": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49768921",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T18:21:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9457,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T18:21:30Z",
+      "latest_at": "2026-09-19T18:21:30Z",
+      "primary_item": {
+        "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
+        "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+        "title_zh": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案”",
+        "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+        "title_original": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T22:14:00.367878Z"
       }
     },
     {
@@ -1556,8 +1419,8 @@
         },
         {
           "id": "cdeb10f09da75b7f2eed50a21516e8a9fdc68fee",
-          "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-          "title_zh": null,
+          "title": "OpenAI 如何利用自己的LLM来设计 Jalapeo 芯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "title_zh": "OpenAI 如何利用自己的LLM来设计 Jalapeo 芯片",
           "title_en": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
           "title_original": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
           "summary": null,
@@ -1606,8 +1469,8 @@
         },
         {
           "id": "cdeb10f09da75b7f2eed50a21516e8a9fdc68fee",
-          "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-          "title_zh": null,
+          "title": "OpenAI 如何利用自己的LLM来设计 Jalapeo 芯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "title_zh": "OpenAI 如何利用自己的LLM来设计 Jalapeo 芯片",
           "title_en": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
           "title_original": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
           "summary": null,
@@ -1621,15 +1484,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8406,
+        "recency": 0.7963,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1654,7 +1517,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
+        "scored_at": "2026-09-19T22:14:00.367878Z"
       }
     },
     {
@@ -1695,8 +1558,8 @@
         },
         {
           "id": "c8517d3426bba4b5cbc81e0ec690088f127fcbd1",
-          "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-          "title_zh": null,
+          "title": "阿里巴巴开源AI模型可检测癌症及近150种病症 / Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "title_zh": "阿里巴巴开源AI模型可检测癌症及近150种病症",
           "title_en": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
           "title_original": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
           "summary": null,
@@ -1745,8 +1608,8 @@
         },
         {
           "id": "c8517d3426bba4b5cbc81e0ec690088f127fcbd1",
-          "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-          "title_zh": null,
+          "title": "阿里巴巴开源AI模型可检测癌症及近150种病症 / Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "title_zh": "阿里巴巴开源AI模型可检测癌症及近150种病症",
           "title_en": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
           "title_original": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
           "summary": null,
@@ -1760,15 +1623,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8406,
+        "recency": 0.7963,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1793,122 +1656,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
-      }
-    },
-    {
-      "story_id": "story_dc21f5938fae",
-      "title": "Almost Never Use AI to Write Anything Substantive",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "primary_url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
-          "title": "Almost Never Use AI to Write Anything Substantive",
-          "title_zh": null,
-          "title_en": "Almost Never Use AI to Write Anything Substantive",
-          "title_original": "Almost Never Use AI to Write Anything Substantive",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
-          "title": "Almost Never Use AI to Write Anything Substantive",
-          "title_zh": null,
-          "title_en": "Almost Never Use AI to Write Anything Substantive",
-          "title_original": "Almost Never Use AI to Write Anything Substantive",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49767937",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T16:35:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
-          "title": "Almost Never Use AI to Write Anything Substantive",
-          "title_zh": null,
-          "title_en": "Almost Never Use AI to Write Anything Substantive",
-          "title_original": "Almost Never Use AI to Write Anything Substantive",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
-          "title": "Almost Never Use AI to Write Anything Substantive",
-          "title_zh": null,
-          "title_en": "Almost Never Use AI to Write Anything Substantive",
-          "title_original": "Almost Never Use AI to Write Anything Substantive",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49767937",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T16:35:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9732,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T16:35:24Z",
-      "latest_at": "2026-09-19T16:35:24Z",
-      "primary_item": {
-        "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
-        "title": "Almost Never Use AI to Write Anything Substantive",
-        "title_zh": null,
-        "title_en": "Almost Never Use AI to Write Anything Substantive",
-        "title_original": "Almost Never Use AI to Write Anything Substantive",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
+        "scored_at": "2026-09-19T22:14:00.367878Z"
       }
     },
     {
       "story_id": "story_8e2b145c9faa",
-      "title": "AI Safety Is Mostly a Sex Cult",
+      "title": "人工智能安全主要是一种性崇拜 / AI Safety Is Mostly a Sex Cult",
       "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
       "primary_url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
       "source": "Hacker News · 24h最热",
@@ -1916,8 +1669,8 @@
       "sources": [
         {
           "id": "6970d01f16ab9d0d65f34cc86645ad9f0d2a971d",
-          "title": "AI Safety Is Mostly a Sex Cult",
-          "title_zh": null,
+          "title": "人工智能安全主要是一种性崇拜 / AI Safety Is Mostly a Sex Cult",
+          "title_zh": "人工智能安全主要是一种性崇拜",
           "title_en": "AI Safety Is Mostly a Sex Cult",
           "title_original": "AI Safety Is Mostly a Sex Cult",
           "summary": null,
@@ -1930,8 +1683,8 @@
         },
         {
           "id": "6f35be11d270409272987ea0dd3f24780559aefa",
-          "title": "AI Safety Is Mostly a Sex Cult",
-          "title_zh": null,
+          "title": "人工智能安全主要是一种性崇拜 / AI Safety Is Mostly a Sex Cult",
+          "title_zh": "人工智能安全主要是一种性崇拜",
           "title_en": "AI Safety Is Mostly a Sex Cult",
           "title_original": "AI Safety Is Mostly a Sex Cult",
           "summary": null,
@@ -1951,8 +1704,8 @@
       "items": [
         {
           "id": "6970d01f16ab9d0d65f34cc86645ad9f0d2a971d",
-          "title": "AI Safety Is Mostly a Sex Cult",
-          "title_zh": null,
+          "title": "人工智能安全主要是一种性崇拜 / AI Safety Is Mostly a Sex Cult",
+          "title_zh": "人工智能安全主要是一种性崇拜",
           "title_en": "AI Safety Is Mostly a Sex Cult",
           "title_original": "AI Safety Is Mostly a Sex Cult",
           "summary": null,
@@ -1965,8 +1718,8 @@
         },
         {
           "id": "6f35be11d270409272987ea0dd3f24780559aefa",
-          "title": "AI Safety Is Mostly a Sex Cult",
-          "title_zh": null,
+          "title": "人工智能安全主要是一种性崇拜 / AI Safety Is Mostly a Sex Cult",
+          "title_zh": "人工智能安全主要是一种性崇拜",
           "title_en": "AI Safety Is Mostly a Sex Cult",
           "title_original": "AI Safety Is Mostly a Sex Cult",
           "summary": null,
@@ -1980,15 +1733,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
+      "score": 0.5271,
+      "importance": 0.5271,
+      "importance_score": 0.5271,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9457,
+        "recency": 0.8959,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1999,8 +1752,8 @@
       "latest_at": "2026-09-19T14:36:28Z",
       "primary_item": {
         "id": "6970d01f16ab9d0d65f34cc86645ad9f0d2a971d",
-        "title": "AI Safety Is Mostly a Sex Cult",
-        "title_zh": null,
+        "title": "人工智能安全主要是一种性崇拜 / AI Safety Is Mostly a Sex Cult",
+        "title_zh": "人工智能安全主要是一种性崇拜",
         "title_en": "AI Safety Is Mostly a Sex Cult",
         "title_original": "AI Safety Is Mostly a Sex Cult",
         "summary": null,
@@ -2013,146 +1766,337 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
+        "scored_at": "2026-09-19T22:14:00.367878Z"
       }
     },
     {
-      "story_id": "story_630295415d38",
-      "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "primary_url": "https://code.claude.com/docs/en/changelog",
-      "source": "code.claude.com",
-      "source_name": "Buzzing",
+      "story_id": "story_3d5e0623525a",
+      "title": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人 / The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+      "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with",
+      "primary_url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "08fffccee66aaa6df7359ff35508dcadb973f27d",
-          "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
-          "title_zh": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
-          "title_en": null,
-          "title_original": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+          "id": "7348ea2b1fe27b301cbfa8fc2dcc071b225023c8",
+          "title": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人 / The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_zh": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人",
+          "title_en": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_original": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://code.claude.com/docs/en/changelog",
-          "source": "code.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-18T21:43:30.451000Z"
-        },
-        {
-          "id": "3872bcbd3d7eed8ad192a155581b2802cdf88852",
-          "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件 / Claude Code now reads AGENTS.md if there is no Claude.md",
-          "title_zh": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
-          "title_en": "Claude Code now reads AGENTS.md if there is no Claude.md",
-          "title_original": "Claude Code now reads AGENTS.md if there is no Claude.md",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://code.claude.com/docs/en/changelog",
+          "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-18T21:00:32Z"
+          "published_at": "2026-09-19T07:13:10Z"
         },
         {
-          "id": "e8cf105bd13827289f91722288b2f1c462f33765",
-          "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-          "title_zh": null,
-          "title_en": "Claude Code now reads AGENTS.md if there is no Claude.md",
-          "title_original": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "id": "dbce1e1c01051bf7f043b65bb88c1656f0850b99",
+          "title": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人 / The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_zh": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人",
+          "title_en": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_original": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49760187",
+          "url": "https://news.ycombinator.com/item?id=49764141",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-18T21:00:32Z"
+          "published_at": "2026-09-19T07:13:10Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "code.claude.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "08fffccee66aaa6df7359ff35508dcadb973f27d",
-          "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
-          "title_zh": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
-          "title_en": null,
-          "title_original": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+          "id": "7348ea2b1fe27b301cbfa8fc2dcc071b225023c8",
+          "title": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人 / The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_zh": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人",
+          "title_en": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_original": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://code.claude.com/docs/en/changelog",
-          "source": "code.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-18T21:43:30.451000Z"
-        },
-        {
-          "id": "3872bcbd3d7eed8ad192a155581b2802cdf88852",
-          "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件 / Claude Code now reads AGENTS.md if there is no Claude.md",
-          "title_zh": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
-          "title_en": "Claude Code now reads AGENTS.md if there is no Claude.md",
-          "title_original": "Claude Code now reads AGENTS.md if there is no Claude.md",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://code.claude.com/docs/en/changelog",
+          "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-18T21:00:32Z"
+          "published_at": "2026-09-19T07:13:10Z"
         },
         {
-          "id": "e8cf105bd13827289f91722288b2f1c462f33765",
-          "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-          "title_zh": null,
-          "title_en": "Claude Code now reads AGENTS.md if there is no Claude.md",
-          "title_original": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "id": "dbce1e1c01051bf7f043b65bb88c1656f0850b99",
+          "title": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人 / The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_zh": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人",
+          "title_en": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_original": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49760187",
+          "url": "https://news.ycombinator.com/item?id=49764141",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-18T21:00:32Z"
+          "published_at": "2026-09-19T07:13:10Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5107,
+      "importance": 0.5107,
+      "importance_score": 0.5107,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7411,
-        "story_heat": 0.5
+        "recency": 0.8052,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-18T21:00:32Z",
-      "latest_at": "2026-09-18T21:43:30.451000Z",
+      "earliest_at": "2026-09-19T07:13:10Z",
+      "latest_at": "2026-09-19T07:13:10Z",
       "primary_item": {
-        "id": "08fffccee66aaa6df7359ff35508dcadb973f27d",
-        "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
-        "title_zh": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
-        "title_en": null,
-        "title_original": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+        "id": "7348ea2b1fe27b301cbfa8fc2dcc071b225023c8",
+        "title": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人 / The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+        "title_zh": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人",
+        "title_en": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+        "title_original": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://code.claude.com/docs/en/changelog",
-        "source": "code.claude.com",
-        "source_name": "Buzzing"
+        "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:29.781001Z"
+        "scored_at": "2026-09-19T22:14:00.367878Z"
+      }
+    },
+    {
+      "story_id": "story_a1a7ab465c4b",
+      "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
+          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+          "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+          "title_en": "Google's Gemini AI hacked three companies in security test",
+          "title_original": "Google's Gemini AI hacked three companies in security test",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T06:09:23Z"
+        },
+        {
+          "id": "9bd7371c70addd76ddfa999e87bd0eb688774983",
+          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+          "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+          "title_en": "Google's Gemini AI hacked three companies in security test",
+          "title_original": "Google's Gemini AI hacked three companies in security test",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T04:27:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
+          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+          "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+          "title_en": "Google's Gemini AI hacked three companies in security test",
+          "title_original": "Google's Gemini AI hacked three companies in security test",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T06:09:23Z"
+        },
+        {
+          "id": "9bd7371c70addd76ddfa999e87bd0eb688774983",
+          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+          "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+          "title_en": "Google's Gemini AI hacked three companies in security test",
+          "title_original": "Google's Gemini AI hacked three companies in security test",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T04:27:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5085,
+      "importance": 0.5085,
+      "importance_score": 0.5085,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7929,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T04:27:11Z",
+      "latest_at": "2026-09-19T06:09:23Z",
+      "primary_item": {
+        "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
+        "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+        "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+        "title_en": "Google's Gemini AI hacked three companies in security test",
+        "title_original": "Google's Gemini AI hacked three companies in security test",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T22:14:00.367878Z"
+      }
+    },
+    {
+      "story_id": "story_2ea16f4d1f3b",
+      "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+      "primary_url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "025e504fa072bd99b6ed0ad519e2603f0a68dfe1",
+          "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM 月球基金会开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T04:44:35Z"
+        },
+        {
+          "id": "bc562f8c0f587041a6cfca21c020379af5d5821a",
+          "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM 月球基金会开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49763379",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T04:44:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "025e504fa072bd99b6ed0ad519e2603f0a68dfe1",
+          "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM 月球基金会开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T04:44:35Z"
+        },
+        {
+          "id": "bc562f8c0f587041a6cfca21c020379af5d5821a",
+          "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM 月球基金会开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49763379",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T04:44:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5056,
+      "importance": 0.5056,
+      "importance_score": 0.5056,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7769,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T04:44:35Z",
+      "latest_at": "2026-09-19T04:44:35Z",
+      "primary_item": {
+        "id": "025e504fa072bd99b6ed0ad519e2603f0a68dfe1",
+        "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "title_zh": "NASA-IBM 月球基金会开源地理空间 AI 模型",
+        "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T22:14:00.367878Z"
       }
     }
   ]
