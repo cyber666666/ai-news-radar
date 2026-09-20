@@ -1,8 +1,178 @@
 {
-  "generated_at": "2026-09-20T18:32:48.426136Z",
+  "generated_at": "2026-09-20T22:15:36.035694Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a682219ecb2e",
+      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": null,
+          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_en": null,
+          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "ab4dd49f01223a9b4cce0964a27827350d8692f4",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T15:18:44Z"
+        },
+        {
+          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
+          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49776729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:18:44Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "www.buchodi.com"
+      ],
+      "items": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": null,
+          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_en": null,
+          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "ab4dd49f01223a9b4cce0964a27827350d8692f4",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T15:18:44Z"
+        },
+        {
+          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
+          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49776729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:18:44Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8441,
+      "importance": 0.8441,
+      "importance_score": 0.8441,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9416,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T15:18:44Z",
+      "latest_at": "2026-09-20T18:05:38.317000Z",
+      "primary_item": {
+        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "title_en": null,
+        "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+        "recommend_reason_zh": null,
+        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T22:26:14.514871Z"
+      }
+    },
     {
       "story_id": "story_67bbb2f19d0e",
       "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
@@ -40,7 +210,21 @@
           "published_at": "2026-09-20T14:40:14.401000Z"
         },
         {
-          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
+          "id": "9f5e3621a5271eb86e036a8d0a08c719b98c9ba1",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen Image 2.1",
+          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "title_en": "Qwen Image 2.1",
+          "title_original": "Qwen Image 2.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T13:09:25Z"
+        },
+        {
+          "id": "aab421d5ea2118e7efff30044fa8b9703ebea7d6",
           "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
           "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
           "title_en": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
@@ -48,15 +232,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-20T13:09:25Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Qwen：Blog Retrieval（API）",
         "qwen.ai"
       ],
@@ -90,7 +274,21 @@
           "published_at": "2026-09-20T14:40:14.401000Z"
         },
         {
-          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
+          "id": "9f5e3621a5271eb86e036a8d0a08c719b98c9ba1",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen Image 2.1",
+          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "title_en": "Qwen Image 2.1",
+          "title_original": "Qwen Image 2.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T13:09:25Z"
+        },
+        {
+          "id": "aab421d5ea2118e7efff30044fa8b9703ebea7d6",
           "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
           "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
           "title_en": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
@@ -98,24 +296,24 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-20T13:09:25Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9098,
-        "story_heat": 0.5
+        "recency": 0.8623,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -141,7 +339,252 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
+        "scored_at": "2026-09-20T22:26:14.514871Z"
+      }
+    },
+    {
+      "story_id": "story_b27cd7e4992a",
+      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "title_zh": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "title_en": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "title_original": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "summary": "Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "title_zh": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "title_en": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "title_original": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "summary": "Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9728,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T20:20:56Z",
+      "latest_at": "2026-09-20T20:20:56Z",
+      "primary_item": {
+        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+        "title_zh": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+        "title_en": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+        "title_original": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+        "summary": "Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T22:26:14.514871Z"
+      }
+    },
+    {
+      "story_id": "story_24e06ede9452",
+      "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+      "url": "https://www.aibase.com/news/31206",
+      "primary_url": "https://www.aibase.com/news/31206",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
+          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "title_en": null,
+          "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31206",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T15:40:25.535685Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
+          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "title_en": null,
+          "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31206",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T15:40:25.535685Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9093,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T15:40:25.535685Z",
+      "latest_at": "2026-09-20T15:40:25.535685Z",
+      "primary_item": {
+        "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
+        "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+        "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+        "title_en": null,
+        "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31206",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T22:26:14.514871Z"
+      }
+    },
+    {
+      "story_id": "story_e7fee7b1503f",
+      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T13:52:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T13:52:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8859,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-20T13:52:24Z",
+      "latest_at": "2026-09-20T13:52:24Z",
+      "primary_item": {
+        "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+        "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+        "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+        "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+        "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T22:26:14.514871Z"
       }
     },
     {
@@ -218,15 +661,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7647,
+        "recency": 0.7248,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -253,170 +696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
-      }
-    },
-    {
-      "story_id": "story_24e06ede9452",
-      "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-      "url": "https://www.aibase.com/news/31206",
-      "primary_url": "https://www.aibase.com/news/31206",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "title_en": null,
-          "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31206",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T15:40:25.535685Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "title_en": null,
-          "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31206",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T15:40:25.535685Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9594,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T15:40:25.535685Z",
-      "latest_at": "2026-09-20T15:40:25.535685Z",
-      "primary_item": {
-        "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-        "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-        "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-        "title_en": null,
-        "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31206",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
-      }
-    },
-    {
-      "story_id": "story_e7fee7b1503f",
-      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9347,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T13:52:24Z",
-      "latest_at": "2026-09-20T13:52:24Z",
-      "primary_item": {
-        "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-        "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-        "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-        "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-        "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
+        "scored_at": "2026-09-20T22:26:14.514871Z"
       }
     },
     {
@@ -464,15 +744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8741,
+        "recency": 0.8285,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,7 +777,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
+        "scored_at": "2026-09-20T22:26:14.514871Z"
       }
     },
     {
@@ -545,15 +825,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8741,
+        "recency": 0.8285,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -578,7 +858,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
+        "scored_at": "2026-09-20T22:26:14.514871Z"
       }
     },
     {
@@ -626,15 +906,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8741,
+        "recency": 0.8285,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -659,7 +939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
+        "scored_at": "2026-09-20T22:26:14.514871Z"
       }
     },
     {
@@ -707,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8741,
+        "recency": 0.8285,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -740,117 +1020,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
+        "scored_at": "2026-09-20T22:26:14.514871Z"
       }
     },
     {
-      "story_id": "story_98f7eb83a544",
-      "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-      "primary_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-      "source": "TechCrunch AI",
+      "story_id": "story_2db69fbe8a5a",
+      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-          "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "title_zh": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队",
-          "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "title_original": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": null,
+          "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-19T19:57:47Z"
+          "published_at": "2026-09-20T18:50:18Z"
         },
         {
-          "id": "9c9aded36e1ae0b6ae6bde1e2de0d646be86958f",
-          "title": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队 / Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-          "title_zh": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队",
-          "title_en": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-          "title_original": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "id": "4c2db2373e60e802256489099a61485b7afa431a",
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": null,
+          "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_original": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T19:57:47Z"
+          "published_at": "2026-09-20T18:50:18Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-          "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "title_zh": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队",
-          "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "title_original": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": null,
+          "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-19T19:57:47Z"
+          "published_at": "2026-09-20T18:50:18Z"
         },
         {
-          "id": "9c9aded36e1ae0b6ae6bde1e2de0d646be86958f",
-          "title": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队 / Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-          "title_zh": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队",
-          "title_en": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-          "title_original": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "id": "4c2db2373e60e802256489099a61485b7afa431a",
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": null,
+          "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_original": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T19:57:47Z"
+          "published_at": "2026-09-20T18:50:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5987,
-      "importance": 0.5987,
-      "importance_score": 0.5987,
+      "score": 0.6068,
+      "importance": 0.6068,
+      "importance_score": 0.6068,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5472,
+        "editorial": 0.4896,
         "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7217,
+        "ai_relevance": 0.68,
+        "recency": 0.9518,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T19:57:47Z",
-      "latest_at": "2026-09-19T19:57:47Z",
+      "earliest_at": "2026-09-20T18:50:18Z",
+      "latest_at": "2026-09-20T18:50:18Z",
       "primary_item": {
-        "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-        "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-        "title_zh": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队",
-        "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-        "title_original": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+        "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+        "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "title_zh": null,
+        "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-        "source": "TechCrunch AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+        "source": "The Verge",
         "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
+        "scored_at": "2026-09-20T22:26:14.514871Z"
       }
     },
     {
@@ -898,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8741,
+        "recency": 0.8285,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -931,146 +1210,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
-      }
-    },
-    {
-      "story_id": "story_a682219ecb2e",
-      "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "source": "www.buchodi.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": null,
-          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "ab4dd49f01223a9b4cce0964a27827350d8692f4",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T15:18:44Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.buchodi.com"
-      ],
-      "items": [
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": null,
-          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "ab4dd49f01223a9b4cce0964a27827350d8692f4",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T15:18:44Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9935,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T15:18:44Z",
-      "latest_at": "2026-09-20T18:05:38.317000Z",
-      "primary_item": {
-        "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-        "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-        "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-        "title_en": null,
-        "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-        "source": "www.buchodi.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
+        "scored_at": "2026-09-20T22:26:14.514871Z"
       }
     },
     {
@@ -1176,15 +1316,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.567,
-      "importance": 0.567,
-      "importance_score": 0.567,
+      "score": 0.5578,
+      "importance": 0.5578,
+      "importance_score": 0.5578,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9787,
+        "recency": 0.9276,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1209,7 +1349,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
+        "scored_at": "2026-09-20T22:26:14.514871Z"
       }
     },
     {
@@ -1257,15 +1397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8741,
+        "recency": 0.8285,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1290,7 +1430,226 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
+        "scored_at": "2026-09-20T22:26:14.514871Z"
+      }
+    },
+    {
+      "story_id": "story_c4382ef1742b",
+      "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+      "primary_url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+          "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_zh": null,
+          "title_en": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_original": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T20:32:43Z"
+        },
+        {
+          "id": "26934ca035ec935dcc7ebba6302f9a7d7e04013d",
+          "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_zh": null,
+          "title_en": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_original": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49779802",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T20:32:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+          "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_zh": null,
+          "title_en": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_original": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T20:32:43Z"
+        },
+        {
+          "id": "26934ca035ec935dcc7ebba6302f9a7d7e04013d",
+          "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_zh": null,
+          "title_en": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_original": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49779802",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T20:32:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9755,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T20:32:43Z",
+      "latest_at": "2026-09-20T20:32:43Z",
+      "primary_item": {
+        "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+        "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+        "title_zh": null,
+        "title_en": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+        "title_original": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T22:26:14.514871Z"
+      }
+    },
+    {
+      "story_id": "story_9cad91d21d37",
+      "title": "Prompts Aren't Real",
+      "url": "https://news.ycombinator.com/item?id=49777111",
+      "primary_url": "https://news.ycombinator.com/item?id=49777111",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f7298785b732c26cf78359ba15c79c02b7896e2b",
+          "title": "Prompts Aren't Real",
+          "title_zh": null,
+          "title_en": "Prompts Aren't Real",
+          "title_original": "Prompts Aren't Real",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49777111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:59:25Z"
+        },
+        {
+          "id": "2e211c410fb3993b66e21663d8c152cfa1076e3b",
+          "title": "Prompts aren’t Real",
+          "title_zh": null,
+          "title_en": "Prompts aren’t Real",
+          "title_original": "Prompts aren’t Real",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49777111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:59:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f7298785b732c26cf78359ba15c79c02b7896e2b",
+          "title": "Prompts Aren't Real",
+          "title_zh": null,
+          "title_en": "Prompts Aren't Real",
+          "title_original": "Prompts Aren't Real",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49777111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:59:25Z"
+        },
+        {
+          "id": "2e211c410fb3993b66e21663d8c152cfa1076e3b",
+          "title": "Prompts aren’t Real",
+          "title_zh": null,
+          "title_en": "Prompts aren’t Real",
+          "title_original": "Prompts aren’t Real",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49777111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:59:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9134,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T15:59:25Z",
+      "latest_at": "2026-09-20T15:59:25Z",
+      "primary_item": {
+        "id": "f7298785b732c26cf78359ba15c79c02b7896e2b",
+        "title": "Prompts Aren't Real",
+        "title_zh": null,
+        "title_en": "Prompts Aren't Real",
+        "title_original": "Prompts Aren't Real",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49777111",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T22:26:14.514871Z"
       }
     },
     {
@@ -1367,15 +1726,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9603,
+        "recency": 0.9101,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1400,7 +1759,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
+        "scored_at": "2026-09-20T22:26:14.514871Z"
       }
     },
     {
@@ -1448,15 +1807,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8741,
+        "recency": 0.8285,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1481,7 +1840,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
+        "scored_at": "2026-09-20T22:26:14.514871Z"
       }
     },
     {
@@ -1507,7 +1866,7 @@
           "published_at": "2026-09-20T12:50:12.972000Z"
         },
         {
-          "id": "510bc5f41a64af0dcb1125f4de5b403c68eed0c3",
+          "id": "c3d6b1a7c9be9799bda91fd866e9e2214ea3f055",
           "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
           "title_zh": "人工智能与“知识共享”的瓦解",
           "title_en": "AI and the Destruction of the Creative Commons",
@@ -1515,15 +1874,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T10:07:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "www.chesterwisniewski.com"
       ],
       "items": [
@@ -1542,7 +1901,7 @@
           "published_at": "2026-09-20T12:50:12.972000Z"
         },
         {
-          "id": "510bc5f41a64af0dcb1125f4de5b403c68eed0c3",
+          "id": "c3d6b1a7c9be9799bda91fd866e9e2214ea3f055",
           "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
           "title_zh": "人工智能与“知识共享”的瓦解",
           "title_en": "AI and the Destruction of the Creative Commons",
@@ -1550,23 +1909,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T10:07:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9209,
+        "recency": 0.8728,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1591,7 +1950,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
+        "scored_at": "2026-09-20T22:26:14.514871Z"
       }
     },
     {
@@ -1599,11 +1958,11 @@
       "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
       "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
       "primary_url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
+          "id": "6ce6a05bdc253dce9b785abf57b5fdde5a3bad38",
           "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
           "title_zh": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案",
           "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
@@ -1611,9 +1970,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T07:38:37Z"
         },
         {
@@ -1633,12 +1992,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
+          "id": "6ce6a05bdc253dce9b785abf57b5fdde5a3bad38",
           "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
           "title_zh": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案",
           "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
@@ -1646,9 +2005,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T07:38:37Z"
         },
         {
@@ -1668,15 +2027,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5196,
-      "importance": 0.5196,
-      "importance_score": 0.5196,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8543,
+        "recency": 0.8097,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1686,7 +2045,7 @@
       "earliest_at": "2026-09-20T07:38:37Z",
       "latest_at": "2026-09-20T07:38:37Z",
       "primary_item": {
-        "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
+        "id": "6ce6a05bdc253dce9b785abf57b5fdde5a3bad38",
         "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
         "title_zh": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案",
         "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
@@ -1694,286 +2053,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
-      }
-    },
-    {
-      "story_id": "story_79fe487188c4",
-      "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-      "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-      "primary_url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
-      "sources": [
-        {
-          "id": "11fe2dfd54c4275015fda1d3ba1d57f8c61f237d",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-20T05:46:19Z"
-        },
-        {
-          "id": "1e8cd5edc0205aacef8052cbbeb2e9f6a0a09ed5",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49772806",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T05:46:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "11fe2dfd54c4275015fda1d3ba1d57f8c61f237d",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-20T05:46:19Z"
-        },
-        {
-          "id": "1e8cd5edc0205aacef8052cbbeb2e9f6a0a09ed5",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49772806",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T05:46:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5155,
-      "importance": 0.5155,
-      "importance_score": 0.5155,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8315,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T05:46:19Z",
-      "latest_at": "2026-09-20T05:46:19Z",
-      "primary_item": {
-        "id": "11fe2dfd54c4275015fda1d3ba1d57f8c61f237d",
-        "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-        "title_zh": "编排Claude代码代理：参谋长模式",
-        "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-        "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
-      }
-    },
-    {
-      "story_id": "story_f7f3d62fb233",
-      "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-      "url": "https://www.aibase.com/news/31200",
-      "primary_url": "https://www.aibase.com/news/31200",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
-          "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-          "title_zh": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-          "title_en": null,
-          "title_original": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31200",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:13:42.772714Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
-          "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-          "title_zh": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-          "title_en": null,
-          "title_original": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31200",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:13:42.772714Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8741,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T09:13:42.772714Z",
-      "latest_at": "2026-09-20T09:13:42.772714Z",
-      "primary_item": {
-        "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
-        "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-        "title_zh": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-        "title_en": null,
-        "title_original": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31200",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
-      }
-    },
-    {
-      "story_id": "story_c096011f87e1",
-      "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-      "url": "https://www.aibase.com/news/31190",
-      "primary_url": "https://www.aibase.com/news/31190",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-          "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_zh": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_en": null,
-          "title_original": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31190",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:13:42.772714Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-          "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_zh": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_en": null,
-          "title_original": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31190",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:13:42.772714Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8741,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T09:13:42.772714Z",
-      "latest_at": "2026-09-20T09:13:42.772714Z",
-      "primary_item": {
-        "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-        "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-        "title_zh": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-        "title_en": null,
-        "title_original": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31190",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:33:27.553183Z"
+        "scored_at": "2026-09-20T22:26:14.514871Z"
       }
     }
   ]
