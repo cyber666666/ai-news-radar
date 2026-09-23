@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T03:52:50.939953Z",
+  "generated_at": "2026-09-23T09:10:28.285076Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -40,7 +40,7 @@
           "published_at": "2026-09-22T18:25:24.334000Z"
         },
         {
-          "id": "1d746009a162e60995108bc83c1210f0a80171d7",
+          "id": "88b5f6a9ce1de2f49c71bc863fcfe7bc2cf3e306",
           "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50% / GPT-6 Sol and Luna",
           "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%",
           "title_en": "GPT-6 Sol and Luna",
@@ -48,15 +48,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-22T18:00:34Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "OpenAI News",
         "openai.com"
       ],
@@ -90,7 +90,7 @@
           "published_at": "2026-09-22T18:25:24.334000Z"
         },
         {
-          "id": "1d746009a162e60995108bc83c1210f0a80171d7",
+          "id": "88b5f6a9ce1de2f49c71bc863fcfe7bc2cf3e306",
           "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50% / GPT-6 Sol and Luna",
           "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%",
           "title_en": "GPT-6 Sol and Luna",
@@ -98,23 +98,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-22T18:00:34Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8861,
-      "importance": 0.8861,
-      "importance_score": 0.8861,
+      "score": 0.8746,
+      "importance": 0.8746,
+      "importance_score": 0.8746,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.867,
+        "recency": 0.8032,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -248,15 +248,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8816,
-      "importance": 0.8816,
-      "importance_score": 0.8816,
+      "score": 0.8703,
+      "importance": 0.8703,
+      "importance_score": 0.8703,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8533,
+        "recency": 0.7905,
         "story_heat": 0.5
       },
       "category": "official",
@@ -283,7 +283,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -418,15 +418,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8631,
-      "importance": 0.8631,
-      "importance_score": 0.8631,
+      "score": 0.8514,
+      "importance": 0.8514,
+      "importance_score": 0.8514,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8804,
+        "recency": 0.8156,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -453,7 +453,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -501,15 +501,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8562,
-      "importance": 0.8562,
-      "importance_score": 0.8562,
+      "score": 0.8437,
+      "importance": 0.8437,
+      "importance_score": 0.8437,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9455,
+        "recency": 0.8759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -536,7 +536,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -584,15 +584,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
+      "score": 0.8349,
+      "importance": 0.8349,
+      "importance_score": 0.8349,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9767,
+        "recency": 0.9048,
         "story_heat": 0.0
       },
       "category": "official",
@@ -619,7 +619,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -667,15 +667,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.851,
-      "importance": 0.851,
-      "importance_score": 0.851,
+      "score": 0.839,
+      "importance": 0.839,
+      "importance_score": 0.839,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9054,
+        "recency": 0.8388,
         "story_heat": 0.0
       },
       "category": "official",
@@ -702,7 +702,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -808,15 +808,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.886,
+        "recency": 0.8208,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -843,7 +843,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -891,15 +891,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
+      "score": 0.831,
+      "importance": 0.831,
+      "importance_score": 0.831,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9533,
+        "recency": 0.8832,
         "story_heat": 0.0
       },
       "category": "official",
@@ -926,7 +926,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -1003,15 +1003,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9425,
+        "recency": 0.8731,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1038,7 +1038,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -1115,15 +1115,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.7955,
+      "importance": 0.7955,
+      "importance_score": 0.7955,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8632,
+        "recency": 0.7997,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1150,7 +1150,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -1227,15 +1227,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8501,
+        "recency": 0.7876,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1262,30 +1262,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
-      "story_id": "story_cb40729325c2",
-      "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-      "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
-      "primary_url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
+      "story_id": "story_8270efdbfdab",
+      "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+      "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
+      "primary_url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
       "source": "MarkTechPost（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "42efef65cb6e3db66d10732e009702ceb3f60d99",
-          "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-          "title_zh": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%",
-          "title_en": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-          "title_original": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-          "summary": "Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。",
+          "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
+          "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+          "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
+          "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+          "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+          "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
           "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
+          "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
           "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-22T18:59:35Z"
+          "published_at": "2026-09-23T05:18:36Z"
         }
       ],
       "source_count": 1,
@@ -1294,31 +1294,31 @@
       ],
       "items": [
         {
-          "id": "42efef65cb6e3db66d10732e009702ceb3f60d99",
-          "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-          "title_zh": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%",
-          "title_en": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-          "title_original": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-          "summary": "Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。",
+          "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
+          "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+          "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
+          "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+          "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+          "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
           "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
+          "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
           "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-22T18:59:35Z"
+          "published_at": "2026-09-23T05:18:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.7848,
+      "importance": 0.7848,
+      "importance_score": 0.7848,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.84,
+        "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8796,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1326,17 +1326,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T18:59:35Z",
-      "latest_at": "2026-09-22T18:59:35Z",
+      "earliest_at": "2026-09-23T05:18:36Z",
+      "latest_at": "2026-09-23T05:18:36Z",
       "primary_item": {
-        "id": "42efef65cb6e3db66d10732e009702ceb3f60d99",
-        "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-        "title_zh": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%",
-        "title_en": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-        "title_original": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-        "summary": "Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。",
+        "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
+        "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+        "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
+        "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+        "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+        "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
         "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
+        "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       },
@@ -1344,7 +1344,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -1392,15 +1392,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8712,
+        "recency": 0.8071,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1426,7 +1426,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
+      }
+    },
+    {
+      "story_id": "story_c06640dd9bba",
+      "title": "AI会自己返工到达标为止?豆包工作上线目标模式，先给计划、确认后才干活",
+      "url": "https://www.aibase.com/news/31298",
+      "primary_url": "https://www.aibase.com/news/31298",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "eed20b4433e5ff451ef4dc1466329844184508df",
+          "title": "AI会自己返工到达标为止?豆包工作上线目标模式，先给计划、确认后才干活",
+          "title_zh": "AI会自己返工到达标为止?豆包工作上线目标模式，先给计划、确认后才干活",
+          "title_en": null,
+          "title_original": "AI会自己返工到达标为止?豆包工作上线目标模式，先给计划、确认后才干活",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31298",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T09:10:28.285076Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "eed20b4433e5ff451ef4dc1466329844184508df",
+          "title": "AI会自己返工到达标为止?豆包工作上线目标模式，先给计划、确认后才干活",
+          "title_zh": "AI会自己返工到达标为止?豆包工作上线目标模式，先给计划、确认后才干活",
+          "title_en": null,
+          "title_original": "AI会自己返工到达标为止?豆包工作上线目标模式，先给计划、确认后才干活",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31298",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T09:10:28.285076Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T09:10:28.285076Z",
+      "latest_at": "2026-09-23T09:10:28.285076Z",
+      "primary_item": {
+        "id": "eed20b4433e5ff451ef4dc1466329844184508df",
+        "title": "AI会自己返工到达标为止?豆包工作上线目标模式，先给计划、确认后才干活",
+        "title_zh": "AI会自己返工到达标为止?豆包工作上线目标模式，先给计划、确认后才干活",
+        "title_en": null,
+        "title_original": "AI会自己返工到达标为止?豆包工作上线目标模式，先给计划、确认后才干活",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31298",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -1474,15 +1556,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8567,
+        "recency": 0.7937,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1509,171 +1591,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
-      }
-    },
-    {
-      "story_id": "story_b9396e7ee21f",
-      "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
-      "url": "https://www.aibase.com/news/31279",
-      "primary_url": "https://www.aibase.com/news/31279",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5bb5aeb9b9e703d8de2913f250d6a4550fb0f74e",
-          "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
-          "title_zh": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
-          "title_en": null,
-          "title_original": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31279",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T03:52:50.939953Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5bb5aeb9b9e703d8de2913f250d6a4550fb0f74e",
-          "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
-          "title_zh": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
-          "title_en": null,
-          "title_original": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31279",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T03:52:50.939953Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T03:52:50.939953Z",
-      "latest_at": "2026-09-23T03:52:50.939953Z",
-      "primary_item": {
-        "id": "5bb5aeb9b9e703d8de2913f250d6a4550fb0f74e",
-        "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
-        "title_zh": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
-        "title_en": null,
-        "title_original": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31279",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
-      }
-    },
-    {
-      "story_id": "story_38599b55a428",
-      "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
-      "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
-          "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
-          "title_zh": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
-          "title_en": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
-          "title_original": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
-          "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T20:12:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
-          "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
-          "title_zh": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
-          "title_en": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
-          "title_original": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
-          "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T20:12:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8951,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T20:12:31Z",
-      "latest_at": "2026-09-22T20:12:31Z",
-      "primary_item": {
-        "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
-        "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
-        "title_zh": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
-        "title_en": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
-        "title_original": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
-        "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -1721,15 +1639,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7951,
+        "recency": 0.7366,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1756,7 +1674,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
+      }
+    },
+    {
+      "story_id": "story_38599b55a428",
+      "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+      "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
+          "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+          "title_zh": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+          "title_en": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+          "title_original": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+          "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T20:12:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
+          "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+          "title_zh": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+          "title_en": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+          "title_original": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+          "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T20:12:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8292,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T20:12:31Z",
+      "latest_at": "2026-09-22T20:12:31Z",
+      "primary_item": {
+        "id": "c19fc09a5e5d15914f5c59ee0ad1fc9a20595681",
+        "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+        "title_zh": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+        "title_en": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+        "title_original": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+        "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -1804,21 +1804,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.872,
+        "recency": 0.8078,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-22T18:23:35Z",
       "latest_at": "2026-09-22T18:23:35Z",
@@ -1838,7 +1837,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -1886,21 +1885,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8711,
+        "recency": 0.807,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-22T18:19:24Z",
       "latest_at": "2026-09-22T18:19:24Z",
@@ -1920,7 +1918,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     },
     {
@@ -1968,21 +1966,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8704,
+        "recency": 0.8064,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-22T18:16:22Z",
       "latest_at": "2026-09-22T18:16:22Z",
@@ -2002,7 +1999,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T03:53:42.856573Z"
+        "scored_at": "2026-09-23T09:28:58.112058Z"
       }
     }
   ]
