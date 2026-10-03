@@ -1,89 +1,88 @@
 {
-  "generated_at": "2026-10-03T19:04:53.071787Z",
+  "generated_at": "2026-10-03T22:44:26.666537Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 7,
   "items": [
     {
-      "story_id": "story_cc4a44476dc4",
-      "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_6c512ed5ed17",
+      "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
+      "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-          "title_en": "Copilot code review: API support and new default effort level",
-          "title_original": "Copilot code review: API support and new default effort level",
-          "summary": null,
+          "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
+          "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
+          "title_zh": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+          "title_en": "Hugely revealing paper from Google.",
+          "title_original": "Hugely revealing paper from Google.",
+          "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
+          "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T21:52:11Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-          "title_en": "Copilot code review: API support and new default effort level",
-          "title_original": "Copilot code review: API support and new default effort level",
-          "summary": null,
+          "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
+          "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
+          "title_zh": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+          "title_en": "Hugely revealing paper from Google.",
+          "title_original": "Hugely revealing paper from Google.",
+          "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
+          "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T21:52:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
-      "importance_label": "官方更新",
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7086,
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9875,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T19:13:50Z",
-      "latest_at": "2026-10-02T19:13:50Z",
+      "earliest_at": "2026-10-03T21:52:11Z",
+      "latest_at": "2026-10-03T21:52:11Z",
       "primary_item": {
-        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-        "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-        "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-        "title_en": "Copilot code review: API support and new default effort level",
-        "title_original": "Copilot code review: API support and new default effort level",
-        "summary": null,
+        "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
+        "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
+        "title_zh": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+        "title_en": "Hugely revealing paper from Google.",
+        "title_original": "Hugely revealing paper from Google.",
+        "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T19:05:39.166339Z"
+        "scored_at": "2026-10-03T22:45:15.965028Z"
       }
     },
     {
@@ -131,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9485,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,90 +164,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T19:05:39.166339Z"
-      }
-    },
-    {
-      "story_id": "story_3f3282702712",
-      "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-      "primary_url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-          "title_zh": "无状态 GitHub 应用程序安装令牌推出",
-          "title_en": "Stateless GitHub App installation tokens rolled out",
-          "title_original": "Stateless GitHub App installation tokens rolled out",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T22:18:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-          "title_zh": "无状态 GitHub 应用程序安装令牌推出",
-          "title_en": "Stateless GitHub App installation tokens rolled out",
-          "title_original": "Stateless GitHub App installation tokens rolled out",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T22:18:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7408,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T22:18:23Z",
-      "latest_at": "2026-10-02T22:18:23Z",
-      "primary_item": {
-        "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-        "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-        "title_zh": "无状态 GitHub 应用程序安装令牌推出",
-        "title_en": "Stateless GitHub App installation tokens rolled out",
-        "title_original": "Stateless GitHub App installation tokens rolled out",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T19:05:39.166339Z"
+        "scored_at": "2026-10-03T22:45:15.965028Z"
       }
     },
     {
@@ -296,15 +212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8316,
+        "recency": 0.7888,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -330,169 +246,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T19:05:39.166339Z"
+        "scored_at": "2026-10-03T22:45:15.965028Z"
       }
     },
     {
-      "story_id": "story_6ea06168ae24",
-      "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-      "url": "https://x.com/AIatMeta/status/2106099776035152231",
-      "primary_url": "https://x.com/AIatMeta/status/2106099776035152231",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "source_name": "AI HOT",
+      "story_id": "story_c7ba5f8749ed",
+      "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "primary_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "source": "claude.dev",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-          "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-          "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
+          "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+          "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+          "title_en": null,
+          "title_original": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/AIatMeta/status/2106099776035152231",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:11:30Z"
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "claude.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T22:31:58.644000Z"
+        },
+        {
+          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+          "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_original": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T18:29:30Z"
+        },
+        {
+          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
+          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_zh": "在 Claude 和 Claude 代码中充分利用 Opus 5.5",
+          "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_original": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49946567",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T18:29:30Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "X：AI at Meta (@AIatMeta)"
+        "Hacker News (黑客新闻)",
+        "claude.dev",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-          "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-          "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
+          "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+          "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+          "title_en": null,
+          "title_original": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/AIatMeta/status/2106099776035152231",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:11:30Z"
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "claude.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T22:31:58.644000Z"
+        },
+        {
+          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+          "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_original": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T18:29:30Z"
+        },
+        {
+          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
+          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_zh": "在 Claude 和 Claude 代码中充分利用 Opus 5.5",
+          "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "title_original": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49946567",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T18:29:30Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7082,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.997,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-02T19:11:30Z",
-      "latest_at": "2026-10-02T19:11:30Z",
+      "earliest_at": "2026-10-03T18:29:30Z",
+      "latest_at": "2026-10-03T22:31:58.644000Z",
       "primary_item": {
-        "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-        "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-        "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-        "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-        "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-        "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
+        "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
+        "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+        "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+        "title_en": null,
+        "title_original": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/AIatMeta/status/2106099776035152231",
-        "source": "X：AI at Meta (@AIatMeta)",
-        "source_name": "AI HOT"
+        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+        "source": "claude.dev",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T19:05:39.166339Z"
-      }
-    },
-    {
-      "story_id": "story_24541b2d70e1",
-      "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-      "primary_url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-      "source": "Google Research：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-          "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "title_zh": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-          "title_en": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "title_original": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。",
-          "recommend_reason_zh": null,
-          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Research：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-          "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "title_zh": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-          "title_en": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "title_original": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。",
-          "recommend_reason_zh": null,
-          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7212,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T20:27:00.610697Z",
-      "latest_at": "2026-10-02T20:27:00.610697Z",
-      "primary_item": {
-        "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-        "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-        "title_zh": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-        "title_en": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-        "title_original": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-        "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。",
-        "recommend_reason_zh": null,
-        "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-        "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T19:05:39.166339Z"
+        "scored_at": "2026-10-03T22:45:15.965028Z"
       }
     },
     {
@@ -598,15 +491,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5598,
-      "importance": 0.5598,
-      "importance_score": 0.5598,
+      "score": 0.5511,
+      "importance": 0.5511,
+      "importance_score": 0.5511,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9391,
+        "recency": 0.8908,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -631,293 +524,154 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T19:05:39.166339Z"
+        "scored_at": "2026-10-03T22:45:15.965028Z"
       }
     },
     {
-      "story_id": "story_3ddeafd1667e",
-      "title": "Show HN: 开发了一个开源的乐高AI生成器",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "primary_url": "https://github.com/anteloc/ldraw-nova",
-      "source": "github.com",
+      "story_id": "story_75c7e0103abd",
+      "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "source": "www.theatlantic.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器",
-          "title_zh": "Show HN: 开发了一个开源的乐高AI生成器",
+          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
           "title_en": null,
-          "title_original": "Show HN: 开发了一个开源的乐高AI生成器",
+          "title_original": "我离开OpenAI，因为它的企业文化已经崩坏",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "github.com",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "www.theatlantic.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T06:39:44.372000Z"
+          "published_at": "2026-10-03T21:45:54.461000Z"
         },
         {
-          "id": "c24639a6187c2d76a863de1d12cb2ae83dbdf20e",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器 / Show HN: Made an open-source Lego AI generator",
-          "title_zh": "Show HN: 开发了一个开源的乐高AI生成器",
-          "title_en": "Show HN: Made an open-source Lego AI generator",
-          "title_original": "Show HN: Made an open-source Lego AI generator",
+          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+          "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "title_en": "I Quit OpenAI Because Its Culture Is Broken",
+          "title_original": "I Quit OpenAI Because Its Culture Is Broken",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/anteloc/ldraw-nova",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-02T20:00:15Z"
-        },
-        {
-          "id": "a666c1a00df38beccd91fc3b866760e75714ab81",
-          "title": "Show HN：制作了一个开源乐高人工智能生成器 / Show HN: Made an open-source Lego AI generator",
-          "title_zh": "Show HN：制作了一个开源乐高人工智能生成器",
-          "title_en": "Show HN: Made an open-source Lego AI generator",
-          "title_original": "Show HN: Made an open-source Lego AI generator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49937916",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T20:00:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器",
-          "title_zh": "Show HN: 开发了一个开源的乐高AI生成器",
-          "title_en": null,
-          "title_original": "Show HN: 开发了一个开源的乐高AI生成器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T06:39:44.372000Z"
-        },
-        {
-          "id": "c24639a6187c2d76a863de1d12cb2ae83dbdf20e",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器 / Show HN: Made an open-source Lego AI generator",
-          "title_zh": "Show HN: 开发了一个开源的乐高AI生成器",
-          "title_en": "Show HN: Made an open-source Lego AI generator",
-          "title_original": "Show HN: Made an open-source Lego AI generator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T20:00:15Z"
-        },
-        {
-          "id": "a666c1a00df38beccd91fc3b866760e75714ab81",
-          "title": "Show HN：制作了一个开源乐高人工智能生成器 / Show HN: Made an open-source Lego AI generator",
-          "title_zh": "Show HN：制作了一个开源乐高人工智能生成器",
-          "title_en": "Show HN: Made an open-source Lego AI generator",
-          "title_original": "Show HN: Made an open-source Lego AI generator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49937916",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T20:00:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8358,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T20:00:15Z",
-      "latest_at": "2026-10-03T06:39:44.372000Z",
-      "primary_item": {
-        "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
-        "title": "Show HN: 开发了一个开源的乐高AI生成器",
-        "title_zh": "Show HN: 开发了一个开源的乐高AI生成器",
-        "title_en": null,
-        "title_original": "Show HN: 开发了一个开源的乐高AI生成器",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/anteloc/ldraw-nova",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T19:05:39.166339Z"
-      }
-    },
-    {
-      "story_id": "story_71cae9cfd0ac",
-      "title": "Muse 智能设备",
-      "url": "https://gadgets.muse.ai",
-      "primary_url": "https://gadgets.muse.ai",
-      "source": "gadgets.muse.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
-          "title": "Muse 智能设备",
-          "title_zh": "Muse 智能设备",
-          "title_en": null,
-          "title_original": "Muse 智能设备",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://gadgets.muse.ai",
-          "source": "gadgets.muse.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T00:08:54.342000Z"
-        },
-        {
-          "id": "e8a89ab4d1a15956ae6cd8ebec199c03918775fc",
-          "title": "Muse 智能设备 / Muse Gadgets",
-          "title_zh": "Muse 智能设备",
-          "title_en": "Muse Gadgets",
-          "title_original": "Muse Gadgets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://gadgets.muse.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-02T19:26:54Z"
+          "published_at": "2026-10-03T13:46:34Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "gadgets.muse.ai"
+        "Hacker News · 24h最热",
+        "www.theatlantic.com"
       ],
       "items": [
         {
-          "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
-          "title": "Muse 智能设备",
-          "title_zh": "Muse 智能设备",
+          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
           "title_en": null,
-          "title_original": "Muse 智能设备",
+          "title_original": "我离开OpenAI，因为它的企业文化已经崩坏",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://gadgets.muse.ai",
-          "source": "gadgets.muse.ai",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "www.theatlantic.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T00:08:54.342000Z"
+          "published_at": "2026-10-03T21:45:54.461000Z"
         },
         {
-          "id": "e8a89ab4d1a15956ae6cd8ebec199c03918775fc",
-          "title": "Muse 智能设备 / Muse Gadgets",
-          "title_zh": "Muse 智能设备",
-          "title_en": "Muse Gadgets",
-          "title_original": "Muse Gadgets",
+          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+          "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "title_en": "I Quit OpenAI Because Its Culture Is Broken",
+          "title_original": "I Quit OpenAI Because Its Culture Is Broken",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://gadgets.muse.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-02T19:26:54Z"
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T13:46:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5027,
-      "importance": 0.5027,
-      "importance_score": 0.5027,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7608,
+        "recency": 0.986,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-02T19:26:54Z",
-      "latest_at": "2026-10-03T00:08:54.342000Z",
+      "earliest_at": "2026-10-03T13:46:34Z",
+      "latest_at": "2026-10-03T21:45:54.461000Z",
       "primary_item": {
-        "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
-        "title": "Muse 智能设备",
-        "title_zh": "Muse 智能设备",
+        "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
+        "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+        "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
         "title_en": null,
-        "title_original": "Muse 智能设备",
+        "title_original": "我离开OpenAI，因为它的企业文化已经崩坏",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://gadgets.muse.ai",
-        "source": "gadgets.muse.ai",
+        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+        "source": "www.theatlantic.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T19:05:39.166339Z"
+        "scored_at": "2026-10-03T22:45:15.965028Z"
       }
     },
     {
-      "story_id": "story_b1e2230addfe",
-      "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-      "url": "https://pipod.dev",
-      "primary_url": "https://pipod.dev",
+      "story_id": "story_62666fdd86a6",
+      "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+      "primary_url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "71e8f75c057eb3cc7940a72f177112e4c6c98d66",
-          "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "title_zh": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行 pi 编码代理",
-          "title_en": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "title_original": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+          "id": "0dc9c5b044398fe21e439c48dd9b5aef77f64d02",
+          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_zh": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧”",
+          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://pipod.dev",
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-02T19:10:38Z"
+          "published_at": "2026-10-03T17:44:29Z"
         },
         {
-          "id": "aa4135c79c7fa4833d31c9fdf087abcc0d3aebb3",
-          "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "title_zh": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行 pi 编码代理",
-          "title_en": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "title_original": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
+          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_zh": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧”",
+          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49937304",
+          "url": "https://news.ycombinator.com/item?id=49946228",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-02T19:10:38Z"
+          "published_at": "2026-10-03T17:44:29Z"
         }
       ],
       "source_count": 2,
@@ -927,70 +681,70 @@
       ],
       "items": [
         {
-          "id": "71e8f75c057eb3cc7940a72f177112e4c6c98d66",
-          "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "title_zh": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行 pi 编码代理",
-          "title_en": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "title_original": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+          "id": "0dc9c5b044398fe21e439c48dd9b5aef77f64d02",
+          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_zh": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧”",
+          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://pipod.dev",
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-02T19:10:38Z"
+          "published_at": "2026-10-03T17:44:29Z"
         },
         {
-          "id": "aa4135c79c7fa4833d31c9fdf087abcc0d3aebb3",
-          "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "title_zh": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行 pi 编码代理",
-          "title_en": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "title_original": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
+          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_zh": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧”",
+          "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49937304",
+          "url": "https://news.ycombinator.com/item?id=49946228",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-02T19:10:38Z"
+          "published_at": "2026-10-03T17:44:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4933,
-      "importance": 0.4933,
-      "importance_score": 0.4933,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7081,
+        "recency": 0.9304,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-02T19:10:38Z",
-      "latest_at": "2026-10-02T19:10:38Z",
+      "earliest_at": "2026-10-03T17:44:29Z",
+      "latest_at": "2026-10-03T17:44:29Z",
       "primary_item": {
-        "id": "71e8f75c057eb3cc7940a72f177112e4c6c98d66",
-        "title": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行 pi 编码代理 / Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-        "title_zh": "Show HN：Pi pod – 在您自己的服务器上的沙箱中运行 pi 编码代理",
-        "title_en": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-        "title_original": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+        "id": "0dc9c5b044398fe21e439c48dd9b5aef77f64d02",
+        "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+        "title_zh": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧”",
+        "title_en": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+        "title_original": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://pipod.dev",
+        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 0,
+      "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T19:05:39.166339Z"
+        "scored_at": "2026-10-03T22:45:15.965028Z"
       }
     }
   ]
