@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-06T23:38:35.191071Z",
+  "generated_at": "2026-10-07T04:57:12.097637Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_9e4b08095253",
+      "title": "Update your IDE to restore agent activity in Copilot usage metrics",
+      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+      "primary_url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+          "title": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_zh": null,
+          "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T23:43:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+          "title": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_zh": null,
+          "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T23:43:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9272,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T23:43:00Z",
+      "latest_at": "2026-10-06T23:43:00Z",
+      "primary_item": {
+        "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+        "title": "Update your IDE to restore agent activity in Copilot usage metrics",
+        "title_zh": null,
+        "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
+        "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T05:30:59.809189Z"
+      }
+    },
     {
       "story_id": "story_11f226560af5",
       "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
@@ -77,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8491,
-      "importance": 0.8491,
-      "importance_score": 0.8491,
+      "score": 0.8379,
+      "importance": 0.8379,
+      "importance_score": 0.8379,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8452,
+        "recency": 0.7828,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,90 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
-      }
-    },
-    {
-      "story_id": "story_79247d86835a",
-      "title": "Stacked pull requests generally available",
-      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
-          "title": "Stacked pull requests generally available",
-          "title_zh": null,
-          "title_en": "Stacked pull requests generally available",
-          "title_original": "Stacked pull requests generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T20:16:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
-          "title": "Stacked pull requests generally available",
-          "title_zh": null,
-          "title_en": "Stacked pull requests generally available",
-          "title_original": "Stacked pull requests generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T20:16:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9526,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T20:16:41Z",
-      "latest_at": "2026-10-06T20:16:41Z",
-      "primary_item": {
-        "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
-        "title": "Stacked pull requests generally available",
-        "title_zh": null,
-        "title_en": "Stacked pull requests generally available",
-        "title_original": "Stacked pull requests generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9481,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
@@ -327,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7835,
+        "recency": 0.7256,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +362,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
+      }
+    },
+    {
+      "story_id": "story_79247d86835a",
+      "title": "Stacked pull requests generally available",
+      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+          "title": "Stacked pull requests generally available",
+          "title_zh": null,
+          "title_en": "Stacked pull requests generally available",
+          "title_original": "Stacked pull requests generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T20:16:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+          "title": "Stacked pull requests generally available",
+          "title_zh": null,
+          "title_en": "Stacked pull requests generally available",
+          "title_original": "Stacked pull requests generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T20:16:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8228,
+      "importance": 0.8228,
+      "importance_score": 0.8228,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8823,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T20:16:41Z",
+      "latest_at": "2026-10-06T20:16:41Z",
+      "primary_item": {
+        "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+        "title": "Stacked pull requests generally available",
+        "title_zh": null,
+        "title_en": "Stacked pull requests generally available",
+        "title_original": "Stacked pull requests generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
@@ -410,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8955,
+        "recency": 0.8294,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
@@ -493,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9411,
+        "recency": 0.8716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -527,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
@@ -604,15 +687,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8629,
+        "recency": 0.7992,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -639,90 +722,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
-      }
-    },
-    {
-      "story_id": "story_ae3c4f5c0420",
-      "title": "Code scanning AI Scan enablement status in security overview",
-      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-          "title": "Code scanning AI Scan enablement status in security overview",
-          "title_zh": null,
-          "title_en": "Code scanning AI Scan enablement status in security overview",
-          "title_original": "Code scanning AI Scan enablement status in security overview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:23:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-          "title": "Code scanning AI Scan enablement status in security overview",
-          "title_zh": null,
-          "title_en": "Code scanning AI Scan enablement status in security overview",
-          "title_original": "Code scanning AI Scan enablement status in security overview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:23:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8127,
-      "importance": 0.8127,
-      "importance_score": 0.8127,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8259,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T10:23:38Z",
-      "latest_at": "2026-10-06T10:23:38Z",
-      "primary_item": {
-        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-        "title": "Code scanning AI Scan enablement status in security overview",
-        "title_zh": null,
-        "title_en": "Code scanning AI Scan enablement status in security overview",
-        "title_original": "Code scanning AI Scan enablement status in security overview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
@@ -770,15 +770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9156,
+        "recency": 0.848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -804,7 +804,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
@@ -852,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8452,
+        "recency": 0.7828,
         "story_heat": 0.0
       },
       "category": "official",
@@ -887,7 +887,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
@@ -935,15 +935,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8452,
+        "recency": 0.7828,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -969,7 +969,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
+      }
+    },
+    {
+      "story_id": "story_ae3c4f5c0420",
+      "title": "Code scanning AI Scan enablement status in security overview",
+      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "Code scanning AI Scan enablement status in security overview",
+          "title_zh": null,
+          "title_en": "Code scanning AI Scan enablement status in security overview",
+          "title_original": "Code scanning AI Scan enablement status in security overview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:23:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "Code scanning AI Scan enablement status in security overview",
+          "title_zh": null,
+          "title_en": "Code scanning AI Scan enablement status in security overview",
+          "title_original": "Code scanning AI Scan enablement status in security overview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:23:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7649,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T10:23:38Z",
+      "latest_at": "2026-10-06T10:23:38Z",
+      "primary_item": {
+        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+        "title": "Code scanning AI Scan enablement status in security overview",
+        "title_zh": null,
+        "title_en": "Code scanning AI Scan enablement status in security overview",
+        "title_original": "Code scanning AI Scan enablement status in security overview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
@@ -1017,21 +1100,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7798,
+        "recency": 0.7223,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-06T06:25:15Z",
       "latest_at": "2026-10-06T06:25:15Z",
@@ -1051,170 +1133,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
-      }
-    },
-    {
-      "story_id": "story_948c9ff22b36",
-      "title": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2 / Bring multimodal semantic search to the edge with EmbeddingGemma 2",
-      "url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2",
-      "primary_url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "764a441284f61489787196d93ef447681fe54594",
-          "title": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2 / Bring multimodal semantic search to the edge with EmbeddingGemma 2",
-          "title_zh": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2",
-          "title_en": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
-          "title_original": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
-          "summary": "Google DeepMind 于 10 月 6 日发布开放权重的多模态嵌入模型 EmbeddingGemma 2，将文本、图像、视频帧和音频映射到统一向量空间，参数量 740M。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "764a441284f61489787196d93ef447681fe54594",
-          "title": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2 / Bring multimodal semantic search to the edge with EmbeddingGemma 2",
-          "title_zh": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2",
-          "title_en": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
-          "title_original": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
-          "summary": "Google DeepMind 于 10 月 6 日发布开放权重的多模态嵌入模型 EmbeddingGemma 2，将文本、图像、视频帧和音频映射到统一向量空间，参数量 740M。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7108,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T00:00:00Z",
-      "latest_at": "2026-10-06T00:00:00Z",
-      "primary_item": {
-        "id": "764a441284f61489787196d93ef447681fe54594",
-        "title": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2 / Bring multimodal semantic search to the edge with EmbeddingGemma 2",
-        "title_zh": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2",
-        "title_en": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
-        "title_original": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
-        "summary": "Google DeepMind 于 10 月 6 日发布开放权重的多模态嵌入模型 EmbeddingGemma 2，将文本、图像、视频帧和音频映射到统一向量空间，参数量 740M。",
-        "recommend_reason_zh": null,
-        "url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
-      }
-    },
-    {
-      "story_id": "story_d8dfa4809dc9",
-      "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-      "primary_url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
-          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-          "title_en": "Building Git infrastructure for agent-scale development",
-          "title_original": "Building Git infrastructure for agent-scale development",
-          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T20:57:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
-          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-          "title_en": "Building Git infrastructure for agent-scale development",
-          "title_original": "Building Git infrastructure for agent-scale development",
-          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T20:57:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9621,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T20:57:56Z",
-      "latest_at": "2026-10-06T20:57:56Z",
-      "primary_item": {
-        "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
-        "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-        "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-        "title_en": "Building Git infrastructure for agent-scale development",
-        "title_original": "Building Git infrastructure for agent-scale development",
-        "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
@@ -1262,15 +1181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9091,
+        "recency": 0.842,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1295,7 +1214,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
+      }
+    },
+    {
+      "story_id": "story_d8dfa4809dc9",
+      "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+      "primary_url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+          "title_en": "Building Git infrastructure for agent-scale development",
+          "title_original": "Building Git infrastructure for agent-scale development",
+          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T20:57:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+          "title_en": "Building Git infrastructure for agent-scale development",
+          "title_original": "Building Git infrastructure for agent-scale development",
+          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T20:57:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8911,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T20:57:56Z",
+      "latest_at": "2026-10-06T20:57:56Z",
+      "primary_item": {
+        "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+        "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+        "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+        "title_en": "Building Git infrastructure for agent-scale development",
+        "title_original": "Building Git infrastructure for agent-scale development",
+        "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+        "source": "GitHub Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
@@ -1343,15 +1343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7727,
+        "recency": 0.7156,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1376,7 +1376,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
@@ -1424,15 +1424,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8705,
+        "recency": 0.8063,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1457,7 +1457,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
@@ -1505,15 +1505,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.887,
+        "recency": 0.8216,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1538,169 +1538,200 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
-      "story_id": "story_3b79fbfc648a",
-      "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
-      "url": "https://x.com/thsottiaux/status/2107573405553938664",
-      "primary_url": "https://x.com/thsottiaux/status/2107573405553938664",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
+      "story_id": "story_17625524f250",
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "primary_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "34f5a2c579a2aeddf9076bb44a4228bb413a056d",
-          "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
-          "title_zh": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
-          "title_en": null,
-          "title_original": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
-          "summary": "ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。",
+          "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
+          "title": "Advancing computer use with Ironclad",
+          "title_zh": null,
+          "title_en": "Advancing computer use with Ironclad",
+          "title_original": "Advancing computer use with Ironclad",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2107573405553938664",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T20:47:11Z"
+          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Tibo (@thsottiaux)"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "34f5a2c579a2aeddf9076bb44a4228bb413a056d",
-          "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
-          "title_zh": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
-          "title_en": null,
-          "title_original": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
-          "summary": "ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。",
+          "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
+          "title": "Advancing computer use with Ironclad",
+          "title_zh": null,
+          "title_en": "Advancing computer use with Ironclad",
+          "title_original": "Advancing computer use with Ironclad",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2107573405553938664",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T20:47:11Z"
+          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
-      "importance_label": "行业动态",
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9596,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7606,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-06T20:47:11Z",
-      "latest_at": "2026-10-06T20:47:11Z",
+      "earliest_at": "2026-10-06T10:00:00Z",
+      "latest_at": "2026-10-06T10:00:00Z",
       "primary_item": {
-        "id": "34f5a2c579a2aeddf9076bb44a4228bb413a056d",
-        "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
-        "title_zh": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
-        "title_en": null,
-        "title_original": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
-        "summary": "ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。",
+        "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
+        "title": "Advancing computer use with Ironclad",
+        "title_zh": null,
+        "title_en": "Advancing computer use with Ironclad",
+        "title_original": "Advancing computer use with Ironclad",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2107573405553938664",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
+        "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     },
     {
-      "story_id": "story_9019cb276f9d",
-      "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
-      "url": "https://x.com/arena/status/2107476436223504484",
-      "primary_url": "https://x.com/arena/status/2107476436223504484",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
+      "story_id": "story_806d4d2fd204",
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+      "primary_url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "bff3f1ce265e017e2e8c5d6372d84e46c5213079",
-          "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
-          "title_zh": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
-          "title_en": "Mistral Large 4 by @MistralAI is now in the Arena!",
-          "title_original": "Mistral Large 4 by @MistralAI is now in the Arena!",
-          "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
+          "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
+          "title": "LibreOffice says ‘no AI’ is now a software feature",
+          "title_zh": null,
+          "title_en": "LibreOffice says ‘no AI’ is now a software feature",
+          "title_original": "LibreOffice says ‘no AI’ is now a software feature",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2107476436223504484",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T14:21:52Z"
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T15:25:00Z"
+        },
+        {
+          "id": "04042a191b2faf900e3cde9dd7325262638f7c38",
+          "title": "LibreOffice says 'no AI' is now a software feature",
+          "title_zh": null,
+          "title_en": "LibreOffice says 'no AI' is now a software feature",
+          "title_original": "LibreOffice says 'no AI' is now a software feature",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T16:40:58Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Arena (@arena)"
+        "Hacker News · 24h最热",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "bff3f1ce265e017e2e8c5d6372d84e46c5213079",
-          "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
-          "title_zh": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
-          "title_en": "Mistral Large 4 by @MistralAI is now in the Arena!",
-          "title_original": "Mistral Large 4 by @MistralAI is now in the Arena!",
-          "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
+          "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
+          "title": "LibreOffice says ‘no AI’ is now a software feature",
+          "title_zh": null,
+          "title_en": "LibreOffice says ‘no AI’ is now a software feature",
+          "title_original": "LibreOffice says ‘no AI’ is now a software feature",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2107476436223504484",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T14:21:52Z"
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T15:25:00Z"
+        },
+        {
+          "id": "04042a191b2faf900e3cde9dd7325262638f7c38",
+          "title": "LibreOffice says 'no AI' is now a software feature",
+          "title_zh": null,
+          "title_en": "LibreOffice says 'no AI' is now a software feature",
+          "title_original": "LibreOffice says 'no AI' is now a software feature",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T16:40:58Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6168,
+      "importance": 0.6168,
+      "importance_score": 0.6168,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8746,
-        "story_heat": 0.0
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.8224,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-06T14:21:52Z",
-      "latest_at": "2026-10-06T14:21:52Z",
+      "earliest_at": "2026-10-06T15:25:00Z",
+      "latest_at": "2026-10-06T16:40:58Z",
       "primary_item": {
-        "id": "bff3f1ce265e017e2e8c5d6372d84e46c5213079",
-        "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
-        "title_zh": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
-        "title_en": "Mistral Large 4 by @MistralAI is now in the Arena!",
-        "title_original": "Mistral Large 4 by @MistralAI is now in the Arena!",
-        "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
+        "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
+        "title": "LibreOffice says ‘no AI’ is now a software feature",
+        "title_zh": null,
+        "title_en": "LibreOffice says ‘no AI’ is now a software feature",
+        "title_original": "LibreOffice says ‘no AI’ is now a software feature",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2107476436223504484",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
+        "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T00:12:52.668665Z"
+        "scored_at": "2026-10-07T05:30:59.809189Z"
       }
     }
   ]
